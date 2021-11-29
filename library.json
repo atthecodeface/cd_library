@@ -1,0 +1,49 @@
+{
+ "albums": {
+  "alb.0000": {
+   "artist": "",
+   "downloaded_artists": "Art Garfunkel",
+   "downloaded_titles": "Breakaway",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "b224fad1-7996-41f4-b8eb-bfb7c9967fa9",
+   "num_discs": 1,
+   "output_title": "Breakaway",
+   "title": ""
+  },
+  "alb.0001": {
+   "artist": "",
+   "downloaded_artists": "Kate Bush",
+   "downloaded_titles": "The Whole Story",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "aa1748cb-a9b1-4cc0-bd1e-46308df7115a",
+   "num_discs": 1,
+   "output_title": "The Whole Story",
+   "title": ""
+  },
+  "alb.0002": {
+   "artist": "",
+   "downloaded_artists": "Kate Bush",
+   "downloaded_titles": "The Kick Inside",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "e21f194f-f9b4-3e80-a9bd-a3aafb52d597",
+   "num_discs": 1,
+   "output_title": "The Kick Inside",
+   "title": ""
+  },
+  "winnie-the-pooh": {
+   "artist": "Jim Broadbent, A.A.Milne",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "json_path": "library.json",
+   "label": "Harper Audio",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "Winnie-the-Pooh",
+   "title": "Winnie-the-Pooh"
+  }
+ },
+ "discs": {}
+}

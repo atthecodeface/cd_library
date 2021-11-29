@@ -1,0 +1,87 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0000": {
+   "album_uniq_id": "winnie-the-pooh",
+   "artist": "Jim Broadbent, A.A.Milne",
+   "cddb_id": "2d0a5405",
+   "cddb_string": "2d0a5405 5 150 14195 76892 120042 155385 2646",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "json_path": "source/_mUeghTvEep9axooaXHW8Pf1HmY-/disc.json",
+   "musicbrainz_id": "_mUeghTvEep9axooaXHW8Pf1HmY-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "5 150 14195 76892 120042 155385 198512",
+   "num_tracks": 5,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "_mUeghTvEep9axooaXHW8Pf1HmY-",
+   "title": "Winnie The Pooh",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "Jim Broadbent, A.A.Milne",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Jim Broadbent, A.A.Milne",
+     "output_title": "Winnie-the-Pooh",
+     "sectors": 0,
+     "title": "Winnie-the-Pooh"
+    },
+    {
+     "artist": "Jim Broadbent, A.A.Milne",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 14195,
+     "output_artist": "Jim Broadbent, A.A.Milne",
+     "output_title": "We Are Introduced to Winnie-the-Pooh and Some Bees, and the Stories Begin",
+     "sectors": 0,
+     "title": "We Are Introduced to Winnie-the-Pooh and Some Bees, and the Stories Begin"
+    },
+    {
+     "artist": "Jim Broadbent, A.A.Milne",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 76892,
+     "output_artist": "Jim Broadbent, A.A.Milne",
+     "output_title": "Pooh Goes Visisting and Gets into a Tight Place",
+     "sectors": 0,
+     "title": "Pooh Goes Visisting and Gets into a Tight Place"
+    },
+    {
+     "artist": "Jim Broadbent, A.A.Milne",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 120042,
+     "output_artist": "Jim Broadbent, A.A.Milne",
+     "output_title": "Pooh and Piglet Go Hunting and Nearly Catch a Woozle",
+     "sectors": 0,
+     "title": "Pooh and Piglet Go Hunting and Nearly Catch a Woozle"
+    },
+    {
+     "artist": "Jim Broadbent, A.A.Milne",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 5,
+     "offset": 155385,
+     "output_artist": "Jim Broadbent, A.A.Milne",
+     "output_title": "Eyeore Loses a Tail and Pooh Finds One",
+     "sectors": 0,
+     "title": "Eyeore Loses a Tail and Pooh Finds One"
+    }
+   ]
+  }
+ }
+}

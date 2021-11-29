@@ -1,0 +1,63 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0001": {
+   "album_uniq_id": "winnie-the-pooh",
+   "artist": "Jim Broadbent, A.A.Milne",
+   "cddb_id": "260c3603",
+   "cddb_string": "260c3603 3 150 73457 154055 3128",
+   "disc_of_set": 2,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "json_path": "source/Hy755QS_8WLpg8szHL7i_w4smhM-/disc.json",
+   "musicbrainz_id": "Hy755QS_8WLpg8szHL7i_w4smhM-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "3 150 73457 154055 234660",
+   "num_tracks": 3,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "Hy755QS_8WLpg8szHL7i_w4smhM-",
+   "title": "Winnie The Pooh",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "Jim Broadbent, A.A.Milne",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Jim Broadbent, A.A.Milne",
+     "output_title": "Piglet Meets a Heffalump",
+     "sectors": 0,
+     "title": "Piglet Meets a Heffalump"
+    },
+    {
+     "artist": "Jim Broadbent, A.A.Milne",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 73457,
+     "output_artist": "Jim Broadbent, A.A.Milne",
+     "output_title": "Eyeore Has a Birthday and Gets Two Presents",
+     "sectors": 0,
+     "title": "Eyeore Has a Birthday and Gets Two Presents"
+    },
+    {
+     "artist": "Jim Broadbent, A.A.Milne",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 154055,
+     "output_artist": "Jim Broadbent, A.A.Milne",
+     "output_title": "Kanga and Baby Roo Come to the Forest and Piglet Has a Bath",
+     "sectors": 0,
+     "title": "Kanga and Baby Roo Come to the Forest and Piglet Has a Bath"
+    }
+   ]
+  }
+ }
+}

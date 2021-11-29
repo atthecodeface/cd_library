@@ -1,0 +1,16 @@
+[database]
+root = /home/gavin/turnipripper/new_library/
+# dbfile = <default name of sqlite database, if used>
+json_root = library.json
+json_disc = disc.json
+json_paths = source/*/disc.json
+primary = json
+
+[rip]
+source_root=source
+
+[encode]
+output_format=mp3
+output_root=mp3
+# encode_options=mp3
+

@@ -1,0 +1,171 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0007": {
+   "album_uniq_id": "alb.0001",
+   "artist": "",
+   "cddb_id": "6f0b750c",
+   "cddb_string": "6f0b750c 12 150 22535 45797 57847 82520 99407 113152 135572 150127 165827 185435 204480 2935",
+   "disc_of_set": 1,
+   "downloaded_artists": "Kate Bush",
+   "downloaded_titles": "The Whole Story",
+   "json_path": "source/kate_bush_the_whole_story/disc.json",
+   "musicbrainz_id": "sP9mqoObEi7avUh_cIKZKtTZJQI-",
+   "musicbrainz_release_id": "aa1748cb-a9b1-4cc0-bd1e-46308df7115a",
+   "musicbrainz_string": "12 150 22535 45797 57847 82520 99407 113152 135572 150127 165827 185435 204480 220125",
+   "num_tracks": 12,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "kate_bush_the_whole_story",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Wuthering Heights (new vocal)",
+     "length_seconds": 298466,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Wuthering Heights (new vocal)",
+     "sectors": 22385,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Cloudbusting",
+     "length_seconds": 310160,
+     "number": 2,
+     "offset": 22535,
+     "output_artist": "Unknown artist",
+     "output_title": "Cloudbusting",
+     "sectors": 23262,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Man With the Child in His Eyes",
+     "length_seconds": 160666,
+     "number": 3,
+     "offset": 45797,
+     "output_artist": "Unknown artist",
+     "output_title": "The Man With the Child in His Eyes",
+     "sectors": 12050,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Breathing",
+     "length_seconds": 329800,
+     "number": 4,
+     "offset": 57847,
+     "output_artist": "Unknown artist",
+     "output_title": "Breathing",
+     "sectors": 24673,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Wow",
+     "length_seconds": 225160,
+     "number": 5,
+     "offset": 82520,
+     "output_artist": "Unknown artist",
+     "output_title": "Wow",
+     "sectors": 16887,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Hounds of Love",
+     "length_seconds": 183266,
+     "number": 6,
+     "offset": 99407,
+     "output_artist": "Unknown artist",
+     "output_title": "Hounds of Love",
+     "sectors": 13745,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Running Up That Hill",
+     "length_seconds": 299800,
+     "number": 7,
+     "offset": 113152,
+     "output_artist": "Unknown artist",
+     "output_title": "Running Up That Hill",
+     "sectors": 22420,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Army Dreamers",
+     "length_seconds": 194066,
+     "number": 8,
+     "offset": 135572,
+     "output_artist": "Unknown artist",
+     "output_title": "Army Dreamers",
+     "sectors": 14555,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Sat in Your Lap",
+     "length_seconds": 209333,
+     "number": 9,
+     "offset": 150127,
+     "output_artist": "Unknown artist",
+     "output_title": "Sat in Your Lap",
+     "sectors": 15700,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Experiment IV",
+     "length_seconds": 261440,
+     "number": 10,
+     "offset": 165827,
+     "output_artist": "Unknown artist",
+     "output_title": "Experiment IV",
+     "sectors": 19608,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Dreaming",
+     "length_seconds": 253933,
+     "number": 11,
+     "offset": 185435,
+     "output_artist": "Unknown artist",
+     "output_title": "The Dreaming",
+     "sectors": 19045,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Babooshka",
+     "length_seconds": 209000,
+     "number": 12,
+     "offset": 204480,
+     "output_artist": "Unknown artist",
+     "output_title": "Babooshka",
+     "sectors": 15645,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

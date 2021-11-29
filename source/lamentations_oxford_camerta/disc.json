@@ -1,0 +1,111 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0005": {
+   "album_uniq_id": "",
+   "artist": "Oxford Camerata",
+   "cddb_id": "6b101007",
+   "cddb_string": "6b101007 7 183 98375 136235 193148 219735 253370 279713 4114",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "json_path": "source/lamentations_oxford_camerta/disc.json",
+   "musicbrainz_id": "d6wJDnsunxGow.f_Ibduq73JPWQ-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "7 183 98375 136235 193148 219735 253370 279713 308615",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "lamentations_oxford_camerta",
+   "title": "Lamentations",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "Oxford Camerata",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Oxford Camerata",
+     "output_title": "White Lamentations (White)",
+     "sectors": 0,
+     "title": "White Lamentations (White)"
+    },
+    {
+     "artist": "Oxford Camerata",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 98375,
+     "output_artist": "Oxford Camerata",
+     "output_title": "Tallis Lamentations (first set)",
+     "sectors": 0,
+     "title": "Tallis Lamentations (first set)"
+    },
+    {
+     "artist": "Oxford Camerata",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 136235,
+     "output_artist": "Oxford Camerata",
+     "output_title": "Tallis Lamentations (second set)",
+     "sectors": 0,
+     "title": "Tallis Lamentations (second set)"
+    },
+    {
+     "artist": "Oxford Camerata",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 193148,
+     "output_artist": "Oxford Camerata",
+     "output_title": "Palestrina Lesson 1 for Maunday Thursday",
+     "sectors": 0,
+     "title": "Palestrina Lesson 1 for Maunday Thursday"
+    },
+    {
+     "artist": "Oxford Camerata",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 5,
+     "offset": 219735,
+     "output_artist": "Oxford Camerata",
+     "output_title": "Lassus Lesson 1 for Maunday Thursday",
+     "sectors": 0,
+     "title": "Lassus Lesson 1 for Maunday Thursday"
+    },
+    {
+     "artist": "Oxford Camerata",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 6,
+     "offset": 253370,
+     "output_artist": "Oxford Camerata",
+     "output_title": "Lassus Lesson 2 for Maunday Thursday",
+     "sectors": 0,
+     "title": "Lassus Lesson 2 for Maunday Thursday"
+    },
+    {
+     "artist": "Oxford Camerata",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 7,
+     "offset": 279713,
+     "output_artist": "Oxford Camerata",
+     "output_title": "de Brito Lesson 1 for Good Friday",
+     "sectors": 0,
+     "title": "de Brito Lesson 1 for Good Friday"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0002": {
+   "album_uniq_id": "winnie-the-pooh",
+   "artist": "Jim Broadbent, A.A.Milne",
+   "cddb_id": "350ae504",
+   "cddb_string": "350ae504 4 150 82315 153595 207482 2791",
+   "disc_of_set": 3,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "json_path": "source/Wieo1kPDASk9Y.jh_OFXF6lEZEk-/disc.json",
+   "musicbrainz_id": "Wieo1kPDASk9Y.jh_OFXF6lEZEk-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "4 150 82315 153595 207482 209387",
+   "num_tracks": 2,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "Wieo1kPDASk9Y.jh_OFXF6lEZEk-",
+   "title": "Winnie-the-Pooh",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "Jim Broadbent, A.A.Milne",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Jim Broadbent, A.A.Milne",
+     "output_title": "Christopher Robin Leads an Expotition to the North Pole",
+     "sectors": 0,
+     "title": "Christopher Robin Leads an Expotition to the North Pole"
+    },
+    {
+     "artist": "Jim Broadbent, A.A.Milne",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 82315,
+     "output_artist": "Jim Broadbent, A.A.Milne",
+     "output_title": "Piglet is Entirely Surrounded by Water",
+     "sectors": 0,
+     "title": "Piglet is Entirely Surrounded by Water"
+    }
+   ]
+  }
+ }
+}
