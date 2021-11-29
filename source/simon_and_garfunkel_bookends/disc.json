@@ -1,0 +1,171 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0009": {
+   "album_uniq_id": "alb.0003",
+   "artist": "",
+   "cddb_id": "8d06fc0c",
+   "cddb_string": "8d06fc0c 12 150 2592 15250 31367 41887 51400 63032 69462 84512 94735 113290 123602 1790",
+   "disc_of_set": 1,
+   "downloaded_artists": "Simon & Garfunkel",
+   "downloaded_titles": "Bookends",
+   "json_path": "source/simon_and_garfunkel_bookends/disc.json",
+   "musicbrainz_id": "gnddwSnD.WSWNEx9uSEanc.Z8PE-",
+   "musicbrainz_release_id": "807c121a-37e7-3d62-b523-e9be1be41d5b",
+   "musicbrainz_string": "12 150 2592 15250 31367 41887 51400 63032 69462 84512 94735 113290 123602 134260",
+   "num_tracks": 12,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "simon_and_garfunkel_bookends",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Bookends Theme",
+     "length_seconds": 32893,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Bookends Theme",
+     "sectors": 2442,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Save the Life of My Child",
+     "length_seconds": 168733,
+     "number": 2,
+     "offset": 2592,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Save the Life of My Child",
+     "sectors": 12658,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "America",
+     "length_seconds": 215186,
+     "number": 3,
+     "offset": 15250,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "America",
+     "sectors": 16117,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Overs",
+     "length_seconds": 138933,
+     "number": 4,
+     "offset": 31367,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Overs",
+     "sectors": 10520,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Voices of Old People",
+     "length_seconds": 127066,
+     "number": 5,
+     "offset": 41887,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Voices of Old People",
+     "sectors": 9513,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Old Friends",
+     "length_seconds": 155333,
+     "number": 6,
+     "offset": 51400,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Old Friends",
+     "sectors": 11632,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Bookends Theme",
+     "length_seconds": 82773,
+     "number": 7,
+     "offset": 63032,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Bookends Theme",
+     "sectors": 6430,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Fakin\u2019 It",
+     "length_seconds": 199266,
+     "number": 8,
+     "offset": 69462,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Fakin\u2019 It",
+     "sectors": 15050,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Punky\u2019s Dilemma",
+     "length_seconds": 137266,
+     "number": 9,
+     "offset": 84512,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Punky\u2019s Dilemma",
+     "sectors": 10223,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mrs. Robinson",
+     "length_seconds": 235106,
+     "number": 10,
+     "offset": 94735,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Mrs. Robinson",
+     "sectors": 18555,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "A Hazy Shade of Winter",
+     "length_seconds": 137573,
+     "number": 11,
+     "offset": 113290,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "A Hazy Shade of Winter",
+     "sectors": 10312,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "At the Zoo",
+     "length_seconds": 142240,
+     "number": 12,
+     "offset": 123602,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "At the Zoo",
+     "sectors": 10658,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

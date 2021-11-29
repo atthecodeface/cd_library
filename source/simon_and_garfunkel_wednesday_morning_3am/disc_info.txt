@@ -1,0 +1,34 @@
+CddbId:a107690c:[150, 12680, 22520, 34877, 47555, 59480, 73582, 86192, 97145, 106662, 119375, 132320]:142425:74:a107690c 12 150 12680 22520 34877 47555 59480 73582 86192 97145 106662 119375 132320 1899: 12 0 0 0 0 0 0 0 0 0 0 0 0 1899
+num_tracks: 12
+offsets: [150, 12680, 22520, 34877, 47555, 59480, 73582, 86192, 97145, 106662, 119375, 132320]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 1899
+cddb: [2701617420, 12, 150, 12680, 22520, 34877, 47555, 59480, 73582, 86192, 97145, 106662, 119375, 132320, 1899]
+musicbrainz: ('12 150 12680 22520 34877 47555 59480 73582 86192 97145 106662 119375 132320 142472', 'Va17cSYvSi_M1N916u4eaM4FM5k-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'MATSHITA'
+Identification : 'BD-MLT UJ240AS  '
+Revision       : '1.00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO RAW/R16 RAW/R96P RAW/R96R
+first: 1 last 12
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: 0
+track:   2 lba:     12530 (    50120) 02:49:05 adr: 1 control: 0 mode: 0
+track:   3 lba:     22370 (    89480) 05:00:20 adr: 1 control: 0 mode: 0
+track:   4 lba:     34727 (   138908) 07:45:02 adr: 1 control: 0 mode: 0
+track:   5 lba:     47405 (   189620) 10:34:05 adr: 1 control: 0 mode: 0
+track:   6 lba:     59330 (   237320) 13:13:05 adr: 1 control: 0 mode: 0
+track:   7 lba:     73432 (   293728) 16:21:07 adr: 1 control: 0 mode: 0
+track:   8 lba:     86042 (   344168) 19:09:17 adr: 1 control: 0 mode: 0
+track:   9 lba:     96995 (   387980) 21:35:20 adr: 1 control: 0 mode: 0
+track:  10 lba:    106512 (   426048) 23:42:12 adr: 1 control: 0 mode: 0
+track:  11 lba:    119225 (   476900) 26:31:50 adr: 1 control: 0 mode: 0
+track:  12 lba:    132170 (   528680) 29:24:20 adr: 1 control: 0 mode: 0
+track:lout lba:    142322 (   569288) 31:39:47 adr: 1 control: 0 mode: -1

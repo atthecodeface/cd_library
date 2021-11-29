@@ -1,0 +1,34 @@
+CddbId:8d06fc0c:[150, 2592, 15250, 31367, 41887, 51400, 63032, 69462, 84512, 94735, 113290, 123602]:134250:74:8d06fc0c 12 150 2592 15250 31367 41887 51400 63032 69462 84512 94735 113290 123602 1790: 12 0 0 0 0 0 0 0 0 0 0 0 0 1790
+num_tracks: 12
+offsets: [150, 2592, 15250, 31367, 41887, 51400, 63032, 69462, 84512, 94735, 113290, 123602]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 1790
+cddb: [2366045196, 12, 150, 2592, 15250, 31367, 41887, 51400, 63032, 69462, 84512, 94735, 113290, 123602, 1790]
+musicbrainz: ('12 150 2592 15250 31367 41887 51400 63032 69462 84512 94735 113290 123602 134260', 'gnddwSnD.WSWNEx9uSEanc.Z8PE-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'FREECOM_'
+Identification : 'DVD+/-RW16H4    '
+Revision       : 'FR00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO SAO/R96R RAW/R96R
+first: 1 last 12
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: -1
+track:   2 lba:      2442 (     9768) 00:34:42 adr: 1 control: 0 mode: -1
+track:   3 lba:     15100 (    60400) 03:23:25 adr: 1 control: 0 mode: -1
+track:   4 lba:     31217 (   124868) 06:58:17 adr: 1 control: 0 mode: -1
+track:   5 lba:     41737 (   166948) 09:18:37 adr: 1 control: 0 mode: -1
+track:   6 lba:     51250 (   205000) 11:25:25 adr: 1 control: 0 mode: -1
+track:   7 lba:     62882 (   251528) 14:00:32 adr: 1 control: 0 mode: -1
+track:   8 lba:     69312 (   277248) 15:26:12 adr: 1 control: 0 mode: -1
+track:   9 lba:     84362 (   337448) 18:46:62 adr: 1 control: 0 mode: -1
+track:  10 lba:     94585 (   378340) 21:03:10 adr: 1 control: 0 mode: -1
+track:  11 lba:    113140 (   452560) 25:10:40 adr: 1 control: 0 mode: -1
+track:  12 lba:    123452 (   493808) 27:28:02 adr: 1 control: 0 mode: -1
+track:lout lba:    134110 (   536440) 29:50:10 adr: 1 control: 0 mode: -1

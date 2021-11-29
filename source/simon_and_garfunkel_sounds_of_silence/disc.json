@@ -1,0 +1,159 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0012": {
+   "album_uniq_id": "alb.0006",
+   "artist": "",
+   "cddb_id": "a006d50b",
+   "cddb_string": "a006d50b 11 150 14100 24820 39532 54525 66315 76497 89780 101162 109495 118417 1751",
+   "disc_of_set": 1,
+   "downloaded_artists": "Simon & Garfunkel",
+   "downloaded_titles": "Sounds of Silence",
+   "json_path": "source/simon_and_garfunkel_sounds_of_silence/disc.json",
+   "musicbrainz_id": "Cq9am2luGaSi2BiEI10ld1wdQfg-",
+   "musicbrainz_release_id": "94b02708-0ae2-3528-9e63-446122dc5699",
+   "musicbrainz_string": "11 150 14100 24820 39532 54525 66315 76497 89780 101162 109495 118417 131345",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "simon_and_garfunkel_sounds_of_silence",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Sound of Silence",
+     "length_seconds": 186200,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "The Sound of Silence",
+     "sectors": 13950,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Leaves That Are Green",
+     "length_seconds": 142960,
+     "number": 2,
+     "offset": 14100,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Leaves That Are Green",
+     "sectors": 10720,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Blessed",
+     "length_seconds": 196106,
+     "number": 3,
+     "offset": 24820,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Blessed",
+     "sectors": 14712,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Kathy\u2019s Song",
+     "length_seconds": 199973,
+     "number": 4,
+     "offset": 39532,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Kathy\u2019s Song",
+     "sectors": 14993,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Somewhere They Can\u2019t Find Me",
+     "length_seconds": 157226,
+     "number": 5,
+     "offset": 54525,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Somewhere They Can\u2019t Find Me",
+     "sectors": 11790,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Anji",
+     "length_seconds": 137000,
+     "number": 6,
+     "offset": 66315,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Anji",
+     "sectors": 10182,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Richard Cory",
+     "length_seconds": 177133,
+     "number": 7,
+     "offset": 76497,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Richard Cory",
+     "sectors": 13283,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "A Most Peculiar Man",
+     "length_seconds": 152533,
+     "number": 8,
+     "offset": 89780,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "A Most Peculiar Man",
+     "sectors": 11382,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "April Come She Will",
+     "length_seconds": 111040,
+     "number": 9,
+     "offset": 101162,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "April Come She Will",
+     "sectors": 8333,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "We\u2019ve Got a Groovey Thing Goin\u2019",
+     "length_seconds": 119226,
+     "number": 10,
+     "offset": 109495,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "We\u2019ve Got a Groovey Thing Goin\u2019",
+     "sectors": 8922,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I Am a Rock",
+     "length_seconds": 171240,
+     "number": 11,
+     "offset": 118417,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "I Am a Rock",
+     "sectors": 12928,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

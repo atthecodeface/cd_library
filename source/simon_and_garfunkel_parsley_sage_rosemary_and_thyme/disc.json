@@ -1,0 +1,171 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0010": {
+   "album_uniq_id": "alb.0004",
+   "artist": "",
+   "cddb_id": "9e06b00c",
+   "cddb_string": "9e06b00c 12 150 14552 26930 37070 48455 60900 68942 81005 91055 101252 110722 119497 1714",
+   "disc_of_set": 1,
+   "downloaded_artists": "Simon & Garfunkel",
+   "downloaded_titles": "Parsley, Sage, Rosemary and Thyme",
+   "json_path": "source/simon_and_garfunkel_parsley_sage_rosemary_and_thyme/disc.json",
+   "musicbrainz_id": "E6SKWxcteeH58TAo.Z4o8aT3yQA-",
+   "musicbrainz_release_id": "512b73d9-ff03-3e42-988a-c65db081476f",
+   "musicbrainz_string": "12 150 14552 26930 37070 48455 60900 68942 81005 91055 101252 110722 119497 128590",
+   "num_tracks": 12,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "simon_and_garfunkel_parsley_sage_rosemary_and_thyme",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Scarborough Fair / Canticle",
+     "length_seconds": 190520,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Scarborough Fair / Canticle",
+     "sectors": 14402,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Patterns",
+     "length_seconds": 165066,
+     "number": 2,
+     "offset": 14552,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Patterns",
+     "sectors": 12378,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Cloudy",
+     "length_seconds": 135173,
+     "number": 3,
+     "offset": 26930,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Cloudy",
+     "sectors": 10140,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Homeward Bound",
+     "length_seconds": 149133,
+     "number": 4,
+     "offset": 37070,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Homeward Bound",
+     "sectors": 11385,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Big Bright Green Pleasure Machine",
+     "length_seconds": 164533,
+     "number": 5,
+     "offset": 48455,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "The Big Bright Green Pleasure Machine",
+     "sectors": 12445,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The 59th Street Bridge Song (Feelin\u2019 Groovy)",
+     "length_seconds": 102773,
+     "number": 6,
+     "offset": 60900,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "The 59th Street Bridge Song (Feelin\u2019 Groovy)",
+     "sectors": 8042,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Dangling Conversation",
+     "length_seconds": 160826,
+     "number": 7,
+     "offset": 68942,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "The Dangling Conversation",
+     "sectors": 12063,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Flowers Never Bend With the Rainfall",
+     "length_seconds": 134093,
+     "number": 8,
+     "offset": 81005,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Flowers Never Bend With the Rainfall",
+     "sectors": 10050,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "A Simple Desultory Philippic (Or How I Was Robert McNamara\u2019d Into Submission)",
+     "length_seconds": 132866,
+     "number": 9,
+     "offset": 91055,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "A Simple Desultory Philippic (Or How I Was Robert McNamara\u2019d Into Submission)",
+     "sectors": 10197,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "For Emily, Whenever I May Find Her",
+     "length_seconds": 124600,
+     "number": 10,
+     "offset": 101252,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "For Emily, Whenever I May Find Her",
+     "sectors": 9470,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "A Poem on the Underground Wall",
+     "length_seconds": 116866,
+     "number": 11,
+     "offset": 110722,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "A Poem on the Underground Wall",
+     "sectors": 8775,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "7 O\u2019Clock News / Silent Night",
+     "length_seconds": 120666,
+     "number": 12,
+     "offset": 119497,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "7 O\u2019Clock News / Silent Night",
+     "sectors": 9093,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

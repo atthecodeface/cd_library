@@ -26,11 +26,77 @@
    "artist": "",
    "downloaded_artists": "Kate Bush",
    "downloaded_titles": "The Kick Inside",
-   "json_path": ".",
+   "json_path": "library.json",
    "label": "",
    "musicbrainz_release_id": "e21f194f-f9b4-3e80-a9bd-a3aafb52d597",
    "num_discs": 1,
    "output_title": "The Kick Inside",
+   "title": ""
+  },
+  "alb.0003": {
+   "artist": "",
+   "downloaded_artists": "Simon & Garfunkel",
+   "downloaded_titles": "Bookends",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "807c121a-37e7-3d62-b523-e9be1be41d5b",
+   "num_discs": 1,
+   "output_title": "Bookends",
+   "title": ""
+  },
+  "alb.0004": {
+   "artist": "",
+   "downloaded_artists": "Simon & Garfunkel",
+   "downloaded_titles": "Parsley, Sage, Rosemary and Thyme",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "512b73d9-ff03-3e42-988a-c65db081476f",
+   "num_discs": 1,
+   "output_title": "Parsley, Sage, Rosemary and Thyme",
+   "title": ""
+  },
+  "alb.0005": {
+   "artist": "",
+   "downloaded_artists": "Simon & Garfunkel",
+   "downloaded_titles": "Wednesday Morning, 3 A.M.",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "722ad5df-c5ea-3e05-81ba-39b057573857",
+   "num_discs": 1,
+   "output_title": "Wednesday Morning, 3 A.M.",
+   "title": ""
+  },
+  "alb.0006": {
+   "artist": "",
+   "downloaded_artists": "Simon & Garfunkel",
+   "downloaded_titles": "Sounds of Silence",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "94b02708-0ae2-3528-9e63-446122dc5699",
+   "num_discs": 1,
+   "output_title": "Sounds of Silence",
+   "title": ""
+  },
+  "alb.0007": {
+   "artist": "",
+   "downloaded_artists": "Simon & Garfunkel",
+   "downloaded_titles": "The Concert in Central Park",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "1ed70742-a80d-38c3-8818-645c48cd7d51",
+   "num_discs": 1,
+   "output_title": "The Concert in Central Park",
+   "title": ""
+  },
+  "alb.0008": {
+   "artist": "",
+   "downloaded_artists": "Art Garfunkel",
+   "downloaded_titles": "The Art Garfunkel Album",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "ffd72633-97aa-326b-957b-836c027f3f25",
+   "num_discs": 1,
+   "output_title": "The Art Garfunkel Album",
    "title": ""
   },
   "winnie-the-pooh": {
