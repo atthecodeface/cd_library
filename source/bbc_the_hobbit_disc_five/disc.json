@@ -1,0 +1,75 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0025": {
+   "album_uniq_id": "alb.0014",
+   "artist": "",
+   "cddb_id": "25022b04",
+   "cddb_string": "25022b04 4 150 8977 16323 26064 557",
+   "disc_of_set": 5,
+   "downloaded_artists": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+   "downloaded_titles": "Music###The Hobbit",
+   "json_path": "source/bbc_the_hobbit_disc_five/disc.json",
+   "musicbrainz_id": "2tbtRrml9aD7vW7kdg.I0r54Z3U-",
+   "musicbrainz_release_id": "f172edff-6f14-40ee-92d0-e9984a9d3061",
+   "musicbrainz_string": "4 150 8977 16323 26064 41844",
+   "num_tracks": 4,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_hobbit_disc_five",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Opening and Bilbo\u2019s Theme",
+     "length_seconds": 117693,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Opening and Bilbo\u2019s Theme",
+     "sectors": 8827,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Elves\u2019 Dances",
+     "length_seconds": 97946,
+     "number": 2,
+     "offset": 8977,
+     "output_artist": "Unknown artist",
+     "output_title": "Elves\u2019 Dances",
+     "sectors": 7346,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Bilbo\u2019s Lullaby",
+     "length_seconds": 129880,
+     "number": 3,
+     "offset": 16323,
+     "output_artist": "Unknown artist",
+     "output_title": "Bilbo\u2019s Lullaby",
+     "sectors": 9741,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Fanfare and Dance in Esgaroth",
+     "length_seconds": 210400,
+     "number": 4,
+     "offset": 26064,
+     "output_artist": "Unknown artist",
+     "output_title": "Fanfare and Dance in Esgaroth",
+     "sectors": 15780,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

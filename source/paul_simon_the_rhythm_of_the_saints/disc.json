@@ -1,0 +1,147 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0020": {
+   "album_uniq_id": "alb.0013",
+   "artist": "",
+   "cddb_id": "8b0a740a",
+   "cddb_string": "8b0a740a 10 150 18928 35185 57963 78903 104123 126850 143938 164378 182070 2678",
+   "disc_of_set": 1,
+   "downloaded_artists": "Paul Simon",
+   "downloaded_titles": "The Rhythm of the Saints",
+   "json_path": "source/paul_simon_the_rhythm_of_the_saints/disc.json",
+   "musicbrainz_id": "2OfUHG5jzmqXoWeMZxSvXXZ2u5o-",
+   "musicbrainz_release_id": "53a37391-b84a-41ef-b79f-ea5538561348",
+   "musicbrainz_string": "10 150 18928 35185 57963 78903 104123 126850 143938 164378 182070 200860",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "paul_simon_the_rhythm_of_the_saints",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Obvious Child",
+     "length_seconds": 250000,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "The Obvious Child",
+     "sectors": 18778,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Can't Run But",
+     "length_seconds": 216760,
+     "number": 2,
+     "offset": 18928,
+     "output_artist": "Unknown artist",
+     "output_title": "Can't Run But",
+     "sectors": 16257,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Coast",
+     "length_seconds": 303733,
+     "number": 3,
+     "offset": 35185,
+     "output_artist": "Unknown artist",
+     "output_title": "The Coast",
+     "sectors": 22778,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Proof",
+     "length_seconds": 279200,
+     "number": 4,
+     "offset": 57963,
+     "output_artist": "Unknown artist",
+     "output_title": "Proof",
+     "sectors": 20940,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Further to Fly",
+     "length_seconds": 336266,
+     "number": 5,
+     "offset": 78903,
+     "output_artist": "Unknown artist",
+     "output_title": "Further to Fly",
+     "sectors": 25220,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "She Moves On",
+     "length_seconds": 303026,
+     "number": 6,
+     "offset": 104123,
+     "output_artist": "Unknown artist",
+     "output_title": "She Moves On",
+     "sectors": 22727,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Born at the Right Time",
+     "length_seconds": 228000,
+     "number": 7,
+     "offset": 126850,
+     "output_artist": "Unknown artist",
+     "output_title": "Born at the Right Time",
+     "sectors": 17088,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Cool, Cool River",
+     "length_seconds": 272533,
+     "number": 8,
+     "offset": 143938,
+     "output_artist": "Unknown artist",
+     "output_title": "The Cool, Cool River",
+     "sectors": 20440,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Spirit Voices",
+     "length_seconds": 236000,
+     "number": 9,
+     "offset": 164378,
+     "output_artist": "Unknown artist",
+     "output_title": "Spirit Voices",
+     "sectors": 17692,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Rhythm of the Saints",
+     "length_seconds": 250533,
+     "number": 10,
+     "offset": 182070,
+     "output_artist": "Unknown artist",
+     "output_title": "The Rhythm of the Saints",
+     "sectors": 18790,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

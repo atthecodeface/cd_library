@@ -1,0 +1,34 @@
+CddbId:9408570c:[182, 21522, 31022, 34035, 45247, 52560, 83010, 87397, 97097, 102697, 113135, 127372]:160275:74:9408570c 12 182 21522 31022 34035 45247 52560 83010 87397 97097 102697 113135 127372 2137: 12 0 0 0 0 0 0 0 0 0 0 0 0 2137
+num_tracks: 12
+offsets: [182, 21522, 31022, 34035, 45247, 52560, 83010, 87397, 97097, 102697, 113135, 127372]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 2137
+cddb: [2483574540, 12, 182, 21522, 31022, 34035, 45247, 52560, 83010, 87397, 97097, 102697, 113135, 127372, 2137]
+musicbrainz: ('12 182 21522 31022 34035 45247 52560 83010 87397 97097 102697 113135 127372 160347', '86nKpAYMedBnLF.q7h6lkf1bqlc-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'FREECOM_'
+Identification : 'DVD+/-RW16H4    '
+Revision       : 'FR00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO SAO/R96R RAW/R96R
+first: 1 last 12
+track:   1 lba:        32 (      128) 00:02:32 adr: 1 control: 1 mode: -1
+track:   2 lba:     21372 (    85488) 04:46:72 adr: 1 control: 1 mode: -1
+track:   3 lba:     30872 (   123488) 06:53:47 adr: 1 control: 1 mode: -1
+track:   4 lba:     33885 (   135540) 07:33:60 adr: 1 control: 1 mode: -1
+track:   5 lba:     45097 (   180388) 10:03:22 adr: 1 control: 1 mode: -1
+track:   6 lba:     52410 (   209640) 11:40:60 adr: 1 control: 1 mode: -1
+track:   7 lba:     82860 (   331440) 18:26:60 adr: 1 control: 1 mode: -1
+track:   8 lba:     87247 (   348988) 19:25:22 adr: 1 control: 1 mode: -1
+track:   9 lba:     96947 (   387788) 21:34:47 adr: 1 control: 1 mode: -1
+track:  10 lba:    102547 (   410188) 22:49:22 adr: 1 control: 1 mode: -1
+track:  11 lba:    112985 (   451940) 25:08:35 adr: 1 control: 1 mode: -1
+track:  12 lba:    127222 (   508888) 28:18:22 adr: 1 control: 1 mode: -1
+track:lout lba:    160197 (   640788) 35:37:72 adr: 1 control: 1 mode: -1

@@ -1,0 +1,171 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0034": {
+   "album_uniq_id": "pdjames_bbc_radio_collection",
+   "artist": "P.D.James",
+   "cddb_id": "8a09d00c",
+   "cddb_string": "8a09d00c 12 150 12277 28232 39973 52711 66792 76665 96748 114411 133091 150357 168908 2514",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "json_path": "source/bbc_pdjames_collection_disc_9/disc.json",
+   "musicbrainz_id": "NGIsJ_Fpsx2XlMOYUAlfw9_N9Y8-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "12 150 12277 28232 39973 52711 66792 76665 96748 114411 133091 150357 168908 188564",
+   "num_tracks": 12,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_pdjames_collection_disc_9",
+   "title": "A Certain Justice",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "P.D.James",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "P.D.James",
+     "output_title": "A Certain Justice",
+     "sectors": 0,
+     "title": "A Certain Justice"
+    },
+    {
+     "artist": "P.D.James",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 12277,
+     "output_artist": "P.D.James",
+     "output_title": "A Certain Justice",
+     "sectors": 0,
+     "title": "A Certain Justice"
+    },
+    {
+     "artist": "P.D.James",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 28232,
+     "output_artist": "P.D.James",
+     "output_title": "A Certain Justice",
+     "sectors": 0,
+     "title": "A Certain Justice"
+    },
+    {
+     "artist": "P.D.James",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 39973,
+     "output_artist": "P.D.James",
+     "output_title": "A Certain Justice",
+     "sectors": 0,
+     "title": "A Certain Justice"
+    },
+    {
+     "artist": "P.D.James",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 5,
+     "offset": 52711,
+     "output_artist": "P.D.James",
+     "output_title": "A Certain Justice",
+     "sectors": 0,
+     "title": "A Certain Justice"
+    },
+    {
+     "artist": "P.D.James",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 6,
+     "offset": 66792,
+     "output_artist": "P.D.James",
+     "output_title": "A Certain Justice",
+     "sectors": 0,
+     "title": "A Certain Justice"
+    },
+    {
+     "artist": "P.D.James",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 7,
+     "offset": 76665,
+     "output_artist": "P.D.James",
+     "output_title": "A Certain Justice",
+     "sectors": 0,
+     "title": "A Certain Justice"
+    },
+    {
+     "artist": "P.D.James",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 8,
+     "offset": 96748,
+     "output_artist": "P.D.James",
+     "output_title": "A Certain Justice",
+     "sectors": 0,
+     "title": "A Certain Justice"
+    },
+    {
+     "artist": "P.D.James",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 9,
+     "offset": 114411,
+     "output_artist": "P.D.James",
+     "output_title": "A Certain Justice",
+     "sectors": 0,
+     "title": "A Certain Justice"
+    },
+    {
+     "artist": "P.D.James",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 10,
+     "offset": 133091,
+     "output_artist": "P.D.James",
+     "output_title": "A Certain Justice",
+     "sectors": 0,
+     "title": "A Certain Justice"
+    },
+    {
+     "artist": "P.D.James",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 11,
+     "offset": 150357,
+     "output_artist": "P.D.James",
+     "output_title": "A Certain Justice",
+     "sectors": 0,
+     "title": "A Certain Justice"
+    },
+    {
+     "artist": "P.D.James",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 12,
+     "offset": 168908,
+     "output_artist": "P.D.James",
+     "output_title": "A Certain Justice",
+     "sectors": 0,
+     "title": "A Certain Justice"
+    }
+   ]
+  }
+ }
+}

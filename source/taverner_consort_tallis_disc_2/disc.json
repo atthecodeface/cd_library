@@ -1,0 +1,159 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0044": {
+   "album_uniq_id": "alb.0015",
+   "artist": "",
+   "cddb_id": "880fc50b",
+   "cddb_string": "880fc50b 11 150 81790 90230 98128 110103 149598 161083 178730 217523 225398 244185 4039",
+   "disc_of_set": 2,
+   "downloaded_artists": "Tallis; Taverner Consort, Andrew Parrott",
+   "downloaded_titles": "Latin Church Music",
+   "json_path": "source/taverner_consort_tallis_disc_2/disc.json",
+   "musicbrainz_id": "D3rRZmFgrwQiwB_ZDxCWmzAAj44-",
+   "musicbrainz_release_id": "14b7c969-844f-4270-8c2e-f538f09ce5b3",
+   "musicbrainz_string": "11 150 81790 90230 98128 110103 149598 161083 178730 217523 225398 244185 302948",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "taverner_consort_tallis_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Gaude Gloriosa Dei Mater",
+     "length_seconds": 1100000,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Gaude Gloriosa Dei Mater",
+     "sectors": 81640,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Te Lucis Ante Terminum (Procul Recedent Somnia)",
+     "length_seconds": 112000,
+     "number": 2,
+     "offset": 81790,
+     "output_artist": "Unknown artist",
+     "output_title": "Te Lucis Ante Terminum (Procul Recedent Somnia)",
+     "sectors": 8440,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Miserere Nostri",
+     "length_seconds": 105000,
+     "number": 3,
+     "offset": 90230,
+     "output_artist": "Unknown artist",
+     "output_title": "Miserere Nostri",
+     "sectors": 7898,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Salvator Mundi I",
+     "length_seconds": 153000,
+     "number": 4,
+     "offset": 98128,
+     "output_artist": "Unknown artist",
+     "output_title": "Salvator Mundi I",
+     "sectors": 11975,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Lamentations Of Jeremiah I",
+     "length_seconds": 526000,
+     "number": 5,
+     "offset": 110103,
+     "output_artist": "Unknown artist",
+     "output_title": "Lamentations Of Jeremiah I",
+     "sectors": 39495,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Salvator Mundi II",
+     "length_seconds": 153000,
+     "number": 6,
+     "offset": 149598,
+     "output_artist": "Unknown artist",
+     "output_title": "Salvator Mundi II",
+     "sectors": 11485,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "O Sacrum Convivium",
+     "length_seconds": 235000,
+     "number": 7,
+     "offset": 161083,
+     "output_artist": "Unknown artist",
+     "output_title": "O Sacrum Convivium",
+     "sectors": 17647,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Suscipe, Quaeso Domine",
+     "length_seconds": 517000,
+     "number": 8,
+     "offset": 178730,
+     "output_artist": "Unknown artist",
+     "output_title": "Suscipe, Quaeso Domine",
+     "sectors": 38793,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "O Nata Lux",
+     "length_seconds": 104373,
+     "number": 9,
+     "offset": 217523,
+     "output_artist": "Unknown artist",
+     "output_title": "O Nata Lux",
+     "sectors": 7875,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "In Jejunio Et Fletu",
+     "length_seconds": 250000,
+     "number": 10,
+     "offset": 225398,
+     "output_artist": "Unknown artist",
+     "output_title": "In Jejunio Et Fletu",
+     "sectors": 18787,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Lamentations Of Jeremiah II",
+     "length_seconds": 782000,
+     "number": 11,
+     "offset": 244185,
+     "output_artist": "Unknown artist",
+     "output_title": "Lamentations Of Jeremiah II",
+     "sectors": 58763,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

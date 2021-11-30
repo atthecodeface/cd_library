@@ -13,7 +13,7 @@
    "musicbrainz_id": "Wieo1kPDASk9Y.jh_OFXF6lEZEk-",
    "musicbrainz_release_id": "",
    "musicbrainz_string": "4 150 82315 153595 207482 209387",
-   "num_tracks": 2,
+   "num_tracks": 3,
    "rip_data": "",
    "rip_date": "",
    "rip_time": "",
@@ -44,6 +44,18 @@
      "output_title": "Piglet is Entirely Surrounded by Water",
      "sectors": 0,
      "title": "Piglet is Entirely Surrounded by Water"
+    },
+    {
+     "artist": "Jim Broadbent, A.A.Milne",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 153595,
+     "output_artist": "Jim Broadbent, A.A.Milne",
+     "output_title": "Christopher Robin Gives Pooh a Party, and We Say Good-bye",
+     "sectors": 0,
+     "title": "Christopher Robin Gives Pooh a Party, and We Say Good-bye"
     }
    ]
   }

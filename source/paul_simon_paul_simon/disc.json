@@ -1,0 +1,159 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0048": {
+   "album_uniq_id": "alb.0019",
+   "artist": "",
+   "cddb_id": "9a081a0b",
+   "cddb_string": "9a081a0b 11 183 14433 35680 44843 62425 80283 92653 107910 119605 125668 139043 2076",
+   "disc_of_set": 1,
+   "downloaded_artists": "Paul Simon",
+   "downloaded_titles": "Paul Simon",
+   "json_path": "source/paul_simon_paul_simon/disc.json",
+   "musicbrainz_id": "Rif61zufsl0APdnpeKVWChC9JkQ-",
+   "musicbrainz_release_id": "494ec519-3af5-33c8-8229-7cb7d9de3168",
+   "musicbrainz_string": "11 183 14433 35680 44843 62425 80283 92653 107910 119605 125668 139043 155770",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "paul_simon_paul_simon",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mother and Child Reunion",
+     "length_seconds": 186000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Unknown artist",
+     "output_title": "Mother and Child Reunion",
+     "sectors": 14250,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Duncan",
+     "length_seconds": 283133,
+     "number": 2,
+     "offset": 14433,
+     "output_artist": "Unknown artist",
+     "output_title": "Duncan",
+     "sectors": 21247,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Everything Put Together Falls Apart",
+     "length_seconds": 121866,
+     "number": 3,
+     "offset": 35680,
+     "output_artist": "Unknown artist",
+     "output_title": "Everything Put Together Falls Apart",
+     "sectors": 9163,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Run That Body Down",
+     "length_seconds": 234600,
+     "number": 4,
+     "offset": 44843,
+     "output_artist": "Unknown artist",
+     "output_title": "Run That Body Down",
+     "sectors": 17582,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Armistice Day",
+     "length_seconds": 237066,
+     "number": 5,
+     "offset": 62425,
+     "output_artist": "Unknown artist",
+     "output_title": "Armistice Day",
+     "sectors": 17858,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Me and Julio Down by the Schoolyard",
+     "length_seconds": 163906,
+     "number": 6,
+     "offset": 80283,
+     "output_artist": "Unknown artist",
+     "output_title": "Me and Julio Down by the Schoolyard",
+     "sectors": 12370,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Peace Like a River",
+     "length_seconds": 203280,
+     "number": 7,
+     "offset": 92653,
+     "output_artist": "Unknown artist",
+     "output_title": "Peace Like a River",
+     "sectors": 15257,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Papa Hobo",
+     "length_seconds": 155533,
+     "number": 8,
+     "offset": 107910,
+     "output_artist": "Unknown artist",
+     "output_title": "Papa Hobo",
+     "sectors": 11695,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Hobo\u2019s Blues",
+     "length_seconds": 80773,
+     "number": 9,
+     "offset": 119605,
+     "output_artist": "Unknown artist",
+     "output_title": "Hobo\u2019s Blues",
+     "sectors": 6063,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Paranoia Blues",
+     "length_seconds": 178146,
+     "number": 10,
+     "offset": 125668,
+     "output_artist": "Unknown artist",
+     "output_title": "Paranoia Blues",
+     "sectors": 13375,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Congratulations",
+     "length_seconds": 223040,
+     "number": 11,
+     "offset": 139043,
+     "output_artist": "Unknown artist",
+     "output_title": "Congratulations",
+     "sectors": 16727,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

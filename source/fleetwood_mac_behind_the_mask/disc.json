@@ -1,0 +1,183 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0019": {
+   "album_uniq_id": "alb.0012",
+   "artist": "",
+   "cddb_id": "aa0cc20d",
+   "cddb_string": "aa0cc20d 13 150 17108 31973 63663 83115 102258 121910 136795 156163 174240 196215 215163 233803 3268",
+   "disc_of_set": 1,
+   "downloaded_artists": "Fleetwood Mac",
+   "downloaded_titles": "Behind the Mask",
+   "json_path": "source/fleetwood_mac_behind_the_mask/disc.json",
+   "musicbrainz_id": "40N1cqLKDh.3iuhS8TiXivmnz00-",
+   "musicbrainz_release_id": "564f07e1-b0e0-47ad-82c4-6ab89e2fa393",
+   "musicbrainz_string": "13 150 17108 31973 63663 83115 102258 121910 136795 156163 174240 196215 215163 233803 245165",
+   "num_tracks": 13,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "fleetwood_mac_behind_the_mask",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Skies the Limit",
+     "length_seconds": 225306,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Skies the Limit",
+     "sectors": 16958,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Love Is Dangerous",
+     "length_seconds": 198200,
+     "number": 2,
+     "offset": 17108,
+     "output_artist": "Unknown artist",
+     "output_title": "Love Is Dangerous",
+     "sectors": 14865,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "In the Back of My Mind",
+     "length_seconds": 422693,
+     "number": 3,
+     "offset": 31973,
+     "output_artist": "Unknown artist",
+     "output_title": "In the Back of My Mind",
+     "sectors": 31690,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Do You Know",
+     "length_seconds": 259306,
+     "number": 4,
+     "offset": 63663,
+     "output_artist": "Unknown artist",
+     "output_title": "Do You Know",
+     "sectors": 19452,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Save Me",
+     "length_seconds": 255093,
+     "number": 5,
+     "offset": 83115,
+     "output_artist": "Unknown artist",
+     "output_title": "Save Me",
+     "sectors": 19143,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Affairs of the Heart",
+     "length_seconds": 262106,
+     "number": 6,
+     "offset": 102258,
+     "output_artist": "Unknown artist",
+     "output_title": "Affairs of the Heart",
+     "sectors": 19652,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "When the Sun Goes Down",
+     "length_seconds": 198560,
+     "number": 7,
+     "offset": 121910,
+     "output_artist": "Unknown artist",
+     "output_title": "When the Sun Goes Down",
+     "sectors": 14885,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Behind the Mask",
+     "length_seconds": 258200,
+     "number": 8,
+     "offset": 136795,
+     "output_artist": "Unknown artist",
+     "output_title": "Behind the Mask",
+     "sectors": 19368,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Stand on the Rock",
+     "length_seconds": 239506,
+     "number": 9,
+     "offset": 156163,
+     "output_artist": "Unknown artist",
+     "output_title": "Stand on the Rock",
+     "sectors": 18077,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Hard Feelings",
+     "length_seconds": 294533,
+     "number": 10,
+     "offset": 174240,
+     "output_artist": "Unknown artist",
+     "output_title": "Hard Feelings",
+     "sectors": 21975,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Freedom",
+     "length_seconds": 252493,
+     "number": 11,
+     "offset": 196215,
+     "output_artist": "Unknown artist",
+     "output_title": "Freedom",
+     "sectors": 18948,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "When It Comes to Love",
+     "length_seconds": 248573,
+     "number": 12,
+     "offset": 215163,
+     "output_artist": "Unknown artist",
+     "output_title": "When It Comes to Love",
+     "sectors": 18640,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Second Time",
+     "length_seconds": 151893,
+     "number": 13,
+     "offset": 233803,
+     "output_artist": "Unknown artist",
+     "output_title": "The Second Time",
+     "sectors": 11362,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

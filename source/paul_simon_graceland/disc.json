@@ -1,0 +1,159 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0017": {
+   "album_uniq_id": "alb.0010",
+   "artist": "",
+   "cddb_id": "960a1c0b",
+   "cddb_string": "960a1c0b 11 225 18152 39972 54460 66820 92950 113962 130245 147347 166772 179710 2591",
+   "disc_of_set": 1,
+   "downloaded_artists": "Paul Simon",
+   "downloaded_titles": "Graceland",
+   "json_path": "source/paul_simon_graceland/disc.json",
+   "musicbrainz_id": "7KotoHTC.GTDXOk7WuejbV1ycfI-",
+   "musicbrainz_release_id": "73677f81-86e6-4087-9255-9ee81b8e3dd3",
+   "musicbrainz_string": "11 225 18152 39972 54460 66820 92950 113962 130245 147347 166772 179710 194332",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "paul_simon_graceland",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Boy in the Bubble",
+     "length_seconds": 239026,
+     "number": 1,
+     "offset": 225,
+     "output_artist": "Unknown artist",
+     "output_title": "The Boy in the Bubble",
+     "sectors": 17927,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Graceland",
+     "length_seconds": 290933,
+     "number": 2,
+     "offset": 18152,
+     "output_artist": "Unknown artist",
+     "output_title": "Graceland",
+     "sectors": 21820,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I Know What I Know",
+     "length_seconds": 193173,
+     "number": 3,
+     "offset": 39972,
+     "output_artist": "Unknown artist",
+     "output_title": "I Know What I Know",
+     "sectors": 14488,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Gumboots",
+     "length_seconds": 164800,
+     "number": 4,
+     "offset": 54460,
+     "output_artist": "Unknown artist",
+     "output_title": "Gumboots",
+     "sectors": 12360,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Diamonds on the Soles of Her Shoes",
+     "length_seconds": 348400,
+     "number": 5,
+     "offset": 66820,
+     "output_artist": "Unknown artist",
+     "output_title": "Diamonds on the Soles of Her Shoes",
+     "sectors": 26130,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "You Can Call Me Al",
+     "length_seconds": 280160,
+     "number": 6,
+     "offset": 92950,
+     "output_artist": "Unknown artist",
+     "output_title": "You Can Call Me Al",
+     "sectors": 21012,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Under African Skies",
+     "length_seconds": 217106,
+     "number": 7,
+     "offset": 113962,
+     "output_artist": "Unknown artist",
+     "output_title": "Under African Skies",
+     "sectors": 16283,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Homeless",
+     "length_seconds": 228026,
+     "number": 8,
+     "offset": 130245,
+     "output_artist": "Unknown artist",
+     "output_title": "Homeless",
+     "sectors": 17102,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Crazy Love, Vol. II",
+     "length_seconds": 259000,
+     "number": 9,
+     "offset": 147347,
+     "output_artist": "Unknown artist",
+     "output_title": "Crazy Love, Vol. II",
+     "sectors": 19425,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "That Was Your Mother",
+     "length_seconds": 172813,
+     "number": 10,
+     "offset": 166772,
+     "output_artist": "Unknown artist",
+     "output_title": "That Was Your Mother",
+     "sectors": 12938,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "All Around the World or The Myth of Fingerprints",
+     "length_seconds": 196266,
+     "number": 11,
+     "offset": 179710,
+     "output_artist": "Unknown artist",
+     "output_title": "All Around the World or The Myth of Fingerprints",
+     "sectors": 14622,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

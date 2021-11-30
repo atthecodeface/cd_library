@@ -1,0 +1,147 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0050": {
+   "album_uniq_id": "alb.0021",
+   "artist": "",
+   "cddb_id": "8908f90a",
+   "cddb_string": "8908f90a 10 150 18440 34783 52328 65060 83070 108863 124845 140678 155345 2299",
+   "disc_of_set": 1,
+   "downloaded_artists": "Paul Simon",
+   "downloaded_titles": "One\u2010Trick Pony",
+   "json_path": "source/paul_simon_one_trick_pony/disc.json",
+   "musicbrainz_id": "DcxHgexzMkP5GFf2IMB4okZFrnU-",
+   "musicbrainz_release_id": "f3311c14-154b-4907-8e55-eb457e04d06a",
+   "musicbrainz_string": "10 150 18440 34783 52328 65060 83070 108863 124845 140678 155345 172445",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "paul_simon_one_trick_pony",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Late in the Evening",
+     "length_seconds": 242520,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Late in the Evening",
+     "sectors": 18290,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "That\u2019s Why God Made the Movies",
+     "length_seconds": 217626,
+     "number": 2,
+     "offset": 18440,
+     "output_artist": "Unknown artist",
+     "output_title": "That\u2019s Why God Made the Movies",
+     "sectors": 16343,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "One\u2010Trick Pony",
+     "length_seconds": 233680,
+     "number": 3,
+     "offset": 34783,
+     "output_artist": "Unknown artist",
+     "output_title": "One\u2010Trick Pony",
+     "sectors": 17545,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "How the Heart Approaches What It Yearns",
+     "length_seconds": 169000,
+     "number": 4,
+     "offset": 52328,
+     "output_artist": "Unknown artist",
+     "output_title": "How the Heart Approaches What It Yearns",
+     "sectors": 12732,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Oh, Marion",
+     "length_seconds": 240093,
+     "number": 5,
+     "offset": 65060,
+     "output_artist": "Unknown artist",
+     "output_title": "Oh, Marion",
+     "sectors": 18010,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Ace in the Hole",
+     "length_seconds": 343000,
+     "number": 6,
+     "offset": 83070,
+     "output_artist": "Unknown artist",
+     "output_title": "Ace in the Hole",
+     "sectors": 25793,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Nobody",
+     "length_seconds": 212733,
+     "number": 7,
+     "offset": 108863,
+     "output_artist": "Unknown artist",
+     "output_title": "Nobody",
+     "sectors": 15982,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Jonah",
+     "length_seconds": 210640,
+     "number": 8,
+     "offset": 124845,
+     "output_artist": "Unknown artist",
+     "output_title": "Jonah",
+     "sectors": 15833,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "God Bless the Absentee",
+     "length_seconds": 197000,
+     "number": 9,
+     "offset": 140678,
+     "output_artist": "Unknown artist",
+     "output_title": "God Bless the Absentee",
+     "sectors": 14667,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Long, Long Day",
+     "length_seconds": 230000,
+     "number": 10,
+     "offset": 155345,
+     "output_artist": "Unknown artist",
+     "output_title": "Long, Long Day",
+     "sectors": 17100,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0043": {
+   "album_uniq_id": "alb.0015",
+   "artist": "",
+   "cddb_id": "7f0e910a",
+   "cddb_string": "7f0e910a 10 150 42172 66912 83630 105807 142352 170627 186030 208572 233340 3731",
+   "disc_of_set": 1,
+   "downloaded_artists": "Tallis; Taverner Consort, Andrew Parrott",
+   "downloaded_titles": "Latin Church Music",
+   "json_path": "source/taverner_consort_tallis_disc_1/disc.json",
+   "musicbrainz_id": "FPR779j1jJpYmHtpspMkx4V6GEY-",
+   "musicbrainz_release_id": "14b7c969-844f-4270-8c2e-f538f09ce5b3",
+   "musicbrainz_string": "10 150 42172 66912 83630 105807 142352 170627 186030 208572 233340 279895",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "taverner_consort_tallis_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Videte miraculum",
+     "length_seconds": 572293,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_title": "Videte miraculum",
+     "sectors": 42022,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Homo quidam",
+     "length_seconds": 329866,
+     "number": 2,
+     "offset": 42172,
+     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_title": "Homo quidam",
+     "sectors": 24740,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Audivi vocem",
+     "length_seconds": 222906,
+     "number": 3,
+     "offset": 66912,
+     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_title": "Audivi vocem",
+     "sectors": 16718,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Candidi facti sunt",
+     "length_seconds": 295693,
+     "number": 4,
+     "offset": 83630,
+     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_title": "Candidi facti sunt",
+     "sectors": 22177,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Dum transisset sabbatum",
+     "length_seconds": 487266,
+     "number": 5,
+     "offset": 105807,
+     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_title": "Dum transisset sabbatum",
+     "sectors": 36545,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Honor, virtus et potestas",
+     "length_seconds": 377000,
+     "number": 6,
+     "offset": 142352,
+     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_title": "Honor, virtus et potestas",
+     "sectors": 28275,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Hodie nobis",
+     "length_seconds": 205373,
+     "number": 7,
+     "offset": 170627,
+     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_title": "Hodie nobis",
+     "sectors": 15403,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Loquebantur variis linguis",
+     "length_seconds": 300560,
+     "number": 8,
+     "offset": 186030,
+     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_title": "Loquebantur variis linguis",
+     "sectors": 22542,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "In pace, in idipsum",
+     "length_seconds": 330240,
+     "number": 9,
+     "offset": 208572,
+     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_title": "In pace, in idipsum",
+     "sectors": 24768,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Spem in alium",
+     "length_seconds": 620360,
+     "number": 10,
+     "offset": 233340,
+     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_title": "Spem in alium",
+     "sectors": 46555,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

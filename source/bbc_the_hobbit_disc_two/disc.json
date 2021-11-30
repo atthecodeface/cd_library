@@ -1,0 +1,159 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0021": {
+   "album_uniq_id": "alb.0014",
+   "artist": "",
+   "cddb_id": "a30c940b",
+   "cddb_string": "a30c940b 11 182 19080 36510 56485 78567 100452 122737 139365 163362 186032 212755 3222",
+   "disc_of_set": 2,
+   "downloaded_artists": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+   "downloaded_titles": "Riddles in the Dark / Strange Lodgings###The Hobbit",
+   "json_path": "source/bbc_the_hobbit_disc_two/disc.json",
+   "musicbrainz_id": "UlkLpPhbHn.ZxYr6sfoQcI7g6q4-",
+   "musicbrainz_release_id": "f172edff-6f14-40ee-92d0-e9984a9d3061",
+   "musicbrainz_string": "11 182 19080 36510 56485 78567 100452 122737 139365 163362 186032 212755 241682",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_hobbit_disc_two",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Cavern of the Great Goblin",
+     "length_seconds": 251960,
+     "number": 1,
+     "offset": 182,
+     "output_artist": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+     "output_title": "The Cavern of the Great Goblin",
+     "sectors": 18898,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Battle Against the Goblins",
+     "length_seconds": 232400,
+     "number": 2,
+     "offset": 19080,
+     "output_artist": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+     "output_title": "The Battle Against the Goblins",
+     "sectors": 17430,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Bilbo Finds the Ring",
+     "length_seconds": 266333,
+     "number": 3,
+     "offset": 36510,
+     "output_artist": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+     "output_title": "Bilbo Finds the Ring",
+     "sectors": 19975,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Riddling Gollum",
+     "length_seconds": 294426,
+     "number": 4,
+     "offset": 56485,
+     "output_artist": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+     "output_title": "Riddling Gollum",
+     "sectors": 22082,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Lost Birthday Present",
+     "length_seconds": 291800,
+     "number": 5,
+     "offset": 78567,
+     "output_artist": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+     "output_title": "The Lost Birthday Present",
+     "sectors": 21885,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Towards the Back Door",
+     "length_seconds": 297133,
+     "number": 6,
+     "offset": 100452,
+     "output_artist": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+     "output_title": "Towards the Back Door",
+     "sectors": 22285,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Edge of the Land Beyond",
+     "length_seconds": 221693,
+     "number": 7,
+     "offset": 122737,
+     "output_artist": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+     "output_title": "The Edge of the Land Beyond",
+     "sectors": 16628,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Wargs",
+     "length_seconds": 319960,
+     "number": 8,
+     "offset": 139365,
+     "output_artist": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+     "output_title": "Wargs",
+     "sectors": 23997,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Lord of the Eagles",
+     "length_seconds": 302266,
+     "number": 9,
+     "offset": 163362,
+     "output_artist": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+     "output_title": "The Lord of the Eagles",
+     "sectors": 22670,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Beorn",
+     "length_seconds": 356293,
+     "number": 10,
+     "offset": 186032,
+     "output_artist": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+     "output_title": "Beorn",
+     "sectors": 26723,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Elves of Mirkwood",
+     "length_seconds": 385267,
+     "number": 11,
+     "offset": 212755,
+     "output_artist": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
+     "output_title": "The Elves of Mirkwood",
+     "sectors": 28927,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

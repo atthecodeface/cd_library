@@ -1,0 +1,1 @@
+rsync -vrltD mp3 /mnt

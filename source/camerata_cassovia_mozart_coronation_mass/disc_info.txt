@@ -1,0 +1,32 @@
+CddbId:780cb70a:[150, 12825, 32025, 63000, 69825, 86700, 115425, 137700, 162750, 175725]:244275:74:780cb70a 10 150 12825 32025 63000 69825 86700 115425 137700 162750 175725 3257: 10 0 0 0 0 0 0 0 0 0 0 3257
+num_tracks: 10
+offsets: [150, 12825, 32025, 63000, 69825, 86700, 115425, 137700, 162750, 175725]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 3257
+cddb: [2014099210, 10, 150, 12825, 32025, 63000, 69825, 86700, 115425, 137700, 162750, 175725, 3257]
+musicbrainz: ('10 150 12825 32025 63000 69825 86700 115425 137700 162750 175725 244325', 'P_5TBfFLZMG4X5k7yU2iWQsV7YM-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'FREECOM_'
+Identification : 'DVD+/-RW16H4    '
+Revision       : 'FR00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO SAO/R96R RAW/R96R
+first: 1 last 10
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: -1
+track:   2 lba:     12675 (    50700) 02:51:00 adr: 1 control: 0 mode: -1
+track:   3 lba:     31875 (   127500) 07:07:00 adr: 1 control: 0 mode: -1
+track:   4 lba:     62850 (   251400) 14:00:00 adr: 1 control: 0 mode: -1
+track:   5 lba:     69675 (   278700) 15:31:00 adr: 1 control: 0 mode: -1
+track:   6 lba:     86550 (   346200) 19:16:00 adr: 1 control: 0 mode: -1
+track:   7 lba:    115275 (   461100) 25:39:00 adr: 1 control: 0 mode: -1
+track:   8 lba:    137550 (   550200) 30:36:00 adr: 1 control: 0 mode: -1
+track:   9 lba:    162600 (   650400) 36:10:00 adr: 1 control: 0 mode: -1
+track:  10 lba:    175575 (   702300) 39:03:00 adr: 1 control: 0 mode: -1
+track:lout lba:    244175 (   976700) 54:17:50 adr: 1 control: 0 mode: -1

@@ -1,0 +1,33 @@
+CddbId:8b0a740a:[150, 18928, 35185, 57963, 78903, 104123, 126850, 143938, 164378, 182070]:200850:74:8b0a740a 10 150 18928 35185 57963 78903 104123 126850 143938 164378 182070 2678: 10 0 0 0 0 0 0 0 0 0 0 2678
+num_tracks: 10
+offsets: [150, 18928, 35185, 57963, 78903, 104123, 126850, 143938, 164378, 182070]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 2678
+cddb: [2332718090, 10, 150, 18928, 35185, 57963, 78903, 104123, 126850, 143938, 164378, 182070, 2678]
+musicbrainz: ('10 150 18928 35185 57963 78903 104123 126850 143938 164378 182070 200860', '2OfUHG5jzmqXoWeMZxSvXXZ2u5o-')
+
+CD record:
+Error trying to open /dev/cdrom exclusively (Device or resource busy)... retrying in 1 second.
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'MATSHITA'
+Identification : 'BD-MLT UJ240AS  '
+Revision       : '1.00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO RAW/R16 RAW/R96P RAW/R96R
+first: 1 last 10
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: 0
+track:   2 lba:     18778 (    75112) 04:12:28 adr: 1 control: 0 mode: 0
+track:   3 lba:     35035 (   140140) 07:49:10 adr: 1 control: 0 mode: 0
+track:   4 lba:     57813 (   231252) 12:52:63 adr: 1 control: 0 mode: 0
+track:   5 lba:     78753 (   315012) 17:32:03 adr: 1 control: 0 mode: 0
+track:   6 lba:    103973 (   415892) 23:08:23 adr: 1 control: 0 mode: 0
+track:   7 lba:    126700 (   506800) 28:11:25 adr: 1 control: 0 mode: 0
+track:   8 lba:    143788 (   575152) 31:59:13 adr: 1 control: 0 mode: 0
+track:   9 lba:    164228 (   656912) 36:31:53 adr: 1 control: 0 mode: 0
+track:  10 lba:    181920 (   727680) 40:27:45 adr: 1 control: 0 mode: 0
+track:lout lba:    200710 (   802840) 44:38:10 adr: 1 control: 0 mode: -1

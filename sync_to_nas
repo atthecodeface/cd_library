@@ -1,0 +1,1 @@
+rsync -av . writer@10.1.17.34:/nas/audio

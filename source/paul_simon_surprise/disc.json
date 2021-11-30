@@ -1,0 +1,159 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0049": {
+   "album_uniq_id": "alb.0020",
+   "artist": "",
+   "cddb_id": "8c0a9f0b",
+   "cddb_string": "8c0a9f0b 11 150 16808 34594 49931 67716 89448 103525 122249 146400 164062 185306 2721",
+   "disc_of_set": 1,
+   "downloaded_artists": "Paul Simon",
+   "downloaded_titles": "Surprise",
+   "json_path": "source/paul_simon_surprise/disc.json",
+   "musicbrainz_id": "M_6VciD5U1GRwAYYW.SdU7o9eoE-",
+   "musicbrainz_release_id": "22aca873-0d11-438f-8e0d-5da51b25d975",
+   "musicbrainz_string": "11 150 16808 34594 49931 67716 89448 103525 122249 146400 164062 185306 204145",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "paul_simon_surprise",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "How Can You Live in the Northeast?",
+     "length_seconds": 222106,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Paul Simon",
+     "output_title": "How Can You Live in the Northeast?",
+     "sectors": 16658,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Everything About It Is a Love Song",
+     "length_seconds": 237146,
+     "number": 2,
+     "offset": 16808,
+     "output_artist": "Paul Simon",
+     "output_title": "Everything About It Is a Love Song",
+     "sectors": 17786,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Outrageous",
+     "length_seconds": 204493,
+     "number": 3,
+     "offset": 34594,
+     "output_artist": "Paul Simon",
+     "output_title": "Outrageous",
+     "sectors": 15337,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Sure Don't Feel Like Love",
+     "length_seconds": 237133,
+     "number": 4,
+     "offset": 49931,
+     "output_artist": "Paul Simon",
+     "output_title": "Sure Don't Feel Like Love",
+     "sectors": 17785,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Wartime Prayers",
+     "length_seconds": 289760,
+     "number": 5,
+     "offset": 67716,
+     "output_artist": "Paul Simon",
+     "output_title": "Wartime Prayers",
+     "sectors": 21732,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Beautiful",
+     "length_seconds": 187693,
+     "number": 6,
+     "offset": 89448,
+     "output_artist": "Paul Simon",
+     "output_title": "Beautiful",
+     "sectors": 14077,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I Don't Believe",
+     "length_seconds": 249653,
+     "number": 7,
+     "offset": 103525,
+     "output_artist": "Paul Simon",
+     "output_title": "I Don't Believe",
+     "sectors": 18724,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Another Galaxy",
+     "length_seconds": 322013,
+     "number": 8,
+     "offset": 122249,
+     "output_artist": "Paul Simon",
+     "output_title": "Another Galaxy",
+     "sectors": 24151,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Once Upon a Time There Was an Ocean",
+     "length_seconds": 235493,
+     "number": 9,
+     "offset": 146400,
+     "output_artist": "Paul Simon",
+     "output_title": "Once Upon a Time There Was an Ocean",
+     "sectors": 17662,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "That's Me",
+     "length_seconds": 283253,
+     "number": 10,
+     "offset": 164062,
+     "output_artist": "Paul Simon",
+     "output_title": "That's Me",
+     "sectors": 21244,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Father and Daughter",
+     "length_seconds": 251000,
+     "number": 11,
+     "offset": 185306,
+     "output_artist": "Paul Simon",
+     "output_title": "Father and Daughter",
+     "sectors": 18839,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

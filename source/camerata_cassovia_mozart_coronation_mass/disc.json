@@ -1,0 +1,147 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0016": {
+   "album_uniq_id": "alb.0009",
+   "artist": "",
+   "cddb_id": "780cb70a",
+   "cddb_string": "780cb70a 10 150 12825 32025 63000 69825 86700 115425 137700 162750 175725 3257",
+   "disc_of_set": 1,
+   "downloaded_artists": "Wolfgang Amadeus Mozart; Priti Coles, Anna di Mauro, John Dickie, Andrea Martin, Ko\u0161ice Teachers' Choir, Camerata Cassovia, Johannes Wildner",
+   "downloaded_titles": "Coronation Mass / Laudate dominum / Sub tuum praesidium / Ave verum corpus / Exsultate, Jubilate",
+   "json_path": "source/camerata_cassovia_mozart_coronation_mass/disc.json",
+   "musicbrainz_id": "P_5TBfFLZMG4X5k7yU2iWQsV7YM-",
+   "musicbrainz_release_id": "6bd5348b-04df-4efc-b46e-0c28422f9b75",
+   "musicbrainz_string": "10 150 12825 32025 63000 69825 86700 115425 137700 162750 175725 244325",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "camerata_cassovia_mozart_coronation_mass",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mass in C major, K. 317: I. Kyrie",
+     "length_seconds": 169000,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Mass in C major, K. 317: I. Kyrie",
+     "sectors": 12675,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mass in C major, K. 317: II. Gloria",
+     "length_seconds": 256000,
+     "number": 2,
+     "offset": 12825,
+     "output_artist": "Unknown artist",
+     "output_title": "Mass in C major, K. 317: II. Gloria",
+     "sectors": 19200,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mass in C major, K. 317: III. Credo",
+     "length_seconds": 411595,
+     "number": 3,
+     "offset": 32025,
+     "output_artist": "Unknown artist",
+     "output_title": "Mass in C major, K. 317: III. Credo",
+     "sectors": 30975,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mass in C major, K. 317: IV. Sanctus",
+     "length_seconds": 91000,
+     "number": 4,
+     "offset": 63000,
+     "output_artist": "Unknown artist",
+     "output_title": "Mass in C major, K. 317: IV. Sanctus",
+     "sectors": 6825,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mass in C major, K. 317: V. Benedictus",
+     "length_seconds": 225000,
+     "number": 5,
+     "offset": 69825,
+     "output_artist": "Unknown artist",
+     "output_title": "Mass in C major, K. 317: V. Benedictus",
+     "sectors": 16875,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mass in C major, K. 317: VI. Agnus Dei",
+     "length_seconds": 381280,
+     "number": 6,
+     "offset": 86700,
+     "output_artist": "Unknown artist",
+     "output_title": "Mass in C major, K. 317: VI. Agnus Dei",
+     "sectors": 28725,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Vesperae solennes de confessore, K. 339: Laudate dominum",
+     "length_seconds": 297000,
+     "number": 7,
+     "offset": 115425,
+     "output_artist": "Unknown artist",
+     "output_title": "Vesperae solennes de confessore, K. 339: Laudate dominum",
+     "sectors": 22275,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Sub tuum praesidium, Offertorium, K. 198",
+     "length_seconds": 334000,
+     "number": 8,
+     "offset": 137700,
+     "output_artist": "Unknown artist",
+     "output_title": "Sub tuum praesidium, Offertorium, K. 198",
+     "sectors": 25050,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Ave Verum Corpus, K. 618",
+     "length_seconds": 172000,
+     "number": 9,
+     "offset": 162750,
+     "output_artist": "Unknown artist",
+     "output_title": "Ave Verum Corpus, K. 618",
+     "sectors": 12975,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Exsultate, Jubilate, K. 165",
+     "length_seconds": 916093,
+     "number": 10,
+     "offset": 175725,
+     "output_artist": "Unknown artist",
+     "output_title": "Exsultate, Jubilate, K. 165",
+     "sectors": 68600,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
