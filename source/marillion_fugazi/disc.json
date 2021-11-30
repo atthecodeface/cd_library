@@ -1,0 +1,111 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0062": {
+   "album_uniq_id": "alb.0031",
+   "artist": "",
+   "cddb_id": "530ac307",
+   "cddb_string": "530ac307 7 150 31860 46965 77757 101142 132222 170590 2757",
+   "disc_of_set": 1,
+   "downloaded_artists": "Marillion",
+   "downloaded_titles": "Fugazi",
+   "json_path": "source/marillion_fugazi/disc.json",
+   "musicbrainz_id": "dWAySqyVckc6rajNMTJn1VOLaho-",
+   "musicbrainz_release_id": "6a10d603-d4a8-47d9-ad09-0824fe0d157d",
+   "musicbrainz_string": "7 150 31860 46965 77757 101142 132222 170590 206827",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "marillion_fugazi",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Assassing",
+     "length_seconds": 422000,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Marillion",
+     "output_title": "Assassing",
+     "sectors": 31710,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Punch & Judy",
+     "length_seconds": 199733,
+     "number": 2,
+     "offset": 31860,
+     "output_artist": "Marillion",
+     "output_title": "Punch & Judy",
+     "sectors": 15105,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Jigsaw",
+     "length_seconds": 409000,
+     "number": 3,
+     "offset": 46965,
+     "output_artist": "Marillion",
+     "output_title": "Jigsaw",
+     "sectors": 30792,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Emerald Lies",
+     "length_seconds": 308960,
+     "number": 4,
+     "offset": 77757,
+     "output_artist": "Marillion",
+     "output_title": "Emerald Lies",
+     "sectors": 23385,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "She Chameleon",
+     "length_seconds": 412640,
+     "number": 5,
+     "offset": 101142,
+     "output_artist": "Marillion",
+     "output_title": "She Chameleon",
+     "sectors": 31080,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Incubus",
+     "length_seconds": 510426,
+     "number": 6,
+     "offset": 132222,
+     "output_artist": "Marillion",
+     "output_title": "Incubus",
+     "sectors": 38368,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Fugazi",
+     "length_seconds": 492933,
+     "number": 7,
+     "offset": 170590,
+     "output_artist": "Marillion",
+     "output_title": "Fugazi",
+     "sectors": 36237,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

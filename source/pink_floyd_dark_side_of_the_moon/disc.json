@@ -28,7 +28,7 @@
      "length_seconds": 237800,
      "number": 1,
      "offset": 183,
-     "output_artist": "Pink Floyd",
+     "output_artist": "Unknown artist",
      "output_title": "Speak to Me / Breathe",
      "sectors": 17835,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 215000,
      "number": 2,
      "offset": 18018,
-     "output_artist": "Pink Floyd",
+     "output_artist": "Unknown artist",
      "output_title": "On the Run",
      "sectors": 16125,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 424800,
      "number": 3,
      "offset": 34143,
-     "output_artist": "Pink Floyd",
+     "output_artist": "Unknown artist",
      "output_title": "Time",
      "sectors": 31860,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 284133,
      "number": 4,
      "offset": 66003,
-     "output_artist": "Pink Floyd",
+     "output_artist": "Unknown artist",
      "output_title": "The Great Gig in the Sky",
      "sectors": 21530,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 382746,
      "number": 5,
      "offset": 87533,
-     "output_artist": "Pink Floyd",
+     "output_artist": "Unknown artist",
      "output_title": "Money",
      "sectors": 28685,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 469853,
      "number": 6,
      "offset": 116218,
-     "output_artist": "Pink Floyd",
+     "output_artist": "Unknown artist",
      "output_title": "Us and Them",
      "sectors": 35270,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 206000,
      "number": 7,
      "offset": 151488,
-     "output_artist": "Pink Floyd",
+     "output_artist": "Unknown artist",
      "output_title": "Any Colour You Like",
      "sectors": 15425,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 227000,
      "number": 8,
      "offset": 166913,
-     "output_artist": "Pink Floyd",
+     "output_artist": "Unknown artist",
      "output_title": "Brain Damage",
      "sectors": 17287,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 121240,
      "number": 9,
      "offset": 184200,
-     "output_artist": "Pink Floyd",
+     "output_artist": "Unknown artist",
      "output_title": "Eclipse",
      "sectors": 9093,
      "title": ""

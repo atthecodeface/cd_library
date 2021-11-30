@@ -1,0 +1,159 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0066": {
+   "album_uniq_id": "alb.0034",
+   "artist": "",
+   "cddb_id": "820c430b",
+   "cddb_string": "820c430b 11 183 16368 36263 63305 75888 90115 119175 142935 161305 182698 208703 3141",
+   "disc_of_set": 1,
+   "downloaded_artists": "Marillion",
+   "downloaded_titles": "Clutching at Straws",
+   "json_path": "source/marillion_clutching_at_straws/disc.json",
+   "musicbrainz_id": "JtTv29B0FNbo40xTcmMxWI5zDhA-",
+   "musicbrainz_release_id": "b24ddae2-7533-4537-8c14-80d6b112c591",
+   "musicbrainz_string": "11 183 16368 36263 63305 75888 90115 119175 142935 161305 182698 208703 235575",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "marillion_clutching_at_straws",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Hotel Hobbies",
+     "length_seconds": 215400,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Marillion",
+     "output_title": "Hotel Hobbies",
+     "sectors": 16185,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Warm Wet Circles",
+     "length_seconds": 265826,
+     "number": 2,
+     "offset": 16368,
+     "output_artist": "Marillion",
+     "output_title": "Warm Wet Circles",
+     "sectors": 19895,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "That Time of the Night (The Short Straw)",
+     "length_seconds": 360506,
+     "number": 3,
+     "offset": 36263,
+     "output_artist": "Marillion",
+     "output_title": "That Time of the Night (The Short Straw)",
+     "sectors": 27042,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Going Under",
+     "length_seconds": 167733,
+     "number": 4,
+     "offset": 63305,
+     "output_artist": "Marillion",
+     "output_title": "Going Under",
+     "sectors": 12583,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Just for the Record",
+     "length_seconds": 189400,
+     "number": 5,
+     "offset": 75888,
+     "output_artist": "Marillion",
+     "output_title": "Just for the Record",
+     "sectors": 14227,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "White Russian",
+     "length_seconds": 386000,
+     "number": 6,
+     "offset": 90115,
+     "output_artist": "Marillion",
+     "output_title": "White Russian",
+     "sectors": 29060,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Incommunicado",
+     "length_seconds": 315720,
+     "number": 7,
+     "offset": 119175,
+     "output_artist": "Marillion",
+     "output_title": "Incommunicado",
+     "sectors": 23760,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Torch Song",
+     "length_seconds": 245106,
+     "number": 8,
+     "offset": 142935,
+     "output_artist": "Marillion",
+     "output_title": "Torch Song",
+     "sectors": 18370,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Sl\u00e0inte Mhath",
+     "length_seconds": 284933,
+     "number": 9,
+     "offset": 161305,
+     "output_artist": "Marillion",
+     "output_title": "Sl\u00e0inte Mhath",
+     "sectors": 21393,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Sugar Mice",
+     "length_seconds": 345600,
+     "number": 10,
+     "offset": 182698,
+     "output_artist": "Marillion",
+     "output_title": "Sugar Mice",
+     "sectors": 26005,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Last Straw / Happy Ending",
+     "length_seconds": 358600,
+     "number": 11,
+     "offset": 208703,
+     "output_artist": "Marillion",
+     "output_title": "The Last Straw / Happy Ending",
+     "sectors": 26872,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0067": {
+   "album_uniq_id": "alb.0035",
+   "artist": "",
+   "cddb_id": "790c010a",
+   "cddb_string": "790c010a 10 182 20007 42007 69415 92707 118385 151985 159972 188257 191165 3075",
+   "disc_of_set": 1,
+   "downloaded_artists": "Pink Floyd",
+   "downloaded_titles": "A Momentary Lapse of Reason",
+   "json_path": "source/pink_floyd_momentary_lapse_of_reason/disc.json",
+   "musicbrainz_id": "BUSwKd5f1hJ_rkjYsQf8_Uc0Yts-",
+   "musicbrainz_release_id": "62760f4e-0b2b-4a26-b6ec-7a5b751549ef",
+   "musicbrainz_string": "10 182 20007 42007 69415 92707 118385 151985 159972 188257 191165 230680",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "pink_floyd_momentary_lapse_of_reason",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Signs of Life",
+     "length_seconds": 264400,
+     "number": 1,
+     "offset": 182,
+     "output_artist": "Unknown artist",
+     "output_title": "Signs of Life",
+     "sectors": 19825,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Learning to Fly",
+     "length_seconds": 293266,
+     "number": 2,
+     "offset": 20007,
+     "output_artist": "Unknown artist",
+     "output_title": "Learning to Fly",
+     "sectors": 22000,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Dogs of War",
+     "length_seconds": 365533,
+     "number": 3,
+     "offset": 42007,
+     "output_artist": "Unknown artist",
+     "output_title": "The Dogs of War",
+     "sectors": 27408,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "One Slip",
+     "length_seconds": 310466,
+     "number": 4,
+     "offset": 69415,
+     "output_artist": "Unknown artist",
+     "output_title": "One Slip",
+     "sectors": 23292,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "On the Turning Away",
+     "length_seconds": 342373,
+     "number": 5,
+     "offset": 92707,
+     "output_artist": "Unknown artist",
+     "output_title": "On the Turning Away",
+     "sectors": 25678,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Yet Another Movie / Round and Around",
+     "length_seconds": 448000,
+     "number": 6,
+     "offset": 118385,
+     "output_artist": "Unknown artist",
+     "output_title": "Yet Another Movie / Round and Around",
+     "sectors": 33600,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "A New Machine, Part 1",
+     "length_seconds": 106600,
+     "number": 7,
+     "offset": 151985,
+     "output_artist": "Unknown artist",
+     "output_title": "A New Machine, Part 1",
+     "sectors": 7987,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Terminal Frost",
+     "length_seconds": 377093,
+     "number": 8,
+     "offset": 159972,
+     "output_artist": "Unknown artist",
+     "output_title": "Terminal Frost",
+     "sectors": 28285,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "A New Machine, Part 2",
+     "length_seconds": 38706,
+     "number": 9,
+     "offset": 188257,
+     "output_artist": "Unknown artist",
+     "output_title": "A New Machine, Part 2",
+     "sectors": 2908,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Sorrow",
+     "length_seconds": 526866,
+     "number": 10,
+     "offset": 191165,
+     "output_artist": "Unknown artist",
+     "output_title": "Sorrow",
+     "sectors": 39515,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

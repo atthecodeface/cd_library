@@ -1,0 +1,147 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0065": {
+   "album_uniq_id": "alb.0034",
+   "artist": "",
+   "cddb_id": "990b470a",
+   "cddb_string": "990b470a 10 183 31100 48770 74023 95010 119638 140860 163055 177955 186528 2889",
+   "disc_of_set": 1,
+   "downloaded_artists": "Marillion",
+   "downloaded_titles": "Holidays in Eden",
+   "json_path": "source/marillion_holidays_in_eden/disc.json",
+   "musicbrainz_id": "svJx3QdbThzbop2e5PXxGqtvjWQ-",
+   "musicbrainz_release_id": "7b3707fa-791d-4d62-bff7-96fc876003f6",
+   "musicbrainz_string": "10 183 31100 48770 74023 95010 119638 140860 163055 177955 186528 216680",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "marillion_holidays_in_eden",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Splintering Heart",
+     "length_seconds": 413506,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Marillion",
+     "output_title": "Splintering Heart",
+     "sectors": 30917,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Cover My Eyes (Pain and Heaven)",
+     "length_seconds": 234866,
+     "number": 2,
+     "offset": 31100,
+     "output_artist": "Marillion",
+     "output_title": "Cover My Eyes (Pain and Heaven)",
+     "sectors": 17670,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Party",
+     "length_seconds": 336133,
+     "number": 3,
+     "offset": 48770,
+     "output_artist": "Marillion",
+     "output_title": "The Party",
+     "sectors": 25253,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "No One Can",
+     "length_seconds": 280400,
+     "number": 4,
+     "offset": 74023,
+     "output_artist": "Marillion",
+     "output_title": "No One Can",
+     "sectors": 20987,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Holidays in Eden",
+     "length_seconds": 337960,
+     "number": 5,
+     "offset": 95010,
+     "output_artist": "Marillion",
+     "output_title": "Holidays in Eden",
+     "sectors": 24628,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Dry Land",
+     "length_seconds": 282600,
+     "number": 6,
+     "offset": 119638,
+     "output_artist": "Marillion",
+     "output_title": "Dry Land",
+     "sectors": 21222,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Waiting to Happen",
+     "length_seconds": 301333,
+     "number": 7,
+     "offset": 140860,
+     "output_artist": "Marillion",
+     "output_title": "Waiting to Happen",
+     "sectors": 22195,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "This Town",
+     "length_seconds": 198026,
+     "number": 8,
+     "offset": 163055,
+     "output_artist": "Marillion",
+     "output_title": "This Town",
+     "sectors": 14900,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Rakes Progress",
+     "length_seconds": 114106,
+     "number": 9,
+     "offset": 177955,
+     "output_artist": "Marillion",
+     "output_title": "The Rakes Progress",
+     "sectors": 8573,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "100 Nights",
+     "length_seconds": 401293,
+     "number": 10,
+     "offset": 186528,
+     "output_artist": "Marillion",
+     "output_title": "100 Nights",
+     "sectors": 30152,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

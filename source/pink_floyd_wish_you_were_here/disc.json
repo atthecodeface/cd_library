@@ -1,0 +1,87 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0068": {
+   "album_uniq_id": "alb.0036",
+   "artist": "",
+   "cddb_id": "440a5905",
+   "cddb_string": "440a5905 5 183 60993 94495 117595 143120 2651",
+   "disc_of_set": 1,
+   "downloaded_artists": "Pink Floyd",
+   "downloaded_titles": "Wish You Were Here",
+   "json_path": "source/pink_floyd_wish_you_were_here/disc.json",
+   "musicbrainz_id": "7_0c1HUOtL94MTSdKJWc_OENTWo-",
+   "musicbrainz_release_id": "1c5a1081-054b-33f8-9135-a9f668d6171b",
+   "musicbrainz_string": "5 183 60993 94495 117595 143120 198835",
+   "num_tracks": 5,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "pink_floyd_wish_you_were_here",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Shine On You Crazy Diamond, Parts I\u2013V",
+     "length_seconds": 810800,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Unknown artist",
+     "output_title": "Shine On You Crazy Diamond, Parts I\u2013V",
+     "sectors": 60810,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Welcome to the Machine",
+     "length_seconds": 446693,
+     "number": 2,
+     "offset": 60993,
+     "output_artist": "Unknown artist",
+     "output_title": "Welcome to the Machine",
+     "sectors": 33502,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Have a Cigar",
+     "length_seconds": 308000,
+     "number": 3,
+     "offset": 94495,
+     "output_artist": "Unknown artist",
+     "output_title": "Have a Cigar",
+     "sectors": 23100,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Wish You Were Here",
+     "length_seconds": 340333,
+     "number": 4,
+     "offset": 117595,
+     "output_artist": "Unknown artist",
+     "output_title": "Wish You Were Here",
+     "sectors": 25525,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Shine On You Crazy Diamond, Parts VI\u2013IX",
+     "length_seconds": 742866,
+     "number": 5,
+     "offset": 143120,
+     "output_artist": "Unknown artist",
+     "output_title": "Shine On You Crazy Diamond, Parts VI\u2013IX",
+     "sectors": 55715,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

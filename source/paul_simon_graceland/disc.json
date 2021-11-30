@@ -28,7 +28,7 @@
      "length_seconds": 239026,
      "number": 1,
      "offset": 225,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "The Boy in the Bubble",
      "sectors": 17927,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 290933,
      "number": 2,
      "offset": 18152,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Graceland",
      "sectors": 21820,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 193173,
      "number": 3,
      "offset": 39972,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "I Know What I Know",
      "sectors": 14488,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 164800,
      "number": 4,
      "offset": 54460,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Gumboots",
      "sectors": 12360,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 348400,
      "number": 5,
      "offset": 66820,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Diamonds on the Soles of Her Shoes",
      "sectors": 26130,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 280160,
      "number": 6,
      "offset": 92950,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "You Can Call Me Al",
      "sectors": 21012,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 217106,
      "number": 7,
      "offset": 113962,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Under African Skies",
      "sectors": 16283,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 228026,
      "number": 8,
      "offset": 130245,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Homeless",
      "sectors": 17102,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 259000,
      "number": 9,
      "offset": 147347,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Crazy Love, Vol. II",
      "sectors": 19425,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 172813,
      "number": 10,
      "offset": 166772,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "That Was Your Mother",
      "sectors": 12938,
      "title": ""
@@ -148,7 +148,7 @@
      "length_seconds": 196266,
      "number": 11,
      "offset": 179710,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "All Around the World or The Myth of Fingerprints",
      "sectors": 14622,
      "title": ""

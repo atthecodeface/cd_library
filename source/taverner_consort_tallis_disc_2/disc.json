@@ -28,7 +28,7 @@
      "length_seconds": 1100000,
      "number": 1,
      "offset": 150,
-     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_artist": "Unknown artist",
      "output_title": "Gaude Gloriosa Dei Mater",
      "sectors": 81640,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 112000,
      "number": 2,
      "offset": 81790,
-     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_artist": "Unknown artist",
      "output_title": "Te Lucis Ante Terminum (Procul Recedent Somnia)",
      "sectors": 8440,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 105000,
      "number": 3,
      "offset": 90230,
-     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_artist": "Unknown artist",
      "output_title": "Miserere Nostri",
      "sectors": 7898,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 153000,
      "number": 4,
      "offset": 98128,
-     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_artist": "Unknown artist",
      "output_title": "Salvator Mundi I",
      "sectors": 11975,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 526000,
      "number": 5,
      "offset": 110103,
-     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_artist": "Unknown artist",
      "output_title": "Lamentations Of Jeremiah I",
      "sectors": 39495,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 153000,
      "number": 6,
      "offset": 149598,
-     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_artist": "Unknown artist",
      "output_title": "Salvator Mundi II",
      "sectors": 11485,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 235000,
      "number": 7,
      "offset": 161083,
-     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_artist": "Unknown artist",
      "output_title": "O Sacrum Convivium",
      "sectors": 17647,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 517000,
      "number": 8,
      "offset": 178730,
-     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_artist": "Unknown artist",
      "output_title": "Suscipe, Quaeso Domine",
      "sectors": 38793,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 104373,
      "number": 9,
      "offset": 217523,
-     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_artist": "Unknown artist",
      "output_title": "O Nata Lux",
      "sectors": 7875,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 250000,
      "number": 10,
      "offset": 225398,
-     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_artist": "Unknown artist",
      "output_title": "In Jejunio Et Fletu",
      "sectors": 18787,
      "title": ""
@@ -148,7 +148,7 @@
      "length_seconds": 782000,
      "number": 11,
      "offset": 244185,
-     "output_artist": "Tallis; Taverner Consort, Andrew Parrott",
+     "output_artist": "Unknown artist",
      "output_title": "Lamentations Of Jeremiah II",
      "sectors": 58763,
      "title": ""

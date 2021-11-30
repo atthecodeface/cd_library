@@ -1,0 +1,135 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0063": {
+   "album_uniq_id": "alb.0032",
+   "artist": "",
+   "cddb_id": "790dff09",
+   "cddb_string": "790dff09 9 183 77870 99528 117265 135388 155028 171770 190138 213605 3585",
+   "disc_of_set": 1,
+   "downloaded_artists": "Marillion",
+   "downloaded_titles": "B'sides Themselves",
+   "json_path": "source/marillion_b_sides_themselves/disc.json",
+   "musicbrainz_id": "8mh5B4FfSotD4MKuPoE6uNbnjMY-",
+   "musicbrainz_release_id": "d4ea5c4c-f04b-4b28-8ef3-2266afbe61aa",
+   "musicbrainz_string": "9 183 77870 99528 117265 135388 155028 171770 190138 213605 268888",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "marillion_b_sides_themselves",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Grendel",
+     "length_seconds": 1035333,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Marillion",
+     "output_title": "Grendel",
+     "sectors": 77687,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Charting the Single",
+     "length_seconds": 288773,
+     "number": 2,
+     "offset": 77870,
+     "output_artist": "Marillion",
+     "output_title": "Charting the Single",
+     "sectors": 21658,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Market Square Heroes",
+     "length_seconds": 237000,
+     "number": 3,
+     "offset": 99528,
+     "output_artist": "Marillion",
+     "output_title": "Market Square Heroes",
+     "sectors": 17737,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Three Boats Down From the Candy",
+     "length_seconds": 241640,
+     "number": 4,
+     "offset": 117265,
+     "output_artist": "Marillion",
+     "output_title": "Three Boats Down From the Candy",
+     "sectors": 18123,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Cinderella Search",
+     "length_seconds": 261866,
+     "number": 5,
+     "offset": 135388,
+     "output_artist": "Marillion",
+     "output_title": "Cinderella Search",
+     "sectors": 19640,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Lady Nina",
+     "length_seconds": 222066,
+     "number": 6,
+     "offset": 155028,
+     "output_artist": "Marillion",
+     "output_title": "Lady Nina",
+     "sectors": 16742,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Freaks",
+     "length_seconds": 245160,
+     "number": 7,
+     "offset": 171770,
+     "output_artist": "Marillion",
+     "output_title": "Freaks",
+     "sectors": 18368,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Tux On",
+     "length_seconds": 312893,
+     "number": 8,
+     "offset": 190138,
+     "output_artist": "Marillion",
+     "output_title": "Tux On",
+     "sectors": 23467,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Margaret (live)",
+     "length_seconds": 737000,
+     "number": 9,
+     "offset": 213605,
+     "output_artist": "Marillion",
+     "output_title": "Margaret (live)",
+     "sectors": 55283,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

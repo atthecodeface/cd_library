@@ -1,0 +1,135 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0061": {
+   "album_uniq_id": "alb.0030",
+   "artist": "",
+   "cddb_id": "800be109",
+   "cddb_string": "800be109 9 183 36358 63190 80630 117208 137290 172065 187043 200158 3043",
+   "disc_of_set": 1,
+   "downloaded_artists": "Marillion",
+   "downloaded_titles": "Seasons End",
+   "json_path": "source/marillion_seasons_end/disc.json",
+   "musicbrainz_id": "qHGG.2mRqYPjImYStdSufrde5r8-",
+   "musicbrainz_release_id": "d894a528-1a22-47f1-9c7e-1dcd4054e698",
+   "musicbrainz_string": "9 183 36358 63190 80630 117208 137290 172065 187043 200158 228260",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "marillion_seasons_end",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The King of Sunset Town",
+     "length_seconds": 484933,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Marillion",
+     "output_title": "The King of Sunset Town",
+     "sectors": 36175,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Easter",
+     "length_seconds": 357574,
+     "number": 2,
+     "offset": 36358,
+     "output_artist": "Marillion",
+     "output_title": "Easter",
+     "sectors": 26832,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Uninvited Guest",
+     "length_seconds": 232293,
+     "number": 3,
+     "offset": 63190,
+     "output_artist": "Marillion",
+     "output_title": "The Uninvited Guest",
+     "sectors": 17440,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Seasons End",
+     "length_seconds": 490133,
+     "number": 4,
+     "offset": 80630,
+     "output_artist": "Marillion",
+     "output_title": "Seasons End",
+     "sectors": 36578,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Holloway Girl",
+     "length_seconds": 270040,
+     "number": 5,
+     "offset": 117208,
+     "output_artist": "Marillion",
+     "output_title": "Holloway Girl",
+     "sectors": 20082,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Berlin",
+     "length_seconds": 468000,
+     "number": 6,
+     "offset": 137290,
+     "output_artist": "Marillion",
+     "output_title": "Berlin",
+     "sectors": 34775,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "After Me",
+     "length_seconds": 200533,
+     "number": 7,
+     "offset": 172065,
+     "output_artist": "Marillion",
+     "output_title": "After Me",
+     "sectors": 14978,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Hooks in You",
+     "length_seconds": 175200,
+     "number": 8,
+     "offset": 187043,
+     "output_artist": "Marillion",
+     "output_title": "Hooks in You",
+     "sectors": 13115,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Space\u2026",
+     "length_seconds": 374333,
+     "number": 9,
+     "offset": 200158,
+     "output_artist": "Marillion",
+     "output_title": "The Space\u2026",
+     "sectors": 28102,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
