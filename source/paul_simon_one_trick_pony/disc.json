@@ -28,7 +28,7 @@
      "length_seconds": 242520,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Late in the Evening",
      "sectors": 18290,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 217626,
      "number": 2,
      "offset": 18440,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "That\u2019s Why God Made the Movies",
      "sectors": 16343,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 233680,
      "number": 3,
      "offset": 34783,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "One\u2010Trick Pony",
      "sectors": 17545,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 169000,
      "number": 4,
      "offset": 52328,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "How the Heart Approaches What It Yearns",
      "sectors": 12732,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 240093,
      "number": 5,
      "offset": 65060,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Oh, Marion",
      "sectors": 18010,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 343000,
      "number": 6,
      "offset": 83070,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Ace in the Hole",
      "sectors": 25793,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 212733,
      "number": 7,
      "offset": 108863,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Nobody",
      "sectors": 15982,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 210640,
      "number": 8,
      "offset": 124845,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Jonah",
      "sectors": 15833,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 197000,
      "number": 9,
      "offset": 140678,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "God Bless the Absentee",
      "sectors": 14667,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 230000,
      "number": 10,
      "offset": 155345,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Long, Long Day",
      "sectors": 17100,
      "title": ""

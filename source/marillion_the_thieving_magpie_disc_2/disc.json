@@ -1,0 +1,147 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0059": {
+   "album_uniq_id": "alb.0029",
+   "artist": "",
+   "cddb_id": "890a000a",
+   "cddb_string": "890a000a 10 183 10645 28078 39123 73478 96925 107188 134773 159895 172495 2562",
+   "disc_of_set": 2,
+   "downloaded_artists": "Marillion",
+   "downloaded_titles": "\u2018The Thieving Magpie\u2019 (La Gazza Ladra)",
+   "json_path": "source/marillion_the_thieving_magpie_disc_2/disc.json",
+   "musicbrainz_id": "XZKbDJtfjhHlemVOJWig2e.Rlzw-",
+   "musicbrainz_release_id": "b97fefbb-38f8-4646-829c-0fcd56909466",
+   "musicbrainz_string": "10 183 10645 28078 39123 73478 96925 107188 134773 159895 172495 192218",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "marillion_the_thieving_magpie_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Pseudo Silk Kimono",
+     "length_seconds": 139493,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Marillion",
+     "output_title": "Pseudo Silk Kimono",
+     "sectors": 10462,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Kayleigh",
+     "length_seconds": 232440,
+     "number": 2,
+     "offset": 10645,
+     "output_artist": "Marillion",
+     "output_title": "Kayleigh",
+     "sectors": 17433,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Lavender",
+     "length_seconds": 147266,
+     "number": 3,
+     "offset": 28078,
+     "output_artist": "Marillion",
+     "output_title": "Lavender",
+     "sectors": 11045,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Bitter Suite",
+     "length_seconds": 458066,
+     "number": 4,
+     "offset": 39123,
+     "output_artist": "Marillion",
+     "output_title": "Bitter Suite",
+     "sectors": 34355,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Heart of Lothian",
+     "length_seconds": 312626,
+     "number": 5,
+     "offset": 73478,
+     "output_artist": "Marillion",
+     "output_title": "Heart of Lothian",
+     "sectors": 23447,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Waterhole (Expresso Bongo)",
+     "length_seconds": 136840,
+     "number": 6,
+     "offset": 96925,
+     "output_artist": "Marillion",
+     "output_title": "Waterhole (Expresso Bongo)",
+     "sectors": 10263,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Lords of the Backstage",
+     "length_seconds": 367800,
+     "number": 7,
+     "offset": 107188,
+     "output_artist": "Marillion",
+     "output_title": "Lords of the Backstage",
+     "sectors": 27585,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Blind Curve",
+     "length_seconds": 334960,
+     "number": 8,
+     "offset": 134773,
+     "output_artist": "Marillion",
+     "output_title": "Blind Curve",
+     "sectors": 25122,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Childhoods End?",
+     "length_seconds": 168000,
+     "number": 9,
+     "offset": 159895,
+     "output_artist": "Marillion",
+     "output_title": "Childhoods End?",
+     "sectors": 12600,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "White Feather",
+     "length_seconds": 262973,
+     "number": 10,
+     "offset": 172495,
+     "output_artist": "Marillion",
+     "output_title": "White Feather",
+     "sectors": 19723,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

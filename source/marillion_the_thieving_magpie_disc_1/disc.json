@@ -1,0 +1,171 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0060": {
+   "album_uniq_id": "alb.0029",
+   "artist": "",
+   "cddb_id": "b8105b0c",
+   "cddb_string": "b8105b0c 12 183 12618 34345 57800 93848 112305 141135 156363 183593 222520 261933 286183 4189",
+   "disc_of_set": 1,
+   "downloaded_artists": "Marillion",
+   "downloaded_titles": "\u2018The Thieving Magpie\u2019 (La Gazza Ladra)",
+   "json_path": "source/marillion_the_thieving_magpie_disc_1/disc.json",
+   "musicbrainz_id": "8Qmck2JrZYiyBtMYWWMkGZesgKU-",
+   "musicbrainz_release_id": "b97fefbb-38f8-4646-829c-0fcd56909466",
+   "musicbrainz_string": "12 183 12618 34345 57800 93848 112305 141135 156363 183593 222520 261933 286183 314243",
+   "num_tracks": 12,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "marillion_the_thieving_magpie_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Intro - La Gazza Ladra",
+     "length_seconds": 165800,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Unknown artist",
+     "output_title": "Intro - La Gazza Ladra",
+     "sectors": 12435,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Sl\u00e0inte Mhath",
+     "length_seconds": 289693,
+     "number": 2,
+     "offset": 12618,
+     "output_artist": "Unknown artist",
+     "output_title": "Sl\u00e0inte Mhath",
+     "sectors": 21727,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "He Knows You Know",
+     "length_seconds": 312733,
+     "number": 3,
+     "offset": 34345,
+     "output_artist": "Unknown artist",
+     "output_title": "He Knows You Know",
+     "sectors": 23455,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chelsea Monday",
+     "length_seconds": 480640,
+     "number": 4,
+     "offset": 57800,
+     "output_artist": "Unknown artist",
+     "output_title": "Chelsea Monday",
+     "sectors": 36048,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Freaks",
+     "length_seconds": 246093,
+     "number": 5,
+     "offset": 93848,
+     "output_artist": "Unknown artist",
+     "output_title": "Freaks",
+     "sectors": 18457,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Jigsaw",
+     "length_seconds": 384400,
+     "number": 6,
+     "offset": 112305,
+     "output_artist": "Unknown artist",
+     "output_title": "Jigsaw",
+     "sectors": 28830,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Punch & Judy",
+     "length_seconds": 203040,
+     "number": 7,
+     "offset": 141135,
+     "output_artist": "Unknown artist",
+     "output_title": "Punch & Judy",
+     "sectors": 15228,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Sugar Mice",
+     "length_seconds": 363066,
+     "number": 8,
+     "offset": 156363,
+     "output_artist": "Unknown artist",
+     "output_title": "Sugar Mice",
+     "sectors": 27230,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Fugazi",
+     "length_seconds": 519026,
+     "number": 9,
+     "offset": 183593,
+     "output_artist": "Unknown artist",
+     "output_title": "Fugazi",
+     "sectors": 38927,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Script for a Jester\u2019s Tear",
+     "length_seconds": 525506,
+     "number": 10,
+     "offset": 222520,
+     "output_artist": "Unknown artist",
+     "output_title": "Script for a Jester\u2019s Tear",
+     "sectors": 39413,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Incommunicado",
+     "length_seconds": 323333,
+     "number": 11,
+     "offset": 261933,
+     "output_artist": "Unknown artist",
+     "output_title": "Incommunicado",
+     "sectors": 24250,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "White Russian",
+     "length_seconds": 374133,
+     "number": 12,
+     "offset": 286183,
+     "output_artist": "Unknown artist",
+     "output_title": "White Russian",
+     "sectors": 28060,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

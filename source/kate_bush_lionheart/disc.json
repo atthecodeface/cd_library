@@ -1,0 +1,147 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0052": {
+   "album_uniq_id": "alb.0023",
+   "artist": "",
+   "cddb_id": "9208a90a",
+   "cddb_string": "9208a90a 10 220 16480 33477 51535 66205 80612 95175 111330 129045 145470 2219",
+   "disc_of_set": 1,
+   "downloaded_artists": "Kate Bush",
+   "downloaded_titles": "Lionheart",
+   "json_path": "source/kate_bush_lionheart/disc.json",
+   "musicbrainz_id": "0r7rva79F6s7lQC4SEc5snG9_u0-",
+   "musicbrainz_release_id": "eb3b5565-689e-354b-a828-c00929b0b98a",
+   "musicbrainz_string": "10 220 16480 33477 51535 66205 80612 95175 111330 129045 145470 166430",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "kate_bush_lionheart",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony in Blue",
+     "length_seconds": 216800,
+     "number": 1,
+     "offset": 220,
+     "output_artist": "Unknown artist",
+     "output_title": "Symphony in Blue",
+     "sectors": 16260,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "In Search of Peter Pan",
+     "length_seconds": 226626,
+     "number": 2,
+     "offset": 16480,
+     "output_artist": "Unknown artist",
+     "output_title": "In Search of Peter Pan",
+     "sectors": 16997,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Wow",
+     "length_seconds": 240773,
+     "number": 3,
+     "offset": 33477,
+     "output_artist": "Unknown artist",
+     "output_title": "Wow",
+     "sectors": 18058,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Don't Push Your Foot on the Heartbrake",
+     "length_seconds": 195600,
+     "number": 4,
+     "offset": 51535,
+     "output_artist": "Unknown artist",
+     "output_title": "Don't Push Your Foot on the Heartbrake",
+     "sectors": 14670,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Oh England My Lionheart",
+     "length_seconds": 192093,
+     "number": 5,
+     "offset": 66205,
+     "output_artist": "Unknown artist",
+     "output_title": "Oh England My Lionheart",
+     "sectors": 14407,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Fullhouse",
+     "length_seconds": 194000,
+     "number": 6,
+     "offset": 80612,
+     "output_artist": "Unknown artist",
+     "output_title": "Fullhouse",
+     "sectors": 14563,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "In the Warm Room",
+     "length_seconds": 215400,
+     "number": 7,
+     "offset": 95175,
+     "output_artist": "Unknown artist",
+     "output_title": "In the Warm Room",
+     "sectors": 16155,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Kashka From Baghdad",
+     "length_seconds": 236200,
+     "number": 8,
+     "offset": 111330,
+     "output_artist": "Unknown artist",
+     "output_title": "Kashka From Baghdad",
+     "sectors": 17715,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Coffee Homeground",
+     "length_seconds": 219000,
+     "number": 9,
+     "offset": 129045,
+     "output_artist": "Unknown artist",
+     "output_title": "Coffee Homeground",
+     "sectors": 16425,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Hammer Horror",
+     "length_seconds": 279466,
+     "number": 10,
+     "offset": 145470,
+     "output_artist": "Unknown artist",
+     "output_title": "Hammer Horror",
+     "sectors": 20960,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

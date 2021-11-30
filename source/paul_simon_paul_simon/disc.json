@@ -28,7 +28,7 @@
      "length_seconds": 186000,
      "number": 1,
      "offset": 183,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Mother and Child Reunion",
      "sectors": 14250,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 283133,
      "number": 2,
      "offset": 14433,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Duncan",
      "sectors": 21247,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 121866,
      "number": 3,
      "offset": 35680,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Everything Put Together Falls Apart",
      "sectors": 9163,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 234600,
      "number": 4,
      "offset": 44843,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Run That Body Down",
      "sectors": 17582,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 237066,
      "number": 5,
      "offset": 62425,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Armistice Day",
      "sectors": 17858,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 163906,
      "number": 6,
      "offset": 80283,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Me and Julio Down by the Schoolyard",
      "sectors": 12370,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 203280,
      "number": 7,
      "offset": 92653,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Peace Like a River",
      "sectors": 15257,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 155533,
      "number": 8,
      "offset": 107910,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Papa Hobo",
      "sectors": 11695,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 80773,
      "number": 9,
      "offset": 119605,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Hobo\u2019s Blues",
      "sectors": 6063,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 178146,
      "number": 10,
      "offset": 125668,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Paranoia Blues",
      "sectors": 13375,
      "title": ""
@@ -148,7 +148,7 @@
      "length_seconds": 223040,
      "number": 11,
      "offset": 139043,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Congratulations",
      "sectors": 16727,
      "title": ""

@@ -6,7 +6,7 @@
    "artist": "P.D.James",
    "cddb_id": "e60d3010",
    "cddb_string": "e60d3010 16 150 11917 28894 41390 57142 72173 90385 104101 124257 145513 158596 176560 192331 207004 224722 242906 3378",
-   "disc_of_set": 1,
+   "disc_of_set": 16,
    "downloaded_artists": "",
    "downloaded_titles": "",
    "json_path": "source/bbc_pdjames_collection_disc_16/disc.json",

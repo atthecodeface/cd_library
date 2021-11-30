@@ -1,0 +1,159 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0051": {
+   "album_uniq_id": "alb.0022",
+   "artist": "",
+   "cddb_id": "760ac50b",
+   "cddb_string": "760ac50b 11 183 18008 39193 62198 76633 100723 122190 137965 154830 173370 189788 2759",
+   "disc_of_set": 1,
+   "downloaded_artists": "Kate Bush",
+   "downloaded_titles": "The Sensual World",
+   "json_path": "source/kate_bush_the_sensual_world/disc.json",
+   "musicbrainz_id": "AvpeSfUU9C2lDVejuThRgO29DSQ-",
+   "musicbrainz_release_id": "d7fe4164-109f-48d2-a35a-53f6502f3f3d",
+   "musicbrainz_string": "11 183 18008 39193 62198 76633 100723 122190 137965 154830 173370 189788 206950",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "kate_bush_the_sensual_world",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Sensual World",
+     "length_seconds": 237466,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Kate Bush",
+     "output_title": "The Sensual World",
+     "sectors": 17825,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Love and Anger",
+     "length_seconds": 282000,
+     "number": 2,
+     "offset": 18008,
+     "output_artist": "Kate Bush",
+     "output_title": "Love and Anger",
+     "sectors": 21185,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Fog",
+     "length_seconds": 307000,
+     "number": 3,
+     "offset": 39193,
+     "output_artist": "Kate Bush",
+     "output_title": "The Fog",
+     "sectors": 23005,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Reaching Out",
+     "length_seconds": 192000,
+     "number": 4,
+     "offset": 62198,
+     "output_artist": "Kate Bush",
+     "output_title": "Reaching Out",
+     "sectors": 14435,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Heads We\u2019re Dancing",
+     "length_seconds": 321000,
+     "number": 5,
+     "offset": 76633,
+     "output_artist": "Kate Bush",
+     "output_title": "Heads We\u2019re Dancing",
+     "sectors": 24090,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Deeper Understanding",
+     "length_seconds": 286000,
+     "number": 6,
+     "offset": 100723,
+     "output_artist": "Kate Bush",
+     "output_title": "Deeper Understanding",
+     "sectors": 21467,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Between a Man and a Woman",
+     "length_seconds": 210000,
+     "number": 7,
+     "offset": 122190,
+     "output_artist": "Kate Bush",
+     "output_title": "Between a Man and a Woman",
+     "sectors": 15775,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Never Be Mine",
+     "length_seconds": 225000,
+     "number": 8,
+     "offset": 137965,
+     "output_artist": "Kate Bush",
+     "output_title": "Never Be Mine",
+     "sectors": 16865,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Rocket\u2019s Tail",
+     "length_seconds": 247000,
+     "number": 9,
+     "offset": 154830,
+     "output_artist": "Kate Bush",
+     "output_title": "Rocket\u2019s Tail",
+     "sectors": 18540,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "This Woman\u2019s Work",
+     "length_seconds": 218000,
+     "number": 10,
+     "offset": 173370,
+     "output_artist": "Kate Bush",
+     "output_title": "This Woman\u2019s Work",
+     "sectors": 16418,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Walk Straight Down the Middle",
+     "length_seconds": 228600,
+     "number": 11,
+     "offset": 189788,
+     "output_artist": "Kate Bush",
+     "output_title": "Walk Straight Down the Middle",
+     "sectors": 17162,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

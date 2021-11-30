@@ -1,0 +1,34 @@
+CddbId:960a740c:[183, 16828, 33553, 50623, 68263, 86485, 100750, 117385, 135968, 152680, 171728, 188940]:200850:74:960a740c 12 183 16828 33553 50623 68263 86485 100750 117385 135968 152680 171728 188940 2678: 12 0 0 0 0 0 0 0 0 0 0 0 0 2678
+num_tracks: 12
+offsets: [183, 16828, 33553, 50623, 68263, 86485, 100750, 117385, 135968, 152680, 171728, 188940]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 2678
+cddb: [2517267468, 12, 183, 16828, 33553, 50623, 68263, 86485, 100750, 117385, 135968, 152680, 171728, 188940, 2678]
+musicbrainz: ('12 183 16828 33553 50623 68263 86485 100750 117385 135968 152680 171728 188940 200855', 'v414YK67GiKUQ3k9z_ZNOSDz3JU-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'MATSHITA'
+Identification : 'BD-MLT UJ240AS  '
+Revision       : '1.00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO RAW/R16 RAW/R96P RAW/R96R
+first: 1 last 12
+track:   1 lba:        33 (      132) 00:02:33 adr: 1 control: 0 mode: 0
+track:   2 lba:     16678 (    66712) 03:44:28 adr: 1 control: 0 mode: 0
+track:   3 lba:     33403 (   133612) 07:27:28 adr: 1 control: 0 mode: 0
+track:   4 lba:     50473 (   201892) 11:14:73 adr: 1 control: 0 mode: 0
+track:   5 lba:     68113 (   272452) 15:10:13 adr: 1 control: 0 mode: 0
+track:   6 lba:     86335 (   345340) 19:13:10 adr: 1 control: 0 mode: 0
+track:   7 lba:    100600 (   402400) 22:23:25 adr: 1 control: 0 mode: 0
+track:   8 lba:    117235 (   468940) 26:05:10 adr: 1 control: 0 mode: 0
+track:   9 lba:    135818 (   543272) 30:12:68 adr: 1 control: 0 mode: 0
+track:  10 lba:    152530 (   610120) 33:55:55 adr: 1 control: 0 mode: 0
+track:  11 lba:    171578 (   686312) 38:09:53 adr: 1 control: 0 mode: 0
+track:  12 lba:    188790 (   755160) 41:59:15 adr: 1 control: 0 mode: 0
+track:lout lba:    200705 (   802820) 44:38:05 adr: 1 control: 0 mode: -1
