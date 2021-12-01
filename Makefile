@@ -53,5 +53,11 @@ verify_mp3: check_in_library_root
 rsync_to_mnt: check_in_library_root
 	(cd ${LIBRARY_ROOT} && rsync -vrltD mp3 /mnt)
 
+rsync_to_mnt2: check_in_library_root
+	(cd ${LIBRARY_ROOT} && rsync -vrltD mp3 /mnt2)
+
 rsync_to_backup_mnt3: check_in_library_root
 	(cd ${LIBRARY_ROOT} && rsync -av ./ /mnt3)
+
+rsync_to_nas: check_in_library_root
+	(cd ${LIBRARY_ROOT} && rsync -av . writer@10.1.17.34:/nas/audio/turnipdb_library)
