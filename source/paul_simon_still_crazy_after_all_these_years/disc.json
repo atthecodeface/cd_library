@@ -1,0 +1,147 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0078": {
+   "album_uniq_id": "alb.0043",
+   "artist": "",
+   "cddb_id": "7708400a",
+   "cddb_string": "7708400a 10 183 15665 33053 49198 65500 78770 95328 109893 125360 140355 2114",
+   "disc_of_set": 1,
+   "downloaded_artists": "Paul Simon",
+   "downloaded_titles": "Still Crazy After All These Years",
+   "json_path": "source/paul_simon_still_crazy_after_all_these_years/disc.json",
+   "musicbrainz_id": "8OKcr32iqOYQtoy_2HhH8kNnBZ4-",
+   "musicbrainz_release_id": "a8d6b876-925d-44f8-b85d-d4bd51d36c79",
+   "musicbrainz_string": "10 183 15665 33053 49198 65500 78770 95328 109893 125360 140355 158553",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "paul_simon_still_crazy_after_all_these_years",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Still Crazy After All These Years",
+     "length_seconds": 205000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Unknown artist",
+     "output_title": "Still Crazy After All These Years",
+     "sectors": 15482,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "My Little Town",
+     "length_seconds": 231946,
+     "number": 2,
+     "offset": 15665,
+     "output_artist": "Unknown artist",
+     "output_title": "My Little Town",
+     "sectors": 17388,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I Do It for Your Love",
+     "length_seconds": 215000,
+     "number": 3,
+     "offset": 33053,
+     "output_artist": "Unknown artist",
+     "output_title": "I Do It for Your Love",
+     "sectors": 16145,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "50 Ways to Leave Your Lover",
+     "length_seconds": 215000,
+     "number": 4,
+     "offset": 49198,
+     "output_artist": "Unknown artist",
+     "output_title": "50 Ways to Leave Your Lover",
+     "sectors": 16302,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Night Game",
+     "length_seconds": 177000,
+     "number": 5,
+     "offset": 65500,
+     "output_artist": "Unknown artist",
+     "output_title": "Night Game",
+     "sectors": 13270,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Gone at Last",
+     "length_seconds": 220029,
+     "number": 6,
+     "offset": 78770,
+     "output_artist": "Unknown artist",
+     "output_title": "Gone at Last",
+     "sectors": 16558,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Some Folks\u2019 Lives Roll Easy",
+     "length_seconds": 194000,
+     "number": 7,
+     "offset": 95328,
+     "output_artist": "Unknown artist",
+     "output_title": "Some Folks\u2019 Lives Roll Easy",
+     "sectors": 14565,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Have a Good Time",
+     "length_seconds": 206000,
+     "number": 8,
+     "offset": 109893,
+     "output_artist": "Unknown artist",
+     "output_title": "Have a Good Time",
+     "sectors": 15467,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "You\u2019re Kind",
+     "length_seconds": 200146,
+     "number": 9,
+     "offset": 125360,
+     "output_artist": "Unknown artist",
+     "output_title": "You\u2019re Kind",
+     "sectors": 14995,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Silent Eyes",
+     "length_seconds": 243000,
+     "number": 10,
+     "offset": 140355,
+     "output_artist": "Unknown artist",
+     "output_title": "Silent Eyes",
+     "sectors": 18198,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

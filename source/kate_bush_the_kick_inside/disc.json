@@ -28,7 +28,7 @@
      "length_seconds": 181000,
      "number": 1,
      "offset": 150,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Moving",
      "sectors": 13647,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 232000,
      "number": 2,
      "offset": 13797,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "The Saxophone Song",
      "sectors": 17463,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 178000,
      "number": 3,
      "offset": 31260,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Strange Phenomena",
      "sectors": 13402,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 177000,
      "number": 4,
      "offset": 44662,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Kite",
      "sectors": 13275,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 160666,
      "number": 5,
      "offset": 57937,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "The Man With the Child in His Eyes",
      "sectors": 12075,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 269000,
      "number": 6,
      "offset": 70012,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Wuthering Heights",
      "sectors": 20180,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 216000,
      "number": 7,
      "offset": 90192,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "James and the Cold Gun",
      "sectors": 16238,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 182000,
      "number": 8,
      "offset": 106430,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Feel It",
      "sectors": 13715,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 198000,
      "number": 9,
      "offset": 120145,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Oh to Be in Love",
      "sectors": 14857,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 148000,
      "number": 10,
      "offset": 135002,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "L'Amour Looks Something Like You",
      "sectors": 11148,
      "title": ""
@@ -148,7 +148,7 @@
      "length_seconds": 185000,
      "number": 11,
      "offset": 146150,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Them Heavy People",
      "sectors": 13905,
      "title": ""
@@ -160,7 +160,7 @@
      "length_seconds": 245000,
      "number": 12,
      "offset": 160055,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Room for the Life",
      "sectors": 18417,
      "title": ""
@@ -172,7 +172,7 @@
      "length_seconds": 214000,
      "number": 13,
      "offset": 178472,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "The Kick Inside",
      "sectors": 16108,
      "title": ""

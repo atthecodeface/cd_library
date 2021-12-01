@@ -1,0 +1,183 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0080": {
+   "album_uniq_id": "alb.0045",
+   "artist": "",
+   "cddb_id": "b60a320d",
+   "cddb_string": "b60a320d 13 182 23307 34627 43135 60517 69445 97152 107922 118152 125245 141760 158900 170602 2612",
+   "disc_of_set": 1,
+   "downloaded_artists": "Mozart; Kirkby, Watkinson, Johnson, Thomas, Academy of Ancient Music, Christopher Hogwood",
+   "downloaded_titles": "Requiem",
+   "json_path": "source/christopher_hogwood_mozart_requiem_maunder/disc.json",
+   "musicbrainz_id": "dTnupH8gsHiUATqvxwnnsdyLXZ4-",
+   "musicbrainz_release_id": "77f3efe3-ff00-463b-afb1-8440cf966c95",
+   "musicbrainz_string": "13 182 23307 34627 43135 60517 69445 97152 107922 118152 125245 141760 158900 170602 195967",
+   "num_tracks": 13,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "christopher_hogwood_mozart_requiem_maunder",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Introitus, Requiem aeternum",
+     "length_seconds": 308333,
+     "number": 1,
+     "offset": 182,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Introitus, Requiem aeternum",
+     "sectors": 23125,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Kyrie eleison",
+     "length_seconds": 150933,
+     "number": 2,
+     "offset": 23307,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Kyrie eleison",
+     "sectors": 11320,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Dies Irae",
+     "length_seconds": 113440,
+     "number": 3,
+     "offset": 34627,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Dies Irae",
+     "sectors": 8508,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Tuba mirum",
+     "length_seconds": 231760,
+     "number": 4,
+     "offset": 43135,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Tuba mirum",
+     "sectors": 17382,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Rex tremendae majestatis",
+     "length_seconds": 119040,
+     "number": 5,
+     "offset": 60517,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Rex tremendae majestatis",
+     "sectors": 8928,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Recordare, Jesu pie",
+     "length_seconds": 369426,
+     "number": 6,
+     "offset": 69445,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Recordare, Jesu pie",
+     "sectors": 27707,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Confutatis maledictis",
+     "length_seconds": 143600,
+     "number": 7,
+     "offset": 97152,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Confutatis maledictis",
+     "sectors": 10770,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Lacrymosa dies illa",
+     "length_seconds": 136400,
+     "number": 8,
+     "offset": 107922,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Lacrymosa dies illa",
+     "sectors": 10230,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Amen",
+     "length_seconds": 94573,
+     "number": 9,
+     "offset": 118152,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Amen",
+     "sectors": 7093,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Domine Jesu Christe",
+     "length_seconds": 220200,
+     "number": 10,
+     "offset": 125245,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Domine Jesu Christe",
+     "sectors": 16515,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Versus: Hostias et preces",
+     "length_seconds": 228533,
+     "number": 11,
+     "offset": 141760,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Versus: Hostias et preces",
+     "sectors": 17140,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Agnus Dei",
+     "length_seconds": 156026,
+     "number": 12,
+     "offset": 158900,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Agnus Dei",
+     "sectors": 11702,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Requiem in D minor, K. 626: Communio. Lux aeterna - Cum sanctis tuis",
+     "length_seconds": 338200,
+     "number": 13,
+     "offset": 170602,
+     "output_artist": "Unknown artist",
+     "output_title": "Requiem in D minor, K. 626: Communio. Lux aeterna - Cum sanctis tuis",
+     "sectors": 25365,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

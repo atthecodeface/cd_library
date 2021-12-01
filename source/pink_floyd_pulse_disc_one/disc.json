@@ -28,7 +28,7 @@
      "length_seconds": 815160,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Shine On You Crazy Diamond",
      "sectors": 61137,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 260000,
      "number": 2,
      "offset": 61287,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Astronomy Domine",
      "sectors": 19548,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 249400,
      "number": 3,
      "offset": 80835,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "What Do You Want From Me?",
      "sectors": 18702,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 316000,
      "number": 4,
      "offset": 99537,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Learning to Fly",
      "sectors": 23688,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 413226,
      "number": 5,
      "offset": 123225,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Keep Talking",
      "sectors": 30972,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 416000,
      "number": 6,
      "offset": 154197,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Coming Back to Life",
      "sectors": 31200,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 278760,
      "number": 7,
      "offset": 185397,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Hey You",
      "sectors": 20943,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 270826,
      "number": 8,
      "offset": 206340,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "A Great Day for Freedom",
      "sectors": 20267,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 648000,
      "number": 9,
      "offset": 226607,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Sorrow",
      "sectors": 48680,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 472267,
      "number": 10,
      "offset": 275287,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "High Hopes",
      "sectors": 35420,
      "title": ""
@@ -148,7 +148,7 @@
      "length_seconds": 427000,
      "number": 11,
      "offset": 310707,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Another Brick in the Wall, Part Two",
      "sectors": 32050,
      "title": ""

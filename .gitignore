@@ -1,4 +1,8 @@
 *.flac
 *.wav
 mp3/*
+*.bkp
+source.hashdeep.combined
+source.hashdeep.new
+source.hashdeep.unsorted
 *~

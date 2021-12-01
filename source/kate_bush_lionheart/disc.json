@@ -28,7 +28,7 @@
      "length_seconds": 216800,
      "number": 1,
      "offset": 220,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Symphony in Blue",
      "sectors": 16260,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 226626,
      "number": 2,
      "offset": 16480,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "In Search of Peter Pan",
      "sectors": 16997,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 240773,
      "number": 3,
      "offset": 33477,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Wow",
      "sectors": 18058,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 195600,
      "number": 4,
      "offset": 51535,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Don't Push Your Foot on the Heartbrake",
      "sectors": 14670,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 192093,
      "number": 5,
      "offset": 66205,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Oh England My Lionheart",
      "sectors": 14407,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 194000,
      "number": 6,
      "offset": 80612,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Fullhouse",
      "sectors": 14563,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 215400,
      "number": 7,
      "offset": 95175,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "In the Warm Room",
      "sectors": 16155,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 236200,
      "number": 8,
      "offset": 111330,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Kashka From Baghdad",
      "sectors": 17715,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 219000,
      "number": 9,
      "offset": 129045,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Coffee Homeground",
      "sectors": 16425,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 279466,
      "number": 10,
      "offset": 145470,
-     "output_artist": "Kate Bush",
+     "output_artist": "Unknown artist",
      "output_title": "Hammer Horror",
      "sectors": 20960,
      "title": ""

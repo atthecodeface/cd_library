@@ -451,6 +451,83 @@
    "output_title": "Live in the City of Light",
    "title": ""
   },
+  "alb.0041": {
+   "artist": "",
+   "downloaded_artists": "The Moody Blues",
+   "downloaded_titles": "The Best of the Moody Blues",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "ffff235e-5170-4fe8-b4c5-d754059eb32f",
+   "num_discs": 1,
+   "output_title": "The Best of the Moody Blues",
+   "title": ""
+  },
+  "alb.0042": {
+   "artist": "",
+   "downloaded_artists": "The Moody Blues",
+   "downloaded_titles": "Hall of Fame",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "73c76814-e042-4397-b43b-48ca35b0161c",
+   "num_discs": 1,
+   "output_title": "Hall of Fame",
+   "title": ""
+  },
+  "alb.0043": {
+   "artist": "",
+   "downloaded_artists": "Paul Simon",
+   "downloaded_titles": "Still Crazy After All These Years",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "a8d6b876-925d-44f8-b85d-d4bd51d36c79",
+   "num_discs": 1,
+   "output_title": "Still Crazy After All These Years",
+   "title": ""
+  },
+  "alb.0044": {
+   "artist": "",
+   "downloaded_artists": "Michael Flanders and Donald Swann",
+   "downloaded_titles": "At the Drop of a Hat",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "13fa7445-3bce-4a0a-8137-0ac3e8fa1ee3",
+   "num_discs": 1,
+   "output_title": "At the Drop of a Hat",
+   "title": ""
+  },
+  "alb.0045": {
+   "artist": "",
+   "downloaded_artists": "Mozart; Kirkby, Watkinson, Johnson, Thomas, Academy of Ancient Music, Christopher Hogwood",
+   "downloaded_titles": "Requiem",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "77f3efe3-ff00-463b-afb1-8440cf966c95",
+   "num_discs": 1,
+   "output_title": "Requiem",
+   "title": ""
+  },
+  "alb.0046": {
+   "artist": "",
+   "downloaded_artists": "Michael Flanders and Donald Swann",
+   "downloaded_titles": "The Bestiary of Flanders and Swann",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "03fe2058-439d-49a1-8260-35c812390c35",
+   "num_discs": 1,
+   "output_title": "The Bestiary of Flanders and Swann",
+   "title": ""
+  },
+  "alb.0047": {
+   "artist": "",
+   "downloaded_artists": "Michael Flanders and Donald Swann",
+   "downloaded_titles": "At the Drop of Another Hat",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "4b6bce7e-8608-42f2-9d1e-b10c9bdbe679",
+   "num_discs": 1,
+   "output_title": "At the Drop of Another Hat",
+   "title": ""
+  },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
    "downloaded_artists": "",

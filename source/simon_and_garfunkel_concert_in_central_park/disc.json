@@ -28,7 +28,7 @@
      "length_seconds": 241000,
      "number": 1,
      "offset": 150,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Mrs. Robinson",
      "sectors": 18067,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 259826,
      "number": 2,
      "offset": 18217,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Homeward Bound",
      "sectors": 19500,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 286000,
      "number": 3,
      "offset": 37717,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "America",
      "sectors": 21370,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 220000,
      "number": 4,
      "offset": 59087,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Me and Julio Down by the Schoolyard",
      "sectors": 16533,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 229000,
      "number": 5,
      "offset": 75620,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Scarborough Fair",
      "sectors": 17165,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 143000,
      "number": 6,
      "offset": 92785,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "April Come She Will",
      "sectors": 10707,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 138733,
      "number": 7,
      "offset": 103492,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Wake Up Little Susie",
      "sectors": 10405,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 229866,
      "number": 8,
      "offset": 113897,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Still Crazy After All These Years",
      "sectors": 17328,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 273800,
      "number": 9,
      "offset": 131225,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "American Tune",
      "sectors": 20500,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 248000,
      "number": 10,
      "offset": 151725,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Late in the Evening",
      "sectors": 18542,
      "title": ""
@@ -148,7 +148,7 @@
      "length_seconds": 293906,
      "number": 11,
      "offset": 170267,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Slip Slidin' Away",
      "sectors": 22043,
      "title": ""
@@ -160,7 +160,7 @@
      "length_seconds": 162906,
      "number": 12,
      "offset": 192310,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "A Heart in New York",
      "sectors": 12472,
      "title": ""
@@ -172,7 +172,7 @@
      "length_seconds": 350000,
      "number": 13,
      "offset": 204782,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Kodachrome / Maybellene",
      "sectors": 25990,
      "title": ""
@@ -184,7 +184,7 @@
      "length_seconds": 281000,
      "number": 14,
      "offset": 230772,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Bridge Over Troubled Water",
      "sectors": 21060,
      "title": ""
@@ -196,7 +196,7 @@
      "length_seconds": 278000,
      "number": 15,
      "offset": 251832,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Fifty Ways to Leave Your Lover",
      "sectors": 20870,
      "title": ""
@@ -208,7 +208,7 @@
      "length_seconds": 318573,
      "number": 16,
      "offset": 272702,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "The Boxer",
      "sectors": 23903,
      "title": ""
@@ -220,7 +220,7 @@
      "length_seconds": 172066,
      "number": 17,
      "offset": 296605,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Old Friends",
      "sectors": 13225,
      "title": ""
@@ -232,7 +232,7 @@
      "length_seconds": 156893,
      "number": 18,
      "offset": 309830,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "The 59th Street Bridge Song (Feelin' Groovy)",
      "sectors": 11772,
      "title": ""
@@ -244,7 +244,7 @@
      "length_seconds": 238826,
      "number": 19,
      "offset": 321602,
-     "output_artist": "Simon & Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "The Sound of Silence",
      "sectors": 17830,
      "title": ""
