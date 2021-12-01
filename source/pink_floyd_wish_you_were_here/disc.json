@@ -28,7 +28,7 @@
      "length_seconds": 810800,
      "number": 1,
      "offset": 183,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Shine On You Crazy Diamond, Parts I\u2013V",
      "sectors": 60810,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 446693,
      "number": 2,
      "offset": 60993,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Welcome to the Machine",
      "sectors": 33502,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 308000,
      "number": 3,
      "offset": 94495,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Have a Cigar",
      "sectors": 23100,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 340333,
      "number": 4,
      "offset": 117595,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Wish You Were Here",
      "sectors": 25525,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 742866,
      "number": 5,
      "offset": 143120,
-     "output_artist": "Unknown artist",
+     "output_artist": "Pink Floyd",
      "output_title": "Shine On You Crazy Diamond, Parts VI\u2013IX",
      "sectors": 55715,
      "title": ""

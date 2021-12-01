@@ -28,7 +28,7 @@
      "length_seconds": 192400,
      "number": 1,
      "offset": 150,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Go Now",
      "sectors": 14502,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 250266,
      "number": 2,
      "offset": 14652,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Tuesday Afternoon (Forever Afternoon)",
      "sectors": 18770,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 266000,
      "number": 3,
      "offset": 33422,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Nights in White Satin",
      "sectors": 19940,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 222933,
      "number": 4,
      "offset": 53362,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Ride My See-Saw",
      "sectors": 16693,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 210000,
      "number": 5,
      "offset": 70055,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Voices in the Sky",
      "sectors": 15827,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 344466,
      "number": 6,
      "offset": 85882,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Question",
      "sectors": 25968,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 176573,
      "number": 7,
      "offset": 111850,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "The Story in Your Eyes",
      "sectors": 13105,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 365400,
      "number": 8,
      "offset": 124955,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Isn't Life Strange",
      "sectors": 27405,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 257533,
      "number": 9,
      "offset": 152360,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "I'm Just a Singer (in a Rock and Roll Band)",
      "sectors": 19185,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 218826,
      "number": 10,
      "offset": 171545,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Blue Guitar",
      "sectors": 16412,
      "title": ""
@@ -148,7 +148,7 @@
      "length_seconds": 327306,
      "number": 11,
      "offset": 187957,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Steppin' in a Slide Zone",
      "sectors": 24548,
      "title": ""
@@ -160,7 +160,7 @@
      "length_seconds": 266666,
      "number": 12,
      "offset": 212505,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Forever Autumn",
      "sectors": 20000,
      "title": ""
@@ -172,7 +172,7 @@
      "length_seconds": 315000,
      "number": 13,
      "offset": 232505,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "The Voice",
      "sectors": 23377,
      "title": ""
@@ -184,7 +184,7 @@
      "length_seconds": 247000,
      "number": 14,
      "offset": 255882,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Gemini Dream",
      "sectors": 18425,
      "title": ""
@@ -196,7 +196,7 @@
      "length_seconds": 313040,
      "number": 15,
      "offset": 274307,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Blue World",
      "sectors": 23478,
      "title": ""
@@ -208,7 +208,7 @@
      "length_seconds": 291000,
      "number": 16,
      "offset": 297785,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "Your Wildest Dreams",
      "sectors": 21780,
      "title": ""
@@ -220,7 +220,7 @@
      "length_seconds": 398160,
      "number": 17,
      "offset": 319565,
-     "output_artist": "The Moody Blues",
+     "output_artist": "Unknown artist",
      "output_title": "I Know You're Out There Somewhere",
      "sectors": 29862,
      "title": ""

@@ -28,7 +28,7 @@
      "length_seconds": 205000,
      "number": 1,
      "offset": 183,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Still Crazy After All These Years",
      "sectors": 15482,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 231946,
      "number": 2,
      "offset": 15665,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "My Little Town",
      "sectors": 17388,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 215000,
      "number": 3,
      "offset": 33053,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "I Do It for Your Love",
      "sectors": 16145,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 215000,
      "number": 4,
      "offset": 49198,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "50 Ways to Leave Your Lover",
      "sectors": 16302,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 177000,
      "number": 5,
      "offset": 65500,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Night Game",
      "sectors": 13270,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 220029,
      "number": 6,
      "offset": 78770,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Gone at Last",
      "sectors": 16558,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 194000,
      "number": 7,
      "offset": 95328,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Some Folks\u2019 Lives Roll Easy",
      "sectors": 14565,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 206000,
      "number": 8,
      "offset": 109893,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Have a Good Time",
      "sectors": 15467,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 200146,
      "number": 9,
      "offset": 125360,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "You\u2019re Kind",
      "sectors": 14995,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 243000,
      "number": 10,
      "offset": 140355,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Silent Eyes",
      "sectors": 18198,
      "title": ""

@@ -19,7 +19,7 @@ check_in_library_root:
 .ONESHELL:
 update_hashes: check_in_library_root
 	cd ${LIBRARY_ROOT} 
-	(find source/art* -name '*.flac' | xargs hashdeep -c md5 -l ) > source.hashdeep.new
+	(find source -name '*.flac' | xargs hashdeep -c md5 -l ) > source.hashdeep.new
 	touch source.hashdeep.new 
 	cat source.hashdeep source.hashdeep.new > source.hashdeep.combined 
 	sort --unique --field-separator=, --key=3d --key=2h --key=1g source.hashdeep.combined > source.hashdeep.updated 
