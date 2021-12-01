@@ -1,0 +1,1 @@
+cdparanoia -L --force-cdrom-device /dev/sr1 -B --output-wav 1-13 

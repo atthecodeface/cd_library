@@ -1,0 +1,159 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0086": {
+   "album_uniq_id": "alb.0048",
+   "artist": "",
+   "cddb_id": "910f970b",
+   "cddb_string": "910f970b 11 150 28151 48155 76239 106163 130403 167950 175804 193981 232963 264639 3993",
+   "disc_of_set": 4,
+   "downloaded_artists": "Douglas Adams read by Stephen Fry",
+   "downloaded_titles": "The Hitchhiker\u2019s Guide to the Galaxy",
+   "json_path": "source/douglas_adams_hhgttg_disc_4/disc.json",
+   "musicbrainz_id": "CKPvJfFafFZaVjIIRD9df4o10CY-",
+   "musicbrainz_release_id": "f29ea789-389c-4514-bd1a-8b971243f546",
+   "musicbrainz_string": "11 150 28151 48155 76239 106163 130403 167950 175804 193981 232963 264639 299519",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "douglas_adams_hhgttg_disc_4",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 18: And The Next Thing That Happened",
+     "length_seconds": 373000,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 18: And The Next Thing That Happened",
+     "sectors": 28001,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 19: Are We Taking This Robot",
+     "length_seconds": 267000,
+     "number": 2,
+     "offset": 28151,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 19: Are We Taking This Robot",
+     "sectors": 20004,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 20: Five Figures Wandered Slowly",
+     "length_seconds": 374000,
+     "number": 3,
+     "offset": 48155,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 20: Five Figures Wandered Slowly",
+     "sectors": 28084,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Zaphod Marched Quickly Down The Passageway",
+     "length_seconds": 399000,
+     "number": 4,
+     "offset": 76239,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Zaphod Marched Quickly Down The Passageway",
+     "sectors": 29924,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 21: On The Surface Of Magrathea",
+     "length_seconds": 323000,
+     "number": 5,
+     "offset": 106163,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 21: On The Surface Of Magrathea",
+     "sectors": 24240,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 22: He Was Standing With His Back",
+     "length_seconds": 501000,
+     "number": 6,
+     "offset": 130403,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 22: He Was Standing With His Back",
+     "sectors": 37547,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 23: It Is An Important And Popular",
+     "length_seconds": 105000,
+     "number": 7,
+     "offset": 167950,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 23: It Is An Important And Popular",
+     "sectors": 7854,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 24: Silently The Air Car Coasted",
+     "length_seconds": 242000,
+     "number": 8,
+     "offset": 175804,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 24: Silently The Air Car Coasted",
+     "sectors": 18177,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "It Wasn't Infinity In Fact",
+     "length_seconds": 520000,
+     "number": 9,
+     "offset": 193981,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "It Wasn't Infinity In Fact",
+     "sectors": 38982,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 25: There Were Of Course Many Problems",
+     "length_seconds": 422000,
+     "number": 10,
+     "offset": 232963,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 25: There Were Of Course Many Problems",
+     "sectors": 31676,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Phouchg Sighed Heavily And Glanced",
+     "length_seconds": 464000,
+     "number": 11,
+     "offset": 264639,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Phouchg Sighed Heavily And Glanced",
+     "sectors": 34880,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

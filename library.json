@@ -528,6 +528,17 @@
    "output_title": "At the Drop of Another Hat",
    "title": ""
   },
+  "alb.0048": {
+   "artist": "",
+   "downloaded_artists": "Douglas Adams read by Stephen Fry",
+   "downloaded_titles": "The Hitchhiker\u2019s Guide to the Galaxy",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "f29ea789-389c-4514-bd1a-8b971243f546",
+   "num_discs": 5,
+   "output_title": "The Hitchhiker\u2019s Guide to the Galaxy",
+   "title": ""
+  },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
    "downloaded_artists": "",

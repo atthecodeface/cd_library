@@ -1,0 +1,183 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0085": {
+   "album_uniq_id": "alb.0048",
+   "artist": "",
+   "cddb_id": "b210900d",
+   "cddb_string": "b210900d 13 150 38347 75648 103147 121564 141679 164833 196264 210460 229682 253008 272747 301434 4242",
+   "disc_of_set": 3,
+   "downloaded_artists": "Douglas Adams read by Stephen Fry",
+   "downloaded_titles": "The Hitchhiker\u2019s Guide to the Galaxy",
+   "json_path": "source/douglas_adams_hhgttg_disc_3/disc.json",
+   "musicbrainz_id": "l3EOc4xvcIZ0NoDY1IYBa8NuVKA-",
+   "musicbrainz_release_id": "f29ea789-389c-4514-bd1a-8b971243f546",
+   "musicbrainz_string": "13 150 38347 75648 103147 121564 141679 164833 196264 210460 229682 253008 272747 301434 318190",
+   "num_tracks": 13,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "douglas_adams_hhgttg_disc_3",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 11: The Improbability-Proof Control Cabin",
+     "length_seconds": 509000,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 11: The Improbability-Proof Control Cabin",
+     "sectors": 38197,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Encyclopedia Galactica Defines a Robot",
+     "length_seconds": 497000,
+     "number": 2,
+     "offset": 38347,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "The Encyclopedia Galactica Defines a Robot",
+     "sectors": 37301,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 12: A Loud Clatter of Gunk Music",
+     "length_seconds": 367000,
+     "number": 3,
+     "offset": 75648,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 12: A Loud Clatter of Gunk Music",
+     "sectors": 27499,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Sirius Cybernetics Shipboard Computer",
+     "length_seconds": 246000,
+     "number": 4,
+     "offset": 103147,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "The Sirius Cybernetics Shipboard Computer",
+     "sectors": 18417,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 13: Marvin Trudged On",
+     "length_seconds": 268000,
+     "number": 5,
+     "offset": 121564,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 13: Marvin Trudged On",
+     "sectors": 20115,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "When You're Cruising Down the Road",
+     "length_seconds": 309000,
+     "number": 6,
+     "offset": 141679,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "When You're Cruising Down the Road",
+     "sectors": 23154,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 14: The Heart of Gold Fled On",
+     "length_seconds": 419000,
+     "number": 7,
+     "offset": 164833,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 14: The Heart of Gold Fled On",
+     "sectors": 31431,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 15: Excerpt From the Hitchhiker's Guide",
+     "length_seconds": 189000,
+     "number": 8,
+     "offset": 196264,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 15: Excerpt From the Hitchhiker's Guide",
+     "sectors": 14196,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 16: Arthur Awoke to the Sound",
+     "length_seconds": 256000,
+     "number": 9,
+     "offset": 210460,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 16: Arthur Awoke to the Sound",
+     "sectors": 19222,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "As Ford Gazed at the Spectacle of Light",
+     "length_seconds": 311000,
+     "number": 10,
+     "offset": 229682,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "As Ford Gazed at the Spectacle of Light",
+     "sectors": 23326,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chapter 17: After a Fairly Shaky Start",
+     "length_seconds": 263000,
+     "number": 11,
+     "offset": 253008,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Chapter 17: After a Fairly Shaky Start",
+     "sectors": 19739,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Arthur Looked Round the Nervous Faces",
+     "length_seconds": 382000,
+     "number": 12,
+     "offset": 272747,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "Arthur Looked Round the Nervous Faces",
+     "sectors": 28687,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "It Was of Course More or Less",
+     "length_seconds": 223000,
+     "number": 13,
+     "offset": 301434,
+     "output_artist": "Douglas Adams read by Stephen Fry",
+     "output_title": "It Was of Course More or Less",
+     "sectors": 16756,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
