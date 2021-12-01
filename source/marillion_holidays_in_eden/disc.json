@@ -28,7 +28,7 @@
      "length_seconds": 413506,
      "number": 1,
      "offset": 183,
-     "output_artist": "Marillion",
+     "output_artist": "Unknown artist",
      "output_title": "Splintering Heart",
      "sectors": 30917,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 234866,
      "number": 2,
      "offset": 31100,
-     "output_artist": "Marillion",
+     "output_artist": "Unknown artist",
      "output_title": "Cover My Eyes (Pain and Heaven)",
      "sectors": 17670,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 336133,
      "number": 3,
      "offset": 48770,
-     "output_artist": "Marillion",
+     "output_artist": "Unknown artist",
      "output_title": "The Party",
      "sectors": 25253,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 280400,
      "number": 4,
      "offset": 74023,
-     "output_artist": "Marillion",
+     "output_artist": "Unknown artist",
      "output_title": "No One Can",
      "sectors": 20987,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 337960,
      "number": 5,
      "offset": 95010,
-     "output_artist": "Marillion",
+     "output_artist": "Unknown artist",
      "output_title": "Holidays in Eden",
      "sectors": 24628,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 282600,
      "number": 6,
      "offset": 119638,
-     "output_artist": "Marillion",
+     "output_artist": "Unknown artist",
      "output_title": "Dry Land",
      "sectors": 21222,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 301333,
      "number": 7,
      "offset": 140860,
-     "output_artist": "Marillion",
+     "output_artist": "Unknown artist",
      "output_title": "Waiting to Happen",
      "sectors": 22195,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 198026,
      "number": 8,
      "offset": 163055,
-     "output_artist": "Marillion",
+     "output_artist": "Unknown artist",
      "output_title": "This Town",
      "sectors": 14900,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 114106,
      "number": 9,
      "offset": 177955,
-     "output_artist": "Marillion",
+     "output_artist": "Unknown artist",
      "output_title": "The Rakes Progress",
      "sectors": 8573,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 401293,
      "number": 10,
      "offset": 186528,
-     "output_artist": "Marillion",
+     "output_artist": "Unknown artist",
      "output_title": "100 Nights",
      "sectors": 30152,
      "title": ""

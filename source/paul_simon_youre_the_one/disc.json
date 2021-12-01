@@ -28,7 +28,7 @@
      "length_seconds": 192800,
      "number": 1,
      "offset": 182,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "That's Where I Belong",
      "sectors": 14460,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 398960,
      "number": 2,
      "offset": 14642,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Darling Lorraine",
      "sectors": 29923,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 139906,
      "number": 3,
      "offset": 44565,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Old",
      "sectors": 10492,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 267800,
      "number": 4,
      "offset": 55057,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "You're the One",
      "sectors": 20085,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 216200,
      "number": 5,
      "offset": 75142,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "The Teacher",
      "sectors": 16215,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 234200,
      "number": 6,
      "offset": 91357,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Look at That",
      "sectors": 17568,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 221200,
      "number": 7,
      "offset": 108925,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Se\u00f1orita With a Necklace of Tears",
      "sectors": 16590,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 230733,
      "number": 8,
      "offset": 125515,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Love",
      "sectors": 17305,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 238440,
      "number": 9,
      "offset": 142820,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Pigs, Sheep and Wolves",
      "sectors": 17882,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 252226,
      "number": 10,
      "offset": 160702,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Hurricane Eye",
      "sectors": 18918,
      "title": ""
@@ -148,7 +148,7 @@
      "length_seconds": 257240,
      "number": 11,
      "offset": 179620,
-     "output_artist": "Paul Simon",
+     "output_artist": "Unknown artist",
      "output_title": "Quiet",
      "sectors": 19292,
      "title": ""

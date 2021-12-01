@@ -1,0 +1,111 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0073": {
+   "album_uniq_id": "alb.0040",
+   "artist": "",
+   "cddb_id": "5109c007",
+   "cddb_string": "5109c007 7 150 30052 57440 79477 99055 131000 162695 2498",
+   "disc_of_set": 2,
+   "downloaded_artists": "Simple Minds",
+   "downloaded_titles": "Live in the City of Light",
+   "json_path": "source/simple_minds_live_in_the_city_of_light_disc_2/disc.json",
+   "musicbrainz_id": "N0p2DNAVirbYm5xxKZuLzWo4MPo-",
+   "musicbrainz_release_id": "358a7e3a-7656-4f19-ba0b-c1f58b6230aa",
+   "musicbrainz_string": "7 150 30052 57440 79477 99055 131000 162695 187395",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "simple_minds_live_in_the_city_of_light_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Don't You (Forget About Me)",
+     "length_seconds": 398693,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Don't You (Forget About Me)",
+     "sectors": 29902,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Once Upon a Time",
+     "length_seconds": 365173,
+     "number": 2,
+     "offset": 30052,
+     "output_artist": "Unknown artist",
+     "output_title": "Once Upon a Time",
+     "sectors": 27388,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Book of Brilliant Things",
+     "length_seconds": 293533,
+     "number": 3,
+     "offset": 57440,
+     "output_artist": "Unknown artist",
+     "output_title": "Book of Brilliant Things",
+     "sectors": 22037,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "East at Easter",
+     "length_seconds": 261040,
+     "number": 4,
+     "offset": 79477,
+     "output_artist": "Unknown artist",
+     "output_title": "East at Easter",
+     "sectors": 19578,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Sanctify Yourself",
+     "length_seconds": 425933,
+     "number": 5,
+     "offset": 99055,
+     "output_artist": "Unknown artist",
+     "output_title": "Sanctify Yourself",
+     "sectors": 31945,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Love Song / Sun City / Dance to the Music",
+     "length_seconds": 422600,
+     "number": 6,
+     "offset": 131000,
+     "output_artist": "Unknown artist",
+     "output_title": "Love Song / Sun City / Dance to the Music",
+     "sectors": 31695,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "New Gold Dream",
+     "length_seconds": 329106,
+     "number": 7,
+     "offset": 162695,
+     "output_artist": "Unknown artist",
+     "output_title": "New Gold Dream",
+     "sectors": 24700,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

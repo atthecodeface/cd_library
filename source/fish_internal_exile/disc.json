@@ -1,0 +1,135 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0070": {
+   "album_uniq_id": "alb.0038",
+   "artist": "",
+   "cddb_id": "800bc409",
+   "cddb_string": "800bc409 9 150 29053 59040 86018 112965 134698 153238 181995 203105 3014",
+   "disc_of_set": 1,
+   "downloaded_artists": "Fish",
+   "downloaded_titles": "Internal Exile",
+   "json_path": "source/fish_internal_exile/disc.json",
+   "musicbrainz_id": "1RSRSIrmYUaZAJ3yHocJ3qKRgeU-",
+   "musicbrainz_release_id": "78a728ea-e67a-4f68-be39-0a2ed62b8958",
+   "musicbrainz_string": "9 150 29053 59040 86018 112965 134698 153238 181995 203105 226103",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "fish_internal_exile",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Shadowplay",
+     "length_seconds": 384000,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Shadowplay",
+     "sectors": 28903,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Credo",
+     "length_seconds": 399933,
+     "number": 2,
+     "offset": 29053,
+     "output_artist": "Unknown artist",
+     "output_title": "Credo",
+     "sectors": 29987,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Just Good Friends (Close)",
+     "length_seconds": 359706,
+     "number": 3,
+     "offset": 59040,
+     "output_artist": "Unknown artist",
+     "output_title": "Just Good Friends (Close)",
+     "sectors": 26978,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Favourite Stranger",
+     "length_seconds": 359209,
+     "number": 4,
+     "offset": 86018,
+     "output_artist": "Unknown artist",
+     "output_title": "Favourite Stranger",
+     "sectors": 26947,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Lucky",
+     "length_seconds": 289773,
+     "number": 5,
+     "offset": 112965,
+     "output_artist": "Unknown artist",
+     "output_title": "Lucky",
+     "sectors": 21733,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Dear Friend",
+     "length_seconds": 247200,
+     "number": 6,
+     "offset": 134698,
+     "output_artist": "Unknown artist",
+     "output_title": "Dear Friend",
+     "sectors": 18540,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Tongues",
+     "length_seconds": 383426,
+     "number": 7,
+     "offset": 153238,
+     "output_artist": "Unknown artist",
+     "output_title": "Tongues",
+     "sectors": 28757,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Internal Exile",
+     "length_seconds": 281466,
+     "number": 8,
+     "offset": 181995,
+     "output_artist": "Unknown artist",
+     "output_title": "Internal Exile",
+     "sectors": 21110,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Something in the Air",
+     "length_seconds": 306466,
+     "number": 9,
+     "offset": 203105,
+     "output_artist": "Unknown artist",
+     "output_title": "Something in the Air",
+     "sectors": 22998,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

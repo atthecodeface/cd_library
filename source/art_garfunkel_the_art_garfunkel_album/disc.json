@@ -28,7 +28,7 @@
      "length_seconds": 235333,
      "number": 1,
      "offset": 150,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Bright Eyes",
      "sectors": 17777,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 216000,
      "number": 2,
      "offset": 17927,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Break Away",
      "sectors": 16038,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 192560,
      "number": 3,
      "offset": 33965,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "A Heart in New York",
      "sectors": 14530,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 215000,
      "number": 4,
      "offset": 48495,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "I Shall Sing",
      "sectors": 16295,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 211000,
      "number": 5,
      "offset": 64790,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "99 Miles From L.A.",
      "sectors": 15727,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 198066,
      "number": 6,
      "offset": 80517,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "All I Know",
      "sectors": 14898,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 203666,
      "number": 7,
      "offset": 95415,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "(What a) Wonderful World",
      "sectors": 15550,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 219000,
      "number": 8,
      "offset": 110965,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "I Only Have Eyes for You",
      "sectors": 16572,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 173626,
      "number": 9,
      "offset": 127537,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Watermark",
      "sectors": 13073,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 229426,
      "number": 10,
      "offset": 140610,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "I Believe (When I Fall in Love It Will Be Forever)",
      "sectors": 16987,
      "title": ""
@@ -148,7 +148,7 @@
      "length_seconds": 231706,
      "number": 11,
      "offset": 157597,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Scissors Cut",
      "sectors": 17423,
      "title": ""
@@ -160,7 +160,7 @@
      "length_seconds": 215000,
      "number": 12,
      "offset": 175020,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Sometimes When I'm Dreaming",
      "sectors": 16165,
      "title": ""
@@ -172,7 +172,7 @@
      "length_seconds": 221840,
      "number": 13,
      "offset": 191185,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "Travellin' Boy",
      "sectors": 16632,
      "title": ""
@@ -184,7 +184,7 @@
      "length_seconds": 230800,
      "number": 14,
      "offset": 207817,
-     "output_artist": "Art Garfunkel",
+     "output_artist": "Unknown artist",
      "output_title": "The Same Old Tears on a New Background",
      "sectors": 17413,
      "title": ""

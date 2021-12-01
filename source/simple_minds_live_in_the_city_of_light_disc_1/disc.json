@@ -1,0 +1,111 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0074": {
+   "album_uniq_id": "alb.0040",
+   "artist": "",
+   "cddb_id": "43099107",
+   "cddb_string": "43099107 7 150 33275 53332 77442 98260 125187 154862 2451",
+   "disc_of_set": 1,
+   "downloaded_artists": "Simple Minds",
+   "downloaded_titles": "Live in the City of Light",
+   "json_path": "source/simple_minds_live_in_the_city_of_light_disc_1/disc.json",
+   "musicbrainz_id": "I.Pe7XFwjSzpprY2cc6jMx5P2IM-",
+   "musicbrainz_release_id": "358a7e3a-7656-4f19-ba0b-c1f58b6230aa",
+   "musicbrainz_string": "7 150 33275 53332 77442 98260 125187 154862 183850",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "simple_minds_live_in_the_city_of_light_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Ghostdancing",
+     "length_seconds": 441666,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Ghostdancing",
+     "sectors": 33125,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Big Sleep",
+     "length_seconds": 267426,
+     "number": 2,
+     "offset": 33275,
+     "output_artist": "Unknown artist",
+     "output_title": "Big Sleep",
+     "sectors": 20057,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Waterfront",
+     "length_seconds": 321466,
+     "number": 3,
+     "offset": 53332,
+     "output_artist": "Unknown artist",
+     "output_title": "Waterfront",
+     "sectors": 24110,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Promised You a Miracle",
+     "length_seconds": 277573,
+     "number": 4,
+     "offset": 77442,
+     "output_artist": "Unknown artist",
+     "output_title": "Promised You a Miracle",
+     "sectors": 20818,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Someone Somewhere in Summertime",
+     "length_seconds": 359026,
+     "number": 5,
+     "offset": 98260,
+     "output_artist": "Unknown artist",
+     "output_title": "Someone Somewhere in Summertime",
+     "sectors": 26927,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Oh Jungleland",
+     "length_seconds": 395666,
+     "number": 6,
+     "offset": 125187,
+     "output_artist": "Unknown artist",
+     "output_title": "Oh Jungleland",
+     "sectors": 29675,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Alive and Kicking",
+     "length_seconds": 386506,
+     "number": 7,
+     "offset": 154862,
+     "output_artist": "Unknown artist",
+     "output_title": "Alive and Kicking",
+     "sectors": 28988,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,171 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0069": {
+   "album_uniq_id": "alb.0037",
+   "artist": "",
+   "cddb_id": "ac0a200c",
+   "cddb_string": "ac0a200c 12 183 13398 34238 39800 51415 76100 92235 98165 116935 126965 148225 170908 2594",
+   "disc_of_set": 1,
+   "downloaded_artists": "Pink Floyd",
+   "downloaded_titles": "The Final Cut",
+   "json_path": "source/pink_floyd_the_final_cut/disc.json",
+   "musicbrainz_id": "O4t7QxVMx_5NL.TJ46DjUYcqQDM-",
+   "musicbrainz_release_id": "cd6bb788-a828-3203-8443-c20acbc100d3",
+   "musicbrainz_string": "12 183 13398 34238 39800 51415 76100 92235 98165 116935 126965 148225 170908 194613",
+   "num_tracks": 12,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "pink_floyd_the_final_cut",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Post War Dream",
+     "length_seconds": 181000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Pink Floyd",
+     "output_title": "The Post War Dream",
+     "sectors": 13215,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Your Possible Pasts",
+     "length_seconds": 262773,
+     "number": 2,
+     "offset": 13398,
+     "output_artist": "Pink Floyd",
+     "output_title": "Your Possible Pasts",
+     "sectors": 20840,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "One of the Few",
+     "length_seconds": 82466,
+     "number": 3,
+     "offset": 34238,
+     "output_artist": "Pink Floyd",
+     "output_title": "One of the Few",
+     "sectors": 5562,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Hero\u2019s Return",
+     "length_seconds": 177693,
+     "number": 4,
+     "offset": 39800,
+     "output_artist": "Pink Floyd",
+     "output_title": "The Hero\u2019s Return",
+     "sectors": 11615,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Gunner\u2019s Dream",
+     "length_seconds": 306000,
+     "number": 5,
+     "offset": 51415,
+     "output_artist": "Pink Floyd",
+     "output_title": "The Gunner\u2019s Dream",
+     "sectors": 24685,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Paranoid Eyes",
+     "length_seconds": 222000,
+     "number": 6,
+     "offset": 76100,
+     "output_artist": "Pink Floyd",
+     "output_title": "Paranoid Eyes",
+     "sectors": 16135,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Get Your Filthy Hands off My Desert",
+     "length_seconds": 77000,
+     "number": 7,
+     "offset": 92235,
+     "output_artist": "Pink Floyd",
+     "output_title": "Get Your Filthy Hands off My Desert",
+     "sectors": 5930,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Fletcher Memorial Home",
+     "length_seconds": 251000,
+     "number": 8,
+     "offset": 98165,
+     "output_artist": "Pink Floyd",
+     "output_title": "The Fletcher Memorial Home",
+     "sectors": 18770,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Southampton Dock",
+     "length_seconds": 130666,
+     "number": 9,
+     "offset": 116935,
+     "output_artist": "Pink Floyd",
+     "output_title": "Southampton Dock",
+     "sectors": 10030,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Final Cut",
+     "length_seconds": 286000,
+     "number": 10,
+     "offset": 126965,
+     "output_artist": "Pink Floyd",
+     "output_title": "The Final Cut",
+     "sectors": 21260,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Not Now John",
+     "length_seconds": 301213,
+     "number": 11,
+     "offset": 148225,
+     "output_artist": "Pink Floyd",
+     "output_title": "Not Now John",
+     "sectors": 22683,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Two Suns in the Sunset",
+     "length_seconds": 320000,
+     "number": 12,
+     "offset": 170908,
+     "output_artist": "Pink Floyd",
+     "output_title": "Two Suns in the Sunset",
+     "sectors": 23705,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

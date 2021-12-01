@@ -1,0 +1,183 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0072": {
+   "album_uniq_id": "alb.0039",
+   "artist": "",
+   "cddb_id": "aa10d30d",
+   "cddb_string": "aa10d30d 13 150 11420 22940 40035 70530 96930 136992 168337 183417 200365 212185 241810 284505 4309",
+   "disc_of_set": 2,
+   "downloaded_artists": "Pink Floyd",
+   "downloaded_titles": "The Dark Side of the Moon###p\u00b7u\u00b7l\u00b7s\u00b7e",
+   "json_path": "source/pink_floyd_pulse_disc_two/disc.json",
+   "musicbrainz_id": "m3plaZwes6Ke07OhBzu4MGOfBT0-",
+   "musicbrainz_release_id": "f7725225-afbf-30eb-9442-a0a28ae82f5a",
+   "musicbrainz_string": "13 150 11420 22940 40035 70530 96930 136992 168337 183417 200365 212185 241810 284505 323247",
+   "num_tracks": 13,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "pink_floyd_pulse_disc_two",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Speak to Me",
+     "length_seconds": 150266,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Speak to Me",
+     "sectors": 11270,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Breathe",
+     "length_seconds": 155626,
+     "number": 2,
+     "offset": 11420,
+     "output_artist": "Unknown artist",
+     "output_title": "Breathe",
+     "sectors": 11520,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "On the Run",
+     "length_seconds": 227933,
+     "number": 3,
+     "offset": 22940,
+     "output_artist": "Unknown artist",
+     "output_title": "On the Run",
+     "sectors": 17095,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Time",
+     "length_seconds": 407000,
+     "number": 4,
+     "offset": 40035,
+     "output_artist": "Unknown artist",
+     "output_title": "Time",
+     "sectors": 30495,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Great Gig in the Sky",
+     "length_seconds": 352000,
+     "number": 5,
+     "offset": 70530,
+     "output_artist": "Unknown artist",
+     "output_title": "The Great Gig in the Sky",
+     "sectors": 26400,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Money",
+     "length_seconds": 534160,
+     "number": 6,
+     "offset": 96930,
+     "output_artist": "Unknown artist",
+     "output_title": "Money",
+     "sectors": 40062,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Us and Them",
+     "length_seconds": 418440,
+     "number": 7,
+     "offset": 136992,
+     "output_artist": "Unknown artist",
+     "output_title": "Us and Them",
+     "sectors": 31345,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Any Colour You Like",
+     "length_seconds": 201066,
+     "number": 8,
+     "offset": 168337,
+     "output_artist": "Unknown artist",
+     "output_title": "Any Colour You Like",
+     "sectors": 15080,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Brain Damage",
+     "length_seconds": 226293,
+     "number": 9,
+     "offset": 183417,
+     "output_artist": "Unknown artist",
+     "output_title": "Brain Damage",
+     "sectors": 16948,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Eclipse",
+     "length_seconds": 157600,
+     "number": 10,
+     "offset": 200365,
+     "output_artist": "Unknown artist",
+     "output_title": "Eclipse",
+     "sectors": 11820,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Wish You Were Here",
+     "length_seconds": 395000,
+     "number": 11,
+     "offset": 212185,
+     "output_artist": "Unknown artist",
+     "output_title": "Wish You Were Here",
+     "sectors": 29625,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Comfortably Numb",
+     "length_seconds": 569267,
+     "number": 12,
+     "offset": 241810,
+     "output_artist": "Unknown artist",
+     "output_title": "Comfortably Numb",
+     "sectors": 42695,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Run Like Hell",
+     "length_seconds": 516560,
+     "number": 13,
+     "offset": 284505,
+     "output_artist": "Unknown artist",
+     "output_title": "Run Like Hell",
+     "sectors": 38742,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

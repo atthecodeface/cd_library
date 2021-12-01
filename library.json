@@ -265,7 +265,7 @@
    "title": ""
   },
   "alb.0024": {
-   "artist": "",
+   "artist": "Simon & Garfunkel",
    "downloaded_artists": "Paul Simon; Simon & Garfunkel; David Grusin",
    "downloaded_titles": "The Graduate: Original Soundtrack",
    "json_path": "library.json",
@@ -400,11 +400,55 @@
    "artist": "",
    "downloaded_artists": "Pink Floyd",
    "downloaded_titles": "Wish You Were Here",
-   "json_path": ".",
+   "json_path": "library.json",
    "label": "",
    "musicbrainz_release_id": "1c5a1081-054b-33f8-9135-a9f668d6171b",
    "num_discs": 1,
    "output_title": "Wish You Were Here",
+   "title": ""
+  },
+  "alb.0037": {
+   "artist": "",
+   "downloaded_artists": "Pink Floyd",
+   "downloaded_titles": "The Final Cut",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "cd6bb788-a828-3203-8443-c20acbc100d3",
+   "num_discs": 1,
+   "output_title": "The Final Cut",
+   "title": ""
+  },
+  "alb.0038": {
+   "artist": "",
+   "downloaded_artists": "Fish",
+   "downloaded_titles": "Internal Exile",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "78a728ea-e67a-4f68-be39-0a2ed62b8958",
+   "num_discs": 1,
+   "output_title": "Internal Exile",
+   "title": ""
+  },
+  "alb.0039": {
+   "artist": "",
+   "downloaded_artists": "Pink Floyd",
+   "downloaded_titles": "p\u00b7u\u00b7l\u00b7s\u00b7e",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "f7725225-afbf-30eb-9442-a0a28ae82f5a",
+   "num_discs": 2,
+   "output_title": "p\u00b7u\u00b7l\u00b7s\u00b7e",
+   "title": ""
+  },
+  "alb.0040": {
+   "artist": "",
+   "downloaded_artists": "Simple Minds",
+   "downloaded_titles": "Live in the City of Light",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "358a7e3a-7656-4f19-ba0b-c1f58b6230aa",
+   "num_discs": 2,
+   "output_title": "Live in the City of Light",
    "title": ""
   },
   "pdjames_bbc_radio_collection": {

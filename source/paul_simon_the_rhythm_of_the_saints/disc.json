@@ -28,7 +28,7 @@
      "length_seconds": 250000,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "The Obvious Child",
      "sectors": 18778,
      "title": ""
@@ -40,7 +40,7 @@
      "length_seconds": 216760,
      "number": 2,
      "offset": 18928,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Can't Run But",
      "sectors": 16257,
      "title": ""
@@ -52,7 +52,7 @@
      "length_seconds": 303733,
      "number": 3,
      "offset": 35185,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "The Coast",
      "sectors": 22778,
      "title": ""
@@ -64,7 +64,7 @@
      "length_seconds": 279200,
      "number": 4,
      "offset": 57963,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Proof",
      "sectors": 20940,
      "title": ""
@@ -76,7 +76,7 @@
      "length_seconds": 336266,
      "number": 5,
      "offset": 78903,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Further to Fly",
      "sectors": 25220,
      "title": ""
@@ -88,7 +88,7 @@
      "length_seconds": 303026,
      "number": 6,
      "offset": 104123,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "She Moves On",
      "sectors": 22727,
      "title": ""
@@ -100,7 +100,7 @@
      "length_seconds": 228000,
      "number": 7,
      "offset": 126850,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Born at the Right Time",
      "sectors": 17088,
      "title": ""
@@ -112,7 +112,7 @@
      "length_seconds": 272533,
      "number": 8,
      "offset": 143938,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "The Cool, Cool River",
      "sectors": 20440,
      "title": ""
@@ -124,7 +124,7 @@
      "length_seconds": 236000,
      "number": 9,
      "offset": 164378,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "Spirit Voices",
      "sectors": 17692,
      "title": ""
@@ -136,7 +136,7 @@
      "length_seconds": 250533,
      "number": 10,
      "offset": 182070,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul Simon",
      "output_title": "The Rhythm of the Saints",
      "sectors": 18790,
      "title": ""

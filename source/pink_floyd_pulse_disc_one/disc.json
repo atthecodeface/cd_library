@@ -1,0 +1,159 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0071": {
+   "album_uniq_id": "alb.0039",
+   "artist": "",
+   "cddb_id": "8611d80b",
+   "cddb_string": "8611d80b 11 150 61287 80835 99537 123225 154197 185397 206340 226607 275287 310707 4570",
+   "disc_of_set": 1,
+   "downloaded_artists": "Pink Floyd",
+   "downloaded_titles": "p\u00b7u\u00b7l\u00b7s\u00b7e",
+   "json_path": "source/pink_floyd_pulse_disc_one/disc.json",
+   "musicbrainz_id": "mVhYYWxcoktBfUPLUeC_mMBS9gI-",
+   "musicbrainz_release_id": "f7725225-afbf-30eb-9442-a0a28ae82f5a",
+   "musicbrainz_string": "11 150 61287 80835 99537 123225 154197 185397 206340 226607 275287 310707 342757",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "pink_floyd_pulse_disc_one",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Shine On You Crazy Diamond",
+     "length_seconds": 815160,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Shine On You Crazy Diamond",
+     "sectors": 61137,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Astronomy Domine",
+     "length_seconds": 260000,
+     "number": 2,
+     "offset": 61287,
+     "output_artist": "Unknown artist",
+     "output_title": "Astronomy Domine",
+     "sectors": 19548,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "What Do You Want From Me?",
+     "length_seconds": 249400,
+     "number": 3,
+     "offset": 80835,
+     "output_artist": "Unknown artist",
+     "output_title": "What Do You Want From Me?",
+     "sectors": 18702,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Learning to Fly",
+     "length_seconds": 316000,
+     "number": 4,
+     "offset": 99537,
+     "output_artist": "Unknown artist",
+     "output_title": "Learning to Fly",
+     "sectors": 23688,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Keep Talking",
+     "length_seconds": 413226,
+     "number": 5,
+     "offset": 123225,
+     "output_artist": "Unknown artist",
+     "output_title": "Keep Talking",
+     "sectors": 30972,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Coming Back to Life",
+     "length_seconds": 416000,
+     "number": 6,
+     "offset": 154197,
+     "output_artist": "Unknown artist",
+     "output_title": "Coming Back to Life",
+     "sectors": 31200,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Hey You",
+     "length_seconds": 278760,
+     "number": 7,
+     "offset": 185397,
+     "output_artist": "Unknown artist",
+     "output_title": "Hey You",
+     "sectors": 20943,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "A Great Day for Freedom",
+     "length_seconds": 270826,
+     "number": 8,
+     "offset": 206340,
+     "output_artist": "Unknown artist",
+     "output_title": "A Great Day for Freedom",
+     "sectors": 20267,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Sorrow",
+     "length_seconds": 648000,
+     "number": 9,
+     "offset": 226607,
+     "output_artist": "Unknown artist",
+     "output_title": "Sorrow",
+     "sectors": 48680,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "High Hopes",
+     "length_seconds": 472267,
+     "number": 10,
+     "offset": 275287,
+     "output_artist": "Unknown artist",
+     "output_title": "High Hopes",
+     "sectors": 35420,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Another Brick in the Wall, Part Two",
+     "length_seconds": 427000,
+     "number": 11,
+     "offset": 310707,
+     "output_artist": "Unknown artist",
+     "output_title": "Another Brick in the Wall, Part Two",
+     "sectors": 32050,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
