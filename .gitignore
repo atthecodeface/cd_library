@@ -5,4 +5,7 @@ mp3/*
 source.hashdeep.combined
 source.hashdeep.new
 source.hashdeep.unsorted
+mp3.hashdeep.combined
+mp3.hashdeep.new
+mp3.hashdeep.unsorted
 *~
