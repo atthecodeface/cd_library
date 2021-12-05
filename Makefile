@@ -1,5 +1,7 @@
 LIBRARY_ROOT = $(PWD)
 
+HASH_ME = SET_HASH_ME_TO_THE_WILDCARD_IN_SOURCE_TO_HASH_EXCLUDING_FLAC
+
 help:
 	@echo "Add help here ${LIBRARY_ROOT}"
 	@echo ""
@@ -19,6 +21,16 @@ list:
 .PHONY: check_in_library_root
 check_in_library_root:
 	@test -f ${LIBRARY_ROOT}/library.json || (echo "Bad root of library ${LIBRARY_ROOT}" ; false)
+
+.ONESHELL:
+update_source_hash: check_in_library_root
+	cd ${LIBRARY_ROOT} 
+	(find source -wholename ${HASH_ME}*.flac -fprint /dev/stderr -print0| xargs -0 hashdeep -c md5 -l ) > source.hashdeep.new
+	touch source.hashdeep.new 
+	cat source.hashdeep source.hashdeep.new > source.hashdeep.combined 
+	sort --unique --field-separator=, --key=3d --key=2h --key=1g source.hashdeep.combined > source.hashdeep.updated 
+	mv source.hashdeep source.hashdeep.bkp 
+	mv source.hashdeep.updated source.hashdeep 
 
 .ONESHELL:
 update_source_hashes: check_in_library_root
@@ -60,8 +72,11 @@ rsync_to_mnt: check_in_library_root
 rsync_to_mnt2: check_in_library_root
 	(cd ${LIBRARY_ROOT} && rsync -vrltD mp3 /mnt2)
 
+try_to_backup_mnt3: check_in_library_root
+	(cd ${LIBRARY_ROOT} && rsync -anv ./mp3 ./source /mnt3)
+
 rsync_to_backup_mnt3: check_in_library_root
-	(cd ${LIBRARY_ROOT} && rsync -av ./ /mnt3)
+	(cd ${LIBRARY_ROOT} && rsync -av ./mp3 ./source /mnt3)
 
 rsync_to_nas: check_in_library_root
 	(cd ${LIBRARY_ROOT} && rsync -av . writer@10.1.17.34:/nas/audio/turnipdb_library)
