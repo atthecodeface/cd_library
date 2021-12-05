@@ -2,6 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0061": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "alb.0030",
    "artist": "",
    "cddb_id": "800be109",
@@ -28,7 +30,7 @@
      "length_seconds": 484933,
      "number": 1,
      "offset": 183,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "The King of Sunset Town",
      "sectors": 36175,
      "title": ""
@@ -40,7 +42,7 @@
      "length_seconds": 357574,
      "number": 2,
      "offset": 36358,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "Easter",
      "sectors": 26832,
      "title": ""
@@ -52,7 +54,7 @@
      "length_seconds": 232293,
      "number": 3,
      "offset": 63190,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "The Uninvited Guest",
      "sectors": 17440,
      "title": ""
@@ -64,7 +66,7 @@
      "length_seconds": 490133,
      "number": 4,
      "offset": 80630,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "Seasons End",
      "sectors": 36578,
      "title": ""
@@ -76,7 +78,7 @@
      "length_seconds": 270040,
      "number": 5,
      "offset": 117208,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "Holloway Girl",
      "sectors": 20082,
      "title": ""
@@ -88,7 +90,7 @@
      "length_seconds": 468000,
      "number": 6,
      "offset": 137290,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "Berlin",
      "sectors": 34775,
      "title": ""
@@ -100,7 +102,7 @@
      "length_seconds": 200533,
      "number": 7,
      "offset": 172065,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "After Me",
      "sectors": 14978,
      "title": ""
@@ -112,7 +114,7 @@
      "length_seconds": 175200,
      "number": 8,
      "offset": 187043,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "Hooks in You",
      "sectors": 13115,
      "title": ""
@@ -124,7 +126,7 @@
      "length_seconds": 374333,
      "number": 9,
      "offset": 200158,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "The Space\u2026",
      "sectors": 28102,
      "title": ""

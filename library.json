@@ -539,6 +539,39 @@
    "output_title": "The Hitchhiker\u2019s Guide to the Galaxy",
    "title": ""
   },
+  "alb.0049": {
+   "artist": "",
+   "downloaded_artists": "The Police",
+   "downloaded_titles": "Every Breath You Take: The Singles",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "4f9924c6-5836-44dc-bdde-e0e910023a3f",
+   "num_discs": 1,
+   "output_title": "Every Breath You Take: The Singles",
+   "title": ""
+  },
+  "alb.0050": {
+   "artist": "",
+   "downloaded_artists": "Lionel Richie",
+   "downloaded_titles": "Dancing on the Ceiling",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "f91ed7b9-87b2-4e24-8cc6-648e6a7e3453",
+   "num_discs": 1,
+   "output_title": "Dancing on the Ceiling",
+   "title": ""
+  },
+  "alb.0051": {
+   "artist": "",
+   "downloaded_artists": "R.E.M.",
+   "downloaded_titles": "Automatic for the People",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "0712fd61-a60e-42b8-ae88-d96f4f834d17",
+   "num_discs": 1,
+   "output_title": "Automatic for the People",
+   "title": ""
+  },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
    "downloaded_artists": "",

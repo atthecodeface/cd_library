@@ -2,6 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0087": {
+   "album_total_tracks": 67,
+   "album_track_offset": 52,
    "album_uniq_id": "alb.0048",
    "artist": "",
    "cddb_id": "cd0f7b0f",
@@ -28,7 +30,7 @@
      "length_seconds": 79000,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "Chapter 26: Yes Very Salutary Said Arthur",
      "sectors": 5950,
      "title": ""
@@ -40,7 +42,7 @@
      "length_seconds": 249000,
      "number": 2,
      "offset": 6100,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "Chapter 27: Slartibartfast's Study Was A Total Mess",
      "sectors": 18680,
      "title": ""
@@ -52,7 +54,7 @@
      "length_seconds": 310000,
      "number": 3,
      "offset": 24780,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "He Experienced A Moment's Panic",
      "sectors": 23236,
      "title": ""
@@ -64,7 +66,7 @@
      "length_seconds": 284000,
      "number": 4,
      "offset": 48016,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "Chapter 28: It Was A Long Long Time",
      "sectors": 21281,
      "title": ""
@@ -76,7 +78,7 @@
      "length_seconds": 366000,
      "number": 5,
      "offset": 69297,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "Chapter 29: Zaphod Wake Up",
      "sectors": 27474,
      "title": ""
@@ -88,7 +90,7 @@
      "length_seconds": 245000,
      "number": 6,
      "offset": 96771,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "One Day Young Zaphod Here",
      "sectors": 18391,
      "title": ""
@@ -100,7 +102,7 @@
      "length_seconds": 280000,
      "number": 7,
      "offset": 115162,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "Chapter 30: So There You Have It",
      "sectors": 21028,
      "title": ""
@@ -112,7 +114,7 @@
      "length_seconds": 175000,
      "number": 8,
      "offset": 136190,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "Chapter 31: It Is Of Course Well Known",
      "sectors": 13100,
      "title": ""
@@ -124,7 +126,7 @@
      "length_seconds": 404000,
      "number": 9,
      "offset": 149290,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "A Short Air Car Trip",
      "sectors": 30297,
      "title": ""
@@ -136,7 +138,7 @@
      "length_seconds": 356000,
      "number": 10,
      "offset": 179587,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "I Would Wouldn't You Ford",
      "sectors": 26718,
      "title": ""
@@ -148,7 +150,7 @@
      "length_seconds": 237000,
      "number": 11,
      "offset": 206305,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "Chapter 32: Emergency Emergency",
      "sectors": 17741,
      "title": ""
@@ -160,7 +162,7 @@
      "length_seconds": 273000,
      "number": 12,
      "offset": 224046,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "Suddenly The Air Exploded",
      "sectors": 20457,
      "title": ""
@@ -172,7 +174,7 @@
      "length_seconds": 249000,
      "number": 13,
      "offset": 244503,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "Chapter 33: But The End Never Came",
      "sectors": 18639,
      "title": ""
@@ -184,7 +186,7 @@
      "length_seconds": 300000,
      "number": 14,
      "offset": 263142,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "Chapter 34: The Air Car Rocketed Them",
      "sectors": 22495,
      "title": ""
@@ -196,7 +198,7 @@
      "length_seconds": 157000,
      "number": 15,
      "offset": 285637,
-     "output_artist": "Unknown artist",
+     "output_artist": "Douglas Adams read by Stephen Fry",
      "output_title": "Chapter 35: That Night As The Heart Of Gold",
      "sectors": 11769,
      "title": ""

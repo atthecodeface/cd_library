@@ -2,6 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0045": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "alb.0016",
    "artist": "",
    "cddb_id": "7409d609",
@@ -28,7 +30,7 @@
      "length_seconds": 317533,
      "number": 1,
      "offset": 183,
-     "output_artist": "Unknown artist",
+     "output_artist": "Dire Straits",
      "output_title": "Once Upon a Time in the West",
      "sectors": 23665,
      "title": ""
@@ -40,7 +42,7 @@
      "length_seconds": 255853,
      "number": 2,
      "offset": 23848,
-     "output_artist": "Unknown artist",
+     "output_artist": "Dire Straits",
      "output_title": "News",
      "sectors": 19045,
      "title": ""
@@ -52,7 +54,7 @@
      "length_seconds": 227693,
      "number": 3,
      "offset": 42893,
-     "output_artist": "Unknown artist",
+     "output_artist": "Dire Straits",
      "output_title": "Where Do You Think You\u2019re Going?",
      "sectors": 16920,
      "title": ""
@@ -64,7 +66,7 @@
      "length_seconds": 345200,
      "number": 4,
      "offset": 59813,
-     "output_artist": "Unknown artist",
+     "output_artist": "Dire Straits",
      "output_title": "Communiqu\u00e9",
      "sectors": 25735,
      "title": ""
@@ -76,7 +78,7 @@
      "length_seconds": 221693,
      "number": 5,
      "offset": 85548,
-     "output_artist": "Unknown artist",
+     "output_artist": "Dire Straits",
      "output_title": "Lady Writer",
      "sectors": 16482,
      "title": ""
@@ -88,7 +90,7 @@
      "length_seconds": 272026,
      "number": 6,
      "offset": 102030,
-     "output_artist": "Unknown artist",
+     "output_artist": "Dire Straits",
      "output_title": "Angel of Mercy",
      "sectors": 20253,
      "title": ""
@@ -100,7 +102,7 @@
      "length_seconds": 267186,
      "number": 7,
      "offset": 122283,
-     "output_artist": "Unknown artist",
+     "output_artist": "Dire Straits",
      "output_title": "Portobello Belle",
      "sectors": 19882,
      "title": ""
@@ -112,7 +114,7 @@
      "length_seconds": 284533,
      "number": 8,
      "offset": 142165,
-     "output_artist": "Unknown artist",
+     "output_artist": "Dire Straits",
      "output_title": "Single-Handed Sailor",
      "sectors": 21193,
      "title": ""
@@ -124,7 +126,7 @@
      "length_seconds": 342026,
      "number": 9,
      "offset": 163358,
-     "output_artist": "Unknown artist",
+     "output_artist": "Dire Straits",
      "output_title": "Follow Me Home",
      "sectors": 25697,
      "title": ""

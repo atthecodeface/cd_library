@@ -2,6 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0015": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "",
    "artist": "The Cambridge Singers",
    "cddb_id": "1d0d3914",
@@ -28,7 +30,7 @@
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "The Blue Bird, C. V. Stanford",
      "sectors": 0,
      "title": "The Blue Bird, C. V. Stanford"
@@ -40,7 +42,7 @@
      "length_seconds": 0,
      "number": 2,
      "offset": 18216,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "To be sung of a summer night on the water (part 1), Delius",
      "sectors": 0,
      "title": "To be sung of a summer night on the water (part 1), Delius"
@@ -52,7 +54,7 @@
      "length_seconds": 0,
      "number": 3,
      "offset": 28324,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "To be sung of a summer night on the water (part 2), Delius",
      "sectors": 0,
      "title": "To be sung of a summer night on the water (part 2), Delius"
@@ -64,7 +66,7 @@
      "length_seconds": 0,
      "number": 4,
      "offset": 38752,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "There is Sweet Music, Elgar",
      "sectors": 0,
      "title": "There is Sweet Music, Elgar"
@@ -76,7 +78,7 @@
      "length_seconds": 0,
      "number": 5,
      "offset": 63496,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "My Love Dwelt in a Northern Land, Elgar",
      "sectors": 0,
      "title": "My Love Dwelt in a Northern Land, Elgar"
@@ -88,7 +90,7 @@
      "length_seconds": 0,
      "number": 6,
      "offset": 83350,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "Full Fathom Five, R Vaughan Williams",
      "sectors": 0,
      "title": "Full Fathom Five, R Vaughan Williams"
@@ -100,7 +102,7 @@
      "length_seconds": 0,
      "number": 7,
      "offset": 98134,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "The Cloud-Capp'd Towers, R Vaughan Williams",
      "sectors": 0,
      "title": "The Cloud-Capp'd Towers, R Vaughan Williams"
@@ -112,7 +114,7 @@
      "length_seconds": 0,
      "number": 8,
      "offset": 108646,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "Over Hill, Over Dale, R Vaughan Williams",
      "sectors": 0,
      "title": "Over Hill, Over Dale, R Vaughan Williams"
@@ -124,7 +126,7 @@
      "length_seconds": 0,
      "number": 9,
      "offset": 113590,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "The Sailor and Young Nancy, E. J. Moeran",
      "sectors": 0,
      "title": "The Sailor and Young Nancy, E. J. Moeran"
@@ -136,7 +138,7 @@
      "length_seconds": 0,
      "number": 10,
      "offset": 127360,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "Brigg Fair, Percy Grainger",
      "sectors": 0,
      "title": "Brigg Fair, Percy Grainger"
@@ -148,7 +150,7 @@
      "length_seconds": 0,
      "number": 11,
      "offset": 140656,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "Londonderry Air, Percy Grainger",
      "sectors": 0,
      "title": "Londonderry Air, Percy Grainger"
@@ -160,7 +162,7 @@
      "length_seconds": 0,
      "number": 12,
      "offset": 156190,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "The Three Ravens, Edward Chapman",
      "sectors": 0,
      "title": "The Three Ravens, Edward Chapman"
@@ -172,7 +174,7 @@
      "length_seconds": 0,
      "number": 13,
      "offset": 178102,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "My Sweetheart's Like Venus, arr. Holst",
      "sectors": 0,
      "title": "My Sweetheart's Like Venus, arr. Holst"
@@ -184,7 +186,7 @@
      "length_seconds": 0,
      "number": 14,
      "offset": 186778,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "The Oak and the Ash, Edward Bairstow",
      "sectors": 0,
      "title": "The Oak and the Ash, Edward Bairstow"
@@ -196,7 +198,7 @@
      "length_seconds": 0,
      "number": 15,
      "offset": 200470,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "Quick! We have but a Second, arr. C. V. Stanford",
      "sectors": 0,
      "title": "Quick! We have but a Second, arr. C. V. Stanford"
@@ -208,7 +210,7 @@
      "length_seconds": 0,
      "number": 16,
      "offset": 204010,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "To Daffodils, Benjamin Britten",
      "sectors": 0,
      "title": "To Daffodils, Benjamin Britten"
@@ -220,7 +222,7 @@
      "length_seconds": 0,
      "number": 17,
      "offset": 211360,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "The Succession of the Four Sweet Months, Benjamin Britten",
      "sectors": 0,
      "title": "The Succession of the Four Sweet Months, Benjamin Britten"
@@ -232,7 +234,7 @@
      "length_seconds": 0,
      "number": 18,
      "offset": 220672,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "Marsh Flowers, Benjamin Britten",
      "sectors": 0,
      "title": "Marsh Flowers, Benjamin Britten"
@@ -244,7 +246,7 @@
      "length_seconds": 0,
      "number": 19,
      "offset": 231952,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "The Evening Primrose, Benjamin Britten",
      "sectors": 0,
      "title": "The Evening Primrose, Benjamin Britten"
@@ -256,7 +258,7 @@
      "length_seconds": 0,
      "number": 20,
      "offset": 243640,
-     "output_artist": "Unknown artist",
+     "output_artist": "The Cambridge Singers",
      "output_title": "Ballad of Green Broom, Benjamin Britten",
      "sectors": 0,
      "title": "Ballad of Green Broom, Benjamin Britten"

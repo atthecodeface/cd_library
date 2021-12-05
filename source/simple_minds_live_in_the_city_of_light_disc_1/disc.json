@@ -2,6 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0074": {
+   "album_total_tracks": 14,
+   "album_track_offset": 0,
    "album_uniq_id": "alb.0040",
    "artist": "",
    "cddb_id": "43099107",
@@ -28,7 +30,7 @@
      "length_seconds": 441666,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simple Minds",
      "output_title": "Ghostdancing",
      "sectors": 33125,
      "title": ""
@@ -40,7 +42,7 @@
      "length_seconds": 267426,
      "number": 2,
      "offset": 33275,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simple Minds",
      "output_title": "Big Sleep",
      "sectors": 20057,
      "title": ""
@@ -52,7 +54,7 @@
      "length_seconds": 321466,
      "number": 3,
      "offset": 53332,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simple Minds",
      "output_title": "Waterfront",
      "sectors": 24110,
      "title": ""
@@ -64,7 +66,7 @@
      "length_seconds": 277573,
      "number": 4,
      "offset": 77442,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simple Minds",
      "output_title": "Promised You a Miracle",
      "sectors": 20818,
      "title": ""
@@ -76,7 +78,7 @@
      "length_seconds": 359026,
      "number": 5,
      "offset": 98260,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simple Minds",
      "output_title": "Someone Somewhere in Summertime",
      "sectors": 26927,
      "title": ""
@@ -88,7 +90,7 @@
      "length_seconds": 395666,
      "number": 6,
      "offset": 125187,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simple Minds",
      "output_title": "Oh Jungleland",
      "sectors": 29675,
      "title": ""
@@ -100,7 +102,7 @@
      "length_seconds": 386506,
      "number": 7,
      "offset": 154862,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simple Minds",
      "output_title": "Alive and Kicking",
      "sectors": 28988,
      "title": ""

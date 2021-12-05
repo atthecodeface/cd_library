@@ -2,6 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0003": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "",
    "artist": "The Choir of King's College",
    "cddb_id": "9c11250d",

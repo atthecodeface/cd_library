@@ -2,6 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0009": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "alb.0003",
    "artist": "",
    "cddb_id": "8d06fc0c",
@@ -28,7 +30,7 @@
      "length_seconds": 32893,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Bookends Theme",
      "sectors": 2442,
      "title": ""
@@ -40,7 +42,7 @@
      "length_seconds": 168733,
      "number": 2,
      "offset": 2592,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Save the Life of My Child",
      "sectors": 12658,
      "title": ""
@@ -52,7 +54,7 @@
      "length_seconds": 215186,
      "number": 3,
      "offset": 15250,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "America",
      "sectors": 16117,
      "title": ""
@@ -64,7 +66,7 @@
      "length_seconds": 138933,
      "number": 4,
      "offset": 31367,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Overs",
      "sectors": 10520,
      "title": ""
@@ -76,7 +78,7 @@
      "length_seconds": 127066,
      "number": 5,
      "offset": 41887,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Voices of Old People",
      "sectors": 9513,
      "title": ""
@@ -88,7 +90,7 @@
      "length_seconds": 155333,
      "number": 6,
      "offset": 51400,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Old Friends",
      "sectors": 11632,
      "title": ""
@@ -100,7 +102,7 @@
      "length_seconds": 82773,
      "number": 7,
      "offset": 63032,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Bookends Theme",
      "sectors": 6430,
      "title": ""
@@ -112,7 +114,7 @@
      "length_seconds": 199266,
      "number": 8,
      "offset": 69462,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Fakin\u2019 It",
      "sectors": 15050,
      "title": ""
@@ -124,7 +126,7 @@
      "length_seconds": 137266,
      "number": 9,
      "offset": 84512,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Punky\u2019s Dilemma",
      "sectors": 10223,
      "title": ""
@@ -136,7 +138,7 @@
      "length_seconds": 235106,
      "number": 10,
      "offset": 94735,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Mrs. Robinson",
      "sectors": 18555,
      "title": ""
@@ -148,7 +150,7 @@
      "length_seconds": 137573,
      "number": 11,
      "offset": 113290,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "A Hazy Shade of Winter",
      "sectors": 10312,
      "title": ""
@@ -160,7 +162,7 @@
      "length_seconds": 142240,
      "number": 12,
      "offset": 123602,
-     "output_artist": "Unknown artist",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "At the Zoo",
      "sectors": 10658,
      "title": ""

@@ -2,6 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0059": {
+   "album_total_tracks": 22,
+   "album_track_offset": 12,
    "album_uniq_id": "alb.0029",
    "artist": "",
    "cddb_id": "890a000a",

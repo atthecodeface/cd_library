@@ -2,6 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0016": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "alb.0009",
    "artist": "",
    "cddb_id": "780cb70a",
@@ -28,7 +30,7 @@
      "length_seconds": 169000,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Wolfgang Amadeus Mozart; Priti Coles, Anna di Mauro, John Dickie, Andrea Martin, Ko\u0161ice Teachers' Choir, Camerata Cassovia, Johannes Wildner",
      "output_title": "Mass in C major, K. 317: I. Kyrie",
      "sectors": 12675,
      "title": ""
@@ -40,7 +42,7 @@
      "length_seconds": 256000,
      "number": 2,
      "offset": 12825,
-     "output_artist": "Unknown artist",
+     "output_artist": "Wolfgang Amadeus Mozart; Priti Coles, Anna di Mauro, John Dickie, Andrea Martin, Ko\u0161ice Teachers' Choir, Camerata Cassovia, Johannes Wildner",
      "output_title": "Mass in C major, K. 317: II. Gloria",
      "sectors": 19200,
      "title": ""
@@ -52,7 +54,7 @@
      "length_seconds": 411595,
      "number": 3,
      "offset": 32025,
-     "output_artist": "Unknown artist",
+     "output_artist": "Wolfgang Amadeus Mozart; Priti Coles, Anna di Mauro, John Dickie, Andrea Martin, Ko\u0161ice Teachers' Choir, Camerata Cassovia, Johannes Wildner",
      "output_title": "Mass in C major, K. 317: III. Credo",
      "sectors": 30975,
      "title": ""
@@ -64,7 +66,7 @@
      "length_seconds": 91000,
      "number": 4,
      "offset": 63000,
-     "output_artist": "Unknown artist",
+     "output_artist": "Wolfgang Amadeus Mozart; Priti Coles, Anna di Mauro, John Dickie, Andrea Martin, Ko\u0161ice Teachers' Choir, Camerata Cassovia, Johannes Wildner",
      "output_title": "Mass in C major, K. 317: IV. Sanctus",
      "sectors": 6825,
      "title": ""
@@ -76,7 +78,7 @@
      "length_seconds": 225000,
      "number": 5,
      "offset": 69825,
-     "output_artist": "Unknown artist",
+     "output_artist": "Wolfgang Amadeus Mozart; Priti Coles, Anna di Mauro, John Dickie, Andrea Martin, Ko\u0161ice Teachers' Choir, Camerata Cassovia, Johannes Wildner",
      "output_title": "Mass in C major, K. 317: V. Benedictus",
      "sectors": 16875,
      "title": ""
@@ -88,7 +90,7 @@
      "length_seconds": 381280,
      "number": 6,
      "offset": 86700,
-     "output_artist": "Unknown artist",
+     "output_artist": "Wolfgang Amadeus Mozart; Priti Coles, Anna di Mauro, John Dickie, Andrea Martin, Ko\u0161ice Teachers' Choir, Camerata Cassovia, Johannes Wildner",
      "output_title": "Mass in C major, K. 317: VI. Agnus Dei",
      "sectors": 28725,
      "title": ""
@@ -100,7 +102,7 @@
      "length_seconds": 297000,
      "number": 7,
      "offset": 115425,
-     "output_artist": "Unknown artist",
+     "output_artist": "Wolfgang Amadeus Mozart; Priti Coles, Anna di Mauro, John Dickie, Andrea Martin, Ko\u0161ice Teachers' Choir, Camerata Cassovia, Johannes Wildner",
      "output_title": "Vesperae solennes de confessore, K. 339: Laudate dominum",
      "sectors": 22275,
      "title": ""
@@ -112,7 +114,7 @@
      "length_seconds": 334000,
      "number": 8,
      "offset": 137700,
-     "output_artist": "Unknown artist",
+     "output_artist": "Wolfgang Amadeus Mozart; Priti Coles, Anna di Mauro, John Dickie, Andrea Martin, Ko\u0161ice Teachers' Choir, Camerata Cassovia, Johannes Wildner",
      "output_title": "Sub tuum praesidium, Offertorium, K. 198",
      "sectors": 25050,
      "title": ""
@@ -124,7 +126,7 @@
      "length_seconds": 172000,
      "number": 9,
      "offset": 162750,
-     "output_artist": "Unknown artist",
+     "output_artist": "Wolfgang Amadeus Mozart; Priti Coles, Anna di Mauro, John Dickie, Andrea Martin, Ko\u0161ice Teachers' Choir, Camerata Cassovia, Johannes Wildner",
      "output_title": "Ave Verum Corpus, K. 618",
      "sectors": 12975,
      "title": ""
@@ -136,7 +138,7 @@
      "length_seconds": 916093,
      "number": 10,
      "offset": 175725,
-     "output_artist": "Unknown artist",
+     "output_artist": "Wolfgang Amadeus Mozart; Priti Coles, Anna di Mauro, John Dickie, Andrea Martin, Ko\u0161ice Teachers' Choir, Camerata Cassovia, Johannes Wildner",
      "output_title": "Exsultate, Jubilate, K. 165",
      "sectors": 68600,
      "title": ""

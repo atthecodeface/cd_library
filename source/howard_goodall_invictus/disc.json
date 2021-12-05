@@ -2,6 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0026": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "",
    "artist": "Howard Goodall and Christ Church Cathedral Choir",
    "cddb_id": "710daa09",

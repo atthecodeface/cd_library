@@ -2,6 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0062": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "alb.0031",
    "artist": "",
    "cddb_id": "530ac307",
@@ -28,7 +30,7 @@
      "length_seconds": 422000,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "Assassing",
      "sectors": 31710,
      "title": ""
@@ -40,7 +42,7 @@
      "length_seconds": 199733,
      "number": 2,
      "offset": 31860,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "Punch & Judy",
      "sectors": 15105,
      "title": ""
@@ -52,7 +54,7 @@
      "length_seconds": 409000,
      "number": 3,
      "offset": 46965,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "Jigsaw",
      "sectors": 30792,
      "title": ""
@@ -64,7 +66,7 @@
      "length_seconds": 308960,
      "number": 4,
      "offset": 77757,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "Emerald Lies",
      "sectors": 23385,
      "title": ""
@@ -76,7 +78,7 @@
      "length_seconds": 412640,
      "number": 5,
      "offset": 101142,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "She Chameleon",
      "sectors": 31080,
      "title": ""
@@ -88,7 +90,7 @@
      "length_seconds": 510426,
      "number": 6,
      "offset": 132222,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "Incubus",
      "sectors": 38368,
      "title": ""
@@ -100,7 +102,7 @@
      "length_seconds": 492933,
      "number": 7,
      "offset": 170590,
-     "output_artist": "Unknown artist",
+     "output_artist": "Marillion",
      "output_title": "Fugazi",
      "sectors": 36237,
      "title": ""

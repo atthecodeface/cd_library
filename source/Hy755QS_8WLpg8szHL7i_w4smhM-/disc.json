@@ -2,6 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0001": {
+   "album_total_tracks": 11,
+   "album_track_offset": 5,
    "album_uniq_id": "winnie-the-pooh",
    "artist": "Jim Broadbent, A.A.Milne",
    "cddb_id": "260c3603",
