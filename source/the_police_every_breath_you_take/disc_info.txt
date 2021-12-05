@@ -11,25 +11,25 @@ Device type    : Removable CD-ROM
 Version        : 0
 Response Format: 2
 Capabilities   : 
-Vendor_info    : 'MATSHITA'
-Identification : 'BD-MLT UJ240AS  '
-Revision       : '1.00'
+Vendor_info    : 'FREECOM_'
+Identification : 'DVD+/-RW16H4    '
+Revision       : 'FR00'
 Device seems to be: Generic mmc2 DVD-R/DVD-RW.
 Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
 Driver flags   : MMC-3 SWABAUDIO BURNFREE 
-Supported modes: TAO PACKET SAO RAW/R16 RAW/R96P RAW/R96R
+Supported modes: TAO PACKET SAO SAO/R96R RAW/R96R
 first: 1 last 13
-track:   1 lba:         7 (       28) 00:02:07 adr: 1 control: 0 mode: 0
-track:   2 lba:     14472 (    57888) 03:14:72 adr: 1 control: 0 mode: 0
-track:   3 lba:     27140 (   108560) 06:03:65 adr: 1 control: 0 mode: 0
-track:   4 lba:     48737 (   194948) 10:51:62 adr: 1 control: 0 mode: 0
-track:   5 lba:     70467 (   281868) 15:41:42 adr: 1 control: 0 mode: 0
-track:   6 lba:     93120 (   372480) 20:43:45 adr: 1 control: 0 mode: 0
-track:   7 lba:    114797 (   459188) 25:32:47 adr: 1 control: 0 mode: 0
-track:   8 lba:    133352 (   533408) 29:40:02 adr: 1 control: 0 mode: 0
-track:   9 lba:    152850 (   611400) 34:00:00 adr: 1 control: 0 mode: 0
-track:  10 lba:    169582 (   678328) 37:43:07 adr: 1 control: 0 mode: 0
-track:  11 lba:    183057 (   732228) 40:42:57 adr: 1 control: 0 mode: 0
-track:  12 lba:    202007 (   808028) 44:55:32 adr: 1 control: 0 mode: 0
-track:  13 lba:    224330 (   897320) 49:53:05 adr: 1 control: 0 mode: 0
+track:   1 lba:         7 (       28) 00:02:07 adr: 1 control: 0 mode: -1
+track:   2 lba:     14472 (    57888) 03:14:72 adr: 1 control: 0 mode: -1
+track:   3 lba:     27140 (   108560) 06:03:65 adr: 1 control: 0 mode: -1
+track:   4 lba:     48737 (   194948) 10:51:62 adr: 1 control: 0 mode: -1
+track:   5 lba:     70467 (   281868) 15:41:42 adr: 1 control: 0 mode: -1
+track:   6 lba:     93120 (   372480) 20:43:45 adr: 1 control: 0 mode: -1
+track:   7 lba:    114797 (   459188) 25:32:47 adr: 1 control: 0 mode: -1
+track:   8 lba:    133352 (   533408) 29:40:02 adr: 1 control: 0 mode: -1
+track:   9 lba:    152850 (   611400) 34:00:00 adr: 1 control: 0 mode: -1
+track:  10 lba:    169582 (   678328) 37:43:07 adr: 1 control: 0 mode: -1
+track:  11 lba:    183057 (   732228) 40:42:57 adr: 1 control: 0 mode: -1
+track:  12 lba:    202007 (   808028) 44:55:32 adr: 1 control: 0 mode: -1
+track:  13 lba:    224330 (   897320) 49:53:05 adr: 1 control: 0 mode: -1
 track:lout lba:    247882 (   991528) 55:07:07 adr: 1 control: 0 mode: -1

@@ -565,11 +565,22 @@
    "artist": "",
    "downloaded_artists": "R.E.M.",
    "downloaded_titles": "Automatic for the People",
-   "json_path": ".",
+   "json_path": "library.json",
    "label": "",
    "musicbrainz_release_id": "0712fd61-a60e-42b8-ae88-d96f4f834d17",
    "num_discs": 1,
    "output_title": "Automatic for the People",
+   "title": ""
+  },
+  "alb.0052": {
+   "artist": "",
+   "downloaded_artists": "Tears for Fears",
+   "downloaded_titles": "Songs From the Big Chair",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "e135df1f-d8b3-4998-8cb4-0834585569df",
+   "num_discs": 1,
+   "output_title": "Songs From the Big Chair",
    "title": ""
   },
   "pdjames_bbc_radio_collection": {
@@ -582,6 +593,17 @@
    "num_discs": 17,
    "output_title": "P.D.James BBC Radio Collection",
    "title": "P.D.James BBC Radio Collection"
+  },
+  "ultimate_french_learn_at_home": {
+   "artist": "Living Language",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "json_path": "library.json",
+   "label": "Random House",
+   "musicbrainz_release_id": "",
+   "num_discs": 4,
+   "output_title": "Ultimate French At Home",
+   "title": "Ultimate French At Home"
   },
   "winnie-the-pooh": {
    "artist": "Jim Broadbent, A.A.Milne",

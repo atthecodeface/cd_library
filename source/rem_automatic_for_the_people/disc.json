@@ -30,7 +30,7 @@
      "length_seconds": 270000,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "R.E.M.",
      "output_title": "Drive",
      "sectors": 20420,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 230560,
      "number": 2,
      "offset": 20570,
-     "output_artist": "Unknown artist",
+     "output_artist": "R.E.M.",
      "output_title": "Try Not to Breathe",
      "sectors": 17282,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 248200,
      "number": 3,
      "offset": 37852,
-     "output_artist": "Unknown artist",
+     "output_artist": "R.E.M.",
      "output_title": "The Sidewinder Sleeps Tonite",
      "sectors": 18705,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 318800,
      "number": 4,
      "offset": 56557,
-     "output_artist": "Unknown artist",
+     "output_artist": "R.E.M.",
      "output_title": "Everybody Hurts",
      "sectors": 24023,
      "title": ""
@@ -78,7 +78,7 @@
      "length_seconds": 135666,
      "number": 5,
      "offset": 80580,
-     "output_artist": "Unknown artist",
+     "output_artist": "R.E.M.",
      "output_title": "New Orleans Instrumental No. 1",
      "sectors": 10175,
      "title": ""
@@ -90,7 +90,7 @@
      "length_seconds": 261560,
      "number": 6,
      "offset": 90755,
-     "output_artist": "Unknown artist",
+     "output_artist": "R.E.M.",
      "output_title": "Sweetness Follows",
      "sectors": 19617,
      "title": ""
@@ -102,7 +102,7 @@
      "length_seconds": 197653,
      "number": 7,
      "offset": 110372,
-     "output_artist": "Unknown artist",
+     "output_artist": "R.E.M.",
      "output_title": "Monty Got a Raw Deal",
      "sectors": 14818,
      "title": ""
@@ -114,7 +114,7 @@
      "length_seconds": 267466,
      "number": 8,
      "offset": 125190,
-     "output_artist": "Unknown artist",
+     "output_artist": "R.E.M.",
      "output_title": "Ignoreland",
      "sectors": 20072,
      "title": ""
@@ -126,7 +126,7 @@
      "length_seconds": 196200,
      "number": 9,
      "offset": 145262,
-     "output_artist": "Unknown artist",
+     "output_artist": "R.E.M.",
      "output_title": "Star Me Kitten",
      "sectors": 14715,
      "title": ""
@@ -138,7 +138,7 @@
      "length_seconds": 314000,
      "number": 10,
      "offset": 159977,
-     "output_artist": "Unknown artist",
+     "output_artist": "R.E.M.",
      "output_title": "Man on the Moon",
      "sectors": 23565,
      "title": ""
@@ -150,7 +150,7 @@
      "length_seconds": 257942,
      "number": 11,
      "offset": 183542,
-     "output_artist": "Unknown artist",
+     "output_artist": "R.E.M.",
      "output_title": "Nightswimming",
      "sectors": 19348,
      "title": ""
@@ -162,7 +162,7 @@
      "length_seconds": 230173,
      "number": 12,
      "offset": 202890,
-     "output_artist": "Unknown artist",
+     "output_artist": "R.E.M.",
      "output_title": "Find the River",
      "sectors": 17237,
      "title": ""

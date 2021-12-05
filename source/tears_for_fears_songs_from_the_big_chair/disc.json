@@ -1,0 +1,125 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0097": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0052",
+   "artist": "",
+   "cddb_id": "6009cf08",
+   "cddb_string": "6009cf08 8 182 29620 58992 77850 101117 123212 135095 157752 2513",
+   "disc_of_set": 1,
+   "downloaded_artists": "Tears for Fears",
+   "downloaded_titles": "Songs From the Big Chair",
+   "json_path": "source/tears_for_fears_songs_from_the_big_chair/disc.json",
+   "musicbrainz_id": "tYiwTN.GlxDZYdUFhTdV0JG6b78-",
+   "musicbrainz_release_id": "e135df1f-d8b3-4998-8cb4-0834585569df",
+   "musicbrainz_string": "8 182 29620 58992 77850 101117 123212 135095 157752 188512",
+   "num_tracks": 8,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "tears_for_fears_songs_from_the_big_chair",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Shout",
+     "length_seconds": 392667,
+     "number": 1,
+     "offset": 182,
+     "output_artist": "Tears for Fears",
+     "output_title": "Shout",
+     "sectors": 29438,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Working Hour",
+     "length_seconds": 391706,
+     "number": 2,
+     "offset": 29620,
+     "output_artist": "Tears for Fears",
+     "output_title": "The Working Hour",
+     "sectors": 29372,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Everybody Wants to Rule the World",
+     "length_seconds": 251000,
+     "number": 3,
+     "offset": 58992,
+     "output_artist": "Tears for Fears",
+     "output_title": "Everybody Wants to Rule the World",
+     "sectors": 18858,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mothers Talk",
+     "length_seconds": 309960,
+     "number": 4,
+     "offset": 77850,
+     "output_artist": "Tears for Fears",
+     "output_title": "Mothers Talk",
+     "sectors": 23267,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I Believe",
+     "length_seconds": 294733,
+     "number": 5,
+     "offset": 101117,
+     "output_artist": "Tears for Fears",
+     "output_title": "I Believe",
+     "sectors": 22095,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Broken",
+     "length_seconds": 158506,
+     "number": 6,
+     "offset": 123212,
+     "output_artist": "Tears for Fears",
+     "output_title": "Broken",
+     "sectors": 11883,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Head Over Heels / Broken (live)",
+     "length_seconds": 302093,
+     "number": 7,
+     "offset": 135095,
+     "output_artist": "Tears for Fears",
+     "output_title": "Head Over Heels / Broken (live)",
+     "sectors": 22657,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Listen",
+     "length_seconds": 410000,
+     "number": 8,
+     "offset": 157752,
+     "output_artist": "Tears for Fears",
+     "output_title": "Listen",
+     "sectors": 30760,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

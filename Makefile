@@ -12,6 +12,10 @@ help:
 	@echo "The target 'rsync_to_backup_mnt3' attempts to sync *everything* in the library to /mnt3 in archive mode"
 	@echo "The target 'rsync_to_mnt' attempts to sync the mp3 to a FAT32 file system in /mnt"
 
+.PHONY: list
+list:
+	@LC_ALL=C $(MAKE) -pRrq -f $(lastword $(MAKEFILE_LIST)) : 2>/dev/null | awk -v RS= -F: '/^# File/,/^# Finished Make data base/ {if ($$1 !~ "^[#.]") {print $$1}}' | sort | egrep -v -e '^[^[:alnum:]]' -e '^$@$$'
+
 .PHONY: check_in_library_root
 check_in_library_root:
 	@test -f ${LIBRARY_ROOT}/library.json || (echo "Bad root of library ${LIBRARY_ROOT}" ; false)
