@@ -583,6 +583,28 @@
    "output_title": "Songs From the Big Chair",
    "title": ""
   },
+  "alb.0053": {
+   "artist": "",
+   "downloaded_artists": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+   "downloaded_titles": "H.M.S. Pinafore",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "4eaef46f-8a53-44c7-b7e2-d53bb4f5a4de",
+   "num_discs": 2,
+   "output_title": "H.M.S. Pinafore",
+   "title": ""
+  },
+  "alb.0054": {
+   "artist": "",
+   "downloaded_artists": "Handel; James Bowman, Robert Tear, Benjamin Luxon, Choir of King\u2019s College, Cambridge, Academy of St Martin in the Fields, Sir David Willcocks",
+   "downloaded_titles": "Messiah",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "6e84c40f-1fe9-43ab-9331-d02c1bcbcd97",
+   "num_discs": 2,
+   "output_title": "Messiah",
+   "title": ""
+  },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
    "downloaded_artists": "",
