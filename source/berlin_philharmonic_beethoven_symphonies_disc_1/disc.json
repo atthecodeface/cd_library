@@ -1,0 +1,125 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0123": {
+   "album_total_tracks": 37,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0070",
+   "artist": "",
+   "cddb_id": "6a0d8408",
+   "cddb_string": "6a0d8408 8 182 45952 74730 92477 119242 166620 213155 230750 3462",
+   "disc_of_set": 1,
+   "downloaded_artists": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+   "downloaded_titles": "9 Symphonien / Ouvert\u00fcren",
+   "json_path": "source/berlin_philharmonic_beethoven_symphonies_disc_1/disc.json",
+   "musicbrainz_id": "4MbzbJ521rnmK1pPnAM8YQogwmA-",
+   "musicbrainz_release_id": "ae34cda0-d2f6-48d5-8526-843b1df0e242",
+   "musicbrainz_string": "8 182 45952 74730 92477 119242 166620 213155 230750 259672",
+   "num_tracks": 8,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "berlin_philharmonic_beethoven_symphonies_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 1 C-Dur, Op. 21: I. Adagio molto - Allegro con brio",
+     "length_seconds": 610493,
+     "number": 1,
+     "offset": 182,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 1 C-Dur, Op. 21: I. Adagio molto - Allegro con brio",
+     "sectors": 45770,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 1 C-Dur, Op. 21: II. Andante cantabile con moto",
+     "length_seconds": 384000,
+     "number": 2,
+     "offset": 45952,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 1 C-Dur, Op. 21: II. Andante cantabile con moto",
+     "sectors": 28778,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 1 C-Dur, Op. 21: III. Menuetto. Allegro molto e vivace",
+     "length_seconds": 236626,
+     "number": 3,
+     "offset": 74730,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 1 C-Dur, Op. 21: III. Menuetto. Allegro molto e vivace",
+     "sectors": 17747,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 1 C-Dur, Op. 21: IV. Adagio - Allegro molto e vivace",
+     "length_seconds": 356866,
+     "number": 4,
+     "offset": 92477,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 1 C-Dur, Op. 21: IV. Adagio - Allegro molto e vivace",
+     "sectors": 26765,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 2 D-Dur, Op. 36: I. Adagio - Allegro con brio",
+     "length_seconds": 632000,
+     "number": 5,
+     "offset": 119242,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 2 D-Dur, Op. 36: I. Adagio - Allegro con brio",
+     "sectors": 47378,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 2 D-Dur, Op. 36: II. Larghetto",
+     "length_seconds": 620000,
+     "number": 6,
+     "offset": 166620,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 2 D-Dur, Op. 36: II. Larghetto",
+     "sectors": 46535,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 2 D-Dur, Op. 36: III. Scherzo. Allegro",
+     "length_seconds": 235000,
+     "number": 7,
+     "offset": 213155,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 2 D-Dur, Op. 36: III. Scherzo. Allegro",
+     "sectors": 17595,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 2 D-Dur, Op. 36: IV. Allegro molto",
+     "length_seconds": 387986,
+     "number": 8,
+     "offset": 230750,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 2 D-Dur, Op. 36: IV. Allegro molto",
+     "sectors": 28922,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0122": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0069",
+   "artist": "",
+   "cddb_id": "26102404",
+   "cddb_string": "26102404 4 183 86955 158393 265795 4134",
+   "disc_of_set": 1,
+   "downloaded_artists": "Gershwin; Orchestre symphonique de Montr\u00e9al, Charles Dutoit, Louis Lortie",
+   "downloaded_titles": "Rhapsody in Blue / An American in Paris",
+   "json_path": "source/montreal_symphonic_gershwin_rhapsody_in_blue/disc.json",
+   "musicbrainz_id": "jtxv6NGdQwA62Rv7tvTZ6chICWo-",
+   "musicbrainz_release_id": "b36ed0e8-3090-4184-b501-4a428168f68f",
+   "musicbrainz_string": "4 183 86955 158393 265795 310058",
+   "num_tracks": 4,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "montreal_symphonic_gershwin_rhapsody_in_blue",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "An American in Paris",
+     "length_seconds": 1156960,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Gershwin; Orchestre symphonique de Montr\u00e9al, Charles Dutoit, Louis Lortie",
+     "output_title": "An American in Paris",
+     "sectors": 86772,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Rhapsody in Blue",
+     "length_seconds": 952506,
+     "number": 2,
+     "offset": 86955,
+     "output_artist": "Gershwin; Orchestre symphonique de Montr\u00e9al, Charles Dutoit, Louis Lortie",
+     "output_title": "Rhapsody in Blue",
+     "sectors": 71438,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "A Symphonic Portrait of Porgy and Bess",
+     "length_seconds": 1432026,
+     "number": 3,
+     "offset": 158393,
+     "output_artist": "Gershwin; Orchestre symphonique de Montr\u00e9al, Charles Dutoit, Louis Lortie",
+     "output_title": "A Symphonic Portrait of Porgy and Bess",
+     "sectors": 107402,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Cuban Overture",
+     "length_seconds": 590173,
+     "number": 4,
+     "offset": 265795,
+     "output_artist": "Gershwin; Orchestre symphonique de Montr\u00e9al, Charles Dutoit, Louis Lortie",
+     "output_title": "Cuban Overture",
+     "sectors": 44263,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

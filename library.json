@@ -726,6 +726,61 @@
    "output_title": "Overtures",
    "title": ""
   },
+  "alb.0066": {
+   "artist": "",
+   "downloaded_artists": "Johann Sebastian Bach; The English Concert, Trevor Pinnock",
+   "downloaded_titles": "Violin Concertos",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "fd3e02db-81dd-47af-9bee-157f073ca82f",
+   "num_discs": 1,
+   "output_title": "Violin Concertos",
+   "title": ""
+  },
+  "alb.0067": {
+   "artist": "",
+   "downloaded_artists": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+   "downloaded_titles": "Haydn: Nelson Mass / Vivaldi: Gloria / Handel: Zadok the Priest",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "8b88cc0c-c21b-4dd6-a573-09ed65d2a765",
+   "num_discs": 1,
+   "output_title": "Haydn: Nelson Mass / Vivaldi: Gloria / Handel: Zadok the Priest",
+   "title": ""
+  },
+  "alb.0068": {
+   "artist": "",
+   "downloaded_artists": "Tchaikovsky; Royal Philharmonic Orchestra, Vladimir Ashkenazy",
+   "downloaded_titles": "Romeo & Juliet",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "dfac6ac3-1f1d-405d-981c-1651bb50ca99",
+   "num_discs": 1,
+   "output_title": "Romeo & Juliet",
+   "title": ""
+  },
+  "alb.0069": {
+   "artist": "",
+   "downloaded_artists": "Gershwin; Orchestre symphonique de Montr\u00e9al, Charles Dutoit, Louis Lortie",
+   "downloaded_titles": "Rhapsody in Blue / An American in Paris",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "b36ed0e8-3090-4184-b501-4a428168f68f",
+   "num_discs": 1,
+   "output_title": "Rhapsody in Blue / An American in Paris",
+   "title": ""
+  },
+  "alb.0070": {
+   "artist": "",
+   "downloaded_artists": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+   "downloaded_titles": "9 Symphonien / Ouvert\u00fcren",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "ae34cda0-d2f6-48d5-8526-843b1df0e242",
+   "num_discs": 6,
+   "output_title": "9 Symphonien / Ouvert\u00fcren",
+   "title": ""
+  },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
    "downloaded_artists": "",

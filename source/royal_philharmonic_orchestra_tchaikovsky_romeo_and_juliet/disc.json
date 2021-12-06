@@ -1,0 +1,77 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0121": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0068",
+   "artist": "",
+   "cddb_id": "270f6004",
+   "cddb_string": "270f6004 4 182 84965 153700 258992 3938",
+   "disc_of_set": 1,
+   "downloaded_artists": "Tchaikovsky; Royal Philharmonic Orchestra, Vladimir Ashkenazy",
+   "downloaded_titles": "Romeo & Juliet",
+   "json_path": "source/royal_philharmonic_orchestra_tchaikovsky_romeo_and_juliet/disc.json",
+   "musicbrainz_id": "4W_8pFCjHYIFh7zboj3ky7XjPYc-",
+   "musicbrainz_release_id": "dfac6ac3-1f1d-405d-981c-1651bb50ca99",
+   "musicbrainz_string": "4 182 84965 153700 258992 295372",
+   "num_tracks": 4,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "royal_philharmonic_orchestra_tchaikovsky_romeo_and_juliet",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Fantasy Overture: Romeo and Juliet",
+     "length_seconds": 1126600,
+     "number": 1,
+     "offset": 182,
+     "output_artist": "Tchaikovsky; Royal Philharmonic Orchestra, Vladimir Ashkenazy",
+     "output_title": "Fantasy Overture: Romeo and Juliet",
+     "sectors": 84783,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Capriccio Italien, op. 45",
+     "length_seconds": 920373,
+     "number": 2,
+     "offset": 84965,
+     "output_artist": "Tchaikovsky; Royal Philharmonic Orchestra, Vladimir Ashkenazy",
+     "output_title": "Capriccio Italien, op. 45",
+     "sectors": 68735,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Francesca da Rimini, op. 32",
+     "length_seconds": 1403893,
+     "number": 3,
+     "offset": 153700,
+     "output_artist": "Tchaikovsky; Royal Philharmonic Orchestra, Vladimir Ashkenazy",
+     "output_title": "Francesca da Rimini, op. 32",
+     "sectors": 105292,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "El\u00e9gie for strings",
+     "length_seconds": 485066,
+     "number": 4,
+     "offset": 258992,
+     "output_artist": "Tchaikovsky; Royal Philharmonic Orchestra, Vladimir Ashkenazy",
+     "output_title": "El\u00e9gie for strings",
+     "sectors": 36380,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

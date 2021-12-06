@@ -1,0 +1,137 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0126": {
+   "album_total_tracks": 37,
+   "album_track_offset": 21,
+   "album_uniq_id": "alb.0070",
+   "artist": "",
+   "cddb_id": "7b0f2c09",
+   "cddb_string": "7b0f2c09 9 183 33473 75270 96850 136303 177560 224330 238393 253613 3886",
+   "disc_of_set": 4,
+   "downloaded_artists": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+   "downloaded_titles": "9 Symphonien / Ouvert\u00fcren",
+   "json_path": "source/berlin_philharmonic_beethoven_symphonies_disc_4/disc.json",
+   "musicbrainz_id": "7n0enQAln6S3uN5Ohfry.TK1guY-",
+   "musicbrainz_release_id": "ae34cda0-d2f6-48d5-8526-843b1df0e242",
+   "musicbrainz_string": "9 183 33473 75270 96850 136303 177560 224330 238393 253613 291473",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "berlin_philharmonic_beethoven_symphonies_disc_4",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 5 c-Moll, Op. 67: I. Allegro con brio",
+     "length_seconds": 442000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 5 c-Moll, Op. 67: I. Allegro con brio",
+     "sectors": 33290,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 5 c-Moll, Op. 67: II. Andante con moto",
+     "length_seconds": 561000,
+     "number": 2,
+     "offset": 33473,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 5 c-Moll, Op. 67: II. Andante con moto",
+     "sectors": 41797,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 5 c-Moll, Op. 67: III. Allegro",
+     "length_seconds": 289360,
+     "number": 3,
+     "offset": 75270,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 5 c-Moll, Op. 67: III. Allegro",
+     "sectors": 21580,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 5 c-Moll, Op. 67: IV. Allegro",
+     "length_seconds": 533506,
+     "number": 4,
+     "offset": 96850,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 5 c-Moll, Op. 67: IV. Allegro",
+     "sectors": 39453,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 6 F-Dur, Op. 68 \"Pastorale\": I. Allegro ma non troppo",
+     "length_seconds": 549000,
+     "number": 5,
+     "offset": 136303,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 6 F-Dur, Op. 68 \"Pastorale\": I. Allegro ma non troppo",
+     "sectors": 41257,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 6 F-Dur, Op. 68 \"Pastorale\": II. Andante molto moto",
+     "length_seconds": 625000,
+     "number": 6,
+     "offset": 177560,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 6 F-Dur, Op. 68 \"Pastorale\": II. Andante molto moto",
+     "sectors": 46770,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 6 F-Dur, Op. 68 \"Pastorale\": III. Allegro",
+     "length_seconds": 189533,
+     "number": 7,
+     "offset": 224330,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 6 F-Dur, Op. 68 \"Pastorale\": III. Allegro",
+     "sectors": 14063,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 6 F-Dur, Op. 68 \"Pastorale\": IV. Allegro",
+     "length_seconds": 203693,
+     "number": 8,
+     "offset": 238393,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 6 F-Dur, Op. 68 \"Pastorale\": IV. Allegro",
+     "sectors": 15220,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 6 F-Dur, Op. 68 \"Pastorale\": V. Allegretto",
+     "length_seconds": 501773,
+     "number": 9,
+     "offset": 253613,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 6 F-Dur, Op. 68 \"Pastorale\": V. Allegretto",
+     "sectors": 37860,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

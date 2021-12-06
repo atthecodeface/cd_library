@@ -1,0 +1,89 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0124": {
+   "album_total_tracks": 37,
+   "album_track_offset": 8,
+   "album_uniq_id": "alb.0070",
+   "artist": "",
+   "cddb_id": "3f0d5305",
+   "cddb_string": "3f0d5305 5 183 63928 136543 164083 220028 3413",
+   "disc_of_set": 2,
+   "downloaded_artists": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+   "downloaded_titles": "9 Symphonien / Ouvert\u00fcren",
+   "json_path": "source/berlin_philharmonic_beethoven_symphonies_disc_2/disc.json",
+   "musicbrainz_id": "_lkG6DLNYs3StLA1gKaVIC9V67Q-",
+   "musicbrainz_release_id": "ae34cda0-d2f6-48d5-8526-843b1df0e242",
+   "musicbrainz_string": "5 183 63928 136543 164083 220028 256020",
+   "num_tracks": 5,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "berlin_philharmonic_beethoven_symphonies_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 3 Es-Dur, Op. 55 \"Eroica\": I. Allegro con brio",
+     "length_seconds": 849933,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 3 Es-Dur, Op. 55 \"Eroica\": I. Allegro con brio",
+     "sectors": 63745,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 3 Es-Dur, Op. 55 \"Eroica\": II. Marcia funebre. Adagio assai",
+     "length_seconds": 967600,
+     "number": 2,
+     "offset": 63928,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 3 Es-Dur, Op. 55 \"Eroica\": II. Marcia funebre. Adagio assai",
+     "sectors": 72615,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 3 Es-Dur, Op. 55 \"Eroica\": III. Scherzo. Allegro vivace",
+     "length_seconds": 367200,
+     "number": 3,
+     "offset": 136543,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 3 Es-Dur, Op. 55 \"Eroica\": III. Scherzo. Allegro vivace",
+     "sectors": 27540,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 3 Es-Dur, Op. 55 \"Eroica\": IV. Finale. Allegro molto",
+     "length_seconds": 745933,
+     "number": 4,
+     "offset": 164083,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 3 Es-Dur, Op. 55 \"Eroica\": IV. Finale. Allegro molto",
+     "sectors": 55945,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Egmont, Op. 84: Ouvert\u00fcre. Sostenuto, ma non troppo \u2013 Allegro",
+     "length_seconds": 479893,
+     "number": 5,
+     "offset": 220028,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Egmont, Op. 84: Ouvert\u00fcre. Sostenuto, ma non troppo \u2013 Allegro",
+     "sectors": 35992,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

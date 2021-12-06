@@ -1,0 +1,113 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0127": {
+   "album_total_tracks": 37,
+   "album_track_offset": 30,
+   "album_uniq_id": "alb.0070",
+   "artist": "",
+   "cddb_id": "540d2007",
+   "cddb_string": "540d2007 7 183 40933 59313 86388 119263 158235 189670 3362",
+   "disc_of_set": 5,
+   "downloaded_artists": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+   "downloaded_titles": "9 Symphonien / Ouvert\u00fcren",
+   "json_path": "source/berlin_philharmonic_beethoven_symphonies_disc_5/disc.json",
+   "musicbrainz_id": ".9IFmLXOt0svhDKlwweSuN6lpr4-",
+   "musicbrainz_release_id": "ae34cda0-d2f6-48d5-8526-843b1df0e242",
+   "musicbrainz_string": "7 183 40933 59313 86388 119263 158235 189670 252158",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "berlin_philharmonic_beethoven_symphonies_disc_5",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 8 F-Dur, Op. 93: I. Allegro vivace e con brio",
+     "length_seconds": 542373,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 8 F-Dur, Op. 93: I. Allegro vivace e con brio",
+     "sectors": 40750,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 8 F-Dur, Op. 93: II. Allegretto scherzando",
+     "length_seconds": 245000,
+     "number": 2,
+     "offset": 40933,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 8 F-Dur, Op. 93: II. Allegretto scherzando",
+     "sectors": 18380,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 8 F-Dur, Op. 93: III. Tempo di menuetto",
+     "length_seconds": 361040,
+     "number": 3,
+     "offset": 59313,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 8 F-Dur, Op. 93: III. Tempo di menuetto",
+     "sectors": 27075,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphonie No. 8 F-Dur, Op. 93: IV. Allegro vivace",
+     "length_seconds": 436493,
+     "number": 4,
+     "offset": 86388,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Symphonie No. 8 F-Dur, Op. 93: IV. Allegro vivace",
+     "sectors": 32875,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Ouvert\u00fcre Coriolan, Op. 62",
+     "length_seconds": 520000,
+     "number": 5,
+     "offset": 119263,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Ouvert\u00fcre Coriolan, Op. 62",
+     "sectors": 38972,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Ouvert\u00fcre Fidelio, Op. 72b",
+     "length_seconds": 419800,
+     "number": 6,
+     "offset": 158235,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Ouvert\u00fcre Fidelio, Op. 72b",
+     "sectors": 31435,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Ouvert\u00fcre Leonore No. 3, Op. 72a",
+     "length_seconds": 839000,
+     "number": 7,
+     "offset": 189670,
+     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_title": "Ouvert\u00fcre Leonore No. 3, Op. 72a",
+     "sectors": 62488,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
