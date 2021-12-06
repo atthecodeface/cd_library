@@ -913,6 +913,28 @@
    "output_title": "Jeff Wayne's Musical Version of The War of the Worlds",
    "title": ""
   },
+  "alb.0083": {
+   "artist": "",
+   "downloaded_artists": "Stephen Sondheim",
+   "downloaded_titles": "Sweeney Todd: The Demon Barber of Fleet Street",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "cff36ff1-0807-4fdd-80bc-41867a00d20d",
+   "num_discs": 2,
+   "output_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+   "title": ""
+  },
+  "alb.0084": {
+   "artist": "",
+   "downloaded_artists": "Mike Batt",
+   "downloaded_titles": "The Hunting Of The Snark",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "9aaccf5d-c338-4324-b981-c9bf193b8270",
+   "num_discs": 1,
+   "output_title": "The Hunting Of The Snark",
+   "title": ""
+  },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
    "downloaded_artists": "",

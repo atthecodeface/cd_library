@@ -1,0 +1,173 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0144": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0084",
+   "artist": "",
+   "cddb_id": "a70d150c",
+   "cddb_string": "a70d150c 12 150 9562 34387 49612 91012 117937 132562 156112 173662 178987 201600 215287 3351",
+   "disc_of_set": 1,
+   "downloaded_artists": "Mike Batt",
+   "downloaded_titles": "The Hunting Of The Snark",
+   "json_path": "source/mike_batt_the_hunting_of_the_snark/disc.json",
+   "musicbrainz_id": "_LYxoTXxDRaak1US9uHR1Sr_YEk-",
+   "musicbrainz_release_id": "9aaccf5d-c338-4324-b981-c9bf193b8270",
+   "musicbrainz_string": "12 150 9562 34387 49612 91012 117937 132562 156112 173662 178987 201600 215287 251325",
+   "num_tracks": 12,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "mike_batt_the_hunting_of_the_snark",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Introduction",
+     "length_seconds": 126693,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Introduction",
+     "sectors": 9412,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Children of the Sky",
+     "length_seconds": 329000,
+     "number": 2,
+     "offset": 9562,
+     "output_artist": "Unknown artist",
+     "output_title": "Children of the Sky",
+     "sectors": 24825,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Bellman's Speech",
+     "length_seconds": 195000,
+     "number": 3,
+     "offset": 34387,
+     "output_artist": "Unknown artist",
+     "output_title": "The Bellman's Speech",
+     "sectors": 15225,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Escapade",
+     "length_seconds": 552733,
+     "number": 4,
+     "offset": 49612,
+     "output_artist": "Unknown artist",
+     "output_title": "The Escapade",
+     "sectors": 41400,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Midnight Smoke",
+     "length_seconds": 357666,
+     "number": 5,
+     "offset": 91012,
+     "output_artist": "Unknown artist",
+     "output_title": "Midnight Smoke",
+     "sectors": 26925,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Snooker Song",
+     "length_seconds": 194040,
+     "number": 6,
+     "offset": 117937,
+     "output_artist": "Unknown artist",
+     "output_title": "The Snooker Song",
+     "sectors": 14625,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Pig Must Die",
+     "length_seconds": 313200,
+     "number": 7,
+     "offset": 132562,
+     "output_artist": "Unknown artist",
+     "output_title": "The Pig Must Die",
+     "sectors": 23550,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Beaver's Lesson",
+     "length_seconds": 196000,
+     "number": 8,
+     "offset": 156112,
+     "output_artist": "Unknown artist",
+     "output_title": "The Beaver's Lesson",
+     "sectors": 17550,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "A Delicate Combination",
+     "length_seconds": 110000,
+     "number": 9,
+     "offset": 173662,
+     "output_artist": "Unknown artist",
+     "output_title": "A Delicate Combination",
+     "sectors": 5325,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "As Long as the Moon Can Shine",
+     "length_seconds": 301266,
+     "number": 10,
+     "offset": 178987,
+     "output_artist": "Unknown artist",
+     "output_title": "As Long as the Moon Can Shine",
+     "sectors": 22613,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Dancing Towards Disaster",
+     "length_seconds": 182173,
+     "number": 11,
+     "offset": 201600,
+     "output_artist": "Unknown artist",
+     "output_title": "Dancing Towards Disaster",
+     "sectors": 13687,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Vanishing",
+     "length_seconds": 479200,
+     "number": 12,
+     "offset": 215287,
+     "output_artist": "Unknown artist",
+     "output_title": "The Vanishing",
+     "sectors": 36038,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

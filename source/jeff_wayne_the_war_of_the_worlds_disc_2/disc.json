@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0141": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 12,
+   "album_track_offset": 5,
    "album_uniq_id": "alb.0082",
    "artist": "",
    "cddb_id": "620bb007",
@@ -30,7 +30,7 @@
      "length_seconds": 355626,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jeff Wayne",
      "output_title": "The Red Weed, Part 1",
      "sectors": 26672,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 700640,
      "number": 2,
      "offset": 26822,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jeff Wayne",
      "output_title": "Parson Nathaniel / The Spirit of Man",
      "sectors": 52548,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 411093,
      "number": 3,
      "offset": 79370,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jeff Wayne",
      "output_title": "The Red Weed, Part 2",
      "sectors": 30832,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 733000,
      "number": 4,
      "offset": 110202,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jeff Wayne",
      "output_title": "Brave New World",
      "sectors": 54968,
      "title": ""
@@ -78,7 +78,7 @@
      "length_seconds": 517133,
      "number": 5,
      "offset": 165170,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jeff Wayne",
      "output_title": "Dead London",
      "sectors": 38785,
      "title": ""
@@ -90,7 +90,7 @@
      "length_seconds": 165026,
      "number": 6,
      "offset": 203955,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jeff Wayne",
      "output_title": "Epilogue, Part 1",
      "sectors": 12377,
      "title": ""
@@ -102,7 +102,7 @@
      "length_seconds": 110466,
      "number": 7,
      "offset": 216332,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jeff Wayne",
      "output_title": "Epilogue, Part 2 (NASA)",
      "sectors": 8285,
      "title": ""

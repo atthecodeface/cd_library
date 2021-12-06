@@ -1,0 +1,125 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0143": {
+   "album_total_tracks": 29,
+   "album_track_offset": 21,
+   "album_uniq_id": "alb.0083",
+   "artist": "",
+   "cddb_id": "660a1908",
+   "cddb_string": "660a1908 8 150 29202 53970 69947 86422 104222 120392 180802 2587",
+   "disc_of_set": 2,
+   "downloaded_artists": "Stephen Sondheim",
+   "downloaded_titles": "Sweeney Todd: The Demon Barber of Fleet Street",
+   "json_path": "source/stephen_sondheim_sweeny_todd_disc_2/disc.json",
+   "musicbrainz_id": "fXGREOCzdZ1OSTR9RoxPp2PIVNg-",
+   "musicbrainz_release_id": "cff36ff1-0807-4fdd-80bc-41867a00d20d",
+   "musicbrainz_string": "8 150 29202 53970 69947 86422 104222 120392 180802 194095",
+   "num_tracks": 8,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "stephen_sondheim_sweeny_todd_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "God, That's Good!",
+     "length_seconds": 387000,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Stephen Sondheim",
+     "output_title": "God, That's Good!",
+     "sectors": 29052,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Johanna",
+     "length_seconds": 329280,
+     "number": 2,
+     "offset": 29202,
+     "output_artist": "Stephen Sondheim",
+     "output_title": "Johanna",
+     "sectors": 24768,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "By the Sea",
+     "length_seconds": 213000,
+     "number": 3,
+     "offset": 53970,
+     "output_artist": "Stephen Sondheim",
+     "output_title": "By the Sea",
+     "sectors": 15977,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Wigmaker Sequence / The Ballad of Sweeney Todd: Sweeney'd Waited Too Long Before... / The Letter",
+     "length_seconds": 219320,
+     "number": 4,
+     "offset": 69947,
+     "output_artist": "Stephen Sondheim",
+     "output_title": "Wigmaker Sequence / The Ballad of Sweeney Todd: Sweeney'd Waited Too Long Before... / The Letter",
+     "sectors": 16475,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Not While I'm Around",
+     "length_seconds": 237000,
+     "number": 5,
+     "offset": 86422,
+     "output_artist": "Stephen Sondheim",
+     "output_title": "Not While I'm Around",
+     "sectors": 17800,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Parlor Songs",
+     "length_seconds": 215053,
+     "number": 6,
+     "offset": 104222,
+     "output_artist": "Stephen Sondheim",
+     "output_title": "Parlor Songs",
+     "sectors": 16170,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Final Sequence / Epilogue",
+     "length_seconds": 805466,
+     "number": 7,
+     "offset": 120392,
+     "output_artist": "Stephen Sondheim",
+     "output_title": "Final Sequence / Epilogue",
+     "sectors": 60410,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Ballad of Sweeney Todd: Attend the Tale of Sweeney Todd...",
+     "length_seconds": 177240,
+     "number": 8,
+     "offset": 180802,
+     "output_artist": "Stephen Sondheim",
+     "output_title": "The Ballad of Sweeney Todd: Attend the Tale of Sweeney Todd...",
+     "sectors": 13293,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
