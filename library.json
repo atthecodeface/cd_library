@@ -642,11 +642,22 @@
    "artist": "",
    "downloaded_artists": "Billy Joel",
    "downloaded_titles": "\u041a\u043e\u043d\u0446\u0435\u0440\u0442",
-   "json_path": ".",
+   "json_path": "library.json",
    "label": "",
    "musicbrainz_release_id": "d8ce29e9-00c5-47ab-9ffb-6870e782c75a",
    "num_discs": 1,
    "output_title": "\u041a\u043e\u043d\u0446\u0435\u0440\u0442",
+   "title": ""
+  },
+  "alb.0059": {
+   "artist": "",
+   "downloaded_artists": "John Lennon",
+   "downloaded_titles": "Imagine",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "ae1c2dcb-1034-38d0-9c34-a77ba91fbb9a",
+   "num_discs": 1,
+   "output_title": "Imagine",
    "title": ""
   },
   "pdjames_bbc_radio_collection": {

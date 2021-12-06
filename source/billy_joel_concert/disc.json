@@ -30,7 +30,7 @@
      "length_seconds": 78026,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Odoya",
      "sectors": 5825,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 323640,
      "number": 2,
      "offset": 5975,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Angry Young Man",
      "sectors": 24300,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 238000,
      "number": 3,
      "offset": 30275,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Honesty",
      "sectors": 17850,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 440826,
      "number": 4,
      "offset": 48125,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Goodnight Saigon",
      "sectors": 33062,
      "title": ""
@@ -78,7 +78,7 @@
      "length_seconds": 308840,
      "number": 5,
      "offset": 81187,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Stiletto",
      "sectors": 23163,
      "title": ""
@@ -90,7 +90,7 @@
      "length_seconds": 437093,
      "number": 6,
      "offset": 104350,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Big Man on Mulberry Street",
      "sectors": 32782,
      "title": ""
@@ -102,7 +102,7 @@
      "length_seconds": 369240,
      "number": 7,
      "offset": 137132,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Baby Grand",
      "sectors": 27693,
      "title": ""
@@ -114,7 +114,7 @@
      "length_seconds": 368693,
      "number": 8,
      "offset": 164825,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "An Innocent Man",
      "sectors": 27652,
      "title": ""
@@ -126,7 +126,7 @@
      "length_seconds": 262973,
      "number": 9,
      "offset": 192477,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Allentown",
      "sectors": 19723,
      "title": ""
@@ -138,7 +138,7 @@
      "length_seconds": 308160,
      "number": 10,
      "offset": 212200,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "A Matter of Trust",
      "sectors": 23112,
      "title": ""
@@ -150,7 +150,7 @@
      "length_seconds": 212800,
      "number": 11,
      "offset": 235312,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Only the Good Die Young",
      "sectors": 15960,
      "title": ""
@@ -162,7 +162,7 @@
      "length_seconds": 218213,
      "number": 12,
      "offset": 251272,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Sometimes a Fantasy",
      "sectors": 16373,
      "title": ""
@@ -174,7 +174,7 @@
      "length_seconds": 188226,
      "number": 13,
      "offset": 267645,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Uptown Girl",
      "sectors": 14117,
      "title": ""
@@ -186,7 +186,7 @@
      "length_seconds": 285173,
      "number": 14,
      "offset": 281762,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Big Shot",
      "sectors": 21388,
      "title": ""
@@ -198,7 +198,7 @@
      "length_seconds": 164426,
      "number": 15,
      "offset": 303150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "Back in the U.S.S.R.",
      "sectors": 12332,
      "title": ""
@@ -210,7 +210,7 @@
      "length_seconds": 177133,
      "number": 16,
      "offset": 315482,
-     "output_artist": "Unknown artist",
+     "output_artist": "Billy Joel",
      "output_title": "The Times They Are A Changin'",
      "sectors": 13285,
      "title": ""

@@ -1,0 +1,149 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0106": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0059",
+   "artist": "",
+   "cddb_id": "92093c0a",
+   "cddb_string": "92093c0a 10 183 14020 31225 50355 61440 89060 103805 116220 141415 158238 2366",
+   "disc_of_set": 1,
+   "downloaded_artists": "John Lennon",
+   "downloaded_titles": "Imagine",
+   "json_path": "source/john_lennon_imagine/disc.json",
+   "musicbrainz_id": "CwgNjTaq74eZt0udl.RxwHjjMIo-",
+   "musicbrainz_release_id": "ae1c2dcb-1034-38d0-9c34-a77ba91fbb9a",
+   "musicbrainz_string": "10 183 14020 31225 50355 61440 89060 103805 116220 141415 158238 177515",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "john_lennon_imagine",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Imagine",
+     "length_seconds": 183000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Unknown artist",
+     "output_title": "Imagine",
+     "sectors": 13837,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Crippled Inside",
+     "length_seconds": 227906,
+     "number": 2,
+     "offset": 14020,
+     "output_artist": "Unknown artist",
+     "output_title": "Crippled Inside",
+     "sectors": 17205,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Jealous Guy",
+     "length_seconds": 254000,
+     "number": 3,
+     "offset": 31225,
+     "output_artist": "Unknown artist",
+     "output_title": "Jealous Guy",
+     "sectors": 19130,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "It\u2019s So Hard",
+     "length_seconds": 146306,
+     "number": 4,
+     "offset": 50355,
+     "output_artist": "Unknown artist",
+     "output_title": "It\u2019s So Hard",
+     "sectors": 11085,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I Don\u2019t Wanna Be a Soldier Mama I Don\u2019t Wanna Die",
+     "length_seconds": 365840,
+     "number": 5,
+     "offset": 61440,
+     "output_artist": "Unknown artist",
+     "output_title": "I Don\u2019t Wanna Be a Soldier Mama I Don\u2019t Wanna Die",
+     "sectors": 27620,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Gimme Some Truth",
+     "length_seconds": 195000,
+     "number": 6,
+     "offset": 89060,
+     "output_artist": "Unknown artist",
+     "output_title": "Gimme Some Truth",
+     "sectors": 14745,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Oh My Love",
+     "length_seconds": 165000,
+     "number": 7,
+     "offset": 103805,
+     "output_artist": "Unknown artist",
+     "output_title": "Oh My Love",
+     "sectors": 12415,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "How Do You Sleep?",
+     "length_seconds": 334106,
+     "number": 8,
+     "offset": 116220,
+     "output_artist": "Unknown artist",
+     "output_title": "How Do You Sleep?",
+     "sectors": 25195,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "How?",
+     "length_seconds": 221400,
+     "number": 9,
+     "offset": 141415,
+     "output_artist": "Unknown artist",
+     "output_title": "How?",
+     "sectors": 16823,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Oh Yoko!",
+     "length_seconds": 258000,
+     "number": 10,
+     "offset": 158238,
+     "output_artist": "Unknown artist",
+     "output_title": "Oh Yoko!",
+     "sectors": 19277,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
