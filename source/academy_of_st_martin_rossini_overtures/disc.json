@@ -1,0 +1,113 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0118": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "",
+   "artist": "",
+   "cddb_id": "580e3e07",
+   "cddb_string": "580e3e07 7 183 46128 100608 136443 163450 214730 240240 3648",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "json_path": "source/academy_of_st_martin_rossini_overtures/disc.json",
+   "musicbrainz_id": "GW9xukPmjE3rEVEo4_kxlBBgeto-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "7 183 46128 100608 136443 163450 214730 240240 273623",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "academy_of_st_martin_rossini_overtures",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 1 of 7",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 46128,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 2 of 7",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 100608,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 3 of 7",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 136443,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 4 of 7",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 5,
+     "offset": 163450,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 5 of 7",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 6,
+     "offset": 214730,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 6 of 7",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 7,
+     "offset": 240240,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 7 of 7",
+     "sectors": 0,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

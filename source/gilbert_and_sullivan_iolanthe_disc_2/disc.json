@@ -1,0 +1,173 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0113": {
+   "album_total_tracks": 28,
+   "album_track_offset": 16,
+   "album_uniq_id": "alb.0063",
+   "artist": "",
+   "cddb_id": "ac0ae20c",
+   "cddb_string": "ac0ae20c 12 182 20557 32477 48295 64092 96245 106625 131800 149565 165617 177552 200117 2788",
+   "disc_of_set": 2,
+   "downloaded_artists": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+   "downloaded_titles": "Iolanthe",
+   "json_path": "source/gilbert_and_sullivan_iolanthe_disc_2/disc.json",
+   "musicbrainz_id": "2CHXFQUibkEFBrgF8slFVIp7gcE-",
+   "musicbrainz_release_id": "0d540cbb-d582-446c-b2ac-3c6bea43fcec",
+   "musicbrainz_string": "12 182 20557 32477 48295 64092 96245 106625 131800 149565 165617 177552 200117 209102",
+   "num_tracks": 12,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "gilbert_and_sullivan_iolanthe_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Iolanthe: Act II. \"When all night long a chap remains\"",
+     "length_seconds": 271666,
+     "number": 1,
+     "offset": 182,
+     "output_artist": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+     "output_title": "Iolanthe: Act II. \"When all night long a chap remains\"",
+     "sectors": 20375,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Iolanthe: Act II. \"Strephon\u2019s a member of Parliament\"",
+     "length_seconds": 158933,
+     "number": 2,
+     "offset": 20557,
+     "output_artist": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+     "output_title": "Iolanthe: Act II. \"Strephon\u2019s a member of Parliament\"",
+     "sectors": 11920,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Iolanthe: Act II. \"When Britain really ruled the waves\"",
+     "length_seconds": 210906,
+     "number": 3,
+     "offset": 32477,
+     "output_artist": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+     "output_title": "Iolanthe: Act II. \"When Britain really ruled the waves\"",
+     "sectors": 15818,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Iolanthe: Act II. \"In vain to us you plead\"",
+     "length_seconds": 210626,
+     "number": 4,
+     "offset": 48295,
+     "output_artist": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+     "output_title": "Iolanthe: Act II. \"In vain to us you plead\"",
+     "sectors": 15797,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Iolanthe: Act II. \"Oh, foolish fay\"",
+     "length_seconds": 428706,
+     "number": 5,
+     "offset": 64092,
+     "output_artist": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+     "output_title": "Iolanthe: Act II. \"Oh, foolish fay\"",
+     "sectors": 32153,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Iolanthe: Act II. \"Though p'r'aps I may incur your blame\"",
+     "length_seconds": 138400,
+     "number": 6,
+     "offset": 96245,
+     "output_artist": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+     "output_title": "Iolanthe: Act II. \"Though p'r'aps I may incur your blame\"",
+     "sectors": 10380,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Iolanthe: Act II. \"Love unrequited\"",
+     "length_seconds": 335666,
+     "number": 7,
+     "offset": 106625,
+     "output_artist": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+     "output_title": "Iolanthe: Act II. \"Love unrequited\"",
+     "sectors": 25175,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Iolanthe: Act II. \"If you go in you're sure to win\"",
+     "length_seconds": 236866,
+     "number": 8,
+     "offset": 131800,
+     "output_artist": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+     "output_title": "Iolanthe: Act II. \"If you go in you're sure to win\"",
+     "sectors": 17765,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Iolanthe: Act II. \"If we\u2019re weak enough to tarry\"",
+     "length_seconds": 214026,
+     "number": 9,
+     "offset": 149565,
+     "output_artist": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+     "output_title": "Iolanthe: Act II. \"If we\u2019re weak enough to tarry\"",
+     "sectors": 16052,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Iolanthe: Act II. \"My Lord, a suppliant at your feet\"",
+     "length_seconds": 159133,
+     "number": 10,
+     "offset": 165617,
+     "output_artist": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+     "output_title": "Iolanthe: Act II. \"My Lord, a suppliant at your feet\"",
+     "sectors": 11935,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Iolanthe: Act II. \"It may not be\"",
+     "length_seconds": 300866,
+     "number": 11,
+     "offset": 177552,
+     "output_artist": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+     "output_title": "Iolanthe: Act II. \"It may not be\"",
+     "sectors": 22565,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Iolanthe: Act II. \"Soon as we may, off and away\"",
+     "length_seconds": 119800,
+     "number": 12,
+     "offset": 200117,
+     "output_artist": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+     "output_title": "Iolanthe: Act II. \"Soon as we may, off and away\"",
+     "sectors": 8985,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

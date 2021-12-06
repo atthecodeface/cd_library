@@ -1,0 +1,113 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0117": {
+   "album_total_tracks": 14,
+   "album_track_offset": 7,
+   "album_uniq_id": "alb.0065",
+   "artist": "",
+   "cddb_id": "650d3c07",
+   "cddb_string": "650d3c07 7 182 32690 69872 94402 130760 185497 224815 3390",
+   "disc_of_set": 2,
+   "downloaded_artists": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+   "downloaded_titles": "Overtures",
+   "json_path": "source/national_philharmonic_rossini_overtures_disc_2/disc.json",
+   "musicbrainz_id": "mnKjc_hZ48iDDqC4av.Q6Q5MAFs-",
+   "musicbrainz_release_id": "5352f59a-138c-489e-8f03-207f906040d3",
+   "musicbrainz_string": "7 182 32690 69872 94402 130760 185497 224815 254255",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "national_philharmonic_rossini_overtures_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Il Barbiere di Siviglia",
+     "length_seconds": 433426,
+     "number": 1,
+     "offset": 182,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "Il Barbiere di Siviglia",
+     "sectors": 32508,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Torvaldo e Dorliska",
+     "length_seconds": 495773,
+     "number": 2,
+     "offset": 32690,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "Torvaldo e Dorliska",
+     "sectors": 37182,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "La Cambiale di Matrimonio",
+     "length_seconds": 327066,
+     "number": 3,
+     "offset": 69872,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "La Cambiale di Matrimonio",
+     "sectors": 24530,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Otello",
+     "length_seconds": 484760,
+     "number": 4,
+     "offset": 94402,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "Otello",
+     "sectors": 36358,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Semiramide",
+     "length_seconds": 729840,
+     "number": 5,
+     "offset": 130760,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "Semiramide",
+     "sectors": 54737,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Le Si\u00e8ge de Corinthe",
+     "length_seconds": 524226,
+     "number": 6,
+     "offset": 185497,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "Le Si\u00e8ge de Corinthe",
+     "sectors": 39318,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Tancredi",
+     "length_seconds": 392533,
+     "number": 7,
+     "offset": 224815,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "Tancredi",
+     "sectors": 29440,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

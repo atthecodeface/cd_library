@@ -660,6 +660,72 @@
    "output_title": "Imagine",
    "title": ""
   },
+  "alb.0060": {
+   "artist": "",
+   "downloaded_artists": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+   "downloaded_titles": "Gro\u00dfe Messe K. 427",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "02d55b2a-c80c-4737-9f3b-4ad713f05f5b",
+   "num_discs": 1,
+   "output_title": "Gro\u00dfe Messe K. 427",
+   "title": ""
+  },
+  "alb.0061": {
+   "artist": "",
+   "downloaded_artists": "Gilbert & Sullivan",
+   "downloaded_titles": "Ruddigore (1962 D\u2019Oyly Carte cast) / Cox and Box (1961 D\u2019Oyly Carte cast)",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "2165c6b6-e025-477f-bd86-ad2aa4d5eee4",
+   "num_discs": 2,
+   "output_title": "Ruddigore (1962 D\u2019Oyly Carte cast) / Cox and Box (1961 D\u2019Oyly Carte cast)",
+   "title": ""
+  },
+  "alb.0062": {
+   "artist": "",
+   "downloaded_artists": "Gilbert & Sullivan",
+   "downloaded_titles": "Patience (1961 D\u2019Oyly Carte cast)",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "0bd5c845-25c2-4666-bdaa-1ce7efc4fc11",
+   "num_discs": 2,
+   "output_title": "Patience (1961 D\u2019Oyly Carte cast)",
+   "title": ""
+  },
+  "alb.0063": {
+   "artist": "",
+   "downloaded_artists": "Gilbert & Sullivan; The D\u2019Oyly Carte Opera Company",
+   "downloaded_titles": "Iolanthe",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "0d540cbb-d582-446c-b2ac-3c6bea43fcec",
+   "num_discs": 2,
+   "output_title": "Iolanthe",
+   "title": ""
+  },
+  "alb.0064": {
+   "artist": "",
+   "downloaded_artists": "Steeleye Span",
+   "downloaded_titles": "Portfolio",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "70092cec-8c9d-48e2-8797-b5d428a8d5e7",
+   "num_discs": 1,
+   "output_title": "Portfolio",
+   "title": ""
+  },
+  "alb.0065": {
+   "artist": "",
+   "downloaded_artists": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+   "downloaded_titles": "Overtures",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "5352f59a-138c-489e-8f03-207f906040d3",
+   "num_discs": 2,
+   "output_title": "Overtures",
+   "title": ""
+  },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
    "downloaded_artists": "",

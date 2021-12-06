@@ -1,0 +1,113 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0116": {
+   "album_total_tracks": 14,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0065",
+   "artist": "",
+   "cddb_id": "4b0d4707",
+   "cddb_string": "4b0d4707 7 150 54012 75875 109487 136575 179600 217637 3401",
+   "disc_of_set": 1,
+   "downloaded_artists": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+   "downloaded_titles": "Overtures",
+   "json_path": "source/national_philharmonic_rossini_overtures_disc_1/disc.json",
+   "musicbrainz_id": "oLZa2xkUlsP.1Vn3agKOjd7VoRw-",
+   "musicbrainz_release_id": "5352f59a-138c-489e-8f03-207f906040d3",
+   "musicbrainz_string": "7 150 54012 75875 109487 136575 179600 217637 255100",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "national_philharmonic_rossini_overtures_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Guglielmo Tell",
+     "length_seconds": 718240,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "Guglielmo Tell",
+     "sectors": 53862,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Il Signor Bruschino",
+     "length_seconds": 291760,
+     "number": 2,
+     "offset": 54012,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "Il Signor Bruschino",
+     "sectors": 21863,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Il viaggio a Reims",
+     "length_seconds": 447906,
+     "number": 3,
+     "offset": 75875,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "Il viaggio a Reims",
+     "sectors": 33612,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "La Scala di seta (Rossi)",
+     "length_seconds": 361226,
+     "number": 4,
+     "offset": 109487,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "La Scala di seta (Rossi)",
+     "sectors": 27088,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "La gazza ladra",
+     "length_seconds": 573306,
+     "number": 5,
+     "offset": 136575,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "La gazza ladra",
+     "sectors": 43025,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Il Turco in Italia",
+     "length_seconds": 507000,
+     "number": 6,
+     "offset": 179600,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "Il Turco in Italia",
+     "sectors": 38037,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "L'Italiana in Algeri (Anelli)",
+     "length_seconds": 497933,
+     "number": 7,
+     "offset": 217637,
+     "output_artist": "Rossini; National Philharmonic Orchestra, Riccardo Chailly",
+     "output_title": "L'Italiana in Algeri (Anelli)",
+     "sectors": 37463,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

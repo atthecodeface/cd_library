@@ -1,0 +1,42 @@
+CddbId:ef0c9a14:[182, 2540, 4575, 10695, 19587, 26180, 37407, 44940, 51660, 60835, 69297, 81972, 103542, 131662, 151160, 159860, 183027, 212335, 225452, 236530]:242100:74:ef0c9a14 20 182 2540 4575 10695 19587 26180 37407 44940 51660 60835 69297 81972 103542 131662 151160 159860 183027 212335 225452 236530 3228: 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3228
+num_tracks: 20
+offsets: [182, 2540, 4575, 10695, 19587, 26180, 37407, 44940, 51660, 60835, 69297, 81972, 103542, 131662, 151160, 159860, 183027, 212335, 225452, 236530]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 3228
+cddb: [4010580500, 20, 182, 2540, 4575, 10695, 19587, 26180, 37407, 44940, 51660, 60835, 69297, 81972, 103542, 131662, 151160, 159860, 183027, 212335, 225452, 236530, 3228]
+musicbrainz: ('20 182 2540 4575 10695 19587 26180 37407 44940 51660 60835 69297 81972 103542 131662 151160 159860 183027 212335 225452 236530 242100', 'R8L8hMx5ijl6A5vYWb2By6oU.AQ-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'FREECOM_'
+Identification : 'DVD+/-RW16H4    '
+Revision       : 'FR00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO SAO/R96R RAW/R96R
+first: 1 last 20
+track:   1 lba:        32 (      128) 00:02:32 adr: 1 control: 0 mode: -1
+track:   2 lba:      2390 (     9560) 00:33:65 adr: 1 control: 0 mode: -1
+track:   3 lba:      4425 (    17700) 01:01:00 adr: 1 control: 0 mode: -1
+track:   4 lba:     10545 (    42180) 02:22:45 adr: 1 control: 0 mode: -1
+track:   5 lba:     19437 (    77748) 04:21:12 adr: 1 control: 0 mode: -1
+track:   6 lba:     26030 (   104120) 05:49:05 adr: 1 control: 0 mode: -1
+track:   7 lba:     37257 (   149028) 08:18:57 adr: 1 control: 0 mode: -1
+track:   8 lba:     44790 (   179160) 09:59:15 adr: 1 control: 0 mode: -1
+track:   9 lba:     51510 (   206040) 11:28:60 adr: 1 control: 0 mode: -1
+track:  10 lba:     60685 (   242740) 13:31:10 adr: 1 control: 0 mode: -1
+track:  11 lba:     69147 (   276588) 15:23:72 adr: 1 control: 0 mode: -1
+track:  12 lba:     81822 (   327288) 18:12:72 adr: 1 control: 0 mode: -1
+track:  13 lba:    103392 (   413568) 23:00:42 adr: 1 control: 0 mode: -1
+track:  14 lba:    131512 (   526048) 29:15:37 adr: 1 control: 0 mode: -1
+track:  15 lba:    151010 (   604040) 33:35:35 adr: 1 control: 0 mode: -1
+track:  16 lba:    159710 (   638840) 35:31:35 adr: 1 control: 0 mode: -1
+track:  17 lba:    182877 (   731508) 40:40:27 adr: 1 control: 0 mode: -1
+track:  18 lba:    212185 (   848740) 47:11:10 adr: 1 control: 0 mode: -1
+track:  19 lba:    225302 (   901208) 50:06:02 adr: 1 control: 0 mode: -1
+track:  20 lba:    236380 (   945520) 52:33:55 adr: 1 control: 0 mode: -1
+track:lout lba:    241950 (   967800) 53:48:00 adr: 1 control: 0 mode: -1
