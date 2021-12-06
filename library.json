@@ -605,6 +605,17 @@
    "output_title": "Messiah",
    "title": ""
   },
+  "alb.0055": {
+   "artist": "",
+   "downloaded_artists": "Johann Sebastian Bach; The Sixteen, Harry Christophers",
+   "downloaded_titles": "The Six Motets",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "8ea8fdc7-02a8-40ae-861b-57890862b216",
+   "num_discs": 1,
+   "output_title": "The Six Motets",
+   "title": ""
+  },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
    "downloaded_artists": "",
