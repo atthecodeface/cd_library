@@ -1,0 +1,113 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0138": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0080",
+   "artist": "",
+   "cddb_id": "590fa607",
+   "cddb_string": "590fa607 7 188 50255 103028 152283 208498 229153 236210 4008",
+   "disc_of_set": 1,
+   "downloaded_artists": "Rimsky-Korsakov; London Symphony Orchestra, Andr\u00e9 Previn",
+   "downloaded_titles": "Scheherazade / Tsar Saltan (excerpts) / Russian Easter Overture",
+   "json_path": "source/london_symphony_rimsky_korsakov_scheherazade/disc.json",
+   "musicbrainz_id": "Z0bX_hhpGmowqYwAxhZIij12I0o-",
+   "musicbrainz_release_id": "d4a47605-9c76-47c1-a713-28f9de8efb6a",
+   "musicbrainz_string": "7 188 50255 103028 152283 208498 229153 236210 300603",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "london_symphony_rimsky_korsakov_scheherazade",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Scheherazade, Op. 35: The Sea and Sinbad's Ship",
+     "length_seconds": 667560,
+     "number": 1,
+     "offset": 188,
+     "output_artist": "Rimsky-Korsakov; London Symphony Orchestra, Andr\u00e9 Previn",
+     "output_title": "Scheherazade, Op. 35: The Sea and Sinbad's Ship",
+     "sectors": 50067,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Scheherazade, Op. 35: The Story of the Kalender Prince",
+     "length_seconds": 703640,
+     "number": 2,
+     "offset": 50255,
+     "output_artist": "Rimsky-Korsakov; London Symphony Orchestra, Andr\u00e9 Previn",
+     "output_title": "Scheherazade, Op. 35: The Story of the Kalender Prince",
+     "sectors": 52773,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Scheherazade, Op. 35: The Young Prince and the Young Princess",
+     "length_seconds": 656733,
+     "number": 3,
+     "offset": 103028,
+     "output_artist": "Rimsky-Korsakov; London Symphony Orchestra, Andr\u00e9 Previn",
+     "output_title": "Scheherazade, Op. 35: The Young Prince and the Young Princess",
+     "sectors": 49255,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Scheherazade, Op. 35: Festival in Bagdad; The Sea; The Ship Goes to Pieces on a Rock; Surmounted by a Bronze Warrior (Shipwreck); Conclusion",
+     "length_seconds": 749533,
+     "number": 4,
+     "offset": 152283,
+     "output_artist": "Rimsky-Korsakov; London Symphony Orchestra, Andr\u00e9 Previn",
+     "output_title": "Scheherazade, Op. 35: Festival in Bagdad; The Sea; The Ship Goes to Pieces on a Rock; Surmounted by a Bronze Warrior (Shipwreck); Conclusion",
+     "sectors": 56215,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Tsar Saltan, Op. 57: March",
+     "length_seconds": 271440,
+     "number": 5,
+     "offset": 208498,
+     "output_artist": "Rimsky-Korsakov; London Symphony Orchestra, Andr\u00e9 Previn",
+     "output_title": "Tsar Saltan, Op. 57: March",
+     "sectors": 20655,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Tsar Saltan, Op. 57: Flight of the Bumble Bee",
+     "length_seconds": 86333,
+     "number": 6,
+     "offset": 229153,
+     "output_artist": "Rimsky-Korsakov; London Symphony Orchestra, Andr\u00e9 Previn",
+     "output_title": "Tsar Saltan, Op. 57: Flight of the Bumble Bee",
+     "sectors": 7057,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Russian Easter Overture, Op. 36",
+     "length_seconds": 858573,
+     "number": 7,
+     "offset": 236210,
+     "output_artist": "Rimsky-Korsakov; London Symphony Orchestra, Andr\u00e9 Previn",
+     "output_title": "Russian Easter Overture, Op. 36",
+     "sectors": 64393,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

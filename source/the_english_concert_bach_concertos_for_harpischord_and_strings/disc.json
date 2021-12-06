@@ -1,0 +1,137 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0134": {
+   "album_total_tracks": 9,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0076",
+   "artist": "",
+   "cddb_id": "7a0d8e09",
+   "cddb_string": "7a0d8e09 9 183 33615 61958 97683 132113 155853 183558 218158 248808 3472",
+   "disc_of_set": 1,
+   "downloaded_artists": "Bach; The English Concert, Trevor Pinnock",
+   "downloaded_titles": "Concertos for Harpsichord, Violin, Flute, Oboe d'amore",
+   "json_path": "source/the_english_concert_bach_concertos_for_harpischord_and_strings/disc.json",
+   "musicbrainz_id": "K_6AjiRHvBw8I48FbEfYs4gFCAE-",
+   "musicbrainz_release_id": "47e454f5-9cdc-4141-ae1a-56792f46770e",
+   "musicbrainz_string": "9 183 33615 61958 97683 132113 155853 183558 218158 248808 260445",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "the_english_concert_bach_concertos_for_harpischord_and_strings",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Harpsichord and Strings in D minor, BWV 1052: I. Allegro",
+     "length_seconds": 445000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto for Harpsichord and Strings in D minor, BWV 1052: I. Allegro",
+     "sectors": 33432,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Harpsichord and Strings in D minor, BWV 1052: II. Adagio",
+     "length_seconds": 377906,
+     "number": 2,
+     "offset": 33615,
+     "output_artist": "Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto for Harpsichord and Strings in D minor, BWV 1052: II. Adagio",
+     "sectors": 28343,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Harpsichord and Strings in D minor, BWV 1052: III. Allegro",
+     "length_seconds": 476000,
+     "number": 3,
+     "offset": 61958,
+     "output_artist": "Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto for Harpsichord and Strings in D minor, BWV 1052: III. Allegro",
+     "sectors": 35725,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Harpsichord and Strings in E major, BWV 1053: I.",
+     "length_seconds": 459000,
+     "number": 4,
+     "offset": 97683,
+     "output_artist": "Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto for Harpsichord and Strings in E major, BWV 1053: I.",
+     "sectors": 34430,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Harpsichord and Strings in E major, BWV 1053: II. Siciliano",
+     "length_seconds": 316533,
+     "number": 5,
+     "offset": 132113,
+     "output_artist": "Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto for Harpsichord and Strings in E major, BWV 1053: II. Siciliano",
+     "sectors": 23740,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Harpsichord and Strings in E major, BWV 1053: III. Allegro",
+     "length_seconds": 369400,
+     "number": 6,
+     "offset": 155853,
+     "output_artist": "Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto for Harpsichord and Strings in E major, BWV 1053: III. Allegro",
+     "sectors": 27705,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Harpsichord and Strings in D major, BWV 1054: I.",
+     "length_seconds": 461333,
+     "number": 7,
+     "offset": 183558,
+     "output_artist": "Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto for Harpsichord and Strings in D major, BWV 1054: I.",
+     "sectors": 34600,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Harpsichord and Strings in D major, BWV 1054: II. Adagio e piano sempre",
+     "length_seconds": 407640,
+     "number": 8,
+     "offset": 218158,
+     "output_artist": "Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto for Harpsichord and Strings in D major, BWV 1054: II. Adagio e piano sempre",
+     "sectors": 30650,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Harpsichord and Strings in D major, BWV 1054: III. Allegro",
+     "length_seconds": 155160,
+     "number": 9,
+     "offset": 248808,
+     "output_artist": "Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto for Harpsichord and Strings in D major, BWV 1054: III. Allegro",
+     "sectors": 11637,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

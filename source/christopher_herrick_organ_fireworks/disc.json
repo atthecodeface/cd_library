@@ -1,0 +1,149 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0131": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0073",
+   "artist": "",
+   "cddb_id": "860cd00a",
+   "cddb_string": "860cd00a 10 150 40657 64622 95520 125052 152207 166000 178080 211865 231707 3282",
+   "disc_of_set": 1,
+   "downloaded_artists": "Christopher Herrick",
+   "downloaded_titles": "Organ Fireworks",
+   "json_path": "source/christopher_herrick_organ_fireworks/disc.json",
+   "musicbrainz_id": "B_xaFEttv42Yo9gfrWG94DD.xqo-",
+   "musicbrainz_release_id": "6a659578-7458-440b-b196-bd6f4a5bbcd6",
+   "musicbrainz_string": "10 150 40657 64622 95520 125052 152207 166000 178080 211865 231707 246182",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "christopher_herrick_organ_fireworks",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Variations de concert, op. 1",
+     "length_seconds": 540093,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Christopher Herrick",
+     "output_title": "Variations de concert, op. 1",
+     "sectors": 40507,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Grand ch\u0153ur triomphal in A major, op. 47 no. 2",
+     "length_seconds": 319533,
+     "number": 2,
+     "offset": 40657,
+     "output_artist": "Christopher Herrick",
+     "output_title": "Grand ch\u0153ur triomphal in A major, op. 47 no. 2",
+     "sectors": 23965,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Marche sur un th\u00e8me de H\u00e6ndel, op. 15 no. 2",
+     "length_seconds": 411973,
+     "number": 3,
+     "offset": 64622,
+     "output_artist": "Christopher Herrick",
+     "output_title": "Marche sur un th\u00e8me de H\u00e6ndel, op. 15 no. 2",
+     "sectors": 30898,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Fanfare from Four Extemporisations",
+     "length_seconds": 393760,
+     "number": 4,
+     "offset": 95520,
+     "output_artist": "Christopher Herrick",
+     "output_title": "Fanfare from Four Extemporisations",
+     "sectors": 29532,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Marche h\u00e9ro\u00efque",
+     "length_seconds": 362066,
+     "number": 5,
+     "offset": 125052,
+     "output_artist": "Christopher Herrick",
+     "output_title": "Marche h\u00e9ro\u00efque",
+     "sectors": 27155,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Toccata",
+     "length_seconds": 183906,
+     "number": 6,
+     "offset": 152207,
+     "output_artist": "Christopher Herrick",
+     "output_title": "Toccata",
+     "sectors": 13793,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Trumpet tune in D major",
+     "length_seconds": 161000,
+     "number": 7,
+     "offset": 166000,
+     "output_artist": "Christopher Herrick",
+     "output_title": "Trumpet tune in D major",
+     "sectors": 12080,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Finale (Allegro vivace) from Symphony no. 7",
+     "length_seconds": 450466,
+     "number": 8,
+     "offset": 178080,
+     "output_artist": "Christopher Herrick",
+     "output_title": "Finale (Allegro vivace) from Symphony no. 7",
+     "sectors": 33785,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Alleluyas",
+     "length_seconds": 264560,
+     "number": 9,
+     "offset": 211865,
+     "output_artist": "Christopher Herrick",
+     "output_title": "Alleluyas",
+     "sectors": 19842,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Toccata \"Nu la oss takke Gud\"",
+     "length_seconds": 193000,
+     "number": 10,
+     "offset": 231707,
+     "output_artist": "Christopher Herrick",
+     "output_title": "Toccata \"Nu la oss takke Gud\"",
+     "sectors": 14475,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

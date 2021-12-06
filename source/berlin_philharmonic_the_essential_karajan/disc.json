@@ -1,0 +1,161 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0139": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0081",
+   "artist": "",
+   "cddb_id": "ab102d0b",
+   "cddb_string": "ab102d0b 11 183 33183 48858 93633 112233 137808 148458 159483 191508 223608 239883 4143",
+   "disc_of_set": 1,
+   "downloaded_artists": "Herbert von Karajan",
+   "downloaded_titles": "The Essential Karajan",
+   "json_path": "source/berlin_philharmonic_the_essential_karajan/disc.json",
+   "musicbrainz_id": "WTp48TdNvjgEUmRpuE1Qt52nEkQ-",
+   "musicbrainz_release_id": "8e4d1a19-2380-49cb-a15a-74d2a89602f1",
+   "musicbrainz_string": "11 183 33183 48858 93633 112233 137808 148458 159483 191508 223608 239883 310758",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "berlin_philharmonic_the_essential_karajan",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Planets, op. 32: I. Mars, the Bringer of War",
+     "length_seconds": 441000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Herbert von Karajan",
+     "output_title": "The Planets, op. 32: I. Mars, the Bringer of War",
+     "sectors": 33000,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Four Seasons \"Spring\": I. Allegro",
+     "length_seconds": 207000,
+     "number": 2,
+     "offset": 33183,
+     "output_artist": "Herbert von Karajan",
+     "output_title": "The Four Seasons \"Spring\": I. Allegro",
+     "sectors": 15675,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Thieving Magpie: Overture",
+     "length_seconds": 598000,
+     "number": 3,
+     "offset": 48858,
+     "output_artist": "Herbert von Karajan",
+     "output_title": "The Thieving Magpie: Overture",
+     "sectors": 44775,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Peer Gynt Suite no. 1, op. 46: I. Morning Mood",
+     "length_seconds": 240000,
+     "number": 4,
+     "offset": 93633,
+     "output_artist": "Herbert von Karajan",
+     "output_title": "Peer Gynt Suite no. 1, op. 46: I. Morning Mood",
+     "sectors": 18600,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Eine kleine Nachtmusik in G major: I. Allegro",
+     "length_seconds": 339000,
+     "number": 5,
+     "offset": 112233,
+     "output_artist": "Herbert von Karajan",
+     "output_title": "Eine kleine Nachtmusik in G major: I. Allegro",
+     "sectors": 25575,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Carmen, Act 1: Prelude",
+     "length_seconds": 138893,
+     "number": 6,
+     "offset": 137808,
+     "output_artist": "Herbert von Karajan",
+     "output_title": "Carmen, Act 1: Prelude",
+     "sectors": 10650,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Radetzky March",
+     "length_seconds": 147000,
+     "number": 7,
+     "offset": 148458,
+     "output_artist": "Herbert von Karajan",
+     "output_title": "Radetzky March",
+     "sectors": 11025,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Nutcracker: III. Waltz of the Flowers",
+     "length_seconds": 425000,
+     "number": 8,
+     "offset": 159483,
+     "output_artist": "Herbert von Karajan",
+     "output_title": "The Nutcracker: III. Waltz of the Flowers",
+     "sectors": 32025,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Canon & Gigue in D major",
+     "length_seconds": 428000,
+     "number": 9,
+     "offset": 191508,
+     "output_artist": "Herbert von Karajan",
+     "output_title": "Canon & Gigue in D major",
+     "sectors": 32100,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Tales of Hoffman: Barcarole",
+     "length_seconds": 216000,
+     "number": 10,
+     "offset": 223608,
+     "output_artist": "Herbert von Karajan",
+     "output_title": "The Tales of Hoffman: Barcarole",
+     "sectors": 16275,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Bolero",
+     "length_seconds": 969000,
+     "number": 11,
+     "offset": 239883,
+     "output_artist": "Herbert von Karajan",
+     "output_title": "Bolero",
+     "sectors": 70875,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

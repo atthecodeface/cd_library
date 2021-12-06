@@ -1,0 +1,89 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0137": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0079",
+   "artist": "",
+   "cddb_id": "380f2d05",
+   "cddb_string": "380f2d05 5 183 82220 117433 157758 205658 3887",
+   "disc_of_set": 1,
+   "downloaded_artists": "Pyotr Il'yich Tchaikovsky, Charles Munch & Boston Symphony Orchestra",
+   "downloaded_titles": "Tchaikovsky : Symphony No.6 (\"Path\u00e9tique\"), Romeo and Juliet",
+   "json_path": "source/boston_symphony_tchaikovsky_symphony_no_6/disc.json",
+   "musicbrainz_id": "TSg1RFEOnhm4Dt5zRqvJKiJ8Qh8-",
+   "musicbrainz_release_id": "6a58f17b-b052-4887-8dac-3824a4dd8fd0",
+   "musicbrainz_string": "5 183 82220 117433 157758 205658 291558",
+   "num_tracks": 5,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "boston_symphony_tchaikovsky_symphony_no_6",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No.6 in B minor, op.74 'Pathetique' - I. Adagio, allegro non troppo",
+     "length_seconds": 1093826,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Pyotr Il'yich Tchaikovsky, Charles Munch & Boston Symphony Orchestra",
+     "output_title": "Symphony No.6 in B minor, op.74 'Pathetique' - I. Adagio, allegro non troppo",
+     "sectors": 82037,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No.6 in B minor, op.74 'Pathetique' - II. Allegro con grazia",
+     "length_seconds": 469506,
+     "number": 2,
+     "offset": 82220,
+     "output_artist": "Pyotr Il'yich Tchaikovsky, Charles Munch & Boston Symphony Orchestra",
+     "output_title": "Symphony No.6 in B minor, op.74 'Pathetique' - II. Allegro con grazia",
+     "sectors": 35213,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No.6 in B minor, op.74 'Pathetique' - III. Allegro molto vivace",
+     "length_seconds": 537666,
+     "number": 3,
+     "offset": 117433,
+     "output_artist": "Pyotr Il'yich Tchaikovsky, Charles Munch & Boston Symphony Orchestra",
+     "output_title": "Symphony No.6 in B minor, op.74 'Pathetique' - III. Allegro molto vivace",
+     "sectors": 40325,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No.6 in B minor, op.74 'Pathetique' - IV. Adagio lamentoso",
+     "length_seconds": 638666,
+     "number": 4,
+     "offset": 157758,
+     "output_artist": "Pyotr Il'yich Tchaikovsky, Charles Munch & Boston Symphony Orchestra",
+     "output_title": "Symphony No.6 in B minor, op.74 'Pathetique' - IV. Adagio lamentoso",
+     "sectors": 47900,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Romeo and Juliet (Overture-Fantasy)",
+     "length_seconds": 1145333,
+     "number": 5,
+     "offset": 205658,
+     "output_artist": "Pyotr Il'yich Tchaikovsky, Charles Munch & Boston Symphony Orchestra",
+     "output_title": "Romeo and Juliet (Overture-Fantasy)",
+     "sectors": 85900,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

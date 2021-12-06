@@ -1,0 +1,125 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0135": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0077",
+   "artist": "",
+   "cddb_id": "770e2308",
+   "cddb_string": "770e2308 8 182 33995 67057 104262 124295 158695 193970 222395 3621",
+   "disc_of_set": 1,
+   "downloaded_artists": "Claude Debussy; Orchestre symphonique de Montr\u00e9al, Charles Dutoit",
+   "downloaded_titles": "Images / Nocturnes",
+   "json_path": "source/montreal_symphonic_debussy_images_nocturnes/disc.json",
+   "musicbrainz_id": "exdz2jW89xg4dzPbQmKNMn6aFG0-",
+   "musicbrainz_release_id": "d12485ae-5c3c-4ef3-ba1c-3dc1349ca281",
+   "musicbrainz_string": "8 182 33995 67057 104262 124295 158695 193970 222395 271607",
+   "num_tracks": 8,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "montreal_symphonic_debussy_images_nocturnes",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Images for Orchestra, L. 122 No. 1: Gigues",
+     "length_seconds": 450840,
+     "number": 1,
+     "offset": 182,
+     "output_artist": "Claude Debussy; Orchestre symphonique de Montr\u00e9al, Charles Dutoit",
+     "output_title": "Images for Orchestra, L. 122 No. 1: Gigues",
+     "sectors": 33813,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Images for Orchestra, L. 122 No. 2: Ib\u00e9ria: I. Par les rues et par les chemins",
+     "length_seconds": 440826,
+     "number": 2,
+     "offset": 33995,
+     "output_artist": "Claude Debussy; Orchestre symphonique de Montr\u00e9al, Charles Dutoit",
+     "output_title": "Images for Orchestra, L. 122 No. 2: Ib\u00e9ria: I. Par les rues et par les chemins",
+     "sectors": 33062,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Images for Orchestra, L. 122 No. 2: Ib\u00e9ria: II. Les parfums de la nuit",
+     "length_seconds": 496066,
+     "number": 3,
+     "offset": 67057,
+     "output_artist": "Claude Debussy; Orchestre symphonique de Montr\u00e9al, Charles Dutoit",
+     "output_title": "Images for Orchestra, L. 122 No. 2: Ib\u00e9ria: II. Les parfums de la nuit",
+     "sectors": 37205,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Images for Orchestra, L. 122 No. 2: Ib\u00e9ria: III. Le matin d'un jour de f\u00eate",
+     "length_seconds": 267106,
+     "number": 4,
+     "offset": 104262,
+     "output_artist": "Claude Debussy; Orchestre symphonique de Montr\u00e9al, Charles Dutoit",
+     "output_title": "Images for Orchestra, L. 122 No. 2: Ib\u00e9ria: III. Le matin d'un jour de f\u00eate",
+     "sectors": 20033,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Images for Orchestra, L. 122 No. 3: Rondes de printemps",
+     "length_seconds": 458666,
+     "number": 5,
+     "offset": 124295,
+     "output_artist": "Claude Debussy; Orchestre symphonique de Montr\u00e9al, Charles Dutoit",
+     "output_title": "Images for Orchestra, L. 122 No. 3: Rondes de printemps",
+     "sectors": 34400,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Nocturnes, L. 91 No. 1: Nuages",
+     "length_seconds": 470333,
+     "number": 6,
+     "offset": 158695,
+     "output_artist": "Claude Debussy; Orchestre symphonique de Montr\u00e9al, Charles Dutoit",
+     "output_title": "Nocturnes, L. 91 No. 1: Nuages",
+     "sectors": 35275,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Nocturnes, L. 91 No. 2: F\u00eates",
+     "length_seconds": 379000,
+     "number": 7,
+     "offset": 193970,
+     "output_artist": "Claude Debussy; Orchestre symphonique de Montr\u00e9al, Charles Dutoit",
+     "output_title": "Nocturnes, L. 91 No. 2: F\u00eates",
+     "sectors": 28425,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Nocturnes, L. 91 No. 3: Sir\u00e8nes",
+     "length_seconds": 656160,
+     "number": 8,
+     "offset": 222395,
+     "output_artist": "Claude Debussy; Orchestre symphonique de Montr\u00e9al, Charles Dutoit",
+     "output_title": "Nocturnes, L. 91 No. 3: Sir\u00e8nes",
+     "sectors": 49212,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

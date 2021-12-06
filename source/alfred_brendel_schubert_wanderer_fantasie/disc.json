@@ -1,0 +1,125 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0132": {
+   "album_total_tracks": 8,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0074",
+   "artist": "",
+   "cddb_id": "730d8a08",
+   "cddb_string": "730d8a08 8 183 67683 109908 127068 166008 193218 222533 244103 3468",
+   "disc_of_set": 7,
+   "downloaded_artists": "Schubert; Alfred Brendel",
+   "downloaded_titles": "Sonata No. 21 / \"Wanderer\" Fantasia###Piano Works",
+   "json_path": "source/alfred_brendel_schubert_wanderer_fantasie/disc.json",
+   "musicbrainz_id": "Y29pMGnRLKtI__20QMx3VkRESew-",
+   "musicbrainz_release_id": "f0b37b4c-04af-4ec6-a7f2-0ca9256f1c60",
+   "musicbrainz_string": "8 183 67683 109908 127068 166008 193218 222533 244103 260133",
+   "num_tracks": 8,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "alfred_brendel_schubert_wanderer_fantasie",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Piano Sonata No. 21 in B-flat major, D. 960: I. Molto moderato",
+     "length_seconds": 900000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Schubert; Alfred Brendel",
+     "output_title": "Piano Sonata No. 21 in B-flat major, D. 960: I. Molto moderato",
+     "sectors": 67500,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Piano Sonata No. 21 in B-flat major, D. 960: II. Andante sostenuto",
+     "length_seconds": 563000,
+     "number": 2,
+     "offset": 67683,
+     "output_artist": "Schubert; Alfred Brendel",
+     "output_title": "Piano Sonata No. 21 in B-flat major, D. 960: II. Andante sostenuto",
+     "sectors": 42225,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Piano Sonata No. 21 in B-flat major, D. 960: III. Scherzo: Allegro vivace con delicatezza",
+     "length_seconds": 228800,
+     "number": 3,
+     "offset": 109908,
+     "output_artist": "Schubert; Alfred Brendel",
+     "output_title": "Piano Sonata No. 21 in B-flat major, D. 960: III. Scherzo: Allegro vivace con delicatezza",
+     "sectors": 17160,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Piano Sonata No. 21 in B-flat major, D. 960: IV. Allegro, ma non troppo",
+     "length_seconds": 518240,
+     "number": 4,
+     "offset": 127068,
+     "output_artist": "Schubert; Alfred Brendel",
+     "output_title": "Piano Sonata No. 21 in B-flat major, D. 960: IV. Allegro, ma non troppo",
+     "sectors": 38940,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Fantasia in C major, D. 760 \"Wanderer\": I. Allegro con fuoco ma non troppo",
+     "length_seconds": 361666,
+     "number": 5,
+     "offset": 166008,
+     "output_artist": "Schubert; Alfred Brendel",
+     "output_title": "Fantasia in C major, D. 760 \"Wanderer\": I. Allegro con fuoco ma non troppo",
+     "sectors": 27210,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Fantasia in C major, D. 760 \"Wanderer\": II. Adagio",
+     "length_seconds": 390866,
+     "number": 6,
+     "offset": 193218,
+     "output_artist": "Schubert; Alfred Brendel",
+     "output_title": "Fantasia in C major, D. 760 \"Wanderer\": II. Adagio",
+     "sectors": 29315,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Fantasia in C major, D. 760 \"Wanderer\": III. Presto",
+     "length_seconds": 287600,
+     "number": 7,
+     "offset": 222533,
+     "output_artist": "Schubert; Alfred Brendel",
+     "output_title": "Fantasia in C major, D. 760 \"Wanderer\": III. Presto",
+     "sectors": 21570,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Fantasia in C major, D. 760 \"Wanderer\": IV. Allegro",
+     "length_seconds": 211360,
+     "number": 8,
+     "offset": 244103,
+     "output_artist": "Schubert; Alfred Brendel",
+     "output_title": "Fantasia in C major, D. 760 \"Wanderer\": IV. Allegro",
+     "sectors": 16030,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

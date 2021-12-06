@@ -781,6 +781,127 @@
    "output_title": "9 Symphonien / Ouvert\u00fcren",
    "title": ""
   },
+  "alb.0071": {
+   "artist": "",
+   "downloaded_artists": "Johannes Brahms; Berliner Philharmoniker, Herbert von Karajan",
+   "downloaded_titles": "Symphonie Nr. 4",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "d6cbf4c5-8649-4199-9db8-c31c104c996a",
+   "num_discs": 1,
+   "output_title": "Symphonie Nr. 4",
+   "title": ""
+  },
+  "alb.0072": {
+   "artist": "",
+   "downloaded_artists": "Wolfgang Amadeus Mozart; Wiener Philharmoniker, James Levine",
+   "downloaded_titles": "Symphonies No. 40 / No. 41 \"Jupiter\"",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "d74f8fe6-d75a-49d5-bf57-41c0ac96838a",
+   "num_discs": 1,
+   "output_title": "Symphonies No. 40 / No. 41 \"Jupiter\"",
+   "title": ""
+  },
+  "alb.0073": {
+   "artist": "",
+   "downloaded_artists": "Christopher Herrick",
+   "downloaded_titles": "Organ Fireworks",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "6a659578-7458-440b-b196-bd6f4a5bbcd6",
+   "num_discs": 1,
+   "output_title": "Organ Fireworks",
+   "title": ""
+  },
+  "alb.0074": {
+   "artist": "",
+   "downloaded_artists": "Schubert; Alfred Brendel",
+   "downloaded_titles": "Piano Works",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "f0b37b4c-04af-4ec6-a7f2-0ca9256f1c60",
+   "num_discs": 7,
+   "output_title": "Piano Works",
+   "title": ""
+  },
+  "alb.0075": {
+   "artist": "",
+   "downloaded_artists": "Prokofiev; Orchestre symphonique de Montr\u00e9al, Charles Dutoit",
+   "downloaded_titles": "Romeo and Juliet (excerpts)",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "55e10969-b484-424a-bb2a-b6645568d9dc",
+   "num_discs": 1,
+   "output_title": "Romeo and Juliet (excerpts)",
+   "title": ""
+  },
+  "alb.0076": {
+   "artist": "",
+   "downloaded_artists": "Bach; The English Concert, Trevor Pinnock",
+   "downloaded_titles": "Concertos for Harpsichord, Violin, Flute, Oboe d'amore",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "47e454f5-9cdc-4141-ae1a-56792f46770e",
+   "num_discs": 5,
+   "output_title": "Concertos for Harpsichord, Violin, Flute, Oboe d'amore",
+   "title": ""
+  },
+  "alb.0077": {
+   "artist": "",
+   "downloaded_artists": "Claude Debussy; Orchestre symphonique de Montr\u00e9al, Charles Dutoit",
+   "downloaded_titles": "Images / Nocturnes",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "d12485ae-5c3c-4ef3-ba1c-3dc1349ca281",
+   "num_discs": 1,
+   "output_title": "Images / Nocturnes",
+   "title": ""
+  },
+  "alb.0078": {
+   "artist": "",
+   "downloaded_artists": "Brahms; Nigel Kennedy, London Philharmonic Orchestra, Klaus Tennstedt",
+   "downloaded_titles": "Violin Concerto",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "09d241fd-29ee-4325-9e0d-0c9bc42f24f8",
+   "num_discs": 1,
+   "output_title": "Violin Concerto",
+   "title": ""
+  },
+  "alb.0079": {
+   "artist": "",
+   "downloaded_artists": "Pyotr Il'yich Tchaikovsky, Charles Munch & Boston Symphony Orchestra",
+   "downloaded_titles": "Tchaikovsky : Symphony No.6 (\"Path\u00e9tique\"), Romeo and Juliet",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "6a58f17b-b052-4887-8dac-3824a4dd8fd0",
+   "num_discs": 1,
+   "output_title": "Tchaikovsky : Symphony No.6 (\"Path\u00e9tique\"), Romeo and Juliet",
+   "title": ""
+  },
+  "alb.0080": {
+   "artist": "",
+   "downloaded_artists": "Rimsky-Korsakov; London Symphony Orchestra, Andr\u00e9 Previn",
+   "downloaded_titles": "Scheherazade / Tsar Saltan (excerpts) / Russian Easter Overture",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "d4a47605-9c76-47c1-a713-28f9de8efb6a",
+   "num_discs": 1,
+   "output_title": "Scheherazade / Tsar Saltan (excerpts) / Russian Easter Overture",
+   "title": ""
+  },
+  "alb.0081": {
+   "artist": "",
+   "downloaded_artists": "Herbert von Karajan",
+   "downloaded_titles": "The Essential Karajan",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "8e4d1a19-2380-49cb-a15a-74d2a89602f1",
+   "num_discs": 1,
+   "output_title": "The Essential Karajan",
+   "title": ""
+  },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
    "downloaded_artists": "",
