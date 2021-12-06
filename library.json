@@ -902,6 +902,17 @@
    "output_title": "The Essential Karajan",
    "title": ""
   },
+  "alb.0082": {
+   "artist": "",
+   "downloaded_artists": "Jeff Wayne",
+   "downloaded_titles": "Jeff Wayne's Musical Version of The War of the Worlds",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "7155a3c2-fee8-4284-84bc-08c00502bb48",
+   "num_discs": 2,
+   "output_title": "Jeff Wayne's Musical Version of The War of the Worlds",
+   "title": ""
+  },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
    "downloaded_artists": "",

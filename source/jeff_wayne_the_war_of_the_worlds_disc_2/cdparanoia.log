@@ -1,0 +1,37 @@
+cdparanoia -L --force-cdrom-device /dev/sr1 -B --output-wav 1-7 
+cdparanoia III release 10.2 (September 11, 2008)
+
+Ripping from sector       0 (track  1 [0:00.00])
+	  to sector  224466 (track  7 [1:50.34])
+
+outputting to track01.cdda.wav
+
+
+
+outputting to track02.cdda.wav
+
+
+
+outputting to track03.cdda.wav
+
+
+
+outputting to track04.cdda.wav
+
+
+
+outputting to track05.cdda.wav
+
+
+
+outputting to track06.cdda.wav
+
+
+
+outputting to track07.cdda.wav
+
+
+
+Done.
+
+

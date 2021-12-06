@@ -1,0 +1,113 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0141": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0082",
+   "artist": "",
+   "cddb_id": "620bb007",
+   "cddb_string": "620bb007 7 150 26822 79370 110202 165170 203955 216332 2994",
+   "disc_of_set": 2,
+   "downloaded_artists": "Jeff Wayne",
+   "downloaded_titles": "The Earth Under the Martians###Jeff Wayne's Musical Version of The War of the Worlds",
+   "json_path": "source/jeff_wayne_the_war_of_the_worlds_disc_2/disc.json",
+   "musicbrainz_id": "8W26zuxT71U_CYQ8Wn0PfsvUPzg-",
+   "musicbrainz_release_id": "7155a3c2-fee8-4284-84bc-08c00502bb48",
+   "musicbrainz_string": "7 150 26822 79370 110202 165170 203955 216332 224617",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "jeff_wayne_the_war_of_the_worlds_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Red Weed, Part 1",
+     "length_seconds": 355626,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "The Red Weed, Part 1",
+     "sectors": 26672,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Parson Nathaniel / The Spirit of Man",
+     "length_seconds": 700640,
+     "number": 2,
+     "offset": 26822,
+     "output_artist": "Unknown artist",
+     "output_title": "Parson Nathaniel / The Spirit of Man",
+     "sectors": 52548,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Red Weed, Part 2",
+     "length_seconds": 411093,
+     "number": 3,
+     "offset": 79370,
+     "output_artist": "Unknown artist",
+     "output_title": "The Red Weed, Part 2",
+     "sectors": 30832,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Brave New World",
+     "length_seconds": 733000,
+     "number": 4,
+     "offset": 110202,
+     "output_artist": "Unknown artist",
+     "output_title": "Brave New World",
+     "sectors": 54968,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Dead London",
+     "length_seconds": 517133,
+     "number": 5,
+     "offset": 165170,
+     "output_artist": "Unknown artist",
+     "output_title": "Dead London",
+     "sectors": 38785,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Epilogue, Part 1",
+     "length_seconds": 165026,
+     "number": 6,
+     "offset": 203955,
+     "output_artist": "Unknown artist",
+     "output_title": "Epilogue, Part 1",
+     "sectors": 12377,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Epilogue, Part 2 (NASA)",
+     "length_seconds": 110466,
+     "number": 7,
+     "offset": 216332,
+     "output_artist": "Unknown artist",
+     "output_title": "Epilogue, Part 2 (NASA)",
+     "sectors": 8285,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

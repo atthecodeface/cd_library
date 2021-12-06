@@ -1,0 +1,89 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0140": {
+   "album_total_tracks": 5,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0082",
+   "artist": "",
+   "cddb_id": "3c0a9505",
+   "cddb_string": "3c0a9505 5 150 41132 93352 141067 175817 2711",
+   "disc_of_set": 1,
+   "downloaded_artists": "Jeff Wayne",
+   "downloaded_titles": "The Coming of the Martians###Jeff Wayne's Musical Version of The War of the Worlds",
+   "json_path": "source/jeff_wayne_the_war_of_the_worlds_disc_1/disc.json",
+   "musicbrainz_id": "T8kWroRc61SeNlNQH1dYkzqTdPo-",
+   "musicbrainz_release_id": "7155a3c2-fee8-4284-84bc-08c00502bb48",
+   "musicbrainz_string": "5 150 41132 93352 141067 175817 203382",
+   "num_tracks": 5,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "jeff_wayne_the_war_of_the_worlds_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Eve of the War",
+     "length_seconds": 546733,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Jeff Wayne",
+     "output_title": "The Eve of the War",
+     "sectors": 40982,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Horsell Common and the Heat Ray",
+     "length_seconds": 696226,
+     "number": 2,
+     "offset": 41132,
+     "output_artist": "Jeff Wayne",
+     "output_title": "Horsell Common and the Heat Ray",
+     "sectors": 52220,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Artilleryman and the Fighting Machine",
+     "length_seconds": 636306,
+     "number": 3,
+     "offset": 93352,
+     "output_artist": "Jeff Wayne",
+     "output_title": "The Artilleryman and the Fighting Machine",
+     "sectors": 47715,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Forever Autumn",
+     "length_seconds": 463533,
+     "number": 4,
+     "offset": 141067,
+     "output_artist": "Jeff Wayne",
+     "output_title": "Forever Autumn",
+     "sectors": 34750,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Thunder Child",
+     "length_seconds": 365866,
+     "number": 5,
+     "offset": 175817,
+     "output_artist": "Jeff Wayne",
+     "output_title": "Thunder Child",
+     "sectors": 27565,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
