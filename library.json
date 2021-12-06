@@ -616,6 +616,39 @@
    "output_title": "The Six Motets",
    "title": ""
   },
+  "alb.0056": {
+   "artist": "",
+   "downloaded_artists": "Billy Joel",
+   "downloaded_titles": "Glass Houses",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "bc2d4528-1487-3473-9afd-cc4aa94cfd1f",
+   "num_discs": 1,
+   "output_title": "Glass Houses",
+   "title": ""
+  },
+  "alb.0057": {
+   "artist": "",
+   "downloaded_artists": "Billy Joel",
+   "downloaded_titles": "Piano Man",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "4de4b526-6552-394d-9f99-4b68e9fc6b00",
+   "num_discs": 1,
+   "output_title": "Piano Man",
+   "title": ""
+  },
+  "alb.0058": {
+   "artist": "",
+   "downloaded_artists": "Billy Joel",
+   "downloaded_titles": "\u041a\u043e\u043d\u0446\u0435\u0440\u0442",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "d8ce29e9-00c5-47ab-9ffb-6870e782c75a",
+   "num_discs": 1,
+   "output_title": "\u041a\u043e\u043d\u0446\u0435\u0440\u0442",
+   "title": ""
+  },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
    "downloaded_artists": "",

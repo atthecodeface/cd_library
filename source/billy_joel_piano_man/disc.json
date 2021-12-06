@@ -1,0 +1,149 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0104": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0057",
+   "artist": "",
+   "cddb_id": "990a3a0a",
+   "cddb_string": "990a3a0a 10 150 19385 44822 59755 74305 100190 114867 132542 148645 163717 2620",
+   "disc_of_set": 1,
+   "downloaded_artists": "Billy Joel",
+   "downloaded_titles": "Piano Man",
+   "json_path": "source/billy_joel_piano_man/disc.json",
+   "musicbrainz_id": "McLx7kEs_soDoF2_WuGa04v_Xso-",
+   "musicbrainz_release_id": "4de4b526-6552-394d-9f99-4b68e9fc6b00",
+   "musicbrainz_string": "10 150 19385 44822 59755 74305 100190 114867 132542 148645 163717 196570",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "billy_joel_piano_man",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Travelin' Prayer",
+     "length_seconds": 256733,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Billy Joel",
+     "output_title": "Travelin' Prayer",
+     "sectors": 19235,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Piano Man",
+     "length_seconds": 338666,
+     "number": 2,
+     "offset": 19385,
+     "output_artist": "Billy Joel",
+     "output_title": "Piano Man",
+     "sectors": 25437,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Ain't No Crime",
+     "length_seconds": 199200,
+     "number": 3,
+     "offset": 44822,
+     "output_artist": "Billy Joel",
+     "output_title": "Ain't No Crime",
+     "sectors": 14933,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "You're My Home",
+     "length_seconds": 193800,
+     "number": 4,
+     "offset": 59755,
+     "output_artist": "Billy Joel",
+     "output_title": "You're My Home",
+     "sectors": 14550,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Ballad of Billy the Kid",
+     "length_seconds": 345133,
+     "number": 5,
+     "offset": 74305,
+     "output_artist": "Billy Joel",
+     "output_title": "The Ballad of Billy the Kid",
+     "sectors": 25885,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Worse Comes to Worst",
+     "length_seconds": 195800,
+     "number": 6,
+     "offset": 100190,
+     "output_artist": "Billy Joel",
+     "output_title": "Worse Comes to Worst",
+     "sectors": 14677,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Stop in Nevada",
+     "length_seconds": 235733,
+     "number": 7,
+     "offset": 114867,
+     "output_artist": "Billy Joel",
+     "output_title": "Stop in Nevada",
+     "sectors": 17675,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "If I Only Had the Words (To Tell You)",
+     "length_seconds": 214666,
+     "number": 8,
+     "offset": 132542,
+     "output_artist": "Billy Joel",
+     "output_title": "If I Only Had the Words (To Tell You)",
+     "sectors": 16103,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Somewhere Along the Line",
+     "length_seconds": 200333,
+     "number": 9,
+     "offset": 148645,
+     "output_artist": "Billy Joel",
+     "output_title": "Somewhere Along the Line",
+     "sectors": 15072,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Captain Jack",
+     "length_seconds": 437760,
+     "number": 10,
+     "offset": 163717,
+     "output_artist": "Billy Joel",
+     "output_title": "Captain Jack",
+     "sectors": 32853,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
