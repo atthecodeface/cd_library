@@ -1,0 +1,125 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0148": {
+   "album_total_tracks": 18,
+   "album_track_offset": 10,
+   "album_uniq_id": "alb.0088",
+   "artist": "",
+   "cddb_id": "550aa308",
+   "cddb_string": "550aa308 8 183 22800 38530 46858 66008 83598 108408 157308 2725",
+   "disc_of_set": 2,
+   "downloaded_artists": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+   "downloaded_titles": "Chess",
+   "json_path": "source/andersson_ulvaeus_rice_chess_disc_2/disc.json",
+   "musicbrainz_id": "2GzUeK.tpl_rNlo0POX0cPjzKoY-",
+   "musicbrainz_release_id": "9efc138e-e0ec-43d9-89ae-d500ae566870",
+   "musicbrainz_string": "8 183 22800 38530 46858 66008 83598 108408 157308 204408",
+   "num_tracks": 8,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "andersson_ulvaeus_rice_chess_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Bangkok / One Night in Bangkok",
+     "length_seconds": 301800,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+     "output_title": "Bangkok / One Night in Bangkok",
+     "sectors": 22617,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Heaven Help My Heart",
+     "length_seconds": 209000,
+     "number": 2,
+     "offset": 22800,
+     "output_artist": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+     "output_title": "Heaven Help My Heart",
+     "sectors": 15730,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Argument",
+     "length_seconds": 111000,
+     "number": 3,
+     "offset": 38530,
+     "output_artist": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+     "output_title": "Argument",
+     "sectors": 8328,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I Know Him So Well",
+     "length_seconds": 255000,
+     "number": 4,
+     "offset": 46858,
+     "output_artist": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+     "output_title": "I Know Him So Well",
+     "sectors": 19150,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Deal (No Deal)",
+     "length_seconds": 234000,
+     "number": 5,
+     "offset": 66008,
+     "output_artist": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+     "output_title": "The Deal (No Deal)",
+     "sectors": 17590,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Pity the Child",
+     "length_seconds": 330000,
+     "number": 6,
+     "offset": 83598,
+     "output_artist": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+     "output_title": "Pity the Child",
+     "sectors": 24810,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Endgame",
+     "length_seconds": 652000,
+     "number": 7,
+     "offset": 108408,
+     "output_artist": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+     "output_title": "Endgame",
+     "sectors": 48900,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Epilogue: You and I / The Story of Chess",
+     "length_seconds": 629000,
+     "number": 8,
+     "offset": 157308,
+     "output_artist": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+     "output_title": "Epilogue: You and I / The Story of Chess",
+     "sectors": 47100,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

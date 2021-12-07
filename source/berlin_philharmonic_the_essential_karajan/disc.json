@@ -5,7 +5,7 @@
    "album_total_tracks": 0,
    "album_track_offset": 0,
    "album_uniq_id": "alb.0081",
-   "artist": "",
+   "artist": "Berlin Philharmonic, Herbert von Karajan",
    "cddb_id": "ab102d0b",
    "cddb_string": "ab102d0b 11 183 33183 48858 93633 112233 137808 148458 159483 191508 223608 239883 4143",
    "disc_of_set": 1,
@@ -30,7 +30,7 @@
      "length_seconds": 441000,
      "number": 1,
      "offset": 183,
-     "output_artist": "Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "The Planets, op. 32: I. Mars, the Bringer of War",
      "sectors": 33000,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 207000,
      "number": 2,
      "offset": 33183,
-     "output_artist": "Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "The Four Seasons \"Spring\": I. Allegro",
      "sectors": 15675,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 598000,
      "number": 3,
      "offset": 48858,
-     "output_artist": "Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "The Thieving Magpie: Overture",
      "sectors": 44775,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 240000,
      "number": 4,
      "offset": 93633,
-     "output_artist": "Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Peer Gynt Suite no. 1, op. 46: I. Morning Mood",
      "sectors": 18600,
      "title": ""
@@ -78,7 +78,7 @@
      "length_seconds": 339000,
      "number": 5,
      "offset": 112233,
-     "output_artist": "Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Eine kleine Nachtmusik in G major: I. Allegro",
      "sectors": 25575,
      "title": ""
@@ -90,7 +90,7 @@
      "length_seconds": 138893,
      "number": 6,
      "offset": 137808,
-     "output_artist": "Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Carmen, Act 1: Prelude",
      "sectors": 10650,
      "title": ""
@@ -102,7 +102,7 @@
      "length_seconds": 147000,
      "number": 7,
      "offset": 148458,
-     "output_artist": "Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Radetzky March",
      "sectors": 11025,
      "title": ""
@@ -114,7 +114,7 @@
      "length_seconds": 425000,
      "number": 8,
      "offset": 159483,
-     "output_artist": "Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "The Nutcracker: III. Waltz of the Flowers",
      "sectors": 32025,
      "title": ""
@@ -126,7 +126,7 @@
      "length_seconds": 428000,
      "number": 9,
      "offset": 191508,
-     "output_artist": "Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Canon & Gigue in D major",
      "sectors": 32100,
      "title": ""
@@ -138,7 +138,7 @@
      "length_seconds": 216000,
      "number": 10,
      "offset": 223608,
-     "output_artist": "Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "The Tales of Hoffman: Barcarole",
      "sectors": 16275,
      "title": ""
@@ -150,7 +150,7 @@
      "length_seconds": 969000,
      "number": 11,
      "offset": 239883,
-     "output_artist": "Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Bolero",
      "sectors": 70875,
      "title": ""

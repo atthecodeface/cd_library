@@ -5,7 +5,7 @@
    "album_total_tracks": 0,
    "album_track_offset": 0,
    "album_uniq_id": "alb.0060",
-   "artist": "",
+   "artist": "Wiener Philharmoniker",
    "cddb_id": "ad0c250e",
    "cddb_string": "ad0c250e 14 183 29425 40355 63145 68848 83323 106713 124145 144068 159303 192945 199748 207933 229638 3111",
    "disc_of_set": 1,
@@ -30,7 +30,7 @@
      "length_seconds": 389893,
      "number": 1,
      "offset": 183,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: I. Kyrie",
      "sectors": 29242,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 145733,
      "number": 2,
      "offset": 29425,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: II. Gloria: Gloria excelsis Deo",
      "sectors": 10930,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 303866,
      "number": 3,
      "offset": 40355,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: II. Gloria: Laudamus te",
      "sectors": 22790,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 76040,
      "number": 4,
      "offset": 63145,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: II. Gloria: Gratias",
      "sectors": 5703,
      "title": ""
@@ -78,7 +78,7 @@
      "length_seconds": 193000,
      "number": 5,
      "offset": 68848,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: II. Gloria: Domine",
      "sectors": 14475,
      "title": ""
@@ -90,7 +90,7 @@
      "length_seconds": 311866,
      "number": 6,
      "offset": 83323,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: II. Gloria: Qui tollis",
      "sectors": 23390,
      "title": ""
@@ -102,7 +102,7 @@
      "length_seconds": 232426,
      "number": 7,
      "offset": 106713,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: II. Gloria: Quoniam",
      "sectors": 17432,
      "title": ""
@@ -114,7 +114,7 @@
      "length_seconds": 265640,
      "number": 8,
      "offset": 124145,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: II. Gloria: Jesu Christe - Cum Sancto Spiritu",
      "sectors": 19923,
      "title": ""
@@ -126,7 +126,7 @@
      "length_seconds": 203133,
      "number": 9,
      "offset": 144068,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: III. Credo: Credo in unum Deum",
      "sectors": 15235,
      "title": ""
@@ -138,7 +138,7 @@
      "length_seconds": 448560,
      "number": 10,
      "offset": 159303,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: III. Credo: Et incarnatus est",
      "sectors": 33642,
      "title": ""
@@ -150,7 +150,7 @@
      "length_seconds": 90706,
      "number": 11,
      "offset": 192945,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: IV. Sanctus: Sanctus",
      "sectors": 6803,
      "title": ""
@@ -162,7 +162,7 @@
      "length_seconds": 109133,
      "number": 12,
      "offset": 199748,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: IV. Sanctus: Osanna",
      "sectors": 8185,
      "title": ""
@@ -174,7 +174,7 @@
      "length_seconds": 289400,
      "number": 13,
      "offset": 207933,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: V. Benedictus: Benedictus",
      "sectors": 21705,
      "title": ""
@@ -186,7 +186,7 @@
      "length_seconds": 49733,
      "number": 14,
      "offset": 229638,
-     "output_artist": "Mozart; Sir Georg Solti, Norberg-Schulz, Von Otter, Heilmann, Pape, Konzertvereinigung Wiener Staatsopernchor, Wiener Philharmoniker",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Gro\u00dfe Messe, K. 427: V. Benedictus: Osanna",
      "sectors": 3730,
      "title": ""

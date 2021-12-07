@@ -5,7 +5,7 @@
    "album_total_tracks": 0,
    "album_track_offset": 0,
    "album_uniq_id": "alb.0072",
-   "artist": "",
+   "artist": "Wiener Philharmoniker",
    "cddb_id": "76121508",
    "cddb_string": "76121508 8 183 35510 105723 128970 172705 222685 271113 296728 4631",
    "disc_of_set": 1,
@@ -30,7 +30,7 @@
      "length_seconds": 471026,
      "number": 1,
      "offset": 183,
-     "output_artist": "Wolfgang Amadeus Mozart; Wiener Philharmoniker, James Levine",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Symphony no. 40 in G minor with clarinets, K. 550: I. Allegro molto",
      "sectors": 35327,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 936173,
      "number": 2,
      "offset": 35510,
-     "output_artist": "Wolfgang Amadeus Mozart; Wiener Philharmoniker, James Levine",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Symphony no. 40 in G minor with clarinets, K. 550: II. Andante",
      "sectors": 70213,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 309960,
      "number": 3,
      "offset": 105723,
-     "output_artist": "Wolfgang Amadeus Mozart; Wiener Philharmoniker, James Levine",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Symphony no. 40 in G minor with clarinets, K. 550: III. Minuetto. Allegretto & Trio",
      "sectors": 23247,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 583133,
      "number": 4,
      "offset": 128970,
-     "output_artist": "Wolfgang Amadeus Mozart; Wiener Philharmoniker, James Levine",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Symphony no. 40 in G minor with clarinets, K. 550: IV. Allegro assai",
      "sectors": 43735,
      "title": ""
@@ -78,7 +78,7 @@
      "length_seconds": 666400,
      "number": 5,
      "offset": 172705,
-     "output_artist": "Wolfgang Amadeus Mozart; Wiener Philharmoniker, James Levine",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Symphony no. 41 in C major, K. 551 \"Jupiter\": I. Allegro vivace",
      "sectors": 49980,
      "title": ""
@@ -90,7 +90,7 @@
      "length_seconds": 645706,
      "number": 6,
      "offset": 222685,
-     "output_artist": "Wolfgang Amadeus Mozart; Wiener Philharmoniker, James Levine",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Symphony no. 41 in C major, K. 551 \"Jupiter\": II. Andante cantabile",
      "sectors": 48428,
      "title": ""
@@ -102,7 +102,7 @@
      "length_seconds": 341533,
      "number": 7,
      "offset": 271113,
-     "output_artist": "Wolfgang Amadeus Mozart; Wiener Philharmoniker, James Levine",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Symphony no. 41 in C major, K. 551 \"Jupiter\": III. Minuetto. Allegretto & Trio",
      "sectors": 25615,
      "title": ""
@@ -114,7 +114,7 @@
      "length_seconds": 675533,
      "number": 8,
      "offset": 296728,
-     "output_artist": "Wolfgang Amadeus Mozart; Wiener Philharmoniker, James Levine",
+     "output_artist": "Wiener Philharmoniker",
      "output_title": "Symphony no. 41 in C major, K. 551 \"Jupiter\": IV. Allegro molto",
      "sectors": 50665,
      "title": ""

@@ -5,7 +5,7 @@
    "album_total_tracks": 0,
    "album_track_offset": 0,
    "album_uniq_id": "alb.0024",
-   "artist": "",
+   "artist": "Simon & Garfunkel",
    "cddb_id": "b208a90e",
    "cddb_string": "b208a90e 14 150 14130 27097 32710 45752 53402 62455 70730 81827 110482 128992 136960 146850 152332 2219",
    "disc_of_set": 1,
@@ -30,7 +30,7 @@
      "length_seconds": 186200,
      "number": 1,
      "offset": 150,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "The Sound of Silence",
      "sectors": 13980,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 172866,
      "number": 2,
      "offset": 14130,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "The Singleman Party Foxtrot",
      "sectors": 12967,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 74933,
      "number": 3,
      "offset": 27097,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Mrs. Robinson",
      "sectors": 5613,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 173933,
      "number": 4,
      "offset": 32710,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Sunporch Cha\u2010Cha\u2010Cha",
      "sectors": 13042,
      "title": ""
@@ -78,7 +78,7 @@
      "length_seconds": 101973,
      "number": 5,
      "offset": 45752,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Scarborough Fair / Canticle (interlude)",
      "sectors": 7650,
      "title": ""
@@ -90,7 +90,7 @@
      "length_seconds": 120666,
      "number": 6,
      "offset": 53402,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "On the Strip",
      "sectors": 9053,
      "title": ""
@@ -102,7 +102,7 @@
      "length_seconds": 111040,
      "number": 7,
      "offset": 62455,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "April Come She Will",
      "sectors": 8275,
      "title": ""
@@ -114,7 +114,7 @@
      "length_seconds": 147933,
      "number": 8,
      "offset": 70730,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "The Folks",
      "sectors": 11097,
      "title": ""
@@ -126,7 +126,7 @@
      "length_seconds": 382000,
      "number": 9,
      "offset": 81827,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Scarborough Fair / Canticle",
      "sectors": 28655,
      "title": ""
@@ -138,7 +138,7 @@
      "length_seconds": 246960,
      "number": 10,
      "offset": 110482,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "A Great Effect",
      "sectors": 18510,
      "title": ""
@@ -150,7 +150,7 @@
      "length_seconds": 106240,
      "number": 11,
      "offset": 128992,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "The Big Bright Green Pleasure Machine",
      "sectors": 7968,
      "title": ""
@@ -162,7 +162,7 @@
      "length_seconds": 131866,
      "number": 12,
      "offset": 136960,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Whew",
      "sectors": 9890,
      "title": ""
@@ -174,7 +174,7 @@
      "length_seconds": 72866,
      "number": 13,
      "offset": 146850,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "Mrs. Robinson",
      "sectors": 5482,
      "title": ""
@@ -186,7 +186,7 @@
      "length_seconds": 188026,
      "number": 14,
      "offset": 152332,
-     "output_artist": "Paul Simon; Simon & Garfunkel; David Grusin",
+     "output_artist": "Simon & Garfunkel",
      "output_title": "The Sound of Silence",
      "sectors": 14103,
      "title": ""

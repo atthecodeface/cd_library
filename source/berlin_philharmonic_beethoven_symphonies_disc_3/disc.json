@@ -5,7 +5,7 @@
    "album_total_tracks": 42,
    "album_track_offset": 13,
    "album_uniq_id": "alb.0070",
-   "artist": "",
+   "artist": "Berlin Philharmonic, Herbert von Karajan",
    "cddb_id": "7e0f1e08",
    "cddb_string": "7e0f1e08 8 183 46283 89420 116230 142350 192963 227833 261620 3872",
    "disc_of_set": 3,
@@ -30,7 +30,7 @@
      "length_seconds": 617000,
      "number": 1,
      "offset": 183,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie No. 4 B-Dur, Op. 60: I. Adagio - Allegro vivace",
      "sectors": 46100,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 577666,
      "number": 2,
      "offset": 46283,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie No. 4 B-Dur, Op. 60: II. Adagio",
      "sectors": 43137,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 357333,
      "number": 3,
      "offset": 89420,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie No. 4 B-Dur, Op. 60: III. Allegro vivace",
      "sectors": 26810,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 354000,
      "number": 4,
      "offset": 116230,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie No. 4 B-Dur, Op. 60: IV. Allegro ma non troppo",
      "sectors": 26120,
      "title": ""
@@ -78,7 +78,7 @@
      "length_seconds": 679333,
      "number": 5,
      "offset": 142350,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie No. 7 A-Dur, Op. 92: I. Poco sostenuto - Vivace",
      "sectors": 50613,
      "title": ""
@@ -90,7 +90,7 @@
      "length_seconds": 465333,
      "number": 6,
      "offset": 192963,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie No. 7 A-Dur, Op. 92: II. Allegretto",
      "sectors": 34870,
      "title": ""
@@ -102,7 +102,7 @@
      "length_seconds": 450333,
      "number": 7,
      "offset": 227833,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie No. 7 A-Dur, Op. 92: III. Presto",
      "sectors": 33787,
      "title": ""
@@ -114,7 +114,7 @@
      "length_seconds": 388000,
      "number": 8,
      "offset": 261620,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie No. 7 A-Dur, Op. 92: IV. Allegro con brio",
      "sectors": 28813,
      "title": ""

@@ -928,11 +928,66 @@
    "artist": "",
    "downloaded_artists": "Mike Batt",
    "downloaded_titles": "The Hunting Of The Snark",
-   "json_path": ".",
+   "json_path": "library.json",
    "label": "",
    "musicbrainz_release_id": "9aaccf5d-c338-4324-b981-c9bf193b8270",
    "num_discs": 1,
    "output_title": "The Hunting Of The Snark",
+   "title": ""
+  },
+  "alb.0085": {
+   "artist": "",
+   "downloaded_artists": "Sherman Edwards",
+   "downloaded_titles": "1776 (original Broadway cast)",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "261ede01-66dc-4eec-b813-645e5e1eb05b",
+   "num_discs": 1,
+   "output_title": "1776 (original Broadway cast)",
+   "title": ""
+  },
+  "alb.0086": {
+   "artist": "",
+   "downloaded_artists": "Clannad",
+   "downloaded_titles": "The Collection",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "f6ddf4ea-7d3b-4426-9532-dbd5b76c9635",
+   "num_discs": 1,
+   "output_title": "The Collection",
+   "title": ""
+  },
+  "alb.0087": {
+   "artist": "",
+   "downloaded_artists": "Clannad",
+   "downloaded_titles": "The Angel and the Soldier Boy",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "35096f3b-f6fd-419f-aa62-7e66c52bf17b",
+   "num_discs": 1,
+   "output_title": "The Angel and the Soldier Boy",
+   "title": ""
+  },
+  "alb.0088": {
+   "artist": "",
+   "downloaded_artists": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+   "downloaded_titles": "Chess",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "9efc138e-e0ec-43d9-89ae-d500ae566870",
+   "num_discs": 2,
+   "output_title": "Chess",
+   "title": ""
+  },
+  "alb.0089": {
+   "artist": "",
+   "downloaded_artists": "Hubert Parry; Tenebrae, Nigel Short",
+   "downloaded_titles": "Songs of Farewell",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "28d4efaa-4b4d-48f4-af35-c7b5b5f47933",
+   "num_discs": 1,
+   "output_title": "Songs of Farewell",
    "title": ""
   },
   "pdjames_bbc_radio_collection": {

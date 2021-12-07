@@ -5,7 +5,7 @@
    "album_total_tracks": 42,
    "album_track_offset": 30,
    "album_uniq_id": "alb.0070",
-   "artist": "",
+   "artist": "Berlin Philharmonic, Herbert von Karajan",
    "cddb_id": "540d2007",
    "cddb_string": "540d2007 7 183 40933 59313 86388 119263 158235 189670 3362",
    "disc_of_set": 5,
@@ -30,7 +30,7 @@
      "length_seconds": 542373,
      "number": 1,
      "offset": 183,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie No. 8 F-Dur, Op. 93: I. Allegro vivace e con brio",
      "sectors": 40750,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 245000,
      "number": 2,
      "offset": 40933,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie No. 8 F-Dur, Op. 93: II. Allegretto scherzando",
      "sectors": 18380,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 361040,
      "number": 3,
      "offset": 59313,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie No. 8 F-Dur, Op. 93: III. Tempo di menuetto",
      "sectors": 27075,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 436493,
      "number": 4,
      "offset": 86388,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie No. 8 F-Dur, Op. 93: IV. Allegro vivace",
      "sectors": 32875,
      "title": ""
@@ -78,7 +78,7 @@
      "length_seconds": 520000,
      "number": 5,
      "offset": 119263,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Ouvert\u00fcre Coriolan, Op. 62",
      "sectors": 38972,
      "title": ""
@@ -90,7 +90,7 @@
      "length_seconds": 419800,
      "number": 6,
      "offset": 158235,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Ouvert\u00fcre Fidelio, Op. 72b",
      "sectors": 31435,
      "title": ""
@@ -102,7 +102,7 @@
      "length_seconds": 839000,
      "number": 7,
      "offset": 189670,
-     "output_artist": "Beethoven; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Ouvert\u00fcre Leonore No. 3, Op. 72a",
      "sectors": 62488,
      "title": ""

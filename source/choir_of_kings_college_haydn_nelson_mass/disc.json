@@ -5,7 +5,7 @@
    "album_total_tracks": 0,
    "album_track_offset": 0,
    "album_uniq_id": "alb.0067",
-   "artist": "",
+   "artist": "Choir of Kings College",
    "cddb_id": "6511af18",
    "cddb_string": "6511af18 24 150 22990 38763 58958 71433 79951 99250 116270 127038 154158 169850 183000 194488 215200 225700 228008 232635 250388 261050 276438 281893 294755 298490 312675 4529",
    "disc_of_set": 1,
@@ -30,7 +30,7 @@
      "length_seconds": 305000,
      "number": 1,
      "offset": 150,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Missa in angustiis, Hob. XXII:11: Kyrie",
      "sectors": 22840,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 210000,
      "number": 2,
      "offset": 22990,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Missa in angustiis, Hob. XXII:11: Gloria: Gloria in Excelsis Deo",
      "sectors": 15773,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 268333,
      "number": 3,
      "offset": 38763,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Missa in angustiis, Hob. XXII:11: Gloria: Qui tollis peccata mundi",
      "sectors": 20195,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 166000,
      "number": 4,
      "offset": 58958,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Missa in angustiis, Hob. XXII:11: Gloria: Quoniam tu solus Sanctus",
      "sectors": 12475,
      "title": ""
@@ -78,7 +78,7 @@
      "length_seconds": 113000,
      "number": 5,
      "offset": 71433,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Missa in angustiis, Hob. XXII:11: Credo: Credo in unum Deum",
      "sectors": 8518,
      "title": ""
@@ -90,7 +90,7 @@
      "length_seconds": 257000,
      "number": 6,
      "offset": 79951,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Missa in angustiis, Hob. XXII:11: Credo: Et incarnatus est",
      "sectors": 19299,
      "title": ""
@@ -102,7 +102,7 @@
      "length_seconds": 221000,
      "number": 7,
      "offset": 99250,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Missa in angustiis, Hob. XXII:11: Credo: Et resurrexit",
      "sectors": 17020,
      "title": ""
@@ -114,7 +114,7 @@
      "length_seconds": 142666,
      "number": 8,
      "offset": 116270,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Missa in angustiis, Hob. XXII:11: Sanctus",
      "sectors": 10768,
      "title": ""
@@ -126,7 +126,7 @@
      "length_seconds": 357506,
      "number": 9,
      "offset": 127038,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Missa in angustiis, Hob. XXII:11: Benedictus",
      "sectors": 27120,
      "title": ""
@@ -138,7 +138,7 @@
      "length_seconds": 207333,
      "number": 10,
      "offset": 154158,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Missa in angustiis, Hob. XXII:11: Agnus Dei: Agnus Dei",
      "sectors": 15692,
      "title": ""
@@ -150,7 +150,7 @@
      "length_seconds": 174000,
      "number": 11,
      "offset": 169850,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Missa in angustiis, Hob. XXII:11: Agnus Dei: Dona nobis pacem",
      "sectors": 13150,
      "title": ""
@@ -162,7 +162,7 @@
      "length_seconds": 153173,
      "number": 12,
      "offset": 183000,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Gloria in D major, RV 589: Gloria in excelsis Deo",
      "sectors": 11488,
      "title": ""
@@ -174,7 +174,7 @@
      "length_seconds": 276666,
      "number": 13,
      "offset": 194488,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Gloria in D major, RV 589: Et in terra pax",
      "sectors": 20712,
      "title": ""
@@ -186,7 +186,7 @@
      "length_seconds": 139733,
      "number": 14,
      "offset": 215200,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Gloria in D major, RV 589: Laudamus te",
      "sectors": 10500,
      "title": ""
@@ -198,7 +198,7 @@
      "length_seconds": 30760,
      "number": 15,
      "offset": 225700,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Gloria in D major, RV 589: Gratias agimus tibi",
      "sectors": 2308,
      "title": ""
@@ -210,7 +210,7 @@
      "length_seconds": 61933,
      "number": 16,
      "offset": 228008,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Gloria in D major, RV 589: Propter magnam gloriam tuam",
      "sectors": 4627,
      "title": ""
@@ -222,7 +222,7 @@
      "length_seconds": 237000,
      "number": 17,
      "offset": 232635,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Gloria in D major, RV 589: Domine Deus, Rex coelestis",
      "sectors": 17753,
      "title": ""
@@ -234,7 +234,7 @@
      "length_seconds": 142000,
      "number": 18,
      "offset": 250388,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Gloria in D major, RV 589: Domine Fili unigenite",
      "sectors": 10662,
      "title": ""
@@ -246,7 +246,7 @@
      "length_seconds": 205440,
      "number": 19,
      "offset": 261050,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Gloria in D major, RV 589: Domine Deus, Agnus Dei",
      "sectors": 15388,
      "title": ""
@@ -258,7 +258,7 @@
      "length_seconds": 71200,
      "number": 20,
      "offset": 276438,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Gloria in D major, RV 589: Qui tollis peccata mundi",
      "sectors": 5455,
      "title": ""
@@ -270,7 +270,7 @@
      "length_seconds": 171000,
      "number": 21,
      "offset": 281893,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Gloria in D major, RV 589: Qui sedes ad dexteram Patris",
      "sectors": 12862,
      "title": ""
@@ -282,7 +282,7 @@
      "length_seconds": 49906,
      "number": 22,
      "offset": 294755,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Gloria in D major, RV 589: Quoniam tu solus Sanctus",
      "sectors": 3735,
      "title": ""
@@ -294,7 +294,7 @@
      "length_seconds": 187493,
      "number": 23,
      "offset": 298490,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Gloria in D major, RV 589: Cum Sancto Spiritu",
      "sectors": 14185,
      "title": ""
@@ -306,7 +306,7 @@
      "length_seconds": 356000,
      "number": 24,
      "offset": 312675,
-     "output_artist": "Haydn, Vivaldi, Handel; King\u2019s College Choir, Willcocks",
+     "output_artist": "Choir of Kings College",
      "output_title": "Zadok the Priest, HWV 258",
      "sectors": 27000,
      "title": ""

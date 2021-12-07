@@ -1,0 +1,53 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0147": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0087",
+   "artist": "",
+   "cddb_id": "0c0c0f02",
+   "cddb_string": "0c0c0f02 2 183 114850 3089",
+   "disc_of_set": 1,
+   "downloaded_artists": "Clannad",
+   "downloaded_titles": "The Angel and the Soldier Boy",
+   "json_path": "source/clannad_the_angel_and_the_soldier_boy/disc.json",
+   "musicbrainz_id": "lTa5irhSx_QOTXnk3QtJ0LIm3Dw-",
+   "musicbrainz_release_id": "35096f3b-f6fd-419f-aa62-7e66c52bf17b",
+   "musicbrainz_string": "2 183 114850 231745",
+   "num_tracks": 2,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "clannad_the_angel_and_the_soldier_boy",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Music from The Angel and the Soldier Boy",
+     "length_seconds": 1528893,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Clannad",
+     "output_title": "Music from The Angel and the Soldier Boy",
+     "sectors": 114667,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Angel and the Soldier Boy (Story Narrated by Tom Conti)",
+     "length_seconds": 1557667,
+     "number": 2,
+     "offset": 114850,
+     "output_artist": "Clannad",
+     "output_title": "The Angel and the Soldier Boy (Story Narrated by Tom Conti)",
+     "sectors": 116895,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

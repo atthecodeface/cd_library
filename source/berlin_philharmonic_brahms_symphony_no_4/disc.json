@@ -5,7 +5,7 @@
    "album_total_tracks": 0,
    "album_track_offset": 0,
    "album_uniq_id": "alb.0071",
-   "artist": "",
+   "artist": "Berlin Philharmonic, Herbert von Karajan",
    "cddb_id": "3f09d104",
    "cddb_string": "3f09d104 4 183 59198 111825 140738 2515",
    "disc_of_set": 1,
@@ -30,7 +30,7 @@
      "length_seconds": 785360,
      "number": 1,
      "offset": 183,
-     "output_artist": "Johannes Brahms; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie Nr. 4 e-Moll, Op. 98: I. Allegro non troppo",
      "sectors": 59015,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 701693,
      "number": 2,
      "offset": 59198,
-     "output_artist": "Johannes Brahms; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie Nr. 4 e-Moll, Op. 98: II. Andante moderato",
      "sectors": 52627,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 385506,
      "number": 3,
      "offset": 111825,
-     "output_artist": "Johannes Brahms; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie Nr. 4 e-Moll, Op. 98: III. Allegro giocoso - Poco meno presto - Tempo I",
      "sectors": 28913,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 639400,
      "number": 4,
      "offset": 140738,
-     "output_artist": "Johannes Brahms; Berliner Philharmoniker, Herbert von Karajan",
+     "output_artist": "Berlin Philharmonic, Herbert von Karajan",
      "output_title": "Symphonie Nr. 4 e-Moll, Op. 98: IV. Allegro energico e passionato - Pi\u00f9 allegro",
      "sectors": 47920,
      "title": ""
