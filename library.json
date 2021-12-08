@@ -983,11 +983,33 @@
    "artist": "",
    "downloaded_artists": "Hubert Parry; Tenebrae, Nigel Short",
    "downloaded_titles": "Songs of Farewell",
-   "json_path": ".",
+   "json_path": "library.json",
    "label": "",
    "musicbrainz_release_id": "28d4efaa-4b4d-48f4-af35-c7b5b5f47933",
    "num_discs": 1,
    "output_title": "Songs of Farewell",
+   "title": ""
+  },
+  "alb.0090": {
+   "artist": "",
+   "downloaded_artists": "Stephen Schwartz",
+   "downloaded_titles": "Godspell",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "c0455262-22d7-4be6-a173-fef5debf522a",
+   "num_discs": 1,
+   "output_title": "Godspell",
+   "title": ""
+  },
+  "alb.0091": {
+   "artist": "",
+   "downloaded_artists": "Stephen Schwartz",
+   "downloaded_titles": "Godspell",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "e56d847f-09ca-4fd7-a61a-d0dd4f199f5a",
+   "num_discs": 1,
+   "output_title": "Godspell",
    "title": ""
   },
   "pdjames_bbc_radio_collection": {
