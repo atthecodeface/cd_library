@@ -31,9 +31,9 @@
      "number": 1,
      "offset": 183,
      "output_artist": "Unknown artist",
-     "output_title": "Track 1 of 7",
+     "output_title": "La Gazza Ladra",
      "sectors": 0,
-     "title": ""
+     "title": "La Gazza Ladra"
     },
     {
      "artist": "",
@@ -43,9 +43,9 @@
      "number": 2,
      "offset": 46128,
      "output_artist": "Unknown artist",
-     "output_title": "Track 2 of 7",
+     "output_title": "Semiramide",
      "sectors": 0,
-     "title": ""
+     "title": "Semiramide"
     },
     {
      "artist": "",
@@ -55,9 +55,9 @@
      "number": 3,
      "offset": 100608,
      "output_artist": "Unknown artist",
-     "output_title": "Track 3 of 7",
+     "output_title": "La Cenerentola",
      "sectors": 0,
-     "title": ""
+     "title": "La Cenerentola"
     },
     {
      "artist": "",
@@ -67,9 +67,9 @@
      "number": 4,
      "offset": 136443,
      "output_artist": "Unknown artist",
-     "output_title": "Track 4 of 7",
+     "output_title": "La scala di seta",
      "sectors": 0,
-     "title": ""
+     "title": "La scala di seta"
     },
     {
      "artist": "",
@@ -79,9 +79,9 @@
      "number": 5,
      "offset": 163450,
      "output_artist": "Unknown artist",
-     "output_title": "Track 5 of 7",
+     "output_title": "Guillaume Tell",
      "sectors": 0,
-     "title": ""
+     "title": "Guillaume Tell"
     },
     {
      "artist": "",
@@ -91,9 +91,9 @@
      "number": 6,
      "offset": 214730,
      "output_artist": "Unknown artist",
-     "output_title": "Track 6 of 7",
+     "output_title": "La cambiale di matrimonio",
      "sectors": 0,
-     "title": ""
+     "title": "La cambiale di matrimonio"
     },
     {
      "artist": "",
@@ -103,9 +103,9 @@
      "number": 7,
      "offset": 240240,
      "output_artist": "Unknown artist",
-     "output_title": "Track 7 of 7",
+     "output_title": "Il barbiere di Siviglia",
      "sectors": 0,
-     "title": ""
+     "title": "Il barbiere di Siviglia"
     }
    ]
   }

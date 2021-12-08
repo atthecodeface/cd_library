@@ -1,0 +1,149 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0174": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "",
+   "artist": "",
+   "cddb_id": "9706620a",
+   "cddb_string": "9706620a 10 182 1230 14770 28387 41875 55470 68962 82472 95697 109375 1636",
+   "disc_of_set": 1,
+   "downloaded_artists": "Schoolhouse Rock",
+   "downloaded_titles": "Schoolhouse Rock: Grammar Rock",
+   "json_path": "source/schoolhouse_rock_grammar_rock/disc.json",
+   "musicbrainz_id": "84cFv3zPAd7ghCeAJi7CkcBHDHU-",
+   "musicbrainz_release_id": "aa17a367-ca89-4477-a5ae-16ce9d38245b",
+   "musicbrainz_string": "10 182 1230 14770 28387 41875 55470 68962 82472 95697 109375 122725",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "schoolhouse_rock_grammar_rock",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Schoolhouse Rocky",
+     "length_seconds": 13640,
+     "number": 1,
+     "offset": 182,
+     "output_artist": "Schoolhouse Rock",
+     "output_title": "Schoolhouse Rocky",
+     "sectors": 1048,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Unpack Your Adjectives",
+     "length_seconds": 180533,
+     "number": 2,
+     "offset": 1230,
+     "output_artist": "Schoolhouse Rock",
+     "output_title": "Unpack Your Adjectives",
+     "sectors": 13540,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Lolly, Lolly, Lolly, Get Your Adverbs Here",
+     "length_seconds": 181560,
+     "number": 3,
+     "offset": 14770,
+     "output_artist": "Schoolhouse Rock",
+     "output_title": "Lolly, Lolly, Lolly, Get Your Adverbs Here",
+     "sectors": 13617,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Conjunction Junction",
+     "length_seconds": 179840,
+     "number": 4,
+     "offset": 28387,
+     "output_artist": "Schoolhouse Rock",
+     "output_title": "Conjunction Junction",
+     "sectors": 13488,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Interjections!",
+     "length_seconds": 181266,
+     "number": 5,
+     "offset": 41875,
+     "output_artist": "Schoolhouse Rock",
+     "output_title": "Interjections!",
+     "sectors": 13595,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Rufus Xavier Sarsaparilla",
+     "length_seconds": 179893,
+     "number": 6,
+     "offset": 55470,
+     "output_artist": "Schoolhouse Rock",
+     "output_title": "Rufus Xavier Sarsaparilla",
+     "sectors": 13492,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Verb: That's What's Happening",
+     "length_seconds": 180133,
+     "number": 7,
+     "offset": 68962,
+     "output_artist": "Schoolhouse Rock",
+     "output_title": "Verb: That's What's Happening",
+     "sectors": 13510,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "A Noun Is a Person, Place or Thing",
+     "length_seconds": 176333,
+     "number": 8,
+     "offset": 82472,
+     "output_artist": "Schoolhouse Rock",
+     "output_title": "A Noun Is a Person, Place or Thing",
+     "sectors": 13225,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Busy Prepositions",
+     "length_seconds": 182240,
+     "number": 9,
+     "offset": 95697,
+     "output_artist": "Schoolhouse Rock",
+     "output_title": "Busy Prepositions",
+     "sectors": 13678,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Tale of Mr. Morton",
+     "length_seconds": 178000,
+     "number": 10,
+     "offset": 109375,
+     "output_artist": "Schoolhouse Rock",
+     "output_title": "The Tale of Mr. Morton",
+     "sectors": 13350,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

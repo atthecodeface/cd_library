@@ -1192,11 +1192,55 @@
    "artist": "",
    "downloaded_artists": "Leonard Bernstein",
    "downloaded_titles": "West Side Story (1957 original Broadway cast)",
-   "json_path": ".",
+   "json_path": "library.json",
    "label": "",
    "musicbrainz_release_id": "80bc9019-8331-4d88-b33a-7747b163d654",
    "num_discs": 1,
    "output_title": "West Side Story (1957 original Broadway cast)",
+   "title": ""
+  },
+  "alb.0109": {
+   "artist": "",
+   "downloaded_artists": "Schoolhouse Rock",
+   "downloaded_titles": "Schoolhouse Rock: America Rock",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "cef00863-e47b-4294-8eb6-d3de40b899f1",
+   "num_discs": 1,
+   "output_title": "Schoolhouse Rock: America Rock",
+   "title": ""
+  },
+  "alb.0110": {
+   "artist": "",
+   "downloaded_artists": "Art Garfunkel",
+   "downloaded_titles": "Angel Clare",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "24040a73-c2f1-3712-b14e-366abd0b63d6",
+   "num_discs": 1,
+   "output_title": "Angel Clare",
+   "title": ""
+  },
+  "alb.0111": {
+   "artist": "",
+   "downloaded_artists": "Jason Robert Brown",
+   "downloaded_titles": "Wearing Someone Else's Clothes",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "ed84eb3b-9005-43fa-b7d7-db79f5ad142a",
+   "num_discs": 1,
+   "output_title": "Wearing Someone Else's Clothes",
+   "title": ""
+  },
+  "alb.0112": {
+   "artist": "",
+   "downloaded_artists": "Jason Robert Brown",
+   "downloaded_titles": "13",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "a7ddb5fc-d82d-4c04-b098-ef7ad2383623",
+   "num_discs": 1,
+   "output_title": "13",
    "title": ""
   },
   "pdjames_bbc_radio_collection": {
