@@ -1,0 +1,161 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0177": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0113",
+   "artist": "",
+   "cddb_id": "a508c60b",
+   "cddb_string": "a508c60b 11 150 22312 36495 49660 61480 78310 101795 116622 134810 147350 160192 2248",
+   "disc_of_set": 1,
+   "downloaded_artists": "Simon & Garfunkel",
+   "downloaded_titles": "Bridge Over Troubled Water",
+   "json_path": "source/simon_and_garfunkel_bridge_over_troubled_water/disc.json",
+   "musicbrainz_id": "zbGxCAbt1QlaxyTE1F60nHjt3Hk-",
+   "musicbrainz_release_id": "0af9dd6b-c308-37c5-a97e-ad23ea70cd62",
+   "musicbrainz_string": "11 150 22312 36495 49660 61480 78310 101795 116622 134810 147350 160192 168632",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "simon_and_garfunkel_bridge_over_troubled_water",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Bridge Over Troubled Water",
+     "length_seconds": 292560,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Bridge Over Troubled Water",
+     "sectors": 22162,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "El Condor Pasa (If I Could)",
+     "length_seconds": 188493,
+     "number": 2,
+     "offset": 22312,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "El Condor Pasa (If I Could)",
+     "sectors": 14183,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Cecilia",
+     "length_seconds": 174866,
+     "number": 3,
+     "offset": 36495,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Cecilia",
+     "sectors": 13165,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Keep the Customer Satisfied",
+     "length_seconds": 157466,
+     "number": 4,
+     "offset": 49660,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Keep the Customer Satisfied",
+     "sectors": 11820,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "So Long, Frank Lloyd Wright",
+     "length_seconds": 225000,
+     "number": 5,
+     "offset": 61480,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "So Long, Frank Lloyd Wright",
+     "sectors": 16830,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Boxer",
+     "length_seconds": 310013,
+     "number": 6,
+     "offset": 78310,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "The Boxer",
+     "sectors": 23485,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Baby Driver",
+     "length_seconds": 197000,
+     "number": 7,
+     "offset": 101795,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Baby Driver",
+     "sectors": 14827,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Only Living Boy in New York",
+     "length_seconds": 240093,
+     "number": 8,
+     "offset": 116622,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "The Only Living Boy in New York",
+     "sectors": 18188,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Why Don\u2019t You Write Me",
+     "length_seconds": 166000,
+     "number": 9,
+     "offset": 134810,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Why Don\u2019t You Write Me",
+     "sectors": 12540,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Bye Bye Love",
+     "length_seconds": 175693,
+     "number": 10,
+     "offset": 147350,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Bye Bye Love",
+     "sectors": 12842,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Song for the Asking",
+     "length_seconds": 110000,
+     "number": 11,
+     "offset": 160192,
+     "output_artist": "Simon & Garfunkel",
+     "output_title": "Song for the Asking",
+     "sectors": 8440,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

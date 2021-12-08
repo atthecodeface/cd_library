@@ -1236,11 +1236,33 @@
    "artist": "",
    "downloaded_artists": "Jason Robert Brown",
    "downloaded_titles": "13",
-   "json_path": ".",
+   "json_path": "library.json",
    "label": "",
    "musicbrainz_release_id": "a7ddb5fc-d82d-4c04-b098-ef7ad2383623",
    "num_discs": 1,
    "output_title": "13",
+   "title": ""
+  },
+  "alb.0113": {
+   "artist": "",
+   "downloaded_artists": "Simon & Garfunkel",
+   "downloaded_titles": "Bridge Over Troubled Water",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "0af9dd6b-c308-37c5-a97e-ad23ea70cd62",
+   "num_discs": 1,
+   "output_title": "Bridge Over Troubled Water",
+   "title": ""
+  },
+  "alb.0114": {
+   "artist": "",
+   "downloaded_artists": "Jason Robert Brown",
+   "downloaded_titles": "Parade (1999 original Broadway cast)",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "95e7a941-e7d7-439a-84f9-e3cc0c752399",
+   "num_discs": 1,
+   "output_title": "Parade (1999 original Broadway cast)",
    "title": ""
   },
   "pdjames_bbc_radio_collection": {
