@@ -1,0 +1,125 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0162": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0101",
+   "artist": "",
+   "cddb_id": "400d3b05",
+   "cddb_string": "400d3b05 5 150 39145 201515 224300 244630 3389",
+   "disc_of_set": 1,
+   "downloaded_artists": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
+   "downloaded_titles": "Finlandia",
+   "json_path": "source/sibelius_finlandia/disc.json",
+   "musicbrainz_id": "j9gSjYAIMXoDsJ.X4t7PTsZrgbs-",
+   "musicbrainz_release_id": "f7519a64-a765-49b7-ae92-692e73124280",
+   "musicbrainz_string": "5 150 39145 201515 224300 244630 254185",
+   "num_tracks": 8,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "sibelius_finlandia",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Finlandia, Op. 26",
+     "length_seconds": 519000,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
+     "output_title": "Finlandia, Op. 26",
+     "sectors": 38972,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 1 in E minor, Op. 39: I. Andante ma non troppo - Allegro energico",
+     "length_seconds": 601773,
+     "number": 2,
+     "offset": 39122,
+     "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
+     "output_title": "Symphony No. 1 in E minor, Op. 39: I. Andante ma non troppo - Allegro energico",
+     "sectors": 45133,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 1 in E minor, Op. 39: II. Andante - Ma non troppo lento",
+     "length_seconds": 531826,
+     "number": 3,
+     "offset": 84255,
+     "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
+     "output_title": "Symphony No. 1 in E minor, Op. 39: II. Andante - Ma non troppo lento",
+     "sectors": 39887,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 1 in E minor, Op. 39: III. Scherzo. Allegro",
+     "length_seconds": 312000,
+     "number": 4,
+     "offset": 124142,
+     "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
+     "output_title": "Symphony No. 1 in E minor, Op. 39: III. Scherzo. Allegro",
+     "sectors": 23400,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 1 in E minor, Op. 39: IV. Finale. Quasi Una Fantasia",
+     "length_seconds": 721400,
+     "number": 5,
+     "offset": 147542,
+     "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
+     "output_title": "Symphony No. 1 in E minor, Op. 39: IV. Finale. Quasi Una Fantasia",
+     "sectors": 54105,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Valse triste, Op. 44 No. 1 from Kuolema",
+     "length_seconds": 303906,
+     "number": 6,
+     "offset": 201647,
+     "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
+     "output_title": "Valse triste, Op. 44 No. 1 from Kuolema",
+     "sectors": 22793,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Alla Marcia from Karelia Suite",
+     "length_seconds": 271026,
+     "number": 7,
+     "offset": 224440,
+     "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
+     "output_title": "Alla Marcia from Karelia Suite",
+     "sectors": 20327,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Musette from King Christian II Suite",
+     "length_seconds": 128666,
+     "number": 8,
+     "offset": 244767,
+     "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
+     "output_title": "Musette from King Christian II Suite",
+     "sectors": 9650,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

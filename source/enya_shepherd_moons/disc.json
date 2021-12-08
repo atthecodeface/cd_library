@@ -1,0 +1,173 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0161": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0097",
+   "artist": "",
+   "cddb_id": "af0a4a0c",
+   "cddb_string": "af0a4a0c 12 150 17092 35050 54965 63650 81737 93992 107180 124467 134032 151650 170145 2636",
+   "disc_of_set": 1,
+   "downloaded_artists": "Enya",
+   "downloaded_titles": "Shepherd Moons",
+   "json_path": "source/enya_shepherd_moons/disc.json",
+   "musicbrainz_id": "6z5EALlygKv6D3jrH4v6reWeJWE-",
+   "musicbrainz_release_id": "80b0331c-4054-47c9-8da8-cd8d344eb13a",
+   "musicbrainz_string": "12 150 17092 35050 54965 63650 81737 93992 107180 124467 134032 151650 170145 197750",
+   "num_tracks": 12,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "enya_shepherd_moons",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Shepherd Moons",
+     "length_seconds": 223173,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Enya",
+     "output_title": "Shepherd Moons",
+     "sectors": 16942,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Caribbean Blue",
+     "length_seconds": 239266,
+     "number": 2,
+     "offset": 17092,
+     "output_artist": "Enya",
+     "output_title": "Caribbean Blue",
+     "sectors": 17958,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "How Can I Keep From Singing?",
+     "length_seconds": 265106,
+     "number": 3,
+     "offset": 35050,
+     "output_artist": "Enya",
+     "output_title": "How Can I Keep From Singing?",
+     "sectors": 19915,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Ebud\u00e6",
+     "length_seconds": 115760,
+     "number": 4,
+     "offset": 54965,
+     "output_artist": "Enya",
+     "output_title": "Ebud\u00e6",
+     "sectors": 8685,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Angeles",
+     "length_seconds": 241000,
+     "number": 5,
+     "offset": 63650,
+     "output_artist": "Enya",
+     "output_title": "Angeles",
+     "sectors": 18087,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "No Holly for Miss Quinn",
+     "length_seconds": 163266,
+     "number": 6,
+     "offset": 81737,
+     "output_artist": "Enya",
+     "output_title": "No Holly for Miss Quinn",
+     "sectors": 12255,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Book of Days (English/Gaelic version)",
+     "length_seconds": 176053,
+     "number": 7,
+     "offset": 93992,
+     "output_artist": "Enya",
+     "output_title": "Book of Days (English/Gaelic version)",
+     "sectors": 13188,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Evacuee",
+     "length_seconds": 230693,
+     "number": 8,
+     "offset": 107180,
+     "output_artist": "Enya",
+     "output_title": "Evacuee",
+     "sectors": 17287,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Lothl\u00f3rien",
+     "length_seconds": 127666,
+     "number": 9,
+     "offset": 124467,
+     "output_artist": "Enya",
+     "output_title": "Lothl\u00f3rien",
+     "sectors": 9565,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Marble Halls",
+     "length_seconds": 234800,
+     "number": 10,
+     "offset": 134032,
+     "output_artist": "Enya",
+     "output_title": "Marble Halls",
+     "sectors": 17618,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Afer Ventus",
+     "length_seconds": 246240,
+     "number": 11,
+     "offset": 151650,
+     "output_artist": "Enya",
+     "output_title": "Afer Ventus",
+     "sectors": 18495,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Smaointe\u2026",
+     "length_seconds": 368000,
+     "number": 12,
+     "offset": 170145,
+     "output_artist": "Enya",
+     "output_title": "Smaointe\u2026",
+     "sectors": 27605,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,35 @@
+CddbId:c808330e:[183, 12108, 21683, 35308, 48898, 59838, 71868, 83653, 93385, 102515, 111643, 121783, 133023, 144320]:157575:74:c808330e 14 183 12108 21683 35308 48898 59838 71868 83653 93385 102515 111643 121783 133023 144320 2101: 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2101
+num_tracks: 14
+offsets: [183, 12108, 21683, 35308, 48898, 59838, 71868, 83653, 93385, 102515, 111643, 121783, 133023, 144320]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 2101
+cddb: [3355980558, 14, 183, 12108, 21683, 35308, 48898, 59838, 71868, 83653, 93385, 102515, 111643, 121783, 133023, 144320, 2101]
+musicbrainz: ('14 183 12108 21683 35308 48898 59838 71868 83653 93385 102515 111643 121783 133023 144320 157625', 'irdQMIPTc6cZ.GgmR9pZstc4WDI-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 1
+Vendor_info    : 'SAMSUNG '
+Identification : 'CD-ROM SC-148A  '
+Revision       : 'B403'
+Device seems to be: Generic mmc CD-ROM.
+Using generic SCSI-3/mmc   CD-ROM driver (mmc_cd).
+Driver flags   : MMC-2 SWABAUDIO 
+Supported modes: 
+first: 1 last 14
+track:   1 lba:        33 (      132) 00:02:33 adr: 1 control: 0 mode: -1
+track:   2 lba:     11958 (    47832) 02:41:33 adr: 1 control: 0 mode: -1
+track:   3 lba:     21533 (    86132) 04:49:08 adr: 1 control: 0 mode: -1
+track:   4 lba:     35158 (   140632) 07:50:58 adr: 1 control: 0 mode: -1
+track:   5 lba:     48748 (   194992) 10:51:73 adr: 1 control: 0 mode: -1
+track:   6 lba:     59688 (   238752) 13:17:63 adr: 1 control: 0 mode: -1
+track:   7 lba:     71718 (   286872) 15:58:18 adr: 1 control: 0 mode: -1
+track:   8 lba:     83503 (   334012) 18:35:28 adr: 1 control: 0 mode: -1
+track:   9 lba:     93235 (   372940) 20:45:10 adr: 1 control: 0 mode: -1
+track:  10 lba:    102365 (   409460) 22:46:65 adr: 1 control: 0 mode: -1
+track:  11 lba:    111493 (   445972) 24:48:43 adr: 1 control: 0 mode: -1
+track:  12 lba:    121633 (   486532) 27:03:58 adr: 1 control: 0 mode: -1
+track:  13 lba:    132873 (   531492) 29:33:48 adr: 1 control: 0 mode: -1
+track:  14 lba:    144170 (   576680) 32:04:20 adr: 1 control: 0 mode: -1
+track:lout lba:    157475 (   629900) 35:01:50 adr: 1 control: 0 mode: -1

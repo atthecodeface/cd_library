@@ -1,0 +1,34 @@
+CddbId:c009560d:[183, 9365, 21665, 37298, 49888, 61635, 77763, 89545, 112425, 124253, 136410, 148508, 154425]:179400:74:c009560d 13 183 9365 21665 37298 49888 61635 77763 89545 112425 124253 136410 148508 154425 2392: 13 0 0 0 0 0 0 0 0 0 0 0 0 0 2392
+num_tracks: 13
+offsets: [183, 9365, 21665, 37298, 49888, 61635, 77763, 89545, 112425, 124253, 136410, 148508, 154425]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 2392
+cddb: [3221837325, 13, 183, 9365, 21665, 37298, 49888, 61635, 77763, 89545, 112425, 124253, 136410, 148508, 154425, 2392]
+musicbrainz: ('13 183 9365 21665 37298 49888 61635 77763 89545 112425 124253 136410 148508 154425 179468', '5cVTKwEtQPTiqT4A3ktiYJ14WzQ-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 1
+Vendor_info    : 'SAMSUNG '
+Identification : 'CD-ROM SC-148A  '
+Revision       : 'B403'
+Device seems to be: Generic mmc CD-ROM.
+Using generic SCSI-3/mmc   CD-ROM driver (mmc_cd).
+Driver flags   : MMC-2 SWABAUDIO 
+Supported modes: 
+first: 1 last 13
+track:   1 lba:        33 (      132) 00:02:33 adr: 1 control: 0 mode: -1
+track:   2 lba:      9215 (    36860) 02:04:65 adr: 1 control: 0 mode: -1
+track:   3 lba:     21515 (    86060) 04:48:65 adr: 1 control: 0 mode: -1
+track:   4 lba:     37148 (   148592) 08:17:23 adr: 1 control: 0 mode: -1
+track:   5 lba:     49738 (   198952) 11:05:13 adr: 1 control: 0 mode: -1
+track:   6 lba:     61485 (   245940) 13:41:60 adr: 1 control: 0 mode: -1
+track:   7 lba:     77613 (   310452) 17:16:63 adr: 1 control: 0 mode: -1
+track:   8 lba:     89395 (   357580) 19:53:70 adr: 1 control: 0 mode: -1
+track:   9 lba:    112275 (   449100) 24:59:00 adr: 1 control: 0 mode: -1
+track:  10 lba:    124103 (   496412) 27:36:53 adr: 1 control: 0 mode: -1
+track:  11 lba:    136260 (   545040) 30:18:60 adr: 1 control: 0 mode: -1
+track:  12 lba:    148358 (   593432) 33:00:08 adr: 1 control: 0 mode: -1
+track:  13 lba:    154275 (   617100) 34:19:00 adr: 1 control: 0 mode: -1
+track:lout lba:    179318 (   717272) 39:52:68 adr: 1 control: 0 mode: -1

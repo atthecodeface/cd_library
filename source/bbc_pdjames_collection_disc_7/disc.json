@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0032": {
-   "album_total_tracks": 303,
-   "album_track_offset": 100,
+   "album_total_tracks": 325,
+   "album_track_offset": 122,
    "album_uniq_id": "pdjames_bbc_radio_collection",
    "artist": "P.D.James",
    "cddb_id": "fc0ddc14",

@@ -1,0 +1,173 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0164": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0099",
+   "artist": "",
+   "cddb_id": "a40bdc0c",
+   "cddb_string": "a40bdc0c 12 183 16373 32828 54118 72665 84773 108515 124083 143600 163785 184418 207445 3038",
+   "disc_of_set": 1,
+   "downloaded_artists": "The Beautiful South",
+   "downloaded_titles": "0898 Beautiful South",
+   "json_path": "source/beautiful_south_0898/disc.json",
+   "musicbrainz_id": "4_D.RumODANTuCtDBDIZ0.F7AiQ-",
+   "musicbrainz_release_id": "9f71898d-a656-4299-b152-4a66a8a8fdef",
+   "musicbrainz_string": "12 183 16373 32828 54118 72665 84773 108515 124083 143600 163785 184418 207445 227865",
+   "num_tracks": 12,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "beautiful_south_0898",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Old Red Eyes Is Back",
+     "length_seconds": 215000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "The Beautiful South",
+     "output_title": "Old Red Eyes Is Back",
+     "sectors": 16190,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "We Are Each Other",
+     "length_seconds": 217760,
+     "number": 2,
+     "offset": 16373,
+     "output_artist": "The Beautiful South",
+     "output_title": "We Are Each Other",
+     "sectors": 16455,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Rocking Chair",
+     "length_seconds": 283000,
+     "number": 3,
+     "offset": 32828,
+     "output_artist": "The Beautiful South",
+     "output_title": "The Rocking Chair",
+     "sectors": 21290,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "We\u2019ll Deal With You Later",
+     "length_seconds": 247000,
+     "number": 4,
+     "offset": 54118,
+     "output_artist": "The Beautiful South",
+     "output_title": "We\u2019ll Deal With You Later",
+     "sectors": 18547,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Domino Man",
+     "length_seconds": 160000,
+     "number": 5,
+     "offset": 72665,
+     "output_artist": "The Beautiful South",
+     "output_title": "Domino Man",
+     "sectors": 12108,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "36D",
+     "length_seconds": 316000,
+     "number": 6,
+     "offset": 84773,
+     "output_artist": "The Beautiful South",
+     "output_title": "36D",
+     "sectors": 23742,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Here It Is Again",
+     "length_seconds": 207000,
+     "number": 7,
+     "offset": 108515,
+     "output_artist": "The Beautiful South",
+     "output_title": "Here It Is Again",
+     "sectors": 15568,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Something That You Said",
+     "length_seconds": 260000,
+     "number": 8,
+     "offset": 124083,
+     "output_artist": "The Beautiful South",
+     "output_title": "Something That You Said",
+     "sectors": 19517,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I\u2019m Your No. 1 Fan",
+     "length_seconds": 268933,
+     "number": 9,
+     "offset": 143600,
+     "output_artist": "The Beautiful South",
+     "output_title": "I\u2019m Your No. 1 Fan",
+     "sectors": 20185,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Bell-Bottomed Tear",
+     "length_seconds": 275666,
+     "number": 10,
+     "offset": 163785,
+     "output_artist": "The Beautiful South",
+     "output_title": "Bell-Bottomed Tear",
+     "sectors": 20633,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "You Play Glockenspiel, I\u2019ll Play Drums",
+     "length_seconds": 306000,
+     "number": 11,
+     "offset": 184418,
+     "output_artist": "The Beautiful South",
+     "output_title": "You Play Glockenspiel, I\u2019ll Play Drums",
+     "sectors": 23027,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "When I\u2019m 84",
+     "length_seconds": 272000,
+     "number": 12,
+     "offset": 207445,
+     "output_artist": "The Beautiful South",
+     "output_title": "When I\u2019m 84",
+     "sectors": 20420,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

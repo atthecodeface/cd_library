@@ -1,0 +1,149 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0163": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0098",
+   "artist": "",
+   "cddb_id": "8b0bf10a",
+   "cddb_string": "8b0bf10a 10 150 22190 42665 62373 85718 122060 142585 165620 185735 202348 3059",
+   "disc_of_set": 1,
+   "downloaded_artists": "Chris Rea",
+   "downloaded_titles": "The Road to Hell",
+   "json_path": "source/chris_rea_the_road_to_hell/disc.json",
+   "musicbrainz_id": "0dYmkHQRguLKI1n1P1dXvxX6kJk-",
+   "musicbrainz_release_id": "4b0bcf5d-9d9e-3835-8f61-63464010b66e",
+   "musicbrainz_string": "10 150 22190 42665 62373 85718 122060 142585 165620 185735 202348 229493",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "chris_rea_the_road_to_hell",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Road to Hell (Part I)",
+     "length_seconds": 293866,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Chris Rea",
+     "output_title": "The Road to Hell (Part I)",
+     "sectors": 22040,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Road to Hell (Part II)",
+     "length_seconds": 272506,
+     "number": 2,
+     "offset": 22190,
+     "output_artist": "Chris Rea",
+     "output_title": "The Road to Hell (Part II)",
+     "sectors": 20475,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "You Must Be Evil",
+     "length_seconds": 262773,
+     "number": 3,
+     "offset": 42665,
+     "output_artist": "Chris Rea",
+     "output_title": "You Must Be Evil",
+     "sectors": 19708,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Texas",
+     "length_seconds": 311266,
+     "number": 4,
+     "offset": 62373,
+     "output_artist": "Chris Rea",
+     "output_title": "Texas",
+     "sectors": 23345,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Looking for a Rainbow",
+     "length_seconds": 484560,
+     "number": 5,
+     "offset": 85718,
+     "output_artist": "Chris Rea",
+     "output_title": "Looking for a Rainbow",
+     "sectors": 36342,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Your Warm and Tender Love",
+     "length_seconds": 273666,
+     "number": 6,
+     "offset": 122060,
+     "output_artist": "Chris Rea",
+     "output_title": "Your Warm and Tender Love",
+     "sectors": 20525,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Daytona",
+     "length_seconds": 307133,
+     "number": 7,
+     "offset": 142585,
+     "output_artist": "Chris Rea",
+     "output_title": "Daytona",
+     "sectors": 23035,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "That\u2019s What They Always Say",
+     "length_seconds": 268200,
+     "number": 8,
+     "offset": 165620,
+     "output_artist": "Chris Rea",
+     "output_title": "That\u2019s What They Always Say",
+     "sectors": 20115,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I Just Wanna Be With You",
+     "length_seconds": 221306,
+     "number": 9,
+     "offset": 185735,
+     "output_artist": "Chris Rea",
+     "output_title": "I Just Wanna Be With You",
+     "sectors": 16613,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Tell Me There\u2019s a Heaven",
+     "length_seconds": 361933,
+     "number": 10,
+     "offset": 202348,
+     "output_artist": "Chris Rea",
+     "output_title": "Tell Me There\u2019s a Heaven",
+     "sectors": 27145,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
