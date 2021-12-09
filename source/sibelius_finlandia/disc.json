@@ -15,7 +15,7 @@
    "musicbrainz_id": "j9gSjYAIMXoDsJ.X4t7PTsZrgbs-",
    "musicbrainz_release_id": "f7519a64-a765-49b7-ae92-692e73124280",
    "musicbrainz_string": "5 150 39145 201515 224300 244630 254185",
-   "num_tracks": 8,
+   "num_tracks": 5,
    "rip_data": "",
    "rip_date": "",
    "rip_time": "",
@@ -38,26 +38,26 @@
     {
      "artist": "",
      "downloaded_artists": "",
-     "downloaded_titles": "Symphony No. 1 in E minor, Op. 39: I. Andante ma non troppo - Allegro energico",
+     "downloaded_titles": "",
      "length_seconds": 601773,
      "number": 2,
      "offset": 39122,
      "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
-     "output_title": "Symphony No. 1 in E minor, Op. 39: I. Andante ma non troppo - Allegro energico",
+     "output_title": "Symphony No. 1 in E minor, Op. 39",
      "sectors": 45133,
-     "title": ""
+     "title": "Symphony No. 1 in E minor, Op. 39"
     },
     {
      "artist": "",
      "downloaded_artists": "",
-     "downloaded_titles": "Symphony No. 1 in E minor, Op. 39: II. Andante - Ma non troppo lento",
+     "downloaded_titles": "",
      "length_seconds": 531826,
      "number": 3,
      "offset": 84255,
      "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
-     "output_title": "Symphony No. 1 in E minor, Op. 39: II. Andante - Ma non troppo lento",
+     "output_title": "Valse triste, Op. 44 No. 1 from Kuolema",
      "sectors": 39887,
-     "title": ""
+     "title": "Valse triste, Op. 44 No. 1 from Kuolema"
     },
     {
      "artist": "",
@@ -67,9 +67,9 @@
      "number": 4,
      "offset": 124142,
      "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
-     "output_title": "Symphony No. 1 in E minor, Op. 39: III. Scherzo. Allegro",
+     "output_title": "Alla Marcia from Karelia Suite",
      "sectors": 23400,
-     "title": ""
+     "title": "Alla Marcia from Karelia Suite"
     },
     {
      "artist": "",
@@ -79,45 +79,9 @@
      "number": 5,
      "offset": 147542,
      "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
-     "output_title": "Symphony No. 1 in E minor, Op. 39: IV. Finale. Quasi Una Fantasia",
-     "sectors": 54105,
-     "title": ""
-    },
-    {
-     "artist": "",
-     "downloaded_artists": "",
-     "downloaded_titles": "Valse triste, Op. 44 No. 1 from Kuolema",
-     "length_seconds": 303906,
-     "number": 6,
-     "offset": 201647,
-     "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
-     "output_title": "Valse triste, Op. 44 No. 1 from Kuolema",
-     "sectors": 22793,
-     "title": ""
-    },
-    {
-     "artist": "",
-     "downloaded_artists": "",
-     "downloaded_titles": "Alla Marcia from Karelia Suite",
-     "length_seconds": 271026,
-     "number": 7,
-     "offset": 224440,
-     "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
-     "output_title": "Alla Marcia from Karelia Suite",
-     "sectors": 20327,
-     "title": ""
-    },
-    {
-     "artist": "",
-     "downloaded_artists": "",
-     "downloaded_titles": "Musette from King Christian II Suite",
-     "length_seconds": 128666,
-     "number": 8,
-     "offset": 244767,
-     "output_artist": "Sibelius; London Symphony Orchestra, The New Conservatoire Orchestra, Philip Gibson, Paul Rostard",
      "output_title": "Musette from King Christian II Suite",
-     "sectors": 9650,
-     "title": ""
+     "sectors": 54105,
+     "title": "Musette from King Christian II Suite"
     }
    ]
   }

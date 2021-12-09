@@ -1,0 +1,42 @@
+CddbId:24120b15:[183, 12823, 26710, 58715, 75370, 94295, 101725, 137313, 155553, 173355, 185500, 188905, 206163, 211900, 226578, 244135, 266755, 276688, 312585, 325843, 333203]:346575:74:24120b15 21 183 12823 26710 58715 75370 94295 101725 137313 155553 173355 185500 188905 206163 211900 226578 244135 266755 276688 312585 325843 333203 4621: 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4621
+num_tracks: 21
+offsets: [183, 12823, 26710, 58715, 75370, 94295, 101725, 137313, 155553, 173355, 185500, 188905, 206163, 211900, 226578, 244135, 266755, 276688, 312585, 325843, 333203]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 4621
+cddb: [605162261, 21, 183, 12823, 26710, 58715, 75370, 94295, 101725, 137313, 155553, 173355, 185500, 188905, 206163, 211900, 226578, 244135, 266755, 276688, 312585, 325843, 333203, 4621]
+musicbrainz: ('21 183 12823 26710 58715 75370 94295 101725 137313 155553 173355 185500 188905 206163 211900 226578 244135 266755 276688 312585 325843 333203 346623', 'z9xEg9I9ESIeZoGMNWDWIB5P3LQ-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 1
+Vendor_info    : 'SAMSUNG '
+Identification : 'CD-ROM SC-148A  '
+Revision       : 'B403'
+Device seems to be: Generic mmc CD-ROM.
+Using generic SCSI-3/mmc   CD-ROM driver (mmc_cd).
+Driver flags   : MMC-2 SWABAUDIO 
+Supported modes: 
+first: 1 last 21
+track:   1 lba:        33 (      132) 00:02:33 adr: 1 control: 0 mode: -1
+track:   2 lba:     12673 (    50692) 02:50:73 adr: 1 control: 0 mode: -1
+track:   3 lba:     26560 (   106240) 05:56:10 adr: 1 control: 0 mode: -1
+track:   4 lba:     58565 (   234260) 13:02:65 adr: 1 control: 0 mode: -1
+track:   5 lba:     75220 (   300880) 16:44:70 adr: 1 control: 0 mode: -1
+track:   6 lba:     94145 (   376580) 20:57:20 adr: 1 control: 0 mode: -1
+track:   7 lba:    101575 (   406300) 22:36:25 adr: 1 control: 0 mode: -1
+track:   8 lba:    137163 (   548652) 30:30:63 adr: 1 control: 0 mode: -1
+track:   9 lba:    155403 (   621612) 34:34:03 adr: 1 control: 0 mode: -1
+track:  10 lba:    173205 (   692820) 38:31:30 adr: 1 control: 0 mode: -1
+track:  11 lba:    185350 (   741400) 41:13:25 adr: 1 control: 0 mode: -1
+track:  12 lba:    188755 (   755020) 41:58:55 adr: 1 control: 0 mode: -1
+track:  13 lba:    206013 (   824052) 45:48:63 adr: 1 control: 0 mode: -1
+track:  14 lba:    211750 (   847000) 47:05:25 adr: 1 control: 0 mode: -1
+track:  15 lba:    226428 (   905712) 50:21:03 adr: 1 control: 0 mode: -1
+track:  16 lba:    243985 (   975940) 54:15:10 adr: 1 control: 0 mode: -1
+track:  17 lba:    266605 (  1066420) 59:16:55 adr: 1 control: 0 mode: -1
+track:  18 lba:    276538 (  1106152) 61:29:13 adr: 1 control: 0 mode: -1
+track:  19 lba:    312435 (  1249740) 69:27:60 adr: 1 control: 0 mode: -1
+track:  20 lba:    325693 (  1302772) 72:24:43 adr: 1 control: 0 mode: -1
+track:  21 lba:    333053 (  1332212) 74:02:53 adr: 1 control: 0 mode: -1
+track:lout lba:    346473 (  1385892) 77:01:48 adr: 1 control: 0 mode: -1

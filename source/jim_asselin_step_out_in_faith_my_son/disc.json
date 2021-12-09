@@ -1,0 +1,149 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0183": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0118",
+   "artist": "",
+   "cddb_id": "6a09590a",
+   "cddb_string": "6a09590a 10 150 17525 33430 48662 64912 82812 98287 120012 140490 160665 2395",
+   "disc_of_set": 1,
+   "downloaded_artists": "Jim Asselin",
+   "downloaded_titles": "Step Out in Faith My Son",
+   "json_path": "source/jim_asselin_step_out_in_faith_my_son/disc.json",
+   "musicbrainz_id": "gAObSJVxo2SZIEn7KQCN7H39nBk-",
+   "musicbrainz_release_id": "7b3f868f-43f1-44f8-985b-e66a78647f19",
+   "musicbrainz_string": "10 150 17525 33430 48662 64912 82812 98287 120012 140490 160665 179675",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "jim_asselin_step_out_in_faith_my_son",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "A Well Driven Nail",
+     "length_seconds": 231666,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Jim Asselin",
+     "output_title": "A Well Driven Nail",
+     "sectors": 17375,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I Believe",
+     "length_seconds": 212066,
+     "number": 2,
+     "offset": 17525,
+     "output_artist": "Jim Asselin",
+     "output_title": "I Believe",
+     "sectors": 15905,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "King of Kings",
+     "length_seconds": 203093,
+     "number": 3,
+     "offset": 33430,
+     "output_artist": "Jim Asselin",
+     "output_title": "King of Kings",
+     "sectors": 15232,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "My Friend I Love",
+     "length_seconds": 216666,
+     "number": 4,
+     "offset": 48662,
+     "output_artist": "Jim Asselin",
+     "output_title": "My Friend I Love",
+     "sectors": 16250,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Can't Hold on to Time",
+     "length_seconds": 238666,
+     "number": 5,
+     "offset": 64912,
+     "output_artist": "Jim Asselin",
+     "output_title": "Can't Hold on to Time",
+     "sectors": 17900,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "His Heart Calls to Mine",
+     "length_seconds": 206333,
+     "number": 6,
+     "offset": 82812,
+     "output_artist": "Jim Asselin",
+     "output_title": "His Heart Calls to Mine",
+     "sectors": 15475,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Step Out In Faith My Son",
+     "length_seconds": 289666,
+     "number": 7,
+     "offset": 98287,
+     "output_artist": "Jim Asselin",
+     "output_title": "Step Out In Faith My Son",
+     "sectors": 21725,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Fruit of the Spirit",
+     "length_seconds": 273040,
+     "number": 8,
+     "offset": 120012,
+     "output_artist": "Jim Asselin",
+     "output_title": "Fruit of the Spirit",
+     "sectors": 20478,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "My Karen",
+     "length_seconds": 269000,
+     "number": 9,
+     "offset": 140490,
+     "output_artist": "Jim Asselin",
+     "output_title": "My Karen",
+     "sectors": 20175,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Safe Harbor",
+     "length_seconds": 253466,
+     "number": 10,
+     "offset": 160665,
+     "output_artist": "Jim Asselin",
+     "output_title": "Safe Harbor",
+     "sectors": 19010,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

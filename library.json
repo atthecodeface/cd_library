@@ -1265,6 +1265,72 @@
    "output_title": "Parade (1999 original Broadway cast)",
    "title": ""
   },
+  "alb.0115": {
+   "artist": "",
+   "downloaded_artists": "Andrew Lloyd Webber",
+   "downloaded_titles": "Joseph and the Amazing Technicolor Dreamcoat",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "e645b606-df62-478c-b9d3-93106179d24c",
+   "num_discs": 1,
+   "output_title": "Joseph and the Amazing Technicolor Dreamcoat",
+   "title": ""
+  },
+  "alb.0116": {
+   "artist": "",
+   "downloaded_artists": "Flanders and Swann",
+   "downloaded_titles": "The Best of Flanders & Swann",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "10484b33-4831-4be1-aa8a-9f37f6919f2b",
+   "num_discs": 1,
+   "output_title": "The Best of Flanders & Swann",
+   "title": ""
+  },
+  "alb.0117": {
+   "artist": "",
+   "downloaded_artists": "Jason Robert Brown",
+   "downloaded_titles": "The Last 5 Years",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "f16daf2d-521d-49b1-acf3-790d0feb7e4a",
+   "num_discs": 1,
+   "output_title": "The Last 5 Years",
+   "title": ""
+  },
+  "alb.0118": {
+   "artist": "",
+   "downloaded_artists": "Jim Asselin",
+   "downloaded_titles": "Step Out in Faith My Son",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "7b3f868f-43f1-44f8-985b-e66a78647f19",
+   "num_discs": 1,
+   "output_title": "Step Out in Faith My Son",
+   "title": ""
+  },
+  "alb.0119": {
+   "artist": "",
+   "downloaded_artists": "Phil Collins",
+   "downloaded_titles": "Hello, I Must Be Going!",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "60ddc122-9993-446d-a5eb-3179e5d83283",
+   "num_discs": 1,
+   "output_title": "Hello, I Must Be Going!",
+   "title": ""
+  },
+  "alb.0120": {
+   "artist": "",
+   "downloaded_artists": "Paul McCartney",
+   "downloaded_titles": "All the Best!",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "0b836ed2-8203-42e5-ad21-b1565bd34746",
+   "num_discs": 1,
+   "output_title": "All the Best!",
+   "title": ""
+  },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
    "downloaded_artists": "",
