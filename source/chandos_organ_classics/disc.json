@@ -1,0 +1,173 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0207": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0135",
+   "artist": "",
+   "cddb_id": "a70fca0c",
+   "cddb_string": "a70fca0c 12 150 37282 50695 66197 77887 92902 101847 120575 140152 157612 182400 253575 4044",
+   "disc_of_set": 1,
+   "downloaded_artists": "Michael Austin",
+   "downloaded_titles": "Organ Classics",
+   "json_path": "source/chandos_organ_classics/disc.json",
+   "musicbrainz_id": "Wz66oE8OlL40s4vWdS4SuGfe7vM-",
+   "musicbrainz_release_id": "08e77293-856d-4153-a19d-cb50cfbd9b60",
+   "musicbrainz_string": "12 150 37282 50695 66197 77887 92902 101847 120575 140152 157612 182400 253575 303357",
+   "num_tracks": 12,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "chandos_organ_classics",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Toccata and Fugue in D minor, BWV 565",
+     "length_seconds": 495093,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Michael Austin",
+     "output_title": "Toccata and Fugue in D minor, BWV 565",
+     "sectors": 37132,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Jesu, Joy of Man's Desiring from Cantata 147",
+     "length_seconds": 178840,
+     "number": 2,
+     "offset": 37282,
+     "output_artist": "Michael Austin",
+     "output_title": "Jesu, Joy of Man's Desiring from Cantata 147",
+     "sectors": 13413,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Toccata from Suite Gothique",
+     "length_seconds": 206693,
+     "number": 3,
+     "offset": 50695,
+     "output_artist": "Michael Austin",
+     "output_title": "Toccata from Suite Gothique",
+     "sectors": 15502,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Trumpet Voluntary",
+     "length_seconds": 155866,
+     "number": 4,
+     "offset": 66197,
+     "output_artist": "Michael Austin",
+     "output_title": "Trumpet Voluntary",
+     "sectors": 11690,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Wedding March from \"A Midsummer Night's Dream\"",
+     "length_seconds": 200200,
+     "number": 5,
+     "offset": 77887,
+     "output_artist": "Michael Austin",
+     "output_title": "Wedding March from \"A Midsummer Night's Dream\"",
+     "sectors": 15015,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Bridal March from \"Lohengrin\"",
+     "length_seconds": 119266,
+     "number": 6,
+     "offset": 92902,
+     "output_artist": "Michael Austin",
+     "output_title": "Bridal March from \"Lohengrin\"",
+     "sectors": 8945,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Marche triomphale \"Nun danket alle Gott\", op. 65",
+     "length_seconds": 249706,
+     "number": 7,
+     "offset": 101847,
+     "output_artist": "Michael Austin",
+     "output_title": "Marche triomphale \"Nun danket alle Gott\", op. 65",
+     "sectors": 18728,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Trumpet Tune and Air",
+     "length_seconds": 261026,
+     "number": 8,
+     "offset": 120575,
+     "output_artist": "Michael Austin",
+     "output_title": "Trumpet Tune and Air",
+     "sectors": 19577,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Solemn Melody",
+     "length_seconds": 232800,
+     "number": 9,
+     "offset": 140152,
+     "output_artist": "Michael Austin",
+     "output_title": "Solemn Melody",
+     "sectors": 17460,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Toccata from Symphony no. 5, op. 42 no. 1",
+     "length_seconds": 330506,
+     "number": 10,
+     "offset": 157612,
+     "output_artist": "Michael Austin",
+     "output_title": "Toccata from Symphony no. 5, op. 42 no. 1",
+     "sectors": 24788,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Toccata, Adagio and Fugue in C major, BWV 564",
+     "length_seconds": 949000,
+     "number": 11,
+     "offset": 182400,
+     "output_artist": "Michael Austin",
+     "output_title": "Toccata, Adagio and Fugue in C major, BWV 564",
+     "sectors": 71175,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Prelude and Fugue on B.A.C.H.",
+     "length_seconds": 663760,
+     "number": 12,
+     "offset": 253575,
+     "output_artist": "Michael Austin",
+     "output_title": "Prelude and Fugue on B.A.C.H.",
+     "sectors": 49782,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

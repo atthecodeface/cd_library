@@ -1,0 +1,113 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0211": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0137",
+   "artist": "",
+   "cddb_id": "630e8c07",
+   "cddb_string": "630e8c07 7 183 57258 90333 115458 155133 202383 250908 3726",
+   "disc_of_set": 1,
+   "downloaded_artists": "Beethoven; Orchestre R\u00e9volutionnaire et Romantique, John Eliot Gardiner",
+   "downloaded_titles": "Messe in C",
+   "json_path": "source/the_monteverdi_choir_beethoven_messe_in_c/disc.json",
+   "musicbrainz_id": "RRoNiN06FglF9gALuz46QuNPWkA-",
+   "musicbrainz_release_id": "f078c6d8-97d8-4470-8af3-85faf4ddc333",
+   "musicbrainz_string": "7 183 57258 90333 115458 155133 202383 250908 279483",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "the_monteverdi_choir_beethoven_messe_in_c",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Ah! perfido - Per piet\u00e0, Op. 65",
+     "length_seconds": 761000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Beethoven; Orchestre R\u00e9volutionnaire et Romantique, John Eliot Gardiner",
+     "output_title": "Ah! perfido - Per piet\u00e0, Op. 65",
+     "sectors": 57075,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Meeresstille und gl\u00fcckliche Fahrt, Op. 112",
+     "length_seconds": 438933,
+     "number": 2,
+     "offset": 57258,
+     "output_artist": "Beethoven; Orchestre R\u00e9volutionnaire et Romantique, John Eliot Gardiner",
+     "output_title": "Meeresstille und gl\u00fcckliche Fahrt, Op. 112",
+     "sectors": 33075,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mass in C major, op. 86: Kyrie",
+     "length_seconds": 335000,
+     "number": 3,
+     "offset": 90333,
+     "output_artist": "Beethoven; Orchestre R\u00e9volutionnaire et Romantique, John Eliot Gardiner",
+     "output_title": "Mass in C major, op. 86: Kyrie",
+     "sectors": 25125,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mass in C major, op. 86: Gloria",
+     "length_seconds": 529000,
+     "number": 4,
+     "offset": 115458,
+     "output_artist": "Beethoven; Orchestre R\u00e9volutionnaire et Romantique, John Eliot Gardiner",
+     "output_title": "Mass in C major, op. 86: Gloria",
+     "sectors": 39675,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mass in C major, op. 86: Credo",
+     "length_seconds": 630000,
+     "number": 5,
+     "offset": 155133,
+     "output_artist": "Beethoven; Orchestre R\u00e9volutionnaire et Romantique, John Eliot Gardiner",
+     "output_title": "Mass in C major, op. 86: Credo",
+     "sectors": 47250,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mass in C major, op. 86: Sanctus (Benedictus)",
+     "length_seconds": 647000,
+     "number": 6,
+     "offset": 202383,
+     "output_artist": "Beethoven; Orchestre R\u00e9volutionnaire et Romantique, John Eliot Gardiner",
+     "output_title": "Mass in C major, op. 86: Sanctus (Benedictus)",
+     "sectors": 48525,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Mass in C major, op. 86: Agnus Dei",
+     "length_seconds": 381373,
+     "number": 7,
+     "offset": 250908,
+     "output_artist": "Beethoven; Orchestre R\u00e9volutionnaire et Romantique, John Eliot Gardiner",
+     "output_title": "Mass in C major, op. 86: Agnus Dei",
+     "sectors": 28575,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

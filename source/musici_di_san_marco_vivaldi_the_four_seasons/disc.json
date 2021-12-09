@@ -30,7 +30,7 @@
      "length_seconds": 213133,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Antonio Vivaldi",
      "output_title": "Concerto No. 1 in Mi maggiore, RV 269 \"Der Fr\u00fchling/Spring\": I. Allegro",
      "sectors": 15998,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 168000,
      "number": 2,
      "offset": 16148,
-     "output_artist": "Unknown artist",
+     "output_artist": "Antonio Vivaldi",
      "output_title": "Concerto No. 1 in Mi maggiore, RV 269 \"Der Fr\u00fchling/Spring\": II. Largo e pianissimo sempre",
      "sectors": 12615,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 247000,
      "number": 3,
      "offset": 28763,
-     "output_artist": "Unknown artist",
+     "output_artist": "Antonio Vivaldi",
      "output_title": "Concerto No. 1 in Mi maggiore, RV 269 \"Der Fr\u00fchling/Spring\": III. Danza pastorale allegro",
      "sectors": 18547,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 355933,
      "number": 4,
      "offset": 47310,
-     "output_artist": "Unknown artist",
+     "output_artist": "Antonio Vivaldi",
      "output_title": "Concerto No. 2 in Sol minore, RV 315 \"Der Sommer/Summer\": I. Allegro non molto",
      "sectors": 26725,
      "title": ""
@@ -78,7 +78,7 @@
      "length_seconds": 130000,
      "number": 5,
      "offset": 74035,
-     "output_artist": "Unknown artist",
+     "output_artist": "Antonio Vivaldi",
      "output_title": "Concerto No. 2 in Sol minore, RV 315 \"Der Sommer/Summer\": II. Adagio - Presto",
      "sectors": 9753,
      "title": ""
@@ -90,7 +90,7 @@
      "length_seconds": 178000,
      "number": 6,
      "offset": 83788,
-     "output_artist": "Unknown artist",
+     "output_artist": "Antonio Vivaldi",
      "output_title": "Concerto No. 2 in Sol minore, RV 315 \"Der Sommer/Summer\": III. Presto",
      "sectors": 13377,
      "title": ""
@@ -102,7 +102,7 @@
      "length_seconds": 206000,
      "number": 7,
      "offset": 97165,
-     "output_artist": "Unknown artist",
+     "output_artist": "Antonio Vivaldi",
      "output_title": "Concerto No. 3 in Fa maggiore, RV 293 \"Der Herbst/Autumn\": I. Allegro",
      "sectors": 15475,
      "title": ""
@@ -114,7 +114,7 @@
      "length_seconds": 66000,
      "number": 8,
      "offset": 112640,
-     "output_artist": "Unknown artist",
+     "output_artist": "Antonio Vivaldi",
      "output_title": "Concerto No. 3 in Fa maggiore, RV 293 \"Der Herbst/Autumn\": II. Adagio",
      "sectors": 4945,
      "title": ""
@@ -126,7 +126,7 @@
      "length_seconds": 370000,
      "number": 9,
      "offset": 117585,
-     "output_artist": "Unknown artist",
+     "output_artist": "Antonio Vivaldi",
      "output_title": "Concerto No. 3 in Fa maggiore, RV 293 \"Der Herbst/Autumn\": III. Allegro",
      "sectors": 27730,
      "title": ""
@@ -138,7 +138,7 @@
      "length_seconds": 211000,
      "number": 10,
      "offset": 145315,
-     "output_artist": "Unknown artist",
+     "output_artist": "Antonio Vivaldi",
      "output_title": "Concerto No. 4 in Fa minore, RV 297 \"Der Winter/Winter\": I. Allegro non molto",
      "sectors": 15845,
      "title": ""
@@ -150,7 +150,7 @@
      "length_seconds": 141173,
      "number": 11,
      "offset": 161160,
-     "output_artist": "Unknown artist",
+     "output_artist": "Antonio Vivaldi",
      "output_title": "Concerto No. 4 in Fa minore, RV 297 \"Der Winter/Winter\": II. Largo",
      "sectors": 10568,
      "title": ""
@@ -162,7 +162,7 @@
      "length_seconds": 208000,
      "number": 12,
      "offset": 171728,
-     "output_artist": "Unknown artist",
+     "output_artist": "Antonio Vivaldi",
      "output_title": "Concerto No. 4 in Fa minore, RV 297 \"Der Winter/Winter\": III. Allegro",
      "sectors": 15600,
      "title": ""

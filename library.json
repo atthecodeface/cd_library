@@ -1478,11 +1478,44 @@
    "artist": "",
    "downloaded_artists": "Antonio Vivaldi",
    "downloaded_titles": "Die vier Jahreszeiten",
-   "json_path": ".",
+   "json_path": "library.json",
    "label": "",
    "musicbrainz_release_id": "ea3c6eba-0094-4d02-8da3-d8dcb922f80b",
    "num_discs": 1,
    "output_title": "Die vier Jahreszeiten",
+   "title": ""
+  },
+  "alb.0135": {
+   "artist": "",
+   "downloaded_artists": "Michael Austin",
+   "downloaded_titles": "Organ Classics",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "08e77293-856d-4153-a19d-cb50cfbd9b60",
+   "num_discs": 1,
+   "output_title": "Organ Classics",
+   "title": ""
+  },
+  "alb.0136": {
+   "artist": "",
+   "downloaded_artists": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+   "downloaded_titles": "Die Fledermaus",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "ec9cf396-af81-4a61-88cb-b6cb26373928",
+   "num_discs": 2,
+   "output_title": "Die Fledermaus",
+   "title": ""
+  },
+  "alb.0137": {
+   "artist": "",
+   "downloaded_artists": "Beethoven; Orchestre R\u00e9volutionnaire et Romantique, John Eliot Gardiner",
+   "downloaded_titles": "Messe in C",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "f078c6d8-97d8-4470-8af3-85faf4ddc333",
+   "num_discs": 1,
+   "output_title": "Messe in C",
    "title": ""
   },
   "complete_quilter_songbook": {

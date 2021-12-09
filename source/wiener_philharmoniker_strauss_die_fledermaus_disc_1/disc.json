@@ -1,0 +1,161 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0209": {
+   "album_total_tracks": 26,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0136",
+   "artist": "",
+   "cddb_id": "7f09e00b",
+   "cddb_string": "7f09e00b 11 183 39108 45963 60048 68783 93168 113063 133983 149275 160395 173303 2530",
+   "disc_of_set": 1,
+   "downloaded_artists": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+   "downloaded_titles": "432 158-2###Die Fledermaus",
+   "json_path": "source/wiener_philharmoniker_strauss_die_fledermaus_disc_1/disc.json",
+   "musicbrainz_id": "Qz9P0Jm124jniDN8VhxZlnaMEJw-",
+   "musicbrainz_release_id": "ec9cf396-af81-4a61-88cb-b6cb26373928",
+   "musicbrainz_string": "11 183 39108 45963 60048 68783 93168 113063 133983 149275 160395 173303 189783",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "wiener_philharmoniker_strauss_die_fledermaus_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Die Fledermaus: Overture",
+     "length_seconds": 519000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+     "output_title": "Die Fledermaus: Overture",
+     "sectors": 38925,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Die Fledermaus: Act I. No. 1 Introduction \"T\u00e4ubchen, das entflattert ist\" (Alfred)",
+     "length_seconds": 91400,
+     "number": 2,
+     "offset": 39108,
+     "output_artist": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+     "output_title": "Die Fledermaus: Act I. No. 1 Introduction \"T\u00e4ubchen, das entflattert ist\" (Alfred)",
+     "sectors": 6855,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Die Fledermaus: Act I. \"Da schreibt meine Schwester Ida\" (Adele, Alfred, Rosalinde)",
+     "length_seconds": 187800,
+     "number": 3,
+     "offset": 45963,
+     "output_artist": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+     "output_title": "Die Fledermaus: Act I. \"Da schreibt meine Schwester Ida\" (Adele, Alfred, Rosalinde)",
+     "sectors": 14085,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Die Fledermaus: Act I. No. 1a Duettino \"Ach, ich darf nicht hin zu dir!\" (Adele, Rosalinde)",
+     "length_seconds": 116466,
+     "number": 4,
+     "offset": 60048,
+     "output_artist": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+     "output_title": "Die Fledermaus: Act I. No. 1a Duettino \"Ach, ich darf nicht hin zu dir!\" (Adele, Rosalinde)",
+     "sectors": 8735,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Die Fledermaus: Act I. No. 2 Trio \"Nein, mit solchen Advokaten\" (Eisenstein, Rosalinde, Blind)",
+     "length_seconds": 325133,
+     "number": 5,
+     "offset": 68783,
+     "output_artist": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+     "output_title": "Die Fledermaus: Act I. No. 2 Trio \"Nein, mit solchen Advokaten\" (Eisenstein, Rosalinde, Blind)",
+     "sectors": 24385,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Die Fledermaus: Act I. No. 3 Duet \"Komm mit mir zum Souper\" (Falke, Eisenstein)",
+     "length_seconds": 265266,
+     "number": 6,
+     "offset": 93168,
+     "output_artist": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+     "output_title": "Die Fledermaus: Act I. No. 3 Duet \"Komm mit mir zum Souper\" (Falke, Eisenstein)",
+     "sectors": 19895,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Die Fledermaus: Act I. No. 4 Trio \"So mu\u00df allein ich bleiben\" (Rosalinde, Eisenstein, Adele)",
+     "length_seconds": 278933,
+     "number": 7,
+     "offset": 113063,
+     "output_artist": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+     "output_title": "Die Fledermaus: Act I. No. 4 Trio \"So mu\u00df allein ich bleiben\" (Rosalinde, Eisenstein, Adele)",
+     "sectors": 20920,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Die Fledermaus: Act I. No. 5 Finale \"Trinke, Liebchen, trinke schnell\" (Alfred, Rosalinde)",
+     "length_seconds": 203893,
+     "number": 8,
+     "offset": 133983,
+     "output_artist": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+     "output_title": "Die Fledermaus: Act I. No. 5 Finale \"Trinke, Liebchen, trinke schnell\" (Alfred, Rosalinde)",
+     "sectors": 15292,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Die Fledermaus: Act I. \"Ich h\u00f6re Stimmen!\" (Rosalinde, Frank, Alfred)",
+     "length_seconds": 148266,
+     "number": 9,
+     "offset": 149275,
+     "output_artist": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+     "output_title": "Die Fledermaus: Act I. \"Ich h\u00f6re Stimmen!\" (Rosalinde, Frank, Alfred)",
+     "sectors": 11120,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Die Fledermaus: Act I. \"Mein Herr, was d\u00e4chten Sie von mir\" (Rosalinde, Frank, Alfred)",
+     "length_seconds": 172106,
+     "number": 10,
+     "offset": 160395,
+     "output_artist": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+     "output_title": "Die Fledermaus: Act I. \"Mein Herr, was d\u00e4chten Sie von mir\" (Rosalinde, Frank, Alfred)",
+     "sectors": 12908,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Die Fledermaus: Act I. \"Nein, nein, ich zweifle gar nicht mehr\" (Rosalinde, Frank, Alfred)",
+     "length_seconds": 219733,
+     "number": 11,
+     "offset": 173303,
+     "output_artist": "Johann Strauss; Wiener Philharmoniker, Andr\u00e9 Previn",
+     "output_title": "Die Fledermaus: Act I. \"Nein, nein, ich zweifle gar nicht mehr\" (Rosalinde, Frank, Alfred)",
+     "sectors": 16480,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
