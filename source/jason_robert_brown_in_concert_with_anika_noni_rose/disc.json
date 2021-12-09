@@ -5,7 +5,7 @@
    "album_total_tracks": 0,
    "album_track_offset": 0,
    "album_uniq_id": "",
-   "artist": "",
+   "artist": "Jason Robert Brown",
    "cddb_id": "ce10de0f",
    "cddb_string": "ce10de0f 15 150 20546 37821 61901 81851 104943 128683 144175 162788 184967 212273 233226 251616 284384 305783 4320",
    "disc_of_set": 1,
@@ -20,7 +20,7 @@
    "rip_date": "",
    "rip_time": "",
    "src_directory": "jason_robert_brown_in_concert_with_anika_noni_rose",
-   "title": "",
+   "title": "Jason Robert Brown in concert with Anika Noni Rose",
    "total_length": 0,
    "tracks": [
     {
@@ -30,10 +30,10 @@
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 1 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "Moving Too Fast",
      "sectors": 0,
-     "title": ""
+     "title": "Moving Too Fast"
     },
     {
      "artist": "",
@@ -42,10 +42,10 @@
      "length_seconds": 0,
      "number": 2,
      "offset": 20546,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 2 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "I Could Be In Love With Someone Like You",
      "sectors": 0,
-     "title": ""
+     "title": "I Could Be In Love With Someone Like You"
     },
     {
      "artist": "",
@@ -54,10 +54,10 @@
      "length_seconds": 0,
      "number": 3,
      "offset": 37821,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 3 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "King of the World",
      "sectors": 0,
-     "title": ""
+     "title": "King of the World"
     },
     {
      "artist": "",
@@ -66,10 +66,10 @@
      "length_seconds": 0,
      "number": 4,
      "offset": 61901,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 4 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "Still Hurting",
      "sectors": 0,
-     "title": ""
+     "title": "Still Hurting"
     },
     {
      "artist": "",
@@ -78,10 +78,10 @@
      "length_seconds": 0,
      "number": 5,
      "offset": 81851,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 5 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "I Can Do Better Than That",
      "sectors": 0,
-     "title": ""
+     "title": "I Can Do Better Than That"
     },
     {
      "artist": "",
@@ -90,10 +90,10 @@
      "length_seconds": 0,
      "number": 6,
      "offset": 104943,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 6 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "I'd Give it All for You",
      "sectors": 0,
-     "title": ""
+     "title": "I'd Give it All for You"
     },
     {
      "artist": "",
@@ -102,10 +102,10 @@
      "length_seconds": 0,
      "number": 7,
      "offset": 128683,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 7 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "The Old Red Hills of Home",
      "sectors": 0,
-     "title": ""
+     "title": "The Old Red Hills of Home"
     },
     {
      "artist": "",
@@ -114,10 +114,10 @@
      "length_seconds": 0,
      "number": 8,
      "offset": 144175,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 8 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "When You Say Vegas",
      "sectors": 0,
-     "title": ""
+     "title": "When You Say Vegas"
     },
     {
      "artist": "",
@@ -126,10 +126,10 @@
      "length_seconds": 0,
      "number": 9,
      "offset": 162788,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 9 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "Nothing In Common",
      "sectors": 0,
-     "title": ""
+     "title": "Nothing In Common"
     },
     {
      "artist": "",
@@ -138,10 +138,10 @@
      "length_seconds": 0,
      "number": 10,
      "offset": 184967,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 10 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "One More Thing Than I Can Handle",
      "sectors": 0,
-     "title": ""
+     "title": "One More Thing Than I Can Handle"
     },
     {
      "artist": "",
@@ -150,10 +150,10 @@
      "length_seconds": 0,
      "number": 11,
      "offset": 212273,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 11 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "There With You",
      "sectors": 0,
-     "title": ""
+     "title": "There With You"
     },
     {
      "artist": "",
@@ -162,10 +162,10 @@
      "length_seconds": 0,
      "number": 12,
      "offset": 233226,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 12 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "All Things In Time",
      "sectors": 0,
-     "title": ""
+     "title": "All Things In Time"
     },
     {
      "artist": "",
@@ -174,10 +174,10 @@
      "length_seconds": 0,
      "number": 13,
      "offset": 251616,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 13 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "Caravan of Angels",
      "sectors": 0,
-     "title": ""
+     "title": "Caravan of Angels"
     },
     {
      "artist": "",
@@ -186,10 +186,10 @@
      "length_seconds": 0,
      "number": 14,
      "offset": 284384,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 14 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "Someone To Fall Back On",
      "sectors": 0,
-     "title": ""
+     "title": "Someone To Fall Back On"
     },
     {
      "artist": "",
@@ -198,10 +198,10 @@
      "length_seconds": 0,
      "number": 15,
      "offset": 305783,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 15 of 15",
+     "output_artist": "Jason Robert Brown",
+     "output_title": "Brand New You",
      "sectors": 0,
-     "title": ""
+     "title": "Brand New You"
     }
    ]
   }

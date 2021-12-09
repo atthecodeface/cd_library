@@ -1,0 +1,173 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0188": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "",
+   "artist": "",
+   "cddb_id": "990b2c0c",
+   "cddb_string": "990b2c0c 12 150 16233 34668 48760 72910 101030 117100 133190 159320 169943 185475 198755 2862",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "json_path": "source/national_philharmonic_golden_overtures/disc.json",
+   "musicbrainz_id": "crDRWiaFvTeveOsUGSMtKe7IMxw-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "12 150 16233 34668 48760 72910 101030 117100 133190 159320 169943 185475 198755 214660",
+   "num_tracks": 12,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "national_philharmonic_golden_overtures",
+   "title": "Golden Overtures",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "Smetana",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Smetana",
+     "output_title": "The Bartered Bride",
+     "sectors": 0,
+     "title": "The Bartered Bride"
+    },
+    {
+     "artist": "Schubert",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 16233,
+     "output_artist": "Schubert",
+     "output_title": "Rosamunde",
+     "sectors": 0,
+     "title": "Rosamunde"
+    },
+    {
+     "artist": "Johann Strauss",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 34668,
+     "output_artist": "Johann Strauss",
+     "output_title": "Die Fledermaus",
+     "sectors": 0,
+     "title": "Die Fledermaus"
+    },
+    {
+     "artist": "Berlioz",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 48760,
+     "output_artist": "Berlioz",
+     "output_title": "Le Corsaire",
+     "sectors": 0,
+     "title": "Le Corsaire"
+    },
+    {
+     "artist": "Von Suppe",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 5,
+     "offset": 72910,
+     "output_artist": "Von Suppe",
+     "output_title": "Poet And Peasant",
+     "sectors": 0,
+     "title": "Poet And Peasant"
+    },
+    {
+     "artist": "Tchaikovsky",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 6,
+     "offset": 101030,
+     "output_artist": "Tchaikovsky",
+     "output_title": "1812",
+     "sectors": 0,
+     "title": "1812"
+    },
+    {
+     "artist": "Rossini",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 7,
+     "offset": 117100,
+     "output_artist": "Rossini",
+     "output_title": "William Tell",
+     "sectors": 0,
+     "title": "William Tell"
+    },
+    {
+     "artist": "Nicolai",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 8,
+     "offset": 133190,
+     "output_artist": "Nicolai",
+     "output_title": "The Merry Wives of Windsor",
+     "sectors": 0,
+     "title": "The Merry Wives of Windsor"
+    },
+    {
+     "artist": "Offenbach",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 9,
+     "offset": 159320,
+     "output_artist": "Offenbach",
+     "output_title": "Orpheus in the Underworld",
+     "sectors": 0,
+     "title": "Orpheus in the Underworld"
+    },
+    {
+     "artist": "Brahms",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 10,
+     "offset": 169943,
+     "output_artist": "Brahms",
+     "output_title": "Academic Festival",
+     "sectors": 0,
+     "title": "Academic Festival"
+    },
+    {
+     "artist": "Herold",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 11,
+     "offset": 185475,
+     "output_artist": "Herold",
+     "output_title": "Zampa",
+     "sectors": 0,
+     "title": "Zampa"
+    },
+    {
+     "artist": "Mendelssohn",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 12,
+     "offset": 198755,
+     "output_artist": "Mendelssohn",
+     "output_title": "The Hebrides 'Fingals Cave'",
+     "sectors": 0,
+     "title": "The Hebrides 'Fingals Cave'"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0195": {
+   "album_total_tracks": 7,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0125",
+   "artist": "",
+   "cddb_id": "560ff007",
+   "cddb_string": "560ff007 7 183 47793 69100 118813 165418 227850 265113 4082",
+   "disc_of_set": 4,
+   "downloaded_artists": "Sibelius; San Francisco Symphony, Herbert Blomstedt",
+   "downloaded_titles": "Symphonies 4 & 5###The Symphonies",
+   "json_path": "source/san_francisco_symphony_sibelius_symphonies_4_5/disc.json",
+   "musicbrainz_id": "REPGa33WSlr28NO8PQlJhJ5lcsk-",
+   "musicbrainz_release_id": "ab2c7173-0b8c-4322-84e1-92b70dade9f2",
+   "musicbrainz_string": "7 183 47793 69100 118813 165418 227850 265113 306173",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "san_francisco_symphony_sibelius_symphonies_4_5",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 4 in A minor, op. 63: I. Tempo molto moderato, quasi adagio",
+     "length_seconds": 634800,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Sibelius; San Francisco Symphony, Herbert Blomstedt",
+     "output_title": "Symphony no. 4 in A minor, op. 63: I. Tempo molto moderato, quasi adagio",
+     "sectors": 47610,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 4 in A minor, op. 63: II. Allegro molto vivace",
+     "length_seconds": 284093,
+     "number": 2,
+     "offset": 47793,
+     "output_artist": "Sibelius; San Francisco Symphony, Herbert Blomstedt",
+     "output_title": "Symphony no. 4 in A minor, op. 63: II. Allegro molto vivace",
+     "sectors": 21307,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 4 in A minor, op. 63: III. Il tempo largo",
+     "length_seconds": 662840,
+     "number": 3,
+     "offset": 69100,
+     "output_artist": "Sibelius; San Francisco Symphony, Herbert Blomstedt",
+     "output_title": "Symphony no. 4 in A minor, op. 63: III. Il tempo largo",
+     "sectors": 49713,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 4 in A minor, op. 63: IV. Allegro",
+     "length_seconds": 621400,
+     "number": 4,
+     "offset": 118813,
+     "output_artist": "Sibelius; San Francisco Symphony, Herbert Blomstedt",
+     "output_title": "Symphony no. 4 in A minor, op. 63: IV. Allegro",
+     "sectors": 46605,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 5 in E-flat major, op. 82: I. Tempo molto moderato - Largamente - Allegro moderato",
+     "length_seconds": 832426,
+     "number": 5,
+     "offset": 165418,
+     "output_artist": "Sibelius; San Francisco Symphony, Herbert Blomstedt",
+     "output_title": "Symphony no. 5 in E-flat major, op. 82: I. Tempo molto moderato - Largamente - Allegro moderato",
+     "sectors": 62432,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 5 in E-flat major, op. 82: II. Andante mosso, quasi allegretto",
+     "length_seconds": 496840,
+     "number": 6,
+     "offset": 227850,
+     "output_artist": "Sibelius; San Francisco Symphony, Herbert Blomstedt",
+     "output_title": "Symphony no. 5 in E-flat major, op. 82: II. Andante mosso, quasi allegretto",
+     "sectors": 37263,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 5 in E-flat major, op. 82: III. Allegro molto",
+     "length_seconds": 547466,
+     "number": 7,
+     "offset": 265113,
+     "output_artist": "Sibelius; San Francisco Symphony, Herbert Blomstedt",
+     "output_title": "Symphony no. 5 in E-flat major, op. 82: III. Allegro molto",
+     "sectors": 41060,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

@@ -30,7 +30,7 @@
      "length_seconds": 249133,
      "number": 1,
      "offset": 183,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Jet",
      "sectors": 18697,
      "title": ""
@@ -42,7 +42,7 @@
      "length_seconds": 313160,
      "number": 2,
      "offset": 18880,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Band on the Run",
      "sectors": 23483,
      "title": ""
@@ -54,7 +54,7 @@
      "length_seconds": 232000,
      "number": 3,
      "offset": 42363,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Coming Up",
      "sectors": 17415,
      "title": ""
@@ -66,7 +66,7 @@
      "length_seconds": 222773,
      "number": 4,
      "offset": 59778,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Ebony and Ivory",
      "sectors": 16740,
      "title": ""
@@ -78,7 +78,7 @@
      "length_seconds": 237000,
      "number": 5,
      "offset": 76518,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Listen to What the Man Said",
      "sectors": 17742,
      "title": ""
@@ -90,7 +90,7 @@
      "length_seconds": 278000,
      "number": 6,
      "offset": 94260,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "No More Lonely Nights",
      "sectors": 20943,
      "title": ""
@@ -102,7 +102,7 @@
      "length_seconds": 355000,
      "number": 7,
      "offset": 115203,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Silly Love Songs",
      "sectors": 26690,
      "title": ""
@@ -114,7 +114,7 @@
      "length_seconds": 311000,
      "number": 8,
      "offset": 141893,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Let \u2019Em In",
      "sectors": 23327,
      "title": ""
@@ -126,7 +126,7 @@
      "length_seconds": 274000,
      "number": 9,
      "offset": 165220,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "C Moon",
      "sectors": 20550,
      "title": ""
@@ -138,7 +138,7 @@
      "length_seconds": 205000,
      "number": 10,
      "offset": 185770,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Pipes of Peace",
      "sectors": 15403,
      "title": ""
@@ -150,7 +150,7 @@
      "length_seconds": 193000,
      "number": 11,
      "offset": 201173,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Live and Let Die",
      "sectors": 14500,
      "title": ""
@@ -162,7 +162,7 @@
      "length_seconds": 223000,
      "number": 12,
      "offset": 215673,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Another Day",
      "sectors": 16667,
      "title": ""
@@ -174,7 +174,7 @@
      "length_seconds": 250000,
      "number": 13,
      "offset": 232340,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Once Upon a Long Ago",
      "sectors": 18780,
      "title": ""
@@ -186,7 +186,7 @@
      "length_seconds": 236000,
      "number": 14,
      "offset": 251120,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Say Say Say",
      "sectors": 17625,
      "title": ""
@@ -198,7 +198,7 @@
      "length_seconds": 248000,
      "number": 15,
      "offset": 268745,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "My Love",
      "sectors": 18685,
      "title": ""
@@ -210,7 +210,7 @@
      "length_seconds": 264040,
      "number": 16,
      "offset": 287430,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "We All Stand Together",
      "sectors": 19828,
      "title": ""
@@ -222,7 +222,7 @@
      "length_seconds": 284000,
      "number": 17,
      "offset": 307258,
-     "output_artist": "Unknown artist",
+     "output_artist": "Paul McCartney",
      "output_title": "Mull of Kintyre",
      "sectors": 21272,
      "title": ""

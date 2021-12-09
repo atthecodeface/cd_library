@@ -1,0 +1,101 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0187": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0121",
+   "artist": "",
+   "cddb_id": "540d3e06",
+   "cddb_string": "540d3e06 6 183 53958 101358 134508 188658 220383 3392",
+   "disc_of_set": 1,
+   "downloaded_artists": "Mozart; Mitsuko Uchida, English Chamber Orchestra, Jeffrey Tate",
+   "downloaded_titles": "Piano Concertos Nos. 18, 19",
+   "json_path": "source/english_chamber_orchestra_mozart_piano_concertos_18_19/disc.json",
+   "musicbrainz_id": "dIx6vQ2RyhEubm0ksl1JoN9oCkQ-",
+   "musicbrainz_release_id": "8ecf6abc-46bf-4837-87f4-45d4c8854e5d",
+   "musicbrainz_string": "6 183 53958 101358 134508 188658 220383 254433",
+   "num_tracks": 6,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "english_chamber_orchestra_mozart_piano_concertos_18_19",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Piano No. 18 in B-flat major, K. 456 \"Paradis\": I. Allegro vivace",
+     "length_seconds": 716626,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Mozart; Mitsuko Uchida, English Chamber Orchestra, Jeffrey Tate",
+     "output_title": "Concerto for Piano No. 18 in B-flat major, K. 456 \"Paradis\": I. Allegro vivace",
+     "sectors": 53775,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Piano No. 18 in B-flat major, K. 456 \"Paradis\": II. Andante un poco sostenuto",
+     "length_seconds": 631813,
+     "number": 2,
+     "offset": 53958,
+     "output_artist": "Mozart; Mitsuko Uchida, English Chamber Orchestra, Jeffrey Tate",
+     "output_title": "Concerto for Piano No. 18 in B-flat major, K. 456 \"Paradis\": II. Andante un poco sostenuto",
+     "sectors": 47400,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Piano No. 18 in B-flat major, K. 456 \"Paradis\": III. Allegro vivace",
+     "length_seconds": 436480,
+     "number": 3,
+     "offset": 101358,
+     "output_artist": "Mozart; Mitsuko Uchida, English Chamber Orchestra, Jeffrey Tate",
+     "output_title": "Concerto for Piano No. 18 in B-flat major, K. 456 \"Paradis\": III. Allegro vivace",
+     "sectors": 33150,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Piano No. 19 in F major, K. 459: I. Allegro",
+     "length_seconds": 720066,
+     "number": 4,
+     "offset": 134508,
+     "output_artist": "Mozart; Mitsuko Uchida, English Chamber Orchestra, Jeffrey Tate",
+     "output_title": "Concerto for Piano No. 19 in F major, K. 459: I. Allegro",
+     "sectors": 54150,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Piano No. 19 in F major, K. 459: II. Allegretto",
+     "length_seconds": 423746,
+     "number": 5,
+     "offset": 188658,
+     "output_artist": "Mozart; Mitsuko Uchida, English Chamber Orchestra, Jeffrey Tate",
+     "output_title": "Concerto for Piano No. 19 in F major, K. 459: II. Allegretto",
+     "sectors": 31725,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto for Piano No. 19 in F major, K. 459: III. Allegro assai",
+     "length_seconds": 455920,
+     "number": 6,
+     "offset": 220383,
+     "output_artist": "Mozart; Mitsuko Uchida, English Chamber Orchestra, Jeffrey Tate",
+     "output_title": "Concerto for Piano No. 19 in F major, K. 459: III. Allegro assai",
+     "sectors": 34050,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
