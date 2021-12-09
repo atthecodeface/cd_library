@@ -1463,16 +1463,27 @@
    "output_title": "Judas Maccabaeus",
    "title": ""
   },
-  "judas_maccabaeus_festspiel": {
-   "artist": "George Frideric Handel, FestspielOrchester Gottingen",
-   "downloaded_artists": "",
-   "downloaded_titles": "",
+  "alb.0133": {
+   "artist": "",
+   "downloaded_artists": "Tim Minchin",
+   "downloaded_titles": "Matilda the Musical",
    "json_path": "library.json",
    "label": "",
-   "musicbrainz_release_id": "",
-   "num_discs": 2,
-   "output_title": "Judas Maccabaeus",
-   "title": "Judas Maccabaeus"
+   "musicbrainz_release_id": "23d37c59-68f2-4154-a2dd-5b9846e020a5",
+   "num_discs": 1,
+   "output_title": "Matilda the Musical",
+   "title": ""
+  },
+  "alb.0134": {
+   "artist": "",
+   "downloaded_artists": "Antonio Vivaldi",
+   "downloaded_titles": "Die vier Jahreszeiten",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "ea3c6eba-0094-4d02-8da3-d8dcb922f80b",
+   "num_discs": 1,
+   "output_title": "Die vier Jahreszeiten",
+   "title": ""
   },
   "complete_quilter_songbook": {
    "artist": "Roger Quilter, Mark Stone, Stephen Barlow",
@@ -1484,6 +1495,17 @@
    "num_discs": 3,
    "output_title": "The Complete Quilter Songbook",
    "title": "The Complete Quilter Songbook"
+  },
+  "judas_maccabaeus_festspiel": {
+   "artist": "George Frideric Handel, FestspielOrchester Gottingen",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "",
+   "num_discs": 2,
+   "output_title": "Judas Maccabaeus",
+   "title": "Judas Maccabaeus"
   },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",

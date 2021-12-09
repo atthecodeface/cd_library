@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0203": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 60,
+   "album_track_offset": 34,
    "album_uniq_id": "judas_maccabaeus_festspiel",
    "artist": "",
    "cddb_id": "8c0e7a1a",
@@ -30,10 +30,10 @@
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 1 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act II. Air and Chorus \"Ah! wretched Israel!\" (Israelitish Woman, Chorus)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act II. Air and Chorus \"Ah! wretched Israel!\" (Israelitish Woman, Chorus)",
+     "title": "Judas Maccabaeus: Act II. Air and Chorus \"Ah! wretched Israel!\" (Israelitish Woman, Chorus)"
     },
     {
      "artist": "",
@@ -42,10 +42,10 @@
      "length_seconds": 0,
      "number": 2,
      "offset": 29694,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 2 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act II. Recitative \"Be comforted, nor think these plagues\" (Simon)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act II. Recitative \"Be comforted, nor think these plagues\" (Simon)",
+     "title": "Judas Maccabaeus: Act II. Recitative \"Be comforted, nor think these plagues\" (Simon)"
     },
     {
      "artist": "",
@@ -54,10 +54,10 @@
      "length_seconds": 0,
      "number": 3,
      "offset": 32533,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 3 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act II. Air \"The Lord worketh wonders\" (Simon)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act II. Air \"The Lord worketh wonders\" (Simon)",
+     "title": "Judas Maccabaeus: Act II. Air \"The Lord worketh wonders\" (Simon)"
     },
     {
      "artist": "",
@@ -66,10 +66,10 @@
      "length_seconds": 0,
      "number": 4,
      "offset": 43389,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 4 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act II. Recitative \"My arms! Against this Gorgias\" (Judas Maccabaeus)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act II. Recitative \"My arms! Against this Gorgias\" (Judas Maccabaeus)",
+     "title": "Judas Maccabaeus: Act II. Recitative \"My arms! Against this Gorgias\" (Judas Maccabaeus)"
     },
     {
      "artist": "",
@@ -78,10 +78,10 @@
      "length_seconds": 0,
      "number": 5,
      "offset": 45151,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 5 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act II. Air and Chorus \"Sound an alarm!\" (Judas Maccabaeus, Chorus)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act II. Air and Chorus \"Sound an alarm!\" (Judas Maccabaeus, Chorus)",
+     "title": "Judas Maccabaeus: Act II. Air and Chorus \"Sound an alarm!\" (Judas Maccabaeus, Chorus)"
     },
     {
      "artist": "",
@@ -90,10 +90,10 @@
      "length_seconds": 0,
      "number": 6,
      "offset": 61068,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 6 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act II. Recitative \"Enough! To Heav'n we leave the rest\" (Simon)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act II. Recitative \"Enough! To Heav'n we leave the rest\" (Simon)",
+     "title": "Judas Maccabaeus: Act II. Recitative \"Enough! To Heav'n we leave the rest\" (Simon)"
     },
     {
      "artist": "",
@@ -102,10 +102,10 @@
      "length_seconds": 0,
      "number": 7,
      "offset": 64165,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 7 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act II. Air \"With pious hearts, and brave as pious\" (Simon)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act II. Air \"With pious hearts, and brave as pious\" (Simon)",
+     "title": "Judas Maccabaeus: Act II. Air \"With pious hearts, and brave as pious\" (Simon)"
     },
     {
      "artist": "",
@@ -114,10 +114,10 @@
      "length_seconds": 0,
      "number": 8,
      "offset": 76724,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 8 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act II. Recitative \"Ye worshippers of God\" (Israelitish Man, Israelitish Woman)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act II. Recitative \"Ye worshippers of God\" (Israelitish Man, Israelitish Woman)",
+     "title": "Judas Maccabaeus: Act II. Recitative \"Ye worshippers of God\" (Israelitish Man, Israelitish Woman)"
     },
     {
      "artist": "",
@@ -126,8 +126,8 @@
      "length_seconds": 0,
      "number": 9,
      "offset": 79433,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 9 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Track 9 of 26 of disc 2 of 2",
      "sectors": 0,
      "title": ""
     },
@@ -138,10 +138,10 @@
      "length_seconds": 0,
      "number": 10,
      "offset": 81994,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 10 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act II. Duet and Chorus \"Oh! Never\" (Israelitish Man, Israelitish Woman, Chorus)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act II. Duet and Chorus \"Oh! Never\" (Israelitish Man, Israelitish Woman, Chorus)",
+     "title": "Judas Maccabaeus: Act II. Duet and Chorus \"Oh! Never\" (Israelitish Man, Israelitish Woman, Chorus)"
     },
     {
      "artist": "",
@@ -150,10 +150,10 @@
      "length_seconds": 0,
      "number": 11,
      "offset": 113824,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 11 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. Air \"Father of Heav'n!\" (Priest)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. Air \"Father of Heav'n!\" (Priest)",
+     "title": "Judas Maccabaeus: Act III. Air \"Father of Heav'n!\" (Priest)"
     },
     {
      "artist": "",
@@ -162,10 +162,10 @@
      "length_seconds": 0,
      "number": 12,
      "offset": 141893,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 12 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. Recitative \"See, see yon flames\" (Israelitish Man, Israelitish Woman)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. Recitative \"See, see yon flames\" (Israelitish Man, Israelitish Woman)",
+     "title": "Judas Maccabaeus: Act III. Recitative \"See, see yon flames\" (Israelitish Man, Israelitish Woman)"
     },
     {
      "artist": "",
@@ -174,8 +174,8 @@
      "length_seconds": 0,
      "number": 13,
      "offset": 144854,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 13 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Track 13 of 26 of disc 2 of 2",
      "sectors": 0,
      "title": ""
     },
@@ -186,10 +186,10 @@
      "length_seconds": 0,
      "number": 14,
      "offset": 146825,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 14 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. Air \"So shall the lute and harp awake\" (Israelitish Woman)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. Air \"So shall the lute and harp awake\" (Israelitish Woman)",
+     "title": "Judas Maccabaeus: Act III. Air \"So shall the lute and harp awake\" (Israelitish Woman)"
     },
     {
      "artist": "",
@@ -198,10 +198,10 @@
      "length_seconds": 0,
      "number": 15,
      "offset": 165660,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 15 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. Recitative \"From Capharsalama on eagle wings\" (Messengers)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. Recitative \"From Capharsalama on eagle wings\" (Messengers)",
+     "title": "Judas Maccabaeus: Act III. Recitative \"From Capharsalama on eagle wings\" (Messengers)"
     },
     {
      "artist": "",
@@ -210,8 +210,8 @@
      "length_seconds": 0,
      "number": 16,
      "offset": 169002,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 16 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Track 16 of 26 of disc 2 of 2",
      "sectors": 0,
      "title": ""
     },
@@ -222,10 +222,10 @@
      "length_seconds": 0,
      "number": 17,
      "offset": 172335,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 17 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. March",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. March",
+     "title": "Judas Maccabaeus: Act III. March"
     },
     {
      "artist": "",
@@ -234,10 +234,10 @@
      "length_seconds": 0,
      "number": 18,
      "offset": 178637,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 18 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. Chorus \"Sing unto God, and high affections raise\" (Chorus)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. Chorus \"Sing unto God, and high affections raise\" (Chorus)",
+     "title": "Judas Maccabaeus: Act III. Chorus \"Sing unto God, and high affections raise\" (Chorus)"
     },
     {
      "artist": "",
@@ -246,10 +246,10 @@
      "length_seconds": 0,
      "number": 19,
      "offset": 189823,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 19 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. Recitative \"Sweet flow the strains\" (Judas Maccabaeus)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. Recitative \"Sweet flow the strains\" (Judas Maccabaeus)",
+     "title": "Judas Maccabaeus: Act III. Recitative \"Sweet flow the strains\" (Judas Maccabaeus)"
     },
     {
      "artist": "",
@@ -258,10 +258,10 @@
      "length_seconds": 0,
      "number": 20,
      "offset": 193704,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 20 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. Air \"With honour let desert be crown'd\" (Judas Maccabaeus)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. Air \"With honour let desert be crown'd\" (Judas Maccabaeus)",
+     "title": "Judas Maccabaeus: Act III. Air \"With honour let desert be crown'd\" (Judas Maccabaeus)"
     },
     {
      "artist": "",
@@ -270,10 +270,10 @@
      "length_seconds": 0,
      "number": 21,
      "offset": 206954,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 21 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. Recitative \"Peace to my countrymen\" (Eupolemus)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. Recitative \"Peace to my countrymen\" (Eupolemus)",
+     "title": "Judas Maccabaeus: Act III. Recitative \"Peace to my countrymen\" (Eupolemus)"
     },
     {
      "artist": "",
@@ -282,10 +282,10 @@
      "length_seconds": 0,
      "number": 22,
      "offset": 209771,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 22 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. Chorus \"To our great God be all the honour giv'n\" (Chorus)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. Chorus \"To our great God be all the honour giv'n\" (Chorus)",
+     "title": "Judas Maccabaeus: Act III. Chorus \"To our great God be all the honour giv'n\" (Chorus)"
     },
     {
      "artist": "",
@@ -294,10 +294,10 @@
      "length_seconds": 0,
      "number": 23,
      "offset": 221849,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 23 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. Recitative \"Again to earth let gratitude\" (Israelitish Woman)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. Recitative \"Again to earth let gratitude\" (Israelitish Woman)",
+     "title": "Judas Maccabaeus: Act III. Recitative \"Again to earth let gratitude\" (Israelitish Woman)"
     },
     {
      "artist": "",
@@ -306,10 +306,10 @@
      "length_seconds": 0,
      "number": 24,
      "offset": 225556,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 24 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. Air \"O lovely peace\" (Israelitish Woman)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. Air \"O lovely peace\" (Israelitish Woman)",
+     "title": "Judas Maccabaeus: Act III. Air \"O lovely peace\" (Israelitish Woman)"
     },
     {
      "artist": "",
@@ -318,10 +318,10 @@
      "length_seconds": 0,
      "number": 25,
      "offset": 260943,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 25 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Judas Maccabaeus: Act III. Air and Chorus \"Rejoice, oh Judah!\" (Simon, Chorus)",
      "sectors": 0,
-     "title": "Judas Maccabaeus: Act III. Air and Chorus \"Rejoice, oh Judah!\" (Simon, Chorus)",
+     "title": "Judas Maccabaeus: Act III. Air and Chorus \"Rejoice, oh Judah!\" (Simon, Chorus)"
     },
     {
      "artist": "",
@@ -330,8 +330,8 @@
      "length_seconds": 0,
      "number": 26,
      "offset": 269278,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 26 of 26",
+     "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
+     "output_title": "Track 26 of 26 of disc 2 of 2",
      "sectors": 0,
      "title": ""
     }
