@@ -66,6 +66,12 @@ verify_mp3: check_in_library_root
 	cd ${LIBRARY_ROOT}
 	find mp3 -name '*.mp3' | xargs hashdeep -k mp3.hashdeep -eX
 
+.ONESHELL:
+find_duplicate_hashes:
+	@echo "This will print nothing if there are no files with 2 different hashes..."
+	cd ${LIBRARY_ROOT}
+	(awk 'match($$0, "[0-9]+,[0-9a-f]+,(.+flac)", m) {print m[1]}' source.hashdeep | uniq -c | sort -n | grep -v '    1 ' ) || true
+
 rsync_to_mnt: check_in_library_root
 	(cd ${LIBRARY_ROOT} && rsync -vrltD mp3 /mnt)
 
@@ -83,3 +89,4 @@ rsync_to_backup_mnt4:
 
 rsync_to_nas: check_in_library_root
 	(cd ${LIBRARY_ROOT} && rsync -av . writer@10.1.17.34:/nas/audio/turnipdb_library)
+
