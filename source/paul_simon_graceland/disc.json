@@ -11,6 +11,7 @@
    "disc_of_set": 1,
    "downloaded_artists": "Paul Simon",
    "downloaded_titles": "Graceland",
+   "genre": "",
    "json_path": "source/paul_simon_graceland/disc.json",
    "musicbrainz_id": "7KotoHTC.GTDXOk7WuejbV1ycfI-",
    "musicbrainz_release_id": "73677f81-86e6-4087-9255-9ee81b8e3dd3",

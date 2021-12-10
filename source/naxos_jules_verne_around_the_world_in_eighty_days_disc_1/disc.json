@@ -1,0 +1,162 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0212": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "",
+   "artist": "",
+   "cddb_id": "8e110c0b",
+   "cddb_string": "8e110c0b 11 150 17682 28000 68085 100552 117770 146507 174322 223190 271500 295632 4366",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "",
+   "json_path": "source/naxos_jules_verne_around_the_world_in_eighty_days_disc_1/disc.json",
+   "musicbrainz_id": "b4Yu0o2RtZJkCk4wwv9yGG8zB5c-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "11 150 17682 28000 68085 100552 117770 146507 174322 223190 271500 295632 327507",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "naxos_jules_verne_around_the_world_in_eighty_days_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 1 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 17682,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 2 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 28000,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 3 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 68085,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 4 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 5,
+     "offset": 100552,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 5 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 6,
+     "offset": 117770,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 6 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 7,
+     "offset": 146507,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 7 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 8,
+     "offset": 174322,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 8 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 9,
+     "offset": 223190,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 9 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 10,
+     "offset": 271500,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 10 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 11,
+     "offset": 295632,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 11 of 11",
+     "sectors": 0,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

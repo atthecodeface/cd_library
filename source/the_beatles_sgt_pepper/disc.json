@@ -11,6 +11,7 @@
    "disc_of_set": 1,
    "downloaded_artists": "The Beatles",
    "downloaded_titles": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+   "genre": "",
    "json_path": "source/the_beatles_sgt_pepper/disc.json",
    "musicbrainz_id": "5cVTKwEtQPTiqT4A3ktiYJ14WzQ-",
    "musicbrainz_release_id": "ce681fec-ca96-3acc-ae66-af17f09f05a7",

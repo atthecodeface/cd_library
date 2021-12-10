@@ -11,6 +11,7 @@
    "disc_of_set": 1,
    "downloaded_artists": "Pink Floyd",
    "downloaded_titles": "The Dark Side of the Moon",
+   "genre": "",
    "json_path": "source/pink_floyd_dark_side_of_the_moon/disc.json",
    "musicbrainz_id": "8jTZJTgjGGtKjwdt8UyAgK3DnbY-",
    "musicbrainz_release_id": "25fbfbb4-b1ee-4448-aadf-ae3bc2e2dd27",

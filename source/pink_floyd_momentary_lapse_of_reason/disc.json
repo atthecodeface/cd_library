@@ -11,6 +11,7 @@
    "disc_of_set": 1,
    "downloaded_artists": "Pink Floyd",
    "downloaded_titles": "A Momentary Lapse of Reason",
+   "genre": "",
    "json_path": "source/pink_floyd_momentary_lapse_of_reason/disc.json",
    "musicbrainz_id": "BUSwKd5f1hJ_rkjYsQf8_Uc0Yts-",
    "musicbrainz_release_id": "62760f4e-0b2b-4a26-b6ec-7a5b751549ef",

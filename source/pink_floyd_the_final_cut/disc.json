@@ -11,6 +11,7 @@
    "disc_of_set": 1,
    "downloaded_artists": "Pink Floyd",
    "downloaded_titles": "The Final Cut",
+   "genre": "",
    "json_path": "source/pink_floyd_the_final_cut/disc.json",
    "musicbrainz_id": "O4t7QxVMx_5NL.TJ46DjUYcqQDM-",
    "musicbrainz_release_id": "cd6bb788-a828-3203-8443-c20acbc100d3",

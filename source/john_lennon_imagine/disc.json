@@ -11,6 +11,7 @@
    "disc_of_set": 1,
    "downloaded_artists": "John Lennon",
    "downloaded_titles": "Imagine",
+   "genre": "",
    "json_path": "source/john_lennon_imagine/disc.json",
    "musicbrainz_id": "CwgNjTaq74eZt0udl.RxwHjjMIo-",
    "musicbrainz_release_id": "ae1c2dcb-1034-38d0-9c34-a77ba91fbb9a",

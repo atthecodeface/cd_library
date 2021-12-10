@@ -1,0 +1,162 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0228": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0144",
+   "artist": "",
+   "cddb_id": "9a0e9e0b",
+   "cddb_string": "9a0e9e0b 11 150 35425 66850 86050 111097 131275 144775 162775 211975 244375 262225 3744",
+   "disc_of_set": 1,
+   "downloaded_artists": "Mozart; Capella Istropolitana, Barry Wordsworth",
+   "downloaded_titles": "Symphonies no. 35 \"Haffner\" / Symphonies nos. 34 and 39",
+   "genre": "",
+   "json_path": "source/capella_istropolitana_mozart_symphonies_34_35_39/disc.json",
+   "musicbrainz_id": "myS0sTvEGSRSNVf1mdVDIOFofxE-",
+   "musicbrainz_release_id": "eddd749c-5c4a-439c-9293-280bf32ebe4a",
+   "musicbrainz_string": "11 150 35425 66850 86050 111097 131275 144775 162775 211975 244375 262225 280845",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "capella_istropolitana_mozart_symphonies_34_35_39",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 34 for Orchestra in C major, K. 338: I. Allegro vivace",
+     "length_seconds": 470333,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 34 for Orchestra in C major, K. 338: I. Allegro vivace",
+     "sectors": 35275,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 34 for Orchestra in C major, K. 338: II. Andante di molto pi\u00f9 tosto allegretto",
+     "length_seconds": 419000,
+     "number": 2,
+     "offset": 35425,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 34 for Orchestra in C major, K. 338: II. Andante di molto pi\u00f9 tosto allegretto",
+     "sectors": 31425,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 34 for Orchestra in C major, K. 338: III. Finale. Allegro vivace",
+     "length_seconds": 256000,
+     "number": 3,
+     "offset": 66850,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 34 for Orchestra in C major, K. 338: III. Finale. Allegro vivace",
+     "sectors": 19200,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 35 for Orchestra in D major, K. 385 \"Haffner\": I. Allegro con spirito",
+     "length_seconds": 333960,
+     "number": 4,
+     "offset": 86050,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 35 for Orchestra in D major, K. 385 \"Haffner\": I. Allegro con spirito",
+     "sectors": 25047,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 35 for Orchestra in D major, K. 385 \"Haffner\": II. Andante",
+     "length_seconds": 269040,
+     "number": 5,
+     "offset": 111097,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 35 for Orchestra in D major, K. 385 \"Haffner\": II. Andante",
+     "sectors": 20178,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 35 for Orchestra in D major, K. 385 \"Haffner\": III. Minuetto & Trio",
+     "length_seconds": 180000,
+     "number": 6,
+     "offset": 131275,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 35 for Orchestra in D major, K. 385 \"Haffner\": III. Minuetto & Trio",
+     "sectors": 13500,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 35 for Orchestra in D major, K. 385 \"Haffner\": IV. Presto",
+     "length_seconds": 240000,
+     "number": 7,
+     "offset": 144775,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 35 for Orchestra in D major, K. 385 \"Haffner\": IV. Presto",
+     "sectors": 18000,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 39 for Orchestra in E-flat major, K. 543: I. Adagio - allegro",
+     "length_seconds": 656000,
+     "number": 8,
+     "offset": 162775,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 39 for Orchestra in E-flat major, K. 543: I. Adagio - allegro",
+     "sectors": 49200,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 39 for Orchestra in E-flat major, K. 543: II. Andante con moto",
+     "length_seconds": 432000,
+     "number": 9,
+     "offset": 211975,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 39 for Orchestra in E-flat major, K. 543: II. Andante con moto",
+     "sectors": 32400,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 39 for Orchestra in E-flat major, K. 543: III. Minuetto. Allegretto",
+     "length_seconds": 238000,
+     "number": 10,
+     "offset": 244375,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 39 for Orchestra in E-flat major, K. 543: III. Minuetto. Allegretto",
+     "sectors": 17850,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 39 for Orchestra in E-flat major, K. 543: IV. Finale. Allegro",
+     "length_seconds": 248266,
+     "number": 11,
+     "offset": 262225,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 39 for Orchestra in E-flat major, K. 543: IV. Finale. Allegro",
+     "sectors": 18620,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

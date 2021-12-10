@@ -1,0 +1,66 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0217": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0139",
+   "artist": "",
+   "cddb_id": "1b039f03",
+   "cddb_string": "1b039f03 3 183 24103 44013 929",
+   "disc_of_set": 1,
+   "downloaded_artists": "Fish",
+   "downloaded_titles": "Big Wedge",
+   "genre": "",
+   "json_path": "source/fish_big_wedge/disc.json",
+   "musicbrainz_id": "dEWhPeb7739anj3z4XIIjDOm9sA-",
+   "musicbrainz_release_id": "74084067-921f-489b-bbe8-463c9930ed14",
+   "musicbrainz_string": "3 183 24103 44013 69700",
+   "num_tracks": 3,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "fish_big_wedge",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Big Wedge (album version)",
+     "length_seconds": 319320,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Fish",
+     "output_title": "Big Wedge (album version)",
+     "sectors": 23920,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Jack and Jill",
+     "length_seconds": 265466,
+     "number": 2,
+     "offset": 24103,
+     "output_artist": "Fish",
+     "output_title": "Jack and Jill",
+     "sectors": 19910,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Faith Healer (live)",
+     "length_seconds": 342493,
+     "number": 3,
+     "offset": 44013,
+     "output_artist": "Fish",
+     "output_title": "Faith Healer (live)",
+     "sectors": 25687,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

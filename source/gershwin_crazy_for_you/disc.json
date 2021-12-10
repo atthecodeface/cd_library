@@ -11,6 +11,7 @@
    "disc_of_set": 1,
    "downloaded_artists": "George Gershwin",
    "downloaded_titles": "Crazy for You (1992 original Broadway cast)",
+   "genre": "",
    "json_path": "source/gershwin_crazy_for_you/disc.json",
    "musicbrainz_id": "m6yudw1mqd07fxZmoRf4d5gmRgc-",
    "musicbrainz_release_id": "60add5ac-7dcb-49b3-a94f-a6fc82aa4576",

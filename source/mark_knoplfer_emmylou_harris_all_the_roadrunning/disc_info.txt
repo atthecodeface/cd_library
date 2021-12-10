@@ -1,0 +1,33 @@
+CddbId:a70bd90c:[150, 19216, 35634, 56567, 70313, 89383, 109059, 125061, 150725, 164680, 184594, 206287]:227625:74:a70bd90c 12 150 19216 35634 56567 70313 89383 109059 125061 150725 164680 184594 206287 3035: 12 0 0 0 0 0 0 0 0 0 0 0 0 3035
+num_tracks: 12
+offsets: [150, 19216, 35634, 56567, 70313, 89383, 109059, 125061, 150725, 164680, 184594, 206287]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 3035
+cddb: [2802571532, 12, 150, 19216, 35634, 56567, 70313, 89383, 109059, 125061, 150725, 164680, 184594, 206287, 3035]
+musicbrainz: ('12 150 19216 35634 56567 70313 89383 109059 125061 150725 164680 184594 206287 227644', '_7DJHfXfHjlVXjKaJhAohepJ3ek-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 1
+Vendor_info    : 'SAMSUNG '
+Identification : 'CD-ROM SC-148A  '
+Revision       : 'B403'
+Device seems to be: Generic mmc CD-ROM.
+Using generic SCSI-3/mmc   CD-ROM driver (mmc_cd).
+Driver flags   : MMC-2 SWABAUDIO 
+Supported modes: 
+first: 1 last 12
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: -1
+track:   2 lba:     19066 (    76264) 04:16:16 adr: 1 control: 0 mode: -1
+track:   3 lba:     35484 (   141936) 07:55:09 adr: 1 control: 0 mode: -1
+track:   4 lba:     56417 (   225668) 12:34:17 adr: 1 control: 0 mode: -1
+track:   5 lba:     70163 (   280652) 15:37:38 adr: 1 control: 0 mode: -1
+track:   6 lba:     89233 (   356932) 19:51:58 adr: 1 control: 0 mode: -1
+track:   7 lba:    108909 (   435636) 24:14:09 adr: 1 control: 0 mode: -1
+track:   8 lba:    124911 (   499644) 27:47:36 adr: 1 control: 0 mode: -1
+track:   9 lba:    150575 (   602300) 33:29:50 adr: 1 control: 0 mode: -1
+track:  10 lba:    164530 (   658120) 36:35:55 adr: 1 control: 0 mode: -1
+track:  11 lba:    184444 (   737776) 41:01:19 adr: 1 control: 0 mode: -1
+track:  12 lba:    206137 (   824548) 45:50:37 adr: 1 control: 0 mode: -1
+track:lout lba:    227494 (   909976) 50:35:19 adr: 1 control: 0 mode: -1

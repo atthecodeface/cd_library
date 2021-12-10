@@ -1,0 +1,34 @@
+CddbId:8e110c0b:[150, 17682, 28000, 68085, 100552, 117770, 146507, 174322, 223190, 271500, 295632]:327450:74:8e110c0b 11 150 17682 28000 68085 100552 117770 146507 174322 223190 271500 295632 4366: 11 0 0 0 0 0 0 0 0 0 0 0 4366
+num_tracks: 11
+offsets: [150, 17682, 28000, 68085, 100552, 117770, 146507, 174322, 223190, 271500, 295632]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 4366
+cddb: [2383481867, 11, 150, 17682, 28000, 68085, 100552, 117770, 146507, 174322, 223190, 271500, 295632, 4366]
+musicbrainz: ('11 150 17682 28000 68085 100552 117770 146507 174322 223190 271500 295632 327507', 'b4Yu0o2RtZJkCk4wwv9yGG8zB5c-')
+
+CD record:
+Error trying to open /dev/sr0 exclusively (Device or resource busy)... retrying in 1 second.
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'FREECOM_'
+Identification : 'DVD+/-RW16H4    '
+Revision       : 'FR00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO SAO/R96R RAW/R96R
+first: 1 last 11
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: -1
+track:   2 lba:     17532 (    70128) 03:55:57 adr: 1 control: 0 mode: -1
+track:   3 lba:     27850 (   111400) 06:13:25 adr: 1 control: 0 mode: -1
+track:   4 lba:     67935 (   271740) 15:07:60 adr: 1 control: 0 mode: -1
+track:   5 lba:    100402 (   401608) 22:20:52 adr: 1 control: 0 mode: -1
+track:   6 lba:    117620 (   470480) 26:10:20 adr: 1 control: 0 mode: -1
+track:   7 lba:    146357 (   585428) 32:33:32 adr: 1 control: 0 mode: -1
+track:   8 lba:    174172 (   696688) 38:44:22 adr: 1 control: 0 mode: -1
+track:   9 lba:    223040 (   892160) 49:35:65 adr: 1 control: 0 mode: -1
+track:  10 lba:    271350 (  1085400) 60:20:00 adr: 1 control: 0 mode: -1
+track:  11 lba:    295482 (  1181928) 65:41:57 adr: 1 control: 0 mode: -1
+track:lout lba:    327357 (  1309428) 72:46:57 adr: 1 control: 0 mode: -1

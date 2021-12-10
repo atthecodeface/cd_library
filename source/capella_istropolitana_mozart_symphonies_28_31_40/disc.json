@@ -1,0 +1,162 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0229": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "",
+   "artist": "",
+   "cddb_id": "a10e6d0b",
+   "cddb_string": "a10e6d0b 11 150 33988 68863 89713 112963 136288 161263 179638 192538 230788 259963 3695",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "",
+   "json_path": "source/capella_istropolitana_mozart_symphonies_28_31_40/disc.json",
+   "musicbrainz_id": "vdKNQin_ywgzYWhEndNV1GVGM7c-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "11 150 33988 68863 89713 112963 136288 161263 179638 192538 230788 259963 277158",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "capella_istropolitana_mozart_symphonies_28_31_40",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 1 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 33988,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 2 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 68863,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 3 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 89713,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 4 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 5,
+     "offset": 112963,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 5 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 6,
+     "offset": 136288,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 6 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 7,
+     "offset": 161263,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 7 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 8,
+     "offset": 179638,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 8 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 9,
+     "offset": 192538,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 9 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 10,
+     "offset": 230788,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 10 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 11,
+     "offset": 259963,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 11 of 11",
+     "sectors": 0,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

@@ -11,6 +11,7 @@
    "disc_of_set": 1,
    "downloaded_artists": "Paul Simon",
    "downloaded_titles": "Surprise",
+   "genre": "",
    "json_path": "source/paul_simon_surprise/disc.json",
    "musicbrainz_id": "M_6VciD5U1GRwAYYW.SdU7o9eoE-",
    "musicbrainz_release_id": "22aca873-0d11-438f-8e0d-5da51b25d975",
