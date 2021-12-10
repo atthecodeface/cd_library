@@ -1,0 +1,102 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0235": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0145",
+   "artist": "",
+   "cddb_id": "400d5d06",
+   "cddb_string": "400d5d06 6 150 49930 75060 84395 174510 208917 3423",
+   "disc_of_set": 3,
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The Knife in the Dark###The Lord of the Rings",
+   "genre": "",
+   "json_path": "source/bbc_the_lord_of_the_rings_disc_3/disc.json",
+   "musicbrainz_id": "KLS8KiMjC.QH23F3YTPgI7zPsIw-",
+   "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",
+   "musicbrainz_string": "6 150 49930 75060 84395 174510 208917 256772",
+   "num_tracks": 6,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_lord_of_the_rings_disc_3",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Opening Titles",
+     "length_seconds": 663733,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Opening Titles",
+     "sectors": 49780,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Sam's Song",
+     "length_seconds": 335066,
+     "number": 2,
+     "offset": 49930,
+     "output_artist": "Unknown artist",
+     "output_title": "Sam's Song",
+     "sectors": 25130,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Aragorn Tells the Story of the Two Lovers",
+     "length_seconds": 124466,
+     "number": 3,
+     "offset": 75060,
+     "output_artist": "Unknown artist",
+     "output_title": "Aragorn Tells the Story of the Two Lovers",
+     "sectors": 9335,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Lord of the Nazgul",
+     "length_seconds": 1201533,
+     "number": 4,
+     "offset": 84395,
+     "output_artist": "Unknown artist",
+     "output_title": "The Lord of the Nazgul",
+     "sectors": 90115,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Precious",
+     "length_seconds": 458760,
+     "number": 5,
+     "offset": 174510,
+     "output_artist": "Unknown artist",
+     "output_title": "The Precious",
+     "sectors": 34407,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Boromir's Dream",
+     "length_seconds": 638066,
+     "number": 6,
+     "offset": 208917,
+     "output_artist": "Unknown artist",
+     "output_title": "Boromir's Dream",
+     "sectors": 47855,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

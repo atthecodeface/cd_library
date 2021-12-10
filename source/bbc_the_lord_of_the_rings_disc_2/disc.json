@@ -1,0 +1,90 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0234": {
+   "album_total_tracks": 10,
+   "album_track_offset": 5,
+   "album_uniq_id": "alb.0145",
+   "artist": "",
+   "cddb_id": "3b0d1005",
+   "cddb_string": "3b0d1005 5 150 32870 58672 171530 225950 3346",
+   "disc_of_set": 2,
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The Black Riders###The Lord of the Rings",
+   "genre": "",
+   "json_path": "source/bbc_the_lord_of_the_rings_disc_2/disc.json",
+   "musicbrainz_id": "7hBOYf08TFxNtbkn_t1pLQWgGds-",
+   "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",
+   "musicbrainz_string": "5 150 32870 58672 171530 225950 251015",
+   "num_tracks": 5,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_lord_of_the_rings_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Opening Titles",
+     "length_seconds": 436266,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Opening Titles",
+     "sectors": 32720,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Shadowfax",
+     "length_seconds": 344026,
+     "number": 2,
+     "offset": 32870,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Shadowfax",
+     "sectors": 25802,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Road Goes Ever On & On",
+     "length_seconds": 1504773,
+     "number": 3,
+     "offset": 58672,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Road Goes Ever On & On",
+     "sectors": 112858,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Frodo Entertains the Customers at The Prancing Pony",
+     "length_seconds": 725600,
+     "number": 4,
+     "offset": 171530,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Frodo Entertains the Customers at The Prancing Pony",
+     "sectors": 54420,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Gandalf's Letter",
+     "length_seconds": 334200,
+     "number": 5,
+     "offset": 225950,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Gandalf's Letter",
+     "sectors": 25065,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

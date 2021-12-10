@@ -1740,6 +1740,18 @@
    "output_title": "Symphonies no. 35 \"Haffner\" / Symphonies nos. 34 and 39",
    "title": ""
   },
+  "alb.0145": {
+   "artist": "",
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The Lord of the Rings",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",
+   "num_discs": 14,
+   "output_title": "The Lord of the Rings",
+   "title": ""
+  },
   "complete_quilter_songbook": {
    "artist": "Roger Quilter, Mark Stone, Stephen Barlow",
    "downloaded_artists": "",
