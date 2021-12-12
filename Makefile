@@ -2,6 +2,9 @@ LIBRARY_ROOT = $(PWD)
 
 HASH_ME = SET_HASH_ME_TO_THE_WILDCARD_IN_SOURCE_TO_HASH_EXCLUDING_FLAC
 
+CD_LIBRARY_MNT = /cd_library
+CD_BACKUP_MNT = /cd_backup
+
 help:
 	@echo "Add help here ${LIBRARY_ROOT}"
 	@echo ""
@@ -78,14 +81,15 @@ rsync_to_mnt: check_in_library_root
 rsync_to_mnt2: check_in_library_root
 	(cd ${LIBRARY_ROOT} && rsync -vrltD mp3 /mnt2)
 
-try_to_backup_mnt3: check_in_library_root
-	(cd ${LIBRARY_ROOT} && rsync -anv ./mp3 ./source /mnt3)
+try_to_cd_library: check_in_library_root
+	(cd ${LIBRARY_ROOT} && rsync -anv ./mp3 ./source ${CD_LIBRARY_MNT})
 
-rsync_to_backup_mnt3: check_in_library_root
-	(cd ${LIBRARY_ROOT} && rsync -av ./mp3 ./source /mnt3)
+rsync_to_cd_library: check_in_library_root
+	(cd ${LIBRARY_ROOT} && rsync -av ./mp3 ./source ${CD_LIBRARY_MNT})
 
 rsync_to_backup_mnt4:
-	rsync -avn ./source /mnt4
+	rsync -avn ./source ${CD_BACKUP_MNT}
+	@echo "Now do: rsync -av ./source ${CD_BACKUP_MNT}"
 
 rsync_to_nas: check_in_library_root
 	(cd ${LIBRARY_ROOT} && rsync -av . writer@10.1.17.34:/nas/audio/turnipdb_library)
