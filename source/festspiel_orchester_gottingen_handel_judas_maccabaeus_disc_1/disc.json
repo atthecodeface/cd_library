@@ -11,7 +11,7 @@
    "disc_of_set": 1,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "",
+   "genre": "choral",
    "json_path": "source/festspiel_orchester_gottingen_handel_judas_maccabaeus_disc_1/disc.json",
    "musicbrainz_id": "uv2xjX.O93wSLfMGv8uvstSKMZY-",
    "musicbrainz_release_id": "",
@@ -152,7 +152,7 @@
      "number": 11,
      "offset": 123308,
      "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
-     "output_title": "Track 11 of 34 of disc 1 of 2",
+     "output_title": "Judas Maccabaeus: Act I. Air and Chorus \"Arm, arm, ye brave!\" (Simon, Chorus)",
      "sectors": 0,
      "title": "Judas Maccabaeus: Act I. Air and Chorus \"Arm, arm, ye brave!\" (Simon, Chorus)"
     },

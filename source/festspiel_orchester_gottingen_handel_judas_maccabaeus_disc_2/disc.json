@@ -11,7 +11,7 @@
    "disc_of_set": 2,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "",
+   "genre": "choral",
    "json_path": "source/festspiel_orchester_gottingen_handel_judas_maccabaeus_disc_2/disc.json",
    "musicbrainz_id": "gxLbb1T0B.yLGXamli1B9naHYZM-",
    "musicbrainz_release_id": "",
@@ -128,7 +128,7 @@
      "number": 9,
      "offset": 79433,
      "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
-     "output_title": "Track 9 of 26 of disc 2 of 2",
+     "output_title": "Judas Maccabaeus: Act II. Recitative \"Ye worshippers of God\" (Israelitish Man, Israelitish Woman)",
      "sectors": 0,
      "title": "Judas Maccabaeus: Act II. Recitative \"Ye worshippers of God\" (Israelitish Man, Israelitish Woman)"
     },
@@ -176,7 +176,7 @@
      "number": 13,
      "offset": 144854,
      "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
-     "output_title": "Track 13 of 26 of disc 2 of 2",
+     "output_title": "Judas Maccabaeus: Act III. Recitative \"See, see yon flames\" (Israelitish Man, Israelitish Woman)",
      "sectors": 0,
      "title": "Judas Maccabaeus: Act III. Recitative \"See, see yon flames\" (Israelitish Man, Israelitish Woman)"
     },
@@ -212,7 +212,7 @@
      "number": 16,
      "offset": 169002,
      "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
-     "output_title": "Track 16 of 26 of disc 2 of 2",
+     "output_title": "Judas Maccabaeus: Act III. Recitative \"From Capharsalama on eagle wings\" (Messengers)",
      "sectors": 0,
      "title": "Judas Maccabaeus: Act III. Recitative \"From Capharsalama on eagle wings\" (Messengers)"
     },
@@ -332,7 +332,7 @@
      "number": 26,
      "offset": 269278,
      "output_artist": "George Frideric Handel, FestspielOrchester Gottingen",
-     "output_title": "Track 26 of 26 of disc 2 of 2",
+     "output_title": "Judas Maccabaeus: Act III. Air and Chorus \"Rejoice, oh Judah!\" (Simon, Chorus)",
      "sectors": 0,
      "title": "Judas Maccabaeus: Act III. Air and Chorus \"Rejoice, oh Judah!\" (Simon, Chorus)"
     }

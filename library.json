@@ -1776,6 +1776,18 @@
    "output_title": "Three Men in a Boat",
    "title": ""
   },
+  "bbc_dorothy_l_sayers_clouds_of_witness": {
+   "artist": "Dorothy L Sayers",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "dramatization",
+   "json_path": "library.json",
+   "label": "BBC Audio",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "Clouds of Witness"
+  },
   "bbc_the_hobbit": {
    "artist": "",
    "downloaded_artists": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
@@ -1800,6 +1812,18 @@
    "output_title": "The Lord of the Rings",
    "title": ""
   },
+  "cameron_mackintosh_les_miserables": {
+   "artist": "",
+   "downloaded_artists": "Claude\u2010Michel Sch\u00f6nberg",
+   "downloaded_titles": "Les Mis\u00e9rables",
+   "genre": "musical",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "2cc4ef40-939a-38fb-9c99-86ca1f3db869",
+   "num_discs": 2,
+   "output_title": "unknown album",
+   "title": ""
+  },
   "complete_quilter_songbook": {
    "artist": "Roger Quilter, Mark Stone, Stephen Barlow",
    "downloaded_artists": "",
@@ -1821,7 +1845,7 @@
    "label": "Simon and Schuster",
    "musicbrainz_release_id": "",
    "num_discs": 9,
-   "output_title": "unknown album",
+   "output_title": "John Adams",
    "title": "John Adams"
   },
   "homer_the_odyssey": {
@@ -1871,6 +1895,18 @@
    "num_discs": 2,
    "output_title": "Round The World in Eight Days",
    "title": "Round The World in Eight Days"
+  },
+  "naxos_three_men_in_a_boat": {
+   "artist": "",
+   "downloaded_artists": "Jerome K. Jerome read by Martin Jarvis",
+   "downloaded_titles": "Three Men in a Boat",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "0a3eb7e6-6bda-4667-a73b-f6a9cf4328e5",
+   "num_discs": 6,
+   "output_title": "unknown album",
+   "title": ""
   },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
