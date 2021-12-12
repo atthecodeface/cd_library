@@ -1776,6 +1776,18 @@
    "output_title": "Three Men in a Boat",
    "title": ""
   },
+  "alb.0148": {
+   "artist": "",
+   "downloaded_artists": "Miguel Cervantes read by Edward de Souza",
+   "downloaded_titles": "Don Quixote",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "5ff23dfc-0587-43e8-a0ad-5730415275c4",
+   "num_discs": 3,
+   "output_title": "Don Quixote",
+   "title": ""
+  },
   "bbc_dorothy_l_sayers_clouds_of_witness": {
    "artist": "Dorothy L Sayers",
    "downloaded_artists": "",
