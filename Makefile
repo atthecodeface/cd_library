@@ -50,15 +50,15 @@ update_source_hashes: check_in_library_root
 verify_source: check_in_library_root
 	@echo "This will always exit with an error return code because of xargs and hashdeep interaction"
 	@echo "It is clean if there are no errored files or reads below"
-	cd ${LIBRARY_ROOT}
-	find source -name *.flac | xargs hashdeep -k source.hashdeep -eX
+	cd ${LIBRARY_ROOT}/source
+	find . -name *.flac | xargs hashdeep -k ../source.hashdeep -elX
 
 .ONESHELL:
 verify_hash: check_in_library_root
 	@echo "This will always exit with an error return code because of xargs and hashdeep interaction"
 	@echo "It is clean if there are no errored files or reads below"
-	cd ${LIBRARY_ROOT}
-	find ${HASH_ME} -name *.flac | xargs hashdeep -k source.hashdeep -eX
+	cd ${LIBRARY_ROOT}/source
+	find ${HASH_ME} -name *.flac | xargs hashdeep -k ../source.hashdeep -elX
 
 .ONESHELL:
 update_mp3_hashes: check_in_library_root
@@ -74,8 +74,8 @@ update_mp3_hashes: check_in_library_root
 verify_mp3: check_in_library_root
 	@echo "This will always exit with an error return code because of xargs and hashdeep interaction"
 	@echo "It is clean if there are no errored files or reads below"
-	cd ${LIBRARY_ROOT}
-	find mp3 -name '*.mp3' | xargs hashdeep -k mp3.hashdeep -eX
+	cd ${LIBRARY_ROOT}/mp3
+	find . -name '*.mp3' | xargs hashdeep -k ../mp3.hashdeep -elX
 
 .ONESHELL:
 find_duplicate_hashes:

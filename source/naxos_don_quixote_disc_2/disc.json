@@ -1,0 +1,138 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0263": {
+   "album_total_tracks": 27,
+   "album_track_offset": 9,
+   "album_uniq_id": "alb.0148",
+   "artist": "",
+   "cddb_id": "720e4009",
+   "cddb_string": "720e4009 9 150 36327 64782 100052 127780 167275 191605 220912 246780 3650",
+   "disc_of_set": 2,
+   "downloaded_artists": "Miguel Cervantes read by Edward de Souza",
+   "downloaded_titles": "Don Quixote",
+   "genre": "",
+   "json_path": "source/naxos_don_quixote_disc_2/disc.json",
+   "musicbrainz_id": "usUVbu7r7na1IVcXxunNeybz6ws-",
+   "musicbrainz_release_id": "5ff23dfc-0587-43e8-a0ad-5730415275c4",
+   "musicbrainz_string": "9 150 36327 64782 100052 127780 167275 191605 220912 246780 273785",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "naxos_don_quixote_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 10, Necromancers - or Benedictine priests",
+     "length_seconds": 482360,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 10, Necromancers - or Benedictine priests",
+     "sectors": 36177,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 11, Fierce hand-to-hand combat",
+     "length_seconds": 379400,
+     "number": 2,
+     "offset": 36327,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 11, Fierce hand-to-hand combat",
+     "sectors": 28455,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 12, Rozinante leads his master astray",
+     "length_seconds": 470266,
+     "number": 3,
+     "offset": 64782,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 12, Rozinante leads his master astray",
+     "sectors": 35270,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 13, Night revels",
+     "length_seconds": 369706,
+     "number": 4,
+     "offset": 100052,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 13, Night revels",
+     "sectors": 27728,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 14, Midnight turmoil",
+     "length_seconds": 526600,
+     "number": 5,
+     "offset": 127780,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 14, Midnight turmoil",
+     "sectors": 39495,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 15, More confusion",
+     "length_seconds": 324400,
+     "number": 6,
+     "offset": 167275,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 15, More confusion",
+     "sectors": 24330,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 16, Poor Sancho Panza suffers more",
+     "length_seconds": 390760,
+     "number": 7,
+     "offset": 191605,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 16, Poor Sancho Panza suffers more",
+     "sectors": 29307,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 17, Don Quixote decides on solitary penance",
+     "length_seconds": 344906,
+     "number": 8,
+     "offset": 220912,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 17, Don Quixote decides on solitary penance",
+     "sectors": 25868,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 18, Reverence for Dulcinea del Toboso",
+     "length_seconds": 360066,
+     "number": 9,
+     "offset": 246780,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 18, Reverence for Dulcinea del Toboso",
+     "sectors": 27005,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

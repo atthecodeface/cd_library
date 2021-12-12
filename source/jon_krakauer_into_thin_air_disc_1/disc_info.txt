@@ -1,0 +1,52 @@
+CddbId:b811091e:[150, 2635, 14734, 21287, 36572, 51617, 61535, 76060, 90845, 106212, 121920, 134275, 143627, 153155, 169707, 182227, 191127, 200972, 210120, 216547, 227647, 236165, 250505, 257742, 270715, 281460, 288332, 297305, 308135, 321552]:327225:74:b811091e 30 150 2635 14734 21287 36572 51617 61535 76060 90845 106212 121920 134275 143627 153155 169707 182227 191127 200972 210120 216547 227647 236165 250505 257742 270715 281460 288332 297305 308135 321552 4363: 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4363
+num_tracks: 30
+offsets: [150, 2635, 14734, 21287, 36572, 51617, 61535, 76060, 90845, 106212, 121920, 134275, 143627, 153155, 169707, 182227, 191127, 200972, 210120, 216547, 227647, 236165, 250505, 257742, 270715, 281460, 288332, 297305, 308135, 321552]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 4363
+cddb: [3088124190, 30, 150, 2635, 14734, 21287, 36572, 51617, 61535, 76060, 90845, 106212, 121920, 134275, 143627, 153155, 169707, 182227, 191127, 200972, 210120, 216547, 227647, 236165, 250505, 257742, 270715, 281460, 288332, 297305, 308135, 321552, 4363]
+musicbrainz: ('30 150 2635 14734 21287 36572 51617 61535 76060 90845 106212 121920 134275 143627 153155 169707 182227 191127 200972 210120 216547 227647 236165 250505 257742 270715 281460 288332 297305 308135 321552 327245', '.70jpvivaeLke16R3iRcTRxrjb8-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'FREECOM_'
+Identification : 'DVD+/-RW16H4    '
+Revision       : 'FR00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO SAO/R96R RAW/R96R
+first: 1 last 30
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: -1
+track:   2 lba:      2485 (     9940) 00:35:10 adr: 1 control: 0 mode: -1
+track:   3 lba:     14584 (    58336) 03:16:34 adr: 1 control: 0 mode: -1
+track:   4 lba:     21137 (    84548) 04:43:62 adr: 1 control: 0 mode: -1
+track:   5 lba:     36422 (   145688) 08:07:47 adr: 1 control: 0 mode: -1
+track:   6 lba:     51467 (   205868) 11:28:17 adr: 1 control: 0 mode: -1
+track:   7 lba:     61385 (   245540) 13:40:35 adr: 1 control: 0 mode: -1
+track:   8 lba:     75910 (   303640) 16:54:10 adr: 1 control: 0 mode: -1
+track:   9 lba:     90695 (   362780) 20:11:20 adr: 1 control: 0 mode: -1
+track:  10 lba:    106062 (   424248) 23:36:12 adr: 1 control: 0 mode: -1
+track:  11 lba:    121770 (   487080) 27:05:45 adr: 1 control: 0 mode: -1
+track:  12 lba:    134125 (   536500) 29:50:25 adr: 1 control: 0 mode: -1
+track:  13 lba:    143477 (   573908) 31:55:02 adr: 1 control: 0 mode: -1
+track:  14 lba:    153005 (   612020) 34:02:05 adr: 1 control: 0 mode: -1
+track:  15 lba:    169557 (   678228) 37:42:57 adr: 1 control: 0 mode: -1
+track:  16 lba:    182077 (   728308) 40:29:52 adr: 1 control: 0 mode: -1
+track:  17 lba:    190977 (   763908) 42:28:27 adr: 1 control: 0 mode: -1
+track:  18 lba:    200822 (   803288) 44:39:47 adr: 1 control: 0 mode: -1
+track:  19 lba:    209970 (   839880) 46:41:45 adr: 1 control: 0 mode: -1
+track:  20 lba:    216397 (   865588) 48:07:22 adr: 1 control: 0 mode: -1
+track:  21 lba:    227497 (   909988) 50:35:22 adr: 1 control: 0 mode: -1
+track:  22 lba:    236015 (   944060) 52:28:65 adr: 1 control: 0 mode: -1
+track:  23 lba:    250355 (  1001420) 55:40:05 adr: 1 control: 0 mode: -1
+track:  24 lba:    257592 (  1030368) 57:16:42 adr: 1 control: 0 mode: -1
+track:  25 lba:    270565 (  1082260) 60:09:40 adr: 1 control: 0 mode: -1
+track:  26 lba:    281310 (  1125240) 62:32:60 adr: 1 control: 0 mode: -1
+track:  27 lba:    288182 (  1152728) 64:04:32 adr: 1 control: 0 mode: -1
+track:  28 lba:    297155 (  1188620) 66:04:05 adr: 1 control: 0 mode: -1
+track:  29 lba:    307985 (  1231940) 68:28:35 adr: 1 control: 0 mode: -1
+track:  30 lba:    321402 (  1285608) 71:27:27 adr: 1 control: 0 mode: -1
+track:lout lba:    327095 (  1308380) 72:43:20 adr: 1 control: 0 mode: -1

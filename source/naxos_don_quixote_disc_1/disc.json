@@ -1,0 +1,138 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0261": {
+   "album_total_tracks": 27,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0148",
+   "artist": "",
+   "cddb_id": "6c0f7a09",
+   "cddb_string": "6c0f7a09 9 150 26027 53830 90072 121427 149320 192697 232900 255025 3964",
+   "disc_of_set": 1,
+   "downloaded_artists": "Miguel Cervantes read by Edward de Souza",
+   "downloaded_titles": "Don Quixote",
+   "genre": "",
+   "json_path": "source/naxos_don_quixote_disc_1/disc.json",
+   "musicbrainz_id": "KpweWQ4XzBjLkv0k9ZuhaJ7PCBU-",
+   "musicbrainz_release_id": "5ff23dfc-0587-43e8-a0ad-5730415275c4",
+   "musicbrainz_string": "9 150 26027 53830 90072 121427 149320 192697 232900 255025 297300",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "naxos_don_quixote_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 1, An old-fashioned gentleman",
+     "length_seconds": 345026,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 1, An old-fashioned gentleman",
+     "sectors": 25877,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 2, The horse is named Rozinante",
+     "length_seconds": 370706,
+     "number": 2,
+     "offset": 26027,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 2, The horse is named Rozinante",
+     "sectors": 27803,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 3, A castle with towers and damsels",
+     "length_seconds": 483226,
+     "number": 3,
+     "offset": 53830,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 3, A castle with towers and damsels",
+     "sectors": 36242,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 4, The Vigil of Arms",
+     "length_seconds": 418066,
+     "number": 4,
+     "offset": 90072,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 4, The Vigil of Arms",
+     "sectors": 31355,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 5, Pandemonium - and Knighthood",
+     "length_seconds": 371906,
+     "number": 5,
+     "offset": 121427,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 5, Pandemonium - and Knighthood",
+     "sectors": 27893,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 6, The knight insists on obeisance to Dulcinea",
+     "length_seconds": 578360,
+     "number": 6,
+     "offset": 149320,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 6, The knight insists on obeisance to Dulcinea",
+     "sectors": 43377,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 7, Romantic fantasies",
+     "length_seconds": 536040,
+     "number": 7,
+     "offset": 192697,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 7, Romantic fantasies",
+     "sectors": 40203,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 8, Sancho Panza becomes a squire",
+     "length_seconds": 295000,
+     "number": 8,
+     "offset": 232900,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 8, Sancho Panza becomes a squire",
+     "sectors": 22125,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 9, Giants - or windmills?",
+     "length_seconds": 563666,
+     "number": 9,
+     "offset": 255025,
+     "output_artist": "Miguel Cervantes read by Edward de Souza",
+     "output_title": "Part 9, Giants - or windmills?",
+     "sectors": 42275,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

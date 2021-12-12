@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0170": {
-   "album_total_tracks": 17,
-   "album_track_offset": 0,
+   "album_total_tracks": 33,
+   "album_track_offset": 16,
    "album_uniq_id": "cameron_mackintosh_les_miserables",
    "artist": "",
    "cddb_id": "f20c0d11",
