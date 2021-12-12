@@ -1,5 +1,6 @@
 [database]
-root = /home/gavin/turnipripper/new_library/
+# root defaults to 'wd'
+# root = /home/gavin/turnipripper/new_library/
 # dbfile = <default name of sqlite database, if used>
 json_root = library.json
 json_disc = disc.json
