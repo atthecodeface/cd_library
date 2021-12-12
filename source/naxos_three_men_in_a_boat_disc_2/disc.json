@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0256": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 78,
+   "album_track_offset": 16,
    "album_uniq_id": "alb.0147",
    "artist": "",
    "cddb_id": "cc0e6e0f",
@@ -31,7 +31,7 @@
      "length_seconds": 245093,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 17",
      "sectors": 18382,
      "title": ""
@@ -43,7 +43,7 @@
      "length_seconds": 257386,
      "number": 2,
      "offset": 18532,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 18",
      "sectors": 19304,
      "title": ""
@@ -55,7 +55,7 @@
      "length_seconds": 236040,
      "number": 3,
      "offset": 37836,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 19",
      "sectors": 17703,
      "title": ""
@@ -67,7 +67,7 @@
      "length_seconds": 196800,
      "number": 4,
      "offset": 55539,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 20",
      "sectors": 14760,
      "title": ""
@@ -79,7 +79,7 @@
      "length_seconds": 209306,
      "number": 5,
      "offset": 70299,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 21",
      "sectors": 15698,
      "title": ""
@@ -91,7 +91,7 @@
      "length_seconds": 266680,
      "number": 6,
      "offset": 85997,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 22",
      "sectors": 20001,
      "title": ""
@@ -103,7 +103,7 @@
      "length_seconds": 263760,
      "number": 7,
      "offset": 105998,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 23",
      "sectors": 19782,
      "title": ""
@@ -115,7 +115,7 @@
      "length_seconds": 313066,
      "number": 8,
      "offset": 125780,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 24",
      "sectors": 23480,
      "title": ""
@@ -127,7 +127,7 @@
      "length_seconds": 265426,
      "number": 9,
      "offset": 149260,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 25",
      "sectors": 19907,
      "title": ""
@@ -139,7 +139,7 @@
      "length_seconds": 287866,
      "number": 10,
      "offset": 169167,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 26",
      "sectors": 21590,
      "title": ""
@@ -151,7 +151,7 @@
      "length_seconds": 243173,
      "number": 11,
      "offset": 190757,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 27",
      "sectors": 18238,
      "title": ""
@@ -163,7 +163,7 @@
      "length_seconds": 224186,
      "number": 12,
      "offset": 208995,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 28",
      "sectors": 16814,
      "title": ""
@@ -175,7 +175,7 @@
      "length_seconds": 267586,
      "number": 13,
      "offset": 225809,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 29",
      "sectors": 20069,
      "title": ""
@@ -187,7 +187,7 @@
      "length_seconds": 228026,
      "number": 14,
      "offset": 245878,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 30",
      "sectors": 17102,
      "title": ""
@@ -199,7 +199,7 @@
      "length_seconds": 190546,
      "number": 15,
      "offset": 262980,
-     "output_artist": "Unknown artist",
+     "output_artist": "Jerome K. Jerome read by Martin Jarvis",
      "output_title": "Part 31",
      "sectors": 14291,
      "title": ""
