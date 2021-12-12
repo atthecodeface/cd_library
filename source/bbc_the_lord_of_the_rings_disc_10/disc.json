@@ -1,0 +1,114 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0243": {
+   "album_total_tracks": 71,
+   "album_track_offset": 51,
+   "album_uniq_id": "alb.0145",
+   "artist": "",
+   "cddb_id": "5b0ddb07",
+   "cddb_string": "5b0ddb07 7 150 20440 56302 82070 100457 133767 237555 3549",
+   "disc_of_set": 10,
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The Choices of Master Samwise###The Lord of the Rings",
+   "genre": "",
+   "json_path": "source/bbc_the_lord_of_the_rings_disc_10/disc.json",
+   "musicbrainz_id": "kQeeqW_lOP1bBfaD9q7qfh2b6_E-",
+   "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",
+   "musicbrainz_string": "7 150 20440 56302 82070 100457 133767 237555 266215",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_lord_of_the_rings_disc_10",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Opening Titles",
+     "length_seconds": 270533,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Opening Titles",
+     "sectors": 20290,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Minas Morgul",
+     "length_seconds": 478160,
+     "number": 2,
+     "offset": 20440,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Minas Morgul",
+     "sectors": 35862,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Worst Places in the Story",
+     "length_seconds": 343573,
+     "number": 3,
+     "offset": 56302,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Worst Places in the Story",
+     "sectors": 25768,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Shades of Dunharrow",
+     "length_seconds": 245160,
+     "number": 4,
+     "offset": 82070,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Shades of Dunharrow",
+     "sectors": 18387,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Smeagol's Plans",
+     "length_seconds": 444133,
+     "number": 5,
+     "offset": 100457,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Smeagol's Plans",
+     "sectors": 33310,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Lair of Shelob",
+     "length_seconds": 1383840,
+     "number": 6,
+     "offset": 133767,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Lair of Shelob",
+     "sectors": 103788,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "In Western Lands",
+     "length_seconds": 382133,
+     "number": 7,
+     "offset": 237555,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "In Western Lands",
+     "sectors": 28660,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0236": {
+   "album_total_tracks": 71,
+   "album_track_offset": 16,
+   "album_uniq_id": "alb.0145",
+   "artist": "",
+   "cddb_id": "530cd606",
+   "cddb_string": "530cd606 6 150 59427 95740 137775 168840 205925 3288",
+   "disc_of_set": 4,
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The Ring Goes South###The Lord of the Rings",
+   "genre": "",
+   "json_path": "source/bbc_the_lord_of_the_rings_disc_4/disc.json",
+   "musicbrainz_id": "NDhT2GgPeZRPMZ6goUXBsK22bCg-",
+   "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",
+   "musicbrainz_string": "6 150 59427 95740 137775 168840 205925 246637",
+   "num_tracks": 6,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_lord_of_the_rings_disc_4",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Opening Titles",
+     "length_seconds": 790360,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Opening Titles",
+     "sectors": 59277,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Climb to Caradhras",
+     "length_seconds": 484173,
+     "number": 2,
+     "offset": 59427,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Climb to Caradhras",
+     "sectors": 36313,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Gandalf is Here!",
+     "length_seconds": 560466,
+     "number": 3,
+     "offset": 95740,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Gandalf is Here!",
+     "sectors": 42035,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Mines of Moria",
+     "length_seconds": 414200,
+     "number": 4,
+     "offset": 137775,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Mines of Moria",
+     "sectors": 31065,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Gimli's Poem on Moria",
+     "length_seconds": 494466,
+     "number": 5,
+     "offset": 168840,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Gimli's Poem on Moria",
+     "sectors": 37085,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Drums in the Deep",
+     "length_seconds": 542826,
+     "number": 6,
+     "offset": 205925,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Drums in the Deep",
+     "sectors": 40712,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

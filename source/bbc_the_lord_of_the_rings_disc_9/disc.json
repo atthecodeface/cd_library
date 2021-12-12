@@ -1,0 +1,102 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0240": {
+   "album_total_tracks": 71,
+   "album_track_offset": 45,
+   "album_uniq_id": "alb.0145",
+   "artist": "",
+   "cddb_id": "4e0dcf06",
+   "cddb_string": "4e0dcf06 6 150 21605 97852 127987 184995 253160 3537",
+   "disc_of_set": 9,
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The Two Towers###The Lord of the Rings",
+   "genre": "",
+   "json_path": "source/bbc_the_lord_of_the_rings_disc_9/disc.json",
+   "musicbrainz_id": "LqRu6Z53mV0AwdMKCqM1invmCgk-",
+   "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",
+   "musicbrainz_string": "6 150 21605 97852 127987 184995 253160 265277",
+   "num_tracks": 6,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_lord_of_the_rings_disc_9",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Opening Titles",
+     "length_seconds": 286066,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Opening Titles",
+     "sectors": 21455,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Horn of Boromir",
+     "length_seconds": 1016626,
+     "number": 2,
+     "offset": 21605,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Horn of Boromir",
+     "sectors": 76247,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Oath-breakers",
+     "length_seconds": 401800,
+     "number": 3,
+     "offset": 97852,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Oath-breakers",
+     "sectors": 30135,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Precious Will be Angry",
+     "length_seconds": 760106,
+     "number": 4,
+     "offset": 127987,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Precious Will be Angry",
+     "sectors": 57008,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Pippin's Oath",
+     "length_seconds": 908866,
+     "number": 5,
+     "offset": 184995,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Pippin's Oath",
+     "sectors": 68165,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Forth Rode the King",
+     "length_seconds": 161560,
+     "number": 6,
+     "offset": 253160,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Forth Rode the King",
+     "sectors": 12117,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

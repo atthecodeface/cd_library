@@ -1,0 +1,102 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0244": {
+   "album_total_tracks": 71,
+   "album_track_offset": 58,
+   "album_uniq_id": "alb.0145",
+   "artist": "",
+   "cddb_id": "550d6906",
+   "cddb_string": "550d6906 6 150 45985 65102 116890 179685 204825 3435",
+   "disc_of_set": 11,
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The Battle of Pelennor Fields###The Lord of the Rings",
+   "genre": "",
+   "json_path": "source/bbc_the_lord_of_the_rings_disc_11/disc.json",
+   "musicbrainz_id": "WEHZP1mprEkCOyomMewoFmSTW1s-",
+   "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",
+   "musicbrainz_string": "6 150 45985 65102 116890 179685 204825 257625",
+   "num_tracks": 6,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_lord_of_the_rings_disc_11",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Opening Titles",
+     "length_seconds": 611133,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Opening Titles",
+     "sectors": 45835,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Grond",
+     "length_seconds": 254893,
+     "number": 2,
+     "offset": 45985,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Grond",
+     "sectors": 19117,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Battle of the Pelennor Fields",
+     "length_seconds": 690506,
+     "number": 3,
+     "offset": 65102,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Battle of the Pelennor Fields",
+     "sectors": 51788,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Denethor's Downfall",
+     "length_seconds": 837266,
+     "number": 4,
+     "offset": 116890,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Denethor's Downfall",
+     "sectors": 62795,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Hands of the Healer",
+     "length_seconds": 335200,
+     "number": 5,
+     "offset": 179685,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Hands of the Healer",
+     "sectors": 25140,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Smoke Then and Think of Him",
+     "length_seconds": 704000,
+     "number": 6,
+     "offset": 204825,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Smoke Then and Think of Him",
+     "sectors": 52800,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0242": {
+   "album_total_tracks": 71,
+   "album_track_offset": 64,
+   "album_uniq_id": "alb.0145",
+   "artist": "",
+   "cddb_id": "560d9b07",
+   "cddb_string": "560d9b07 7 150 32235 82832 121590 141542 205910 235730 3485",
+   "disc_of_set": 12,
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "Mount Doom###The Lord of the Rings",
+   "genre": "",
+   "json_path": "source/bbc_the_lord_of_the_rings_disc_12/disc.json",
+   "musicbrainz_id": "VCDuvQ2MPf_fPKXVuI9xDUgwlws-",
+   "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",
+   "musicbrainz_string": "7 150 32235 82832 121590 141542 205910 235730 261375",
+   "num_tracks": 7,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_lord_of_the_rings_disc_12",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Opening Titles",
+     "length_seconds": 427800,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Opening Titles",
+     "sectors": 32085,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Naked in the Dark",
+     "length_seconds": 674626,
+     "number": 2,
+     "offset": 32235,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Naked in the Dark",
+     "sectors": 50597,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Mouth of Sauron",
+     "length_seconds": 516773,
+     "number": 3,
+     "offset": 82832,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Mouth of Sauron",
+     "sectors": 38758,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Ring is Mine",
+     "length_seconds": 266026,
+     "number": 4,
+     "offset": 121590,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Ring is Mine",
+     "sectors": 19952,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Bitter End",
+     "length_seconds": 858240,
+     "number": 5,
+     "offset": 141542,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Bitter End",
+     "sectors": 64368,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The White Trees of Numenor",
+     "length_seconds": 397600,
+     "number": 6,
+     "offset": 205910,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The White Trees of Numenor",
+     "sectors": 29820,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "As a Father You Were to Me",
+     "length_seconds": 341933,
+     "number": 7,
+     "offset": 235730,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "As a Father You Were to Me",
+     "sectors": 25645,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

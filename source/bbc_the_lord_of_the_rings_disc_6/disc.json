@@ -1,0 +1,102 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0238": {
+   "album_total_tracks": 71,
+   "album_track_offset": 27,
+   "album_uniq_id": "alb.0145",
+   "artist": "",
+   "cddb_id": "3a0d4406",
+   "cddb_string": "3a0d4406 6 150 24895 97611 184234 213035 227159 3398",
+   "disc_of_set": 6,
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The Breaking of the Fellowship###The Lord of the Rings",
+   "genre": "",
+   "json_path": "source/bbc_the_lord_of_the_rings_disc_6/disc.json",
+   "musicbrainz_id": "4juhmAJfxDtZiohjCIYH2.wL5dc-",
+   "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",
+   "musicbrainz_string": "6 150 24895 97611 184234 213035 227159 254862",
+   "num_tracks": 6,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_lord_of_the_rings_disc_6",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Opening Titles",
+     "length_seconds": 329933,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Opening Titles",
+     "sectors": 24745,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Boromir's Final Journey",
+     "length_seconds": 969546,
+     "number": 2,
+     "offset": 24895,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Boromir's Final Journey",
+     "sectors": 72716,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Treebeard",
+     "length_seconds": 1154973,
+     "number": 3,
+     "offset": 97611,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Treebeard",
+     "sectors": 86623,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Pity and the Precious",
+     "length_seconds": 384013,
+     "number": 4,
+     "offset": 184234,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Pity and the Precious",
+     "sectors": 28801,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Smeagol's Promise",
+     "length_seconds": 188320,
+     "number": 5,
+     "offset": 213035,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Smeagol's Promise",
+     "sectors": 14124,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Gandalf the White",
+     "length_seconds": 369373,
+     "number": 6,
+     "offset": 227159,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Gandalf the White",
+     "sectors": 27703,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

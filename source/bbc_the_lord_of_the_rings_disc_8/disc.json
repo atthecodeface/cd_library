@@ -1,0 +1,102 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0241": {
+   "album_total_tracks": 71,
+   "album_track_offset": 39,
+   "album_uniq_id": "alb.0145",
+   "artist": "",
+   "cddb_id": "4d0d4a06",
+   "cddb_string": "4d0d4a06 6 150 23733 38842 88074 119008 209372 3404",
+   "disc_of_set": 8,
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The Voice of Saruman###The Lord of the Rings",
+   "genre": "",
+   "json_path": "source/bbc_the_lord_of_the_rings_disc_8/disc.json",
+   "musicbrainz_id": "mNDNoMzsJblqX3JrKsIiawro8Ao-",
+   "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",
+   "musicbrainz_string": "6 150 23733 38842 88074 119008 209372 255317",
+   "num_tracks": 6,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_lord_of_the_rings_disc_8",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Opening Titles",
+     "length_seconds": 314440,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Opening Titles",
+     "sectors": 23583,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Pipe-smokers",
+     "length_seconds": 201453,
+     "number": 2,
+     "offset": 23733,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Pipe-smokers",
+     "sectors": 15109,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Saruman Speaks",
+     "length_seconds": 656426,
+     "number": 3,
+     "offset": 38842,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Saruman Speaks",
+     "sectors": 49232,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Palantir",
+     "length_seconds": 412453,
+     "number": 4,
+     "offset": 88074,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Palantir",
+     "sectors": 30934,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Teeth of Mordor",
+     "length_seconds": 1204853,
+     "number": 5,
+     "offset": 119008,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Teeth of Mordor",
+     "sectors": 90364,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Stone of Orthanc",
+     "length_seconds": 612600,
+     "number": 6,
+     "offset": 209372,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Stone of Orthanc",
+     "sectors": 45945,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

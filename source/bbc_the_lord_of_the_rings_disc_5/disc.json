@@ -1,0 +1,90 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0237": {
+   "album_total_tracks": 71,
+   "album_track_offset": 22,
+   "album_uniq_id": "alb.0145",
+   "artist": "",
+   "cddb_id": "380d0605",
+   "cddb_string": "380d0605 5 150 73890 99920 161335 204930 3336",
+   "disc_of_set": 5,
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The Mirror of Galadriel###The Lord of the Rings",
+   "genre": "",
+   "json_path": "source/bbc_the_lord_of_the_rings_disc_5/disc.json",
+   "musicbrainz_id": "_ue3Iu3YOYzH83etAE9dKwYEhyk-",
+   "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",
+   "musicbrainz_string": "5 150 73890 99920 161335 204930 250230",
+   "num_tracks": 5,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_lord_of_the_rings_disc_5",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Opening Titles",
+     "length_seconds": 983200,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Opening Titles",
+     "sectors": 73740,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "An Old Man in a Battered Hat",
+     "length_seconds": 347066,
+     "number": 2,
+     "offset": 73890,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "An Old Man in a Battered Hat",
+     "sectors": 26030,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Mirror of Galadriel",
+     "length_seconds": 818866,
+     "number": 3,
+     "offset": 99920,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Mirror of Galadriel",
+     "sectors": 61415,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "O L\u00f3rien",
+     "length_seconds": 581266,
+     "number": 4,
+     "offset": 161335,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "O L\u00f3rien",
+     "sectors": 43595,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Temptation of Boromir",
+     "length_seconds": 604000,
+     "number": 5,
+     "offset": 204930,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Temptation of Boromir",
+     "sectors": 45300,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0235": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 71,
+   "album_track_offset": 10,
    "album_uniq_id": "alb.0145",
    "artist": "",
    "cddb_id": "400d5d06",
@@ -31,7 +31,7 @@
      "length_seconds": 663733,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "J.R.R. Tolkien",
      "output_title": "Opening Titles",
      "sectors": 49780,
      "title": ""
@@ -43,7 +43,7 @@
      "length_seconds": 335066,
      "number": 2,
      "offset": 49930,
-     "output_artist": "Unknown artist",
+     "output_artist": "J.R.R. Tolkien",
      "output_title": "Sam's Song",
      "sectors": 25130,
      "title": ""
@@ -55,7 +55,7 @@
      "length_seconds": 124466,
      "number": 3,
      "offset": 75060,
-     "output_artist": "Unknown artist",
+     "output_artist": "J.R.R. Tolkien",
      "output_title": "Aragorn Tells the Story of the Two Lovers",
      "sectors": 9335,
      "title": ""
@@ -67,7 +67,7 @@
      "length_seconds": 1201533,
      "number": 4,
      "offset": 84395,
-     "output_artist": "Unknown artist",
+     "output_artist": "J.R.R. Tolkien",
      "output_title": "The Lord of the Nazgul",
      "sectors": 90115,
      "title": ""
@@ -79,7 +79,7 @@
      "length_seconds": 458760,
      "number": 5,
      "offset": 174510,
-     "output_artist": "Unknown artist",
+     "output_artist": "J.R.R. Tolkien",
      "output_title": "The Precious",
      "sectors": 34407,
      "title": ""
@@ -91,7 +91,7 @@
      "length_seconds": 638066,
      "number": 6,
      "offset": 208917,
-     "output_artist": "Unknown artist",
+     "output_artist": "J.R.R. Tolkien",
      "output_title": "Boromir's Dream",
      "sectors": 47855,
      "title": ""

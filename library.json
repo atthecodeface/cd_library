@@ -1752,6 +1752,18 @@
    "output_title": "The Lord of the Rings",
    "title": ""
   },
+  "alb.0146": {
+   "artist": "",
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The Lord of the Rings",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "ace77dbd-211a-452d-8ddb-cfa7be8ba0e3",
+   "num_discs": 13,
+   "output_title": "The Lord of the Rings",
+   "title": ""
+  },
   "complete_quilter_songbook": {
    "artist": "Roger Quilter, Mark Stone, Stephen Barlow",
    "downloaded_artists": "",

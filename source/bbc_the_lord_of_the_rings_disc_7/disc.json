@@ -1,0 +1,102 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0239": {
+   "album_total_tracks": 71,
+   "album_track_offset": 33,
+   "album_uniq_id": "alb.0145",
+   "artist": "",
+   "cddb_id": "5b0cfc06",
+   "cddb_string": "5b0cfc06 6 150 72695 132502 177100 196340 203162 3326",
+   "disc_of_set": 7,
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The King of the Golden Hall###The Lord of the Rings",
+   "genre": "",
+   "json_path": "source/bbc_the_lord_of_the_rings_disc_7/disc.json",
+   "musicbrainz_id": "QQg6nCikkm8yPmfaXkhmKKSg1Sg-",
+   "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",
+   "musicbrainz_string": "6 150 72695 132502 177100 196340 203162 249520",
+   "num_tracks": 6,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_lord_of_the_rings_disc_7",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Opening Titles",
+     "length_seconds": 967266,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Opening Titles",
+     "sectors": 72545,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Marshes of the Dead",
+     "length_seconds": 797426,
+     "number": 2,
+     "offset": 72695,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Marshes of the Dead",
+     "sectors": 59807,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Winged Terror",
+     "length_seconds": 594640,
+     "number": 3,
+     "offset": 132502,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Winged Terror",
+     "sectors": 44598,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Gate of Helm",
+     "length_seconds": 256533,
+     "number": 4,
+     "offset": 177100,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Gate of Helm",
+     "sectors": 19240,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Gandalf Comes to Isengard",
+     "length_seconds": 90960,
+     "number": 5,
+     "offset": 196340,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Gandalf Comes to Isengard",
+     "sectors": 6822,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Battle of Helm's Deep",
+     "length_seconds": 618106,
+     "number": 6,
+     "offset": 203162,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "The Battle of Helm's Deep",
+     "sectors": 46358,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

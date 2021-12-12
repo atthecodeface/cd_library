@@ -1,0 +1,90 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0245": {
+   "album_total_tracks": 5,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0146",
+   "artist": "",
+   "cddb_id": "350dc305",
+   "cddb_string": "350dc305 5 150 34396 62515 170319 226136 3525",
+   "disc_of_set": 13,
+   "downloaded_artists": "J.R.R. Tolkien",
+   "downloaded_titles": "The Grey Havens###The Lord of the Rings",
+   "genre": "",
+   "json_path": "source/bbc_the_lord_of_the_rings_disc_13/disc.json",
+   "musicbrainz_id": "8vXU2StcOJr9TUR49bIiAwQjt3E-",
+   "musicbrainz_release_id": "ace77dbd-211a-452d-8ddb-cfa7be8ba0e3",
+   "musicbrainz_string": "5 150 34396 62515 170319 226136 264424",
+   "num_tracks": 5,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "bbc_the_lord_of_the_rings_disc_13",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Certainly Changed This Place",
+     "length_seconds": 456613,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Certainly Changed This Place",
+     "sectors": 34246,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Our Paths Too Must Part",
+     "length_seconds": 374920,
+     "number": 2,
+     "offset": 34396,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "Our Paths Too Must Part",
+     "sectors": 28119,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I Shall Miss You",
+     "length_seconds": 1437386,
+     "number": 3,
+     "offset": 62515,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "I Shall Miss You",
+     "sectors": 107804,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "You Ninnyhammer Sam",
+     "length_seconds": 744226,
+     "number": 4,
+     "offset": 170319,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "You Ninnyhammer Sam",
+     "sectors": 55817,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "His Last Song",
+     "length_seconds": 510146,
+     "number": 5,
+     "offset": 226136,
+     "output_artist": "J.R.R. Tolkien",
+     "output_title": "His Last Song",
+     "sectors": 38288,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
