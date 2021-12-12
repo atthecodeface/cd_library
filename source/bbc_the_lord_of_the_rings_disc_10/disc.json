@@ -2,7 +2,7 @@
  "albums": {},
  "discs": {
   "disc.0243": {
-   "album_total_tracks": 71,
+   "album_total_tracks": 76,
    "album_track_offset": 51,
    "album_uniq_id": "bbc_the_lord_of_the_rings",
    "artist": "",
@@ -11,7 +11,7 @@
    "disc_of_set": 10,
    "downloaded_artists": "J.R.R. Tolkien",
    "downloaded_titles": "The Choices of Master Samwise###The Lord of the Rings",
-   "genre": "",
+   "genre": "dramatization",
    "json_path": "source/bbc_the_lord_of_the_rings_disc_10/disc.json",
    "musicbrainz_id": "kQeeqW_lOP1bBfaD9q7qfh2b6_E-",
    "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",

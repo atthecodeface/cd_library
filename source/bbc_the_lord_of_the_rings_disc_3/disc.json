@@ -2,7 +2,7 @@
  "albums": {},
  "discs": {
   "disc.0235": {
-   "album_total_tracks": 71,
+   "album_total_tracks": 76,
    "album_track_offset": 10,
    "album_uniq_id": "bbc_the_lord_of_the_rings",
    "artist": "",
@@ -11,7 +11,7 @@
    "disc_of_set": 3,
    "downloaded_artists": "J.R.R. Tolkien",
    "downloaded_titles": "The Knife in the Dark###The Lord of the Rings",
-   "genre": "",
+   "genre": "dramatization",
    "json_path": "source/bbc_the_lord_of_the_rings_disc_3/disc.json",
    "musicbrainz_id": "KLS8KiMjC.QH23F3YTPgI7zPsIw-",
    "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",

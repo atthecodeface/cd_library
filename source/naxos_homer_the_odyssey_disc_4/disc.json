@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0224": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 48,
+   "album_track_offset": 38,
    "album_uniq_id": "homer_the_odyssey",
    "artist": "",
    "cddb_id": "7b0ea80a",
@@ -11,7 +11,7 @@
    "disc_of_set": 4,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "",
+   "genre": "audiobook",
    "json_path": "source/naxos_homer_the_odyssey_disc_4/disc.json",
    "musicbrainz_id": "b5WfLnyy_9i2a3hxfqYSappNdHg-",
    "musicbrainz_release_id": "",

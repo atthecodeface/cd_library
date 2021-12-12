@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0213": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 24,
+   "album_track_offset": 11,
    "album_uniq_id": "jules_verne_round_the_world",
    "artist": "",
    "cddb_id": "d412240d",
@@ -11,7 +11,7 @@
    "disc_of_set": 2,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "",
+   "genre": "audiobook",
    "json_path": "source/naxos_jules_verne_around_the_world_in_eighty_days_disc_2/disc.json",
    "musicbrainz_id": "L5V0gbhHZdLFRkd.hay8Ylu1cgA-",
    "musicbrainz_release_id": "",

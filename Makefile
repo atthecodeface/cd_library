@@ -1,3 +1,4 @@
+
 LIBRARY_ROOT = $(PWD)
 
 HASH_ME = SET_HASH_ME_TO_THE_WILDCARD_IN_SOURCE_TO_HASH_EXCLUDING_FLAC
@@ -50,7 +51,14 @@ verify_source: check_in_library_root
 	@echo "This will always exit with an error return code because of xargs and hashdeep interaction"
 	@echo "It is clean if there are no errored files or reads below"
 	cd ${LIBRARY_ROOT}
-	find source -name '*.flac' | xargs hashdeep -k source.hashdeep -eX
+	find source -name *.flac | xargs hashdeep -k source.hashdeep -eX
+
+.ONESHELL:
+verify_hash: check_in_library_root
+	@echo "This will always exit with an error return code because of xargs and hashdeep interaction"
+	@echo "It is clean if there are no errored files or reads below"
+	cd ${LIBRARY_ROOT}
+	find ${HASH_ME} -name *.flac | xargs hashdeep -k source.hashdeep -eX
 
 .ONESHELL:
 update_mp3_hashes: check_in_library_root

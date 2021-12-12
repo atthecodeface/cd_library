@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0245": {
-   "album_total_tracks": 5,
-   "album_track_offset": 0,
+   "album_total_tracks": 76,
+   "album_track_offset": 71,
    "album_uniq_id": "bbc_the_lord_of_the_rings",
    "artist": "",
    "cddb_id": "350dc305",
@@ -11,7 +11,7 @@
    "disc_of_set": 13,
    "downloaded_artists": "J.R.R. Tolkien",
    "downloaded_titles": "The Grey Havens###The Lord of the Rings",
-   "genre": "",
+   "genre": "dramatization",
    "json_path": "source/bbc_the_lord_of_the_rings_disc_13/disc.json",
    "musicbrainz_id": "8vXU2StcOJr9TUR49bIiAwQjt3E-",
    "musicbrainz_release_id": "ace77dbd-211a-452d-8ddb-cfa7be8ba0e3",

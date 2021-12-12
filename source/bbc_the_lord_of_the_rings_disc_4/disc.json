@@ -2,7 +2,7 @@
  "albums": {},
  "discs": {
   "disc.0236": {
-   "album_total_tracks": 71,
+   "album_total_tracks": 76,
    "album_track_offset": 16,
    "album_uniq_id": "bbc_the_lord_of_the_rings",
    "artist": "",
@@ -11,7 +11,7 @@
    "disc_of_set": 4,
    "downloaded_artists": "J.R.R. Tolkien",
    "downloaded_titles": "The Ring Goes South###The Lord of the Rings",
-   "genre": "",
+   "genre": "dramatization",
    "json_path": "source/bbc_the_lord_of_the_rings_disc_4/disc.json",
    "musicbrainz_id": "NDhT2GgPeZRPMZ6goUXBsK22bCg-",
    "musicbrainz_release_id": "25ecceca-d5f3-4349-b4d1-461ffc79c040",

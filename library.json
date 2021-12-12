@@ -1764,6 +1764,18 @@
    "output_title": "The Lord of the Rings",
    "title": ""
   },
+  "alb.0147": {
+   "artist": "",
+   "downloaded_artists": "Jerome K. Jerome read by Martin Jarvis",
+   "downloaded_titles": "Three Men in a Boat",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "0a3eb7e6-6bda-4667-a73b-f6a9cf4328e5",
+   "num_discs": 6,
+   "output_title": "Three Men in a Boat",
+   "title": ""
+  },
   "bbc_the_hobbit": {
    "artist": "",
    "downloaded_artists": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
