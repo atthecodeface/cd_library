@@ -1,0 +1,56 @@
+CddbId:fd104e22:[150, 11082, 18987, 31580, 36750, 42620, 56125, 67092, 75825, 81420, 94187, 103085, 114292, 120872, 133085, 143652, 155100, 164260, 173350, 181640, 188525, 201005, 210955, 224935, 234425, 242457, 251700, 257962, 269702, 274492, 282675, 291747, 298065, 310832]:313200:74:fd104e22 34 150 11082 18987 31580 36750 42620 56125 67092 75825 81420 94187 103085 114292 120872 133085 143652 155100 164260 173350 181640 188525 201005 210955 224935 234425 242457 251700 257962 269702 274492 282675 291747 298065 310832 4176: 34 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4176
+num_tracks: 34
+offsets: [150, 11082, 18987, 31580, 36750, 42620, 56125, 67092, 75825, 81420, 94187, 103085, 114292, 120872, 133085, 143652, 155100, 164260, 173350, 181640, 188525, 201005, 210955, 224935, 234425, 242457, 251700, 257962, 269702, 274492, 282675, 291747, 298065, 310832]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 4176
+cddb: [4245704226, 34, 150, 11082, 18987, 31580, 36750, 42620, 56125, 67092, 75825, 81420, 94187, 103085, 114292, 120872, 133085, 143652, 155100, 164260, 173350, 181640, 188525, 201005, 210955, 224935, 234425, 242457, 251700, 257962, 269702, 274492, 282675, 291747, 298065, 310832, 4176]
+musicbrainz: ('34 150 11082 18987 31580 36750 42620 56125 67092 75825 81420 94187 103085 114292 120872 133085 143652 155100 164260 173350 181640 188525 201005 210955 224935 234425 242457 251700 257962 269702 274492 282675 291747 298065 310832 313272', 'LHxPXj8iGgz8LPnpKT3iyjrzcko-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'MATSHITA'
+Identification : 'BD-MLT UJ240AS  '
+Revision       : '1.00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO RAW/R16 RAW/R96P RAW/R96R
+first: 1 last 34
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: 0
+track:   2 lba:     10932 (    43728) 02:27:57 adr: 1 control: 0 mode: 0
+track:   3 lba:     18837 (    75348) 04:13:12 adr: 1 control: 0 mode: 0
+track:   4 lba:     31430 (   125720) 07:01:05 adr: 1 control: 0 mode: 0
+track:   5 lba:     36600 (   146400) 08:10:00 adr: 1 control: 0 mode: 0
+track:   6 lba:     42470 (   169880) 09:28:20 adr: 1 control: 0 mode: 0
+track:   7 lba:     55975 (   223900) 12:28:25 adr: 1 control: 0 mode: 0
+track:   8 lba:     66942 (   267768) 14:54:42 adr: 1 control: 0 mode: 0
+track:   9 lba:     75675 (   302700) 16:51:00 adr: 1 control: 0 mode: 0
+track:  10 lba:     81270 (   325080) 18:05:45 adr: 1 control: 0 mode: 0
+track:  11 lba:     94037 (   376148) 20:55:62 adr: 1 control: 0 mode: 0
+track:  12 lba:    102935 (   411740) 22:54:35 adr: 1 control: 0 mode: 0
+track:  13 lba:    114142 (   456568) 25:23:67 adr: 1 control: 0 mode: 0
+track:  14 lba:    120722 (   482888) 26:51:47 adr: 1 control: 0 mode: 0
+track:  15 lba:    132935 (   531740) 29:34:35 adr: 1 control: 0 mode: 0
+track:  16 lba:    143502 (   574008) 31:55:27 adr: 1 control: 0 mode: 0
+track:  17 lba:    154950 (   619800) 34:28:00 adr: 1 control: 0 mode: 0
+track:  18 lba:    164110 (   656440) 36:30:10 adr: 1 control: 0 mode: 0
+track:  19 lba:    173200 (   692800) 38:31:25 adr: 1 control: 0 mode: 0
+track:  20 lba:    181490 (   725960) 40:21:65 adr: 1 control: 0 mode: 0
+track:  21 lba:    188375 (   753500) 41:53:50 adr: 1 control: 0 mode: 0
+track:  22 lba:    200855 (   803420) 44:40:05 adr: 1 control: 0 mode: 0
+track:  23 lba:    210805 (   843220) 46:52:55 adr: 1 control: 0 mode: 0
+track:  24 lba:    224785 (   899140) 49:59:10 adr: 1 control: 0 mode: 0
+track:  25 lba:    234275 (   937100) 52:05:50 adr: 1 control: 0 mode: 0
+track:  26 lba:    242307 (   969228) 53:52:57 adr: 1 control: 0 mode: 0
+track:  27 lba:    251550 (  1006200) 55:56:00 adr: 1 control: 0 mode: 0
+track:  28 lba:    257812 (  1031248) 57:19:37 adr: 1 control: 0 mode: 0
+track:  29 lba:    269552 (  1078208) 59:56:02 adr: 1 control: 0 mode: 0
+track:  30 lba:    274342 (  1097368) 60:59:67 adr: 1 control: 0 mode: 0
+track:  31 lba:    282525 (  1130100) 62:49:00 adr: 1 control: 0 mode: 0
+track:  32 lba:    291597 (  1166388) 64:49:72 adr: 1 control: 0 mode: 0
+track:  33 lba:    297915 (  1191660) 66:14:15 adr: 1 control: 0 mode: 0
+track:  34 lba:    310682 (  1242728) 69:04:32 adr: 1 control: 0 mode: 0
+track:lout lba:    313122 (  1252488) 69:36:72 adr: 1 control: 0 mode: -1

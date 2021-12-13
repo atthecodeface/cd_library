@@ -1,0 +1,24 @@
+CddbId:16117902:[150, 192575]:335625:74:16117902 2 150 192575 4475: 2 0 0 4475
+num_tracks: 2
+offsets: [150, 192575]
+extents: [0, 0]
+total_length: 4475
+cddb: [370243842, 2, 150, 192575, 4475]
+musicbrainz: ('2 150 192575 335627', 'HBsRL1vcobj_spfe6n0lJb0UIZE-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'FREECOM_'
+Identification : 'DVD+/-RW16H4    '
+Revision       : 'FR00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO SAO/R96R RAW/R96R
+first: 1 last 2
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: -1
+track:   2 lba:    192425 (   769700) 42:47:50 adr: 1 control: 0 mode: -1
+track:lout lba:    335477 (  1341908) 74:35:02 adr: 1 control: 0 mode: -1

@@ -1,0 +1,78 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0269": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "",
+   "artist": "",
+   "cddb_id": "3911bb04",
+   "cddb_string": "3911bb04 4 150 7402 111672 184882 4541",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "",
+   "json_path": "source/best_american_short_stories_disc_1/disc.json",
+   "musicbrainz_id": "MzZEaxO79Q2GzMdOADpTZ3qvhAI-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "4 150 7402 111672 184882 340620",
+   "num_tracks": 4,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "best_american_short_stories_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 1 of 4",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 7402,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 2 of 4",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 111672,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 3 of 4",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 184882,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 4 of 4",
+     "sectors": 0,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

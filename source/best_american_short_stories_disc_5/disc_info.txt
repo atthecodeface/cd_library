@@ -1,0 +1,24 @@
+CddbId:0d0e7202:[150, 87272]:277500:74:0d0e7202 2 150 87272 3700: 2 0 0 3700
+num_tracks: 2
+offsets: [150, 87272]
+extents: [0, 0]
+total_length: 3700
+cddb: [219050498, 2, 150, 87272, 3700]
+musicbrainz: ('2 150 87272 277550', 'RC3bjmcIpU.iBNo7AZUhdDqKyp0-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'MATSHITA'
+Identification : 'BD-MLT UJ240AS  '
+Revision       : '1.00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO RAW/R16 RAW/R96P RAW/R96R
+first: 1 last 2
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: 0
+track:   2 lba:     87122 (   348488) 19:23:47 adr: 1 control: 0 mode: 0
+track:lout lba:    277400 (  1109600) 61:40:50 adr: 1 control: 0 mode: -1
