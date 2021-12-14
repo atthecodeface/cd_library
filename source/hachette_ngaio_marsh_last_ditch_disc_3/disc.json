@@ -1,0 +1,150 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0292": {
+   "album_total_tracks": 28,
+   "album_track_offset": 18,
+   "album_uniq_id": "alb.0149",
+   "artist": "",
+   "cddb_id": "7d10170a",
+   "cddb_string": "7d10170a 10 150 27971 61823 85001 120119 147539 177941 206273 243407 275271 4121",
+   "disc_of_set": 3,
+   "downloaded_artists": "Ngaio Marsh read by Tim Bentinck",
+   "downloaded_titles": "Last Ditch (abridged)",
+   "genre": "",
+   "json_path": "source/hachette_ngaio_marsh_last_ditch_disc_3/disc.json",
+   "musicbrainz_id": "KcxBCGmwJbF7gk5RErhpCZwwLAw-",
+   "musicbrainz_release_id": "c093772d-1fff-4064-bef1-b5e88c1e152d",
+   "musicbrainz_string": "10 150 27971 61823 85001 120119 147539 177941 206273 243407 275271 309091",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "hachette_ngaio_marsh_last_ditch_disc_3",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 19",
+     "length_seconds": 370946,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 19",
+     "sectors": 27821,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 20",
+     "length_seconds": 451360,
+     "number": 2,
+     "offset": 27971,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 20",
+     "sectors": 33852,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 21",
+     "length_seconds": 309040,
+     "number": 3,
+     "offset": 61823,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 21",
+     "sectors": 23178,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 22",
+     "length_seconds": 468240,
+     "number": 4,
+     "offset": 85001,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 22",
+     "sectors": 35118,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 23",
+     "length_seconds": 365600,
+     "number": 5,
+     "offset": 120119,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 23",
+     "sectors": 27420,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 24",
+     "length_seconds": 405360,
+     "number": 6,
+     "offset": 147539,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 24",
+     "sectors": 30402,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 25",
+     "length_seconds": 377760,
+     "number": 7,
+     "offset": 177941,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 25",
+     "sectors": 28332,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 26",
+     "length_seconds": 495120,
+     "number": 8,
+     "offset": 206273,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 26",
+     "sectors": 37134,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 27",
+     "length_seconds": 424853,
+     "number": 9,
+     "offset": 243407,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 27",
+     "sectors": 31864,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 28",
+     "length_seconds": 450933,
+     "number": 10,
+     "offset": 275271,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 28",
+     "sectors": 33820,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

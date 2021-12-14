@@ -1,0 +1,138 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0290": {
+   "album_total_tracks": 28,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0149",
+   "artist": "",
+   "cddb_id": "720f9b09",
+   "cddb_string": "720f9b09 9 150 39713 74507 102263 130277 165827 202541 235739 271361 3997",
+   "disc_of_set": 1,
+   "downloaded_artists": "Ngaio Marsh read by Tim Bentinck",
+   "downloaded_titles": "Last Ditch (abridged)",
+   "genre": "",
+   "json_path": "source/hachette_ngaio_marsh_last_ditch_disc_1/disc.json",
+   "musicbrainz_id": "d_HX1kfudw.yysccEfZRQZCEV4Q-",
+   "musicbrainz_release_id": "c093772d-1fff-4064-bef1-b5e88c1e152d",
+   "musicbrainz_string": "9 150 39713 74507 102263 130277 165827 202541 235739 271361 299848",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "hachette_ngaio_marsh_last_ditch_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 1",
+     "length_seconds": 527506,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 1",
+     "sectors": 39563,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 2",
+     "length_seconds": 463920,
+     "number": 2,
+     "offset": 39713,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 2",
+     "sectors": 34794,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 3",
+     "length_seconds": 370080,
+     "number": 3,
+     "offset": 74507,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 3",
+     "sectors": 27756,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 4",
+     "length_seconds": 373520,
+     "number": 4,
+     "offset": 102263,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 4",
+     "sectors": 28014,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 5",
+     "length_seconds": 474000,
+     "number": 5,
+     "offset": 130277,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 5",
+     "sectors": 35550,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 6",
+     "length_seconds": 489520,
+     "number": 6,
+     "offset": 165827,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 6",
+     "sectors": 36714,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 7",
+     "length_seconds": 442640,
+     "number": 7,
+     "offset": 202541,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 7",
+     "sectors": 33198,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 8",
+     "length_seconds": 474960,
+     "number": 8,
+     "offset": 235739,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 8",
+     "sectors": 35622,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Part 9",
+     "length_seconds": 379826,
+     "number": 9,
+     "offset": 271361,
+     "output_artist": "Ngaio Marsh read by Tim Bentinck",
+     "output_title": "Part 9",
+     "sectors": 28487,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
