@@ -1,0 +1,150 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0303": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "",
+   "artist": "",
+   "cddb_id": "840fa50a",
+   "cddb_string": "840fa50a 10 150 25068 58471 78070 105609 134114 160343 200602 226884 264937 4007",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "",
+   "json_path": "source/hachette_margery_allingham_sweet_danger_disc_2/disc.json",
+   "musicbrainz_id": "O2AxvXSV5I5HaG5eMmHMzxY19CE-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "10 150 25068 58471 78070 105609 134114 160343 200602 226884 264937 300576",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "hachette_margery_allingham_sweet_danger_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 1 of 10",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 25068,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 2 of 10",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 58471,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 3 of 10",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 78070,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 4 of 10",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 5,
+     "offset": 105609,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 5 of 10",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 6,
+     "offset": 134114,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 6 of 10",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 7,
+     "offset": 160343,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 7 of 10",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 8,
+     "offset": 200602,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 8 of 10",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 9,
+     "offset": 226884,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 9 of 10",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 10,
+     "offset": 264937,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 10 of 10",
+     "sectors": 0,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

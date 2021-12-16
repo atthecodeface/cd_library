@@ -1,0 +1,36 @@
+CddbId:d811890e:[150, 29578, 43959, 72084, 90737, 111045, 134214, 155893, 177258, 202109, 234177, 257880, 287236, 303412]:336825:74:d811890e 14 150 29578 43959 72084 90737 111045 134214 155893 177258 202109 234177 257880 287236 303412 4491: 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4491
+num_tracks: 14
+offsets: [150, 29578, 43959, 72084, 90737, 111045, 134214, 155893, 177258, 202109, 234177, 257880, 287236, 303412]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 4491
+cddb: [3625027854, 14, 150, 29578, 43959, 72084, 90737, 111045, 134214, 155893, 177258, 202109, 234177, 257880, 287236, 303412, 4491]
+musicbrainz: ('14 150 29578 43959 72084 90737 111045 134214 155893 177258 202109 234177 257880 287236 303412 336893', 'H2SmN00v8OYwfVme8fbN96z_Qd0-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'MATSHITA'
+Identification : 'BD-MLT UJ240AS  '
+Revision       : '1.00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO RAW/R16 RAW/R96P RAW/R96R
+first: 1 last 14
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: 0
+track:   2 lba:     29428 (   117712) 06:34:28 adr: 1 control: 0 mode: 0
+track:   3 lba:     43809 (   175236) 09:46:09 adr: 1 control: 0 mode: 0
+track:   4 lba:     71934 (   287736) 16:01:09 adr: 1 control: 0 mode: 0
+track:   5 lba:     90587 (   362348) 20:09:62 adr: 1 control: 0 mode: 0
+track:   6 lba:    110895 (   443580) 24:40:45 adr: 1 control: 0 mode: 0
+track:   7 lba:    134064 (   536256) 29:49:39 adr: 1 control: 0 mode: 0
+track:   8 lba:    155743 (   622972) 34:38:43 adr: 1 control: 0 mode: 0
+track:   9 lba:    177108 (   708432) 39:23:33 adr: 1 control: 0 mode: 0
+track:  10 lba:    201959 (   807836) 44:54:59 adr: 1 control: 0 mode: 0
+track:  11 lba:    234027 (   936108) 52:02:27 adr: 1 control: 0 mode: 0
+track:  12 lba:    257730 (  1030920) 57:18:30 adr: 1 control: 0 mode: 0
+track:  13 lba:    287086 (  1148344) 63:49:61 adr: 1 control: 0 mode: 0
+track:  14 lba:    303262 (  1213048) 67:25:37 adr: 1 control: 0 mode: 0
+track:lout lba:    336743 (  1346972) 74:51:68 adr: 1 control: 0 mode: -1
