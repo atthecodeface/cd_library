@@ -1,6 +1,8 @@
 
 LIBRARY_ROOT = $(PWD)
 
+TURNIPRIPPERDB =/home/gavin/turnipripper/turnipripperdb
+
 HASH_ME = SET_HASH_ME_TO_THE_WILDCARD_IN_SOURCE_TO_HASH_EXCLUDING_FLAC
 
 CD_LIBRARY_MNT = /cd_library
@@ -102,3 +104,9 @@ rsync_to_backup_mnt4:
 rsync_to_nas: check_in_library_root
 	(cd ${LIBRARY_ROOT} && rsync -av . writer@10.1.17.34:/nas/audio/turnipdb_library)
 
+export_to_sqlite: check_in_library_root
+	(cd ${LIBRARY_ROOT} && ${TURNIPRIPPERDB} database export --format sqlite3 --file lib.sql)
+
+import_from_sqlite: check_in_library_root
+	(cd ${LIBRARY_ROOT} && ${TURNIPRIPPERDB} --debug 9 database import --format sqlite3 lib.sql)
+	@echo "Now run (cd ${LIBRARY_ROOT} && ${TURNIPRIPPERDB} --debug 9 database import --format sqlite3 --update lib.sql)"
