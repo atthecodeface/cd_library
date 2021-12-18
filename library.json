@@ -1800,6 +1800,42 @@
    "output_title": "Last Ditch (abridged)",
    "title": ""
   },
+  "alb.0150": {
+   "artist": "",
+   "downloaded_artists": "Marc\u2010Antoine Charpentier",
+   "downloaded_titles": "Pr\u00e9lude Baroque II: Charpentier",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "ee46bb3a-21d9-4bc8-b46c-e59896f87ac5",
+   "num_discs": 1,
+   "output_title": "Pr\u00e9lude Baroque II: Charpentier",
+   "title": ""
+  },
+  "alb.0151": {
+   "artist": "",
+   "downloaded_artists": "Jean\u2010Baptiste Lully",
+   "downloaded_titles": "Grands compositeurs baroques : Lully",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "b40124b8-0ac8-4d82-86e3-f75aa9de5d22",
+   "num_discs": 1,
+   "output_title": "Grands compositeurs baroques : Lully",
+   "title": ""
+  },
+  "alb.0152": {
+   "artist": "",
+   "downloaded_artists": "Jean\u2010Philippe Rameau",
+   "downloaded_titles": "Grands compositeurs baroques : Rameau",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "b82a8c8d-7785-4bfb-af55-99422ad8ff51",
+   "num_discs": 1,
+   "output_title": "Grands compositeurs baroques : Rameau",
+   "title": ""
+  },
   "bbc_dorothy_l_sayers_clouds_of_witness": {
    "artist": "Dorothy L Sayers",
    "downloaded_artists": "",
@@ -1821,7 +1857,7 @@
    "label": "BBC Audio",
    "musicbrainz_release_id": "",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "The Nine Tailors",
    "title": "The Nine Tailors"
   },
   "bbc_the_hobbit": {
@@ -1857,7 +1893,7 @@
    "label": "Houghton Mifflin",
    "musicbrainz_release_id": "",
    "num_discs": 10,
-   "output_title": "unknown album",
+   "output_title": "Best American Short Stories of the Century",
    "title": "Best American Short Stories of the Century"
   },
   "cameron_mackintosh_les_miserables": {
@@ -1905,7 +1941,7 @@
    "label": "",
    "musicbrainz_release_id": "",
    "num_discs": 2,
-   "output_title": "unknown album",
+   "output_title": "Ruddigore",
    "title": "Ruddigore"
   },
   "homer_the_odyssey": {
@@ -1929,7 +1965,7 @@
    "label": "Random House",
    "musicbrainz_release_id": "",
    "num_discs": 5,
-   "output_title": "unknown album",
+   "output_title": "Into Thin Air",
    "title": "Into Thin Air"
   },
   "judas_maccabaeus_festspiel": {
@@ -1977,7 +2013,7 @@
    "label": "Hachette",
    "musicbrainz_release_id": "",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "Black Plumes",
    "title": "Black Plumes"
   },
   "margery_allingham_coroners_pidgin": {
@@ -1989,7 +2025,7 @@
    "label": "Hachette",
    "musicbrainz_release_id": "",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "Coroners Pidgin",
    "title": "Coroners Pidgin"
   },
   "margery_allingham_look_to_the_lady": {
@@ -2001,7 +2037,7 @@
    "label": "Hachette",
    "musicbrainz_release_id": "",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "Look To The Lady",
    "title": "Look To The Lady"
   },
   "margery_allingham_more_work_for_the_undertaker": {
@@ -2013,7 +2049,7 @@
    "label": "Hachette",
    "musicbrainz_release_id": "",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "More Work For The Undertaker",
    "title": "More Work For The Undertaker"
   },
   "margery_allingham_mystery_mile": {
@@ -2025,7 +2061,7 @@
    "label": "Hachette",
    "musicbrainz_release_id": "",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "Mystery Mile",
    "title": "Mystery Mile"
   },
   "margery_allingham_sweet_danger": {
@@ -2037,7 +2073,7 @@
    "label": "Hachette",
    "musicbrainz_release_id": "",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "Sweet Danger",
    "title": "Sweet Danger"
   },
   "margery_allingham_the_china_governess": {
@@ -2049,7 +2085,7 @@
    "label": "Hachette",
    "musicbrainz_release_id": "",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "The China Governess",
    "title": "The China Governess"
   },
   "margery_allingham_the_fashion_in_shrouds": {
@@ -2061,7 +2097,7 @@
    "label": "Hachette",
    "musicbrainz_release_id": "",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "The Fashion in Shrouds",
    "title": "The Fashion in Shrouds"
   },
   "margery_allingham_the_tiger_in_the_smoke": {
@@ -2073,7 +2109,7 @@
    "label": "Hachette",
    "musicbrainz_release_id": "",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "The Tiger In The Smoke",
    "title": "The Tiger In The Smoke"
   },
   "naxos_don_quixote": {
@@ -2085,7 +2121,7 @@
    "label": "",
    "musicbrainz_release_id": "5ff23dfc-0587-43e8-a0ad-5730415275c4",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "Don Quixote",
    "title": ""
   },
   "naxos_three_men_in_a_boat": {
@@ -2109,7 +2145,7 @@
    "label": "Hachette",
    "musicbrainz_release_id": "c093772d-1fff-4064-bef1-b5e88c1e152d",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "Last Ditch",
    "title": "Last Ditch"
   },
   "ngaio_marsh_scales_of_justice": {
@@ -2121,7 +2157,7 @@
    "label": "Hachette",
    "musicbrainz_release_id": "",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "Scales of Justice",
    "title": "Scales of Justice"
   },
   "ngaio_marsh_singing_in_the_shrouds": {
@@ -2133,7 +2169,7 @@
    "label": "Hachette",
    "musicbrainz_release_id": "",
    "num_discs": 3,
-   "output_title": "unknown album",
+   "output_title": "Singing In The Shrouds",
    "title": "Singing In The Shrouds"
   },
   "pdjames_bbc_radio_collection": {

@@ -1,0 +1,126 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0325": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0151",
+   "artist": "",
+   "cddb_id": "68105d08",
+   "cddb_string": "68105d08 8 182 19525 37852 55027 100470 155060 239960 281577 4191",
+   "disc_of_set": 1,
+   "downloaded_artists": "Jean\u2010Baptiste Lully",
+   "downloaded_titles": "Grands compositeurs baroques : Lully",
+   "genre": "",
+   "json_path": "source/prelude_baroque_disc_5/disc.json",
+   "musicbrainz_id": "X1fA5K.qWcZ_9ktTmOLIPuKbSwE-",
+   "musicbrainz_release_id": "b40124b8-0ac8-4d82-86e3-f75aa9de5d22",
+   "musicbrainz_string": "8 182 19525 37852 55027 100470 155060 239960 281577 314362",
+   "num_tracks": 8,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "prelude_baroque_disc_5",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Airs de Lully trancrits pour clavecin par d'Anglebert: Isis. Ouverture",
+     "length_seconds": 258000,
+     "number": 1,
+     "offset": 182,
+     "output_artist": "Jean\u2010Baptiste Lully",
+     "output_title": "Airs de Lully trancrits pour clavecin par d'Anglebert: Isis. Ouverture",
+     "sectors": 19343,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Airs de Lully trancrits pour clavecin par d'Anglebert: Le Triomphe de l'Amour. Air d'Apollon",
+     "length_seconds": 244000,
+     "number": 2,
+     "offset": 19525,
+     "output_artist": "Jean\u2010Baptiste Lully",
+     "output_title": "Airs de Lully trancrits pour clavecin par d'Anglebert: Le Triomphe de l'Amour. Air d'Apollon",
+     "sectors": 18327,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Airs de Lully trancrits pour clavecin par d'Anglebert: Atys. Les Songes agr\u00e9ables",
+     "length_seconds": 229000,
+     "number": 3,
+     "offset": 37852,
+     "output_artist": "Jean\u2010Baptiste Lully",
+     "output_title": "Airs de Lully trancrits pour clavecin par d'Anglebert: Atys. Les Songes agr\u00e9ables",
+     "sectors": 17175,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Atys: Acte III, Sc\u00e8ne IV: Pr\u00e9lude, \"Dormons, dormons tous\" (Le Sommeil, Morph\u00e9e, Phobetor, Phantase), Air des Songes agr\u00e9ables",
+     "length_seconds": 605906,
+     "number": 4,
+     "offset": 55027,
+     "output_artist": "Jean\u2010Baptiste Lully",
+     "output_title": "Atys: Acte III, Sc\u00e8ne IV: Pr\u00e9lude, \"Dormons, dormons tous\" (Le Sommeil, Morph\u00e9e, Phobetor, Phantase), Air des Songes agr\u00e9ables",
+     "sectors": 45443,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Atys: Acte V, Sc\u00e8ne derni\u00e8re: Cyb\u00e8le. Ch\u0153ur",
+     "length_seconds": 727866,
+     "number": 5,
+     "offset": 100470,
+     "output_artist": "Jean\u2010Baptiste Lully",
+     "output_title": "Atys: Acte V, Sc\u00e8ne derni\u00e8re: Cyb\u00e8le. Ch\u0153ur",
+     "sectors": 54590,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Grands Motets: Dies Irae",
+     "length_seconds": 1132000,
+     "number": 6,
+     "offset": 155060,
+     "output_artist": "Jean\u2010Baptiste Lully",
+     "output_title": "Grands Motets: Dies Irae",
+     "sectors": 84900,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Petits Motets: Omnes gentes (soprano, alto & basse)",
+     "length_seconds": 555000,
+     "number": 7,
+     "offset": 239960,
+     "output_artist": "Jean\u2010Baptiste Lully",
+     "output_title": "Petits Motets: Omnes gentes (soprano, alto & basse)",
+     "sectors": 41617,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Petits Motets: Dixit Dominus (3 sopranos)",
+     "length_seconds": 437000,
+     "number": 8,
+     "offset": 281577,
+     "output_artist": "Jean\u2010Baptiste Lully",
+     "output_title": "Petits Motets: Dixit Dominus (3 sopranos)",
+     "sectors": 32785,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

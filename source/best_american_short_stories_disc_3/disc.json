@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0271": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 29,
+   "album_track_offset": 7,
    "album_uniq_id": "best_american_short_stories",
    "artist": "",
    "cddb_id": "1f100b03",
@@ -11,7 +11,7 @@
    "disc_of_set": 3,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "",
+   "genre": "audiobook",
    "json_path": "source/best_american_short_stories_disc_3/disc.json",
    "musicbrainz_id": "EiddWdqWC4BD_ugl01V8W2k.KBE-",
    "musicbrainz_release_id": "",
@@ -31,8 +31,8 @@
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 1 of 3",
+     "output_artist": "John Updike",
+     "output_title": "Track 1 of 3 of disc 3 of 10",
      "sectors": 0,
      "title": ""
     },
@@ -43,8 +43,8 @@
      "length_seconds": 0,
      "number": 2,
      "offset": 80925,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 2 of 3",
+     "output_artist": "John Updike",
+     "output_title": "Track 2 of 3 of disc 3 of 10",
      "sectors": 0,
      "title": ""
     },
@@ -55,8 +55,8 @@
      "length_seconds": 0,
      "number": 3,
      "offset": 230405,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 3 of 3",
+     "output_artist": "John Updike",
+     "output_title": "Track 3 of 3 of disc 3 of 10",
      "sectors": 0,
      "title": ""
     }
