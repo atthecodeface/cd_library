@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0286": {
-   "album_total_tracks": 76,
-   "album_track_offset": 50,
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "ngaio_marsh_singing_in_the_shrouds",
    "artist": "",
    "cddb_id": "6312471a",
@@ -11,7 +11,7 @@
    "disc_of_set": 3,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "audiobook",
+   "genre": "",
    "json_path": "source/hachette_ngaio_marsh_singing_in_the_shrouds_disc_3/disc.json",
    "musicbrainz_id": "MQKExLvWAjtAAGpIVuIAJKHPkcQ-",
    "musicbrainz_release_id": "",

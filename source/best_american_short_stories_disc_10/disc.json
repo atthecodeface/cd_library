@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0278": {
-   "album_total_tracks": 29,
-   "album_track_offset": 27,
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "best_american_short_stories",
    "artist": "",
    "cddb_id": "08127002",
@@ -11,7 +11,7 @@
    "disc_of_set": 10,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "audiobook",
+   "genre": "",
    "json_path": "source/best_american_short_stories_disc_10/disc.json",
    "musicbrainz_id": "CaJnDvRdbbq25tJTDghihM4inWE-",
    "musicbrainz_release_id": "",
@@ -25,28 +25,28 @@
    "total_length": 0,
    "tracks": [
     {
-     "artist": "",
+     "artist": "Carolyn Ferrell",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "John Updike",
-     "output_title": "Track 1 of 2 of disc 10 of 10",
+     "output_artist": "Carolyn Ferrell",
+     "output_title": "Proper Library (contd)",
      "sectors": 0,
-     "title": ""
+     "title": "Proper Library (contd)"
     },
     {
-     "artist": "",
+     "artist": "Pam Houston",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 2,
      "offset": 151047,
-     "output_artist": "John Updike",
-     "output_title": "Track 2 of 2 of disc 10 of 10",
+     "output_artist": "Pam Houston",
+     "output_title": "The Best Girlfriend You Never Had",
      "sectors": 0,
-     "title": ""
+     "title": "The Best Girlfriend You Never Had"
     }
    ]
   }

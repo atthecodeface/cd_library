@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0273": {
-   "album_total_tracks": 29,
-   "album_track_offset": 12,
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "best_american_short_stories",
    "artist": "",
    "cddb_id": "0d0e7202",
@@ -11,7 +11,7 @@
    "disc_of_set": 5,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "audiobook",
+   "genre": "",
    "json_path": "source/best_american_short_stories_disc_5/disc.json",
    "musicbrainz_id": "RC3bjmcIpU.iBNo7AZUhdDqKyp0-",
    "musicbrainz_release_id": "",
@@ -25,28 +25,28 @@
    "total_length": 0,
    "tracks": [
     {
-     "artist": "",
+     "artist": "Thom Jones",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "John Updike",
-     "output_title": "Track 1 of 2 of disc 5 of 10",
+     "output_artist": "Thom Jones",
+     "output_title": "I Want To Live!",
      "sectors": 0,
-     "title": ""
+     "title": "I Want To Live!"
     },
     {
-     "artist": "",
+     "artist": "Gish Jen",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 2,
      "offset": 87272,
-     "output_artist": "John Updike",
-     "output_title": "Track 2 of 2 of disc 5 of 10",
+     "output_artist": "Gish Jen",
+     "output_title": "Birthmates",
      "sectors": 0,
-     "title": ""
+     "title": "Birthmates"
     }
    ]
   }

@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0276": {
-   "album_total_tracks": 29,
-   "album_track_offset": 22,
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "best_american_short_stories",
    "artist": "",
    "cddb_id": "1d12ab03",
@@ -11,7 +11,7 @@
    "disc_of_set": 8,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "audiobook",
+   "genre": "",
    "json_path": "source/best_american_short_stories_disc_9/disc.json",
    "musicbrainz_id": "S8pxU2iJsS0MhFpuBfIACTXIQc0-",
    "musicbrainz_release_id": "",
@@ -25,40 +25,40 @@
    "total_length": 0,
    "tracks": [
     {
-     "artist": "",
+     "artist": "Raymond Carver",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "John Updike",
-     "output_title": "Track 1 of 3 of disc 8 of 10",
+     "output_artist": "Raymond Carver",
+     "output_title": "Where I'm Calling From (contd)",
      "sectors": 0,
-     "title": ""
+     "title": "Where I'm Calling From (contd)"
     },
     {
-     "artist": "",
+     "artist": "Lorrie Moore",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 2,
      "offset": 96962,
-     "output_artist": "John Updike",
-     "output_title": "Track 2 of 3 of disc 8 of 10",
+     "output_artist": "Lorrie Moore",
+     "output_title": "You're Ugly Too",
      "sectors": 0,
-     "title": ""
+     "title": "You're Ugly Too"
     },
     {
-     "artist": "",
+     "artist": "Carolyn Ferrell",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 3,
      "offset": 323647,
-     "output_artist": "John Updike",
-     "output_title": "Track 3 of 3 of disc 8 of 10",
+     "output_artist": "Carolyn Ferrell",
+     "output_title": "Proper Library",
      "sectors": 0,
-     "title": ""
+     "title": "Proper Library"
     }
    ]
   }

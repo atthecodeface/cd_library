@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0303": {
-   "album_total_tracks": 34,
-   "album_track_offset": 12,
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "margery_allingham_sweet_danger",
    "artist": "",
    "cddb_id": "840fa50a",
@@ -11,7 +11,7 @@
    "disc_of_set": 2,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "audiobook",
+   "genre": "",
    "json_path": "source/hachette_margery_allingham_sweet_danger_disc_2/disc.json",
    "musicbrainz_id": "O2AxvXSV5I5HaG5eMmHMzxY19CE-",
    "musicbrainz_release_id": "",

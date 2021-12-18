@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0270": {
-   "album_total_tracks": 29,
-   "album_track_offset": 4,
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "best_american_short_stories",
    "artist": "",
    "cddb_id": "25113903",
@@ -11,7 +11,7 @@
    "disc_of_set": 2,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "audiobook",
+   "genre": "",
    "json_path": "source/best_american_short_stories_disc_2/disc.json",
    "musicbrainz_id": "VcjZ.97eMbwrYwauH7pwN4Glikw-",
    "musicbrainz_release_id": "",
@@ -25,40 +25,40 @@
    "total_length": 0,
    "tracks": [
     {
-     "artist": "",
+     "artist": "F. Scott Fitzgerald",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "John Updike",
-     "output_title": "Track 1 of 3 of disc 2 of 10",
+     "output_artist": "F. Scott Fitzgerald",
+     "output_title": "Crazy Sunday (contd)",
      "sectors": 0,
-     "title": ""
+     "title": "Crazy Sunday (contd)"
     },
     {
-     "artist": "",
+     "artist": "James Alan McPherson",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 2,
      "offset": 27322,
-     "output_artist": "John Updike",
-     "output_title": "Track 2 of 3 of disc 2 of 10",
+     "output_artist": "James Alan McPherson",
+     "output_title": "Gold Coast",
      "sectors": 0,
-     "title": ""
+     "title": "Gold Coast"
     },
     {
-     "artist": "",
+     "artist": "Jean Stafford",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 3,
      "offset": 217005,
-     "output_artist": "John Updike",
-     "output_title": "Track 3 of 3 of disc 2 of 10",
+     "output_artist": "Jean Stafford",
+     "output_title": "The Interior Castle",
      "sectors": 0,
-     "title": ""
+     "title": "The Interior Castle"
     }
    ]
   }

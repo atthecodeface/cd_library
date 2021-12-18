@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0298": {
-   "album_total_tracks": 45,
-   "album_track_offset": 30,
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "margery_allingham_the_fashion_in_shrouds",
    "artist": "",
    "cddb_id": "e611720f",
@@ -11,7 +11,7 @@
    "disc_of_set": 3,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "audiobook",
+   "genre": "",
    "json_path": "source/hachette_margery_allingham_the_fashion_in_shrouds_disc_3/disc.json",
    "musicbrainz_id": "3O5OBFF_kotJdNws5_foXPbDmXA-",
    "musicbrainz_release_id": "",

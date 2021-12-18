@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0274": {
-   "album_total_tracks": 29,
-   "album_track_offset": 10,
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "best_american_short_stories",
    "artist": "",
    "cddb_id": "16117902",
@@ -11,7 +11,7 @@
    "disc_of_set": 4,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "audiobook",
+   "genre": "",
    "json_path": "source/best_american_short_stories_disc_4/disc.json",
    "musicbrainz_id": "HBsRL1vcobj_spfe6n0lJb0UIZE-",
    "musicbrainz_release_id": "",
@@ -25,28 +25,28 @@
    "total_length": 0,
    "tracks": [
     {
-     "artist": "",
+     "artist": "Rosellen Brown",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "John Updike",
-     "output_title": "Track 1 of 2 of disc 4 of 10",
+     "output_artist": "Rosellen Brown",
+     "output_title": "How To Win",
      "sectors": 0,
-     "title": ""
+     "title": "How To Win"
     },
     {
-     "artist": "",
+     "artist": "Thom Jones",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 2,
      "offset": 192575,
-     "output_artist": "John Updike",
-     "output_title": "Track 2 of 2 of disc 4 of 10",
+     "output_artist": "Thom Jones",
+     "output_title": "I Want To Live!",
      "sectors": 0,
-     "title": ""
+     "title": "I Want To Live!"
     }
    ]
   }

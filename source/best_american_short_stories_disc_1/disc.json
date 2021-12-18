@@ -2,7 +2,7 @@
  "albums": {},
  "discs": {
   "disc.0269": {
-   "album_total_tracks": 29,
+   "album_total_tracks": 0,
    "album_track_offset": 0,
    "album_uniq_id": "best_american_short_stories",
    "artist": "",
@@ -11,7 +11,7 @@
    "disc_of_set": 1,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "audiobook",
+   "genre": "",
    "json_path": "source/best_american_short_stories_disc_1/disc.json",
    "musicbrainz_id": "MzZEaxO79Q2GzMdOADpTZ3qvhAI-",
    "musicbrainz_release_id": "",
@@ -25,52 +25,52 @@
    "total_length": 0,
    "tracks": [
     {
-     "artist": "",
+     "artist": "Sherwood Anderson",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "John Updike",
-     "output_title": "Track 1 of 4 of disc 1 of 10",
+     "output_artist": "Sherwood Anderson",
+     "output_title": "Introduction",
      "sectors": 0,
-     "title": ""
+     "title": "Introduction"
     },
     {
-     "artist": "",
+     "artist": "Sherwood Anderson",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 2,
      "offset": 7402,
-     "output_artist": "John Updike",
-     "output_title": "Track 2 of 4 of disc 1 of 10",
+     "output_artist": "Sherwood Anderson",
+     "output_title": "The Other Woman",
      "sectors": 0,
-     "title": ""
+     "title": "The Other Woman"
     },
     {
-     "artist": "",
+     "artist": "Katherine Anne Porter",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 3,
      "offset": 111672,
-     "output_artist": "John Updike",
-     "output_title": "Track 3 of 4 of disc 1 of 10",
+     "output_artist": "Katherine Anne Porter",
+     "output_title": "Theft",
      "sectors": 0,
-     "title": ""
+     "title": "Theft"
     },
     {
-     "artist": "",
+     "artist": "F. Scott Fitzgerald",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 4,
      "offset": 184882,
-     "output_artist": "John Updike",
-     "output_title": "Track 4 of 4 of disc 1 of 10",
+     "output_artist": "F. Scott Fitzgerald",
+     "output_title": "Crazy Sunday",
      "sectors": 0,
-     "title": ""
+     "title": "Crazy Sunday"
     }
    ]
   }

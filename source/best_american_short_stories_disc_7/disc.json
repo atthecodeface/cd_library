@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0275": {
-   "album_total_tracks": 29,
-   "album_track_offset": 18,
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "best_american_short_stories",
    "artist": "",
    "cddb_id": "3c118d04",
@@ -11,7 +11,7 @@
    "disc_of_set": 7,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "audiobook",
+   "genre": "",
    "json_path": "source/best_american_short_stories_disc_7/disc.json",
    "musicbrainz_id": "jzVPV9eU6Lq5A9irPrb9LvC2eJ4-",
    "musicbrainz_release_id": "",
@@ -25,52 +25,52 @@
    "total_length": 0,
    "tracks": [
     {
-     "artist": "",
+     "artist": "Eudora Welty",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "John Updike",
-     "output_title": "Track 1 of 4 of disc 7 of 10",
+     "output_artist": "Eudora Welty",
+     "output_title": "The Hitch-Hikers (contd)",
      "sectors": 0,
-     "title": ""
+     "title": "The Hitch-Hikers (contd)"
     },
     {
-     "artist": "",
+     "artist": "E. B. White",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 2,
      "offset": 77957,
-     "output_artist": "John Updike",
-     "output_title": "Track 2 of 4 of disc 7 of 10",
+     "output_artist": "E. B. White",
+     "output_title": "The Second Tree From The Corner",
      "sectors": 0,
-     "title": ""
+     "title": "The Second Tree From The Corner"
     },
     {
-     "artist": "",
+     "artist": "John Updike",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 3,
      "offset": 141182,
      "output_artist": "John Updike",
-     "output_title": "Track 3 of 4 of disc 7 of 10",
+     "output_title": "Gesturing",
      "sectors": 0,
-     "title": ""
+     "title": "Gesturing"
     },
     {
-     "artist": "",
+     "artist": "Donald Barthelme",
      "downloaded_artists": "",
      "downloaded_titles": "",
      "length_seconds": 0,
      "number": 4,
      "offset": 290217,
-     "output_artist": "John Updike",
-     "output_title": "Track 4 of 4 of disc 7 of 10",
+     "output_artist": "Donald Barthelme",
+     "output_title": "A City Of Churches",
      "sectors": 0,
-     "title": ""
+     "title": "A City Of Churches"
     }
    ]
   }

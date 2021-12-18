@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0280": {
-   "album_total_tracks": 39,
-   "album_track_offset": 13,
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
    "album_uniq_id": "bbc_dorothy_l_sayers_the_nine_tailors",
    "artist": "",
    "cddb_id": "ae10780d",
@@ -11,7 +11,7 @@
    "disc_of_set": 2,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "dramatization",
+   "genre": "",
    "json_path": "source/bbc_dorothy_l_sayers_the_nine_tailors_disc_2/disc.json",
    "musicbrainz_id": "xVxnd4CEDfRXEnIoYaF2rL0vUQo-",
    "musicbrainz_release_id": "",
