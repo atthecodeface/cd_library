@@ -1,0 +1,34 @@
+CddbId:a211350c:[150, 22136, 55547, 79338, 102089, 129539, 161973, 187444, 210279, 240712, 279063, 306033]:330525:74:a211350c 12 150 22136 55547 79338 102089 129539 161973 187444 210279 240712 279063 306033 4407: 12 0 0 0 0 0 0 0 0 0 0 0 0 4407
+num_tracks: 12
+offsets: [150, 22136, 55547, 79338, 102089, 129539, 161973, 187444, 210279, 240712, 279063, 306033]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 4407
+cddb: [2719036684, 12, 150, 22136, 55547, 79338, 102089, 129539, 161973, 187444, 210279, 240712, 279063, 306033, 4407]
+musicbrainz: ('12 150 22136 55547 79338 102089 129539 161973 187444 210279 240712 279063 306033 330547', 'YTBpn1GXRKsZX5v1DwYuumhj.W8-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'FREECOM_'
+Identification : 'DVD+/-RW16H4    '
+Revision       : 'FR00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO SAO/R96R RAW/R96R
+first: 1 last 12
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: -1
+track:   2 lba:     21986 (    87944) 04:55:11 adr: 1 control: 0 mode: -1
+track:   3 lba:     55397 (   221588) 12:20:47 adr: 1 control: 0 mode: -1
+track:   4 lba:     79188 (   316752) 17:37:63 adr: 1 control: 0 mode: -1
+track:   5 lba:    101939 (   407756) 22:41:14 adr: 1 control: 0 mode: -1
+track:   6 lba:    129389 (   517556) 28:47:14 adr: 1 control: 0 mode: -1
+track:   7 lba:    161823 (   647292) 35:59:48 adr: 1 control: 0 mode: -1
+track:   8 lba:    187294 (   749176) 41:39:19 adr: 1 control: 0 mode: -1
+track:   9 lba:    210129 (   840516) 46:43:54 adr: 1 control: 0 mode: -1
+track:  10 lba:    240562 (   962248) 53:29:37 adr: 1 control: 0 mode: -1
+track:  11 lba:    278913 (  1115652) 62:00:63 adr: 1 control: 0 mode: -1
+track:  12 lba:    305883 (  1223532) 68:00:33 adr: 1 control: 0 mode: -1
+track:lout lba:    330397 (  1321588) 73:27:22 adr: 1 control: 0 mode: -1
