@@ -1812,6 +1812,18 @@
    "output_title": "Clouds of Witness",
    "title": "Clouds of Witness"
   },
+  "bbc_dorothy_l_sayers_the_nine_tailors": {
+   "artist": "Dorothy L Sayers",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "dramatization",
+   "json_path": "library.json",
+   "label": "BBC Audio",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "The Nine Tailors"
+  },
   "bbc_the_hobbit": {
    "artist": "",
    "downloaded_artists": "J.R.R. Tolkien dramatised by Michael Kilgarriff",
@@ -1835,6 +1847,18 @@
    "num_discs": 14,
    "output_title": "The Lord of the Rings",
    "title": ""
+  },
+  "best_american_short_stories": {
+   "artist": "John Updike",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Houghton Mifflin",
+   "musicbrainz_release_id": "",
+   "num_discs": 10,
+   "output_title": "unknown album",
+   "title": "Best American Short Stories of the Century"
   },
   "cameron_mackintosh_les_miserables": {
    "artist": "",
@@ -1872,6 +1896,18 @@
    "output_title": "John Adams",
    "title": "John Adams"
   },
+  "girton_operatic_ruddigore": {
+   "artist": "Girton Operatic",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "opera",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "",
+   "num_discs": 2,
+   "output_title": "unknown album",
+   "title": "Ruddigore"
+  },
   "homer_the_odyssey": {
    "artist": "Homer",
    "downloaded_artists": "",
@@ -1883,6 +1919,18 @@
    "num_discs": 4,
    "output_title": "The Odyssey",
    "title": "The Odyssey"
+  },
+  "jon_krakauer_into_thin_air": {
+   "artist": "Jon Krakauer",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Random House",
+   "musicbrainz_release_id": "",
+   "num_discs": 5,
+   "output_title": "unknown album",
+   "title": "Into Thin Air"
   },
   "judas_maccabaeus_festspiel": {
    "artist": "George Frideric Handel, FestspielOrchester Gottingen",
@@ -1920,6 +1968,126 @@
    "output_title": "Round The World in Eighty Days",
    "title": "Round The World in Eighty Days"
   },
+  "margery_allingham_black_plumes": {
+   "artist": "argery Allingham",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Hachette",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "Black Plumes"
+  },
+  "margery_allingham_coroners_pidgin": {
+   "artist": "argery Allingham",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Hachette",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "Coroners Pidgin"
+  },
+  "margery_allingham_look_to_the_lady": {
+   "artist": "argery Allingham",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Hachette",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "Look To The Lady"
+  },
+  "margery_allingham_more_work_for_the_undertaker": {
+   "artist": "argery Allingham",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Hachette",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "More Work For The Undertaker"
+  },
+  "margery_allingham_mystery_mile": {
+   "artist": "argery Allingham",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Hachette",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "Mystery Mile"
+  },
+  "margery_allingham_sweet_danger": {
+   "artist": "argery Allingham",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Hachette",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "Sweet Danger"
+  },
+  "margery_allingham_the_china_governess": {
+   "artist": "argery Allingham",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Hachette",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "The China Governess"
+  },
+  "margery_allingham_the_fashion_in_shrouds": {
+   "artist": "argery Allingham",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Hachette",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "The Fashion in Shrouds"
+  },
+  "margery_allingham_the_tiger_in_the_smoke": {
+   "artist": "argery Allingham",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Hachette",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "The Tiger In The Smoke"
+  },
+  "naxos_don_quixote": {
+   "artist": "",
+   "downloaded_artists": "Miguel Cervantes read by Edward de Souza",
+   "downloaded_titles": "Don Quixote",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "5ff23dfc-0587-43e8-a0ad-5730415275c4",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": ""
+  },
   "naxos_three_men_in_a_boat": {
    "artist": "",
    "downloaded_artists": "Jerome K. Jerome read by Martin Jarvis",
@@ -1931,6 +2099,42 @@
    "num_discs": 6,
    "output_title": "Three Men in a Boat",
    "title": ""
+  },
+  "ngaio_marsh_last_ditch": {
+   "artist": "Ngaio Marsh",
+   "downloaded_artists": "Ngaio Marsh read by Tim Bentinck",
+   "downloaded_titles": "Last Ditch (abridged)",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Hachette",
+   "musicbrainz_release_id": "c093772d-1fff-4064-bef1-b5e88c1e152d",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "Last Ditch"
+  },
+  "ngaio_marsh_scales_of_justice": {
+   "artist": "Ngaio Marsh",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Hachette",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "Scales of Justice"
+  },
+  "ngaio_marsh_singing_in_the_shrouds": {
+   "artist": "Ngaio Marsh",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Hachette",
+   "musicbrainz_release_id": "",
+   "num_discs": 3,
+   "output_title": "unknown album",
+   "title": "Singing In The Shrouds"
   },
   "pdjames_bbc_radio_collection": {
    "artist": "P.D.James BBC Radio Collection",
