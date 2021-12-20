@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0300": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 36,
+   "album_track_offset": 12,
    "album_uniq_id": "margery_allingham_the_tiger_in_the_smoke",
    "artist": "",
    "cddb_id": "d20f670d",
@@ -11,7 +11,7 @@
    "disc_of_set": 2,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "",
+   "genre": "audiobook",
    "json_path": "source/hachette_margery_allingham_the_tiger_in_the_smoke_disc_2/disc.json",
    "musicbrainz_id": "f4.29cl_yrlToVMLulTKOgzK9.Y-",
    "musicbrainz_release_id": "",

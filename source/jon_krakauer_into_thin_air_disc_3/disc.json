@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0266": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 161,
+   "album_track_offset": 62,
    "album_uniq_id": "jon_krakauer_into_thin_air",
    "artist": "",
    "cddb_id": "c3108c20",
@@ -11,7 +11,7 @@
    "disc_of_set": 3,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "",
+   "genre": "audiobook",
    "json_path": "source/jon_krakauer_into_thin_air_disc_3/disc.json",
    "musicbrainz_id": "nhSSrK71iVt89uf19vn8V1UTPek-",
    "musicbrainz_release_id": "",

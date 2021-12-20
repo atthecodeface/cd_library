@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0276": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 29,
+   "album_track_offset": 22,
    "album_uniq_id": "best_american_short_stories",
    "artist": "",
    "cddb_id": "1d12ab03",
@@ -11,7 +11,7 @@
    "disc_of_set": 8,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "",
+   "genre": "audiobook",
    "json_path": "source/best_american_short_stories_disc_9/disc.json",
    "musicbrainz_id": "S8pxU2iJsS0MhFpuBfIACTXIQc0-",
    "musicbrainz_release_id": "",

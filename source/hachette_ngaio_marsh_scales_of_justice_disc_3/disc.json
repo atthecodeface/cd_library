@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0288": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 39,
+   "album_track_offset": 26,
    "album_uniq_id": "ngaio_marsh_scales_of_justice",
    "artist": "",
    "cddb_id": "ad0f5a0d",
@@ -11,7 +11,7 @@
    "disc_of_set": 3,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "",
+   "genre": "audiobook",
    "json_path": "source/hachette_ngaio_marsh_scales_of_justice_disc_3/disc.json",
    "musicbrainz_id": "bKtu3EJQSaWy9yUzAVVPS6Vs6wU-",
    "musicbrainz_release_id": "",

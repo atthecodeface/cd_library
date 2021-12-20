@@ -1836,6 +1836,30 @@
    "output_title": "Grands compositeurs baroques : Rameau",
    "title": ""
   },
+  "alb.0153": {
+   "artist": "",
+   "downloaded_artists": "J.S.Bach",
+   "downloaded_titles": "Works for Orchestra",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "5ea0a30c-1a06-4b17-a43a-e7900e00d234",
+   "num_discs": 4,
+   "output_title": "Works for Orchestra",
+   "title": ""
+  },
+  "alb.0154": {
+   "artist": "",
+   "downloaded_artists": "Johann Sebastian Bach; The English Concert, Trevor Pinnock",
+   "downloaded_titles": "Brandenburgische Konzerte nos. 4-6",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "0a703bfe-16c5-31c4-a77b-d4002692ebf9",
+   "num_discs": 1,
+   "output_title": "Brandenburgische Konzerte nos. 4-6",
+   "title": ""
+  },
   "bbc_dorothy_l_sayers_clouds_of_witness": {
    "artist": "Dorothy L Sayers",
    "downloaded_artists": "",

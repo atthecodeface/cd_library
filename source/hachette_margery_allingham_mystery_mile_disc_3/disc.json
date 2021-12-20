@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0307": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 36,
+   "album_track_offset": 24,
    "album_uniq_id": "margery_allingham_mystery_mile",
    "artist": "",
    "cddb_id": "bb108f0c",
@@ -11,7 +11,7 @@
    "disc_of_set": 3,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "",
+   "genre": "audiobook",
    "json_path": "source/hachette_margery_allingham_mystery_mile_disc_3/disc.json",
    "musicbrainz_id": "CzKkj_Tj3lU8AsfgYH8k1HmqM7A-",
    "musicbrainz_release_id": "",

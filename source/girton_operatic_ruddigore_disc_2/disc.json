@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0283": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 47,
+   "album_track_offset": 25,
    "album_uniq_id": "girton_operatic_ruddigore",
    "artist": "",
    "cddb_id": "3011f616",
@@ -11,7 +11,7 @@
    "disc_of_set": 2,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "",
+   "genre": "opera",
    "json_path": "source/girton_operatic_ruddigore_disc_2/disc.json",
    "musicbrainz_id": "mU6aFK2PZnnGu2QwG8Fjt6_s6Yc-",
    "musicbrainz_release_id": "",

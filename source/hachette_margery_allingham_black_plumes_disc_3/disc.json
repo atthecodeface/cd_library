@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0310": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 41,
+   "album_track_offset": 28,
    "album_uniq_id": "margery_allingham_black_plumes",
    "artist": "",
    "cddb_id": "c411f30d",
@@ -11,7 +11,7 @@
    "disc_of_set": 3,
    "downloaded_artists": "",
    "downloaded_titles": "",
-   "genre": "",
+   "genre": "audiobook",
    "json_path": "source/hachette_margery_allingham_black_plumes_disc_3/disc.json",
    "musicbrainz_id": "NFtHPAWxue3WajNTdOqtS9_pqXw-",
    "musicbrainz_release_id": "",
