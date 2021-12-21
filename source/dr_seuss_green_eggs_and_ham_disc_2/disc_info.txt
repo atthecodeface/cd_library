@@ -1,0 +1,27 @@
+CddbId:4c082806:[150, 39874, 72511, 84620, 109497, 144099]:156750:74:4c082806 6 150 39874 72511 84620 109497 144099 2090: 6 0 0 0 0 0 0 2090
+num_tracks: 6
+offsets: [150, 39874, 72511, 84620, 109497, 144099]
+extents: [0, 0, 0, 0, 0, 0]
+total_length: 2090
+cddb: [1275602950, 6, 150, 39874, 72511, 84620, 109497, 144099, 2090]
+musicbrainz: ('6 150 39874 72511 84620 109497 144099 156787', 'szX8pnFW7V_RAiCy5ez6Y6BfidI-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 1
+Vendor_info    : 'SAMSUNG '
+Identification : 'CD-ROM SC-148A  '
+Revision       : 'B403'
+Device seems to be: Generic mmc CD-ROM.
+Using generic SCSI-3/mmc   CD-ROM driver (mmc_cd).
+Driver flags   : MMC-2 SWABAUDIO 
+Supported modes: 
+first: 1 last 6
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: -1
+track:   2 lba:     39724 (   158896) 08:51:49 adr: 1 control: 0 mode: -1
+track:   3 lba:     72361 (   289444) 16:06:61 adr: 1 control: 0 mode: -1
+track:   4 lba:     84470 (   337880) 18:48:20 adr: 1 control: 0 mode: -1
+track:   5 lba:    109347 (   437388) 24:19:72 adr: 1 control: 0 mode: -1
+track:   6 lba:    143949 (   575796) 32:01:24 adr: 1 control: 0 mode: -1
+track:lout lba:    156637 (   626548) 34:50:37 adr: 1 control: 0 mode: -1

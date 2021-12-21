@@ -1,0 +1,47 @@
+CddbId:8a116119:[150, 14502, 28662, 42662, 55120, 67226, 78640, 90293, 104205, 117809, 129519, 143765, 156138, 169472, 182082, 195910, 209113, 223612, 236220, 248597, 263722, 277315, 290671, 304841, 319334]:333825:74:8a116119 25 150 14502 28662 42662 55120 67226 78640 90293 104205 117809 129519 143765 156138 169472 182082 195910 209113 223612 236220 248597 263722 277315 290671 304841 319334 4451: 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4451
+num_tracks: 25
+offsets: [150, 14502, 28662, 42662, 55120, 67226, 78640, 90293, 104205, 117809, 129519, 143765, 156138, 169472, 182082, 195910, 209113, 223612, 236220, 248597, 263722, 277315, 290671, 304841, 319334]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 4451
+cddb: [2316394777, 25, 150, 14502, 28662, 42662, 55120, 67226, 78640, 90293, 104205, 117809, 129519, 143765, 156138, 169472, 182082, 195910, 209113, 223612, 236220, 248597, 263722, 277315, 290671, 304841, 319334, 4451]
+musicbrainz: ('25 150 14502 28662 42662 55120 67226 78640 90293 104205 117809 129519 143765 156138 169472 182082 195910 209113 223612 236220 248597 263722 277315 290671 304841 319334 333829', 'RvH6PV9F172OGNP4uZaaZuP1RV4-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'MATSHITA'
+Identification : 'BD-MLT UJ240AS  '
+Revision       : '1.00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO RAW/R16 RAW/R96P RAW/R96R
+first: 1 last 25
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: 0
+track:   2 lba:     14352 (    57408) 03:13:27 adr: 1 control: 0 mode: 0
+track:   3 lba:     28512 (   114048) 06:22:12 adr: 1 control: 0 mode: 0
+track:   4 lba:     42512 (   170048) 09:28:62 adr: 1 control: 0 mode: 0
+track:   5 lba:     54970 (   219880) 12:14:70 adr: 1 control: 0 mode: 0
+track:   6 lba:     67076 (   268304) 14:56:26 adr: 1 control: 0 mode: 0
+track:   7 lba:     78490 (   313960) 17:28:40 adr: 1 control: 0 mode: 0
+track:   8 lba:     90143 (   360572) 20:03:68 adr: 1 control: 0 mode: 0
+track:   9 lba:    104055 (   416220) 23:09:30 adr: 1 control: 0 mode: 0
+track:  10 lba:    117659 (   470636) 26:10:59 adr: 1 control: 0 mode: 0
+track:  11 lba:    129369 (   517476) 28:46:69 adr: 1 control: 0 mode: 0
+track:  12 lba:    143615 (   574460) 31:56:65 adr: 1 control: 0 mode: 0
+track:  13 lba:    155988 (   623952) 34:41:63 adr: 1 control: 0 mode: 0
+track:  14 lba:    169322 (   677288) 37:39:47 adr: 1 control: 0 mode: 0
+track:  15 lba:    181932 (   727728) 40:27:57 adr: 1 control: 0 mode: 0
+track:  16 lba:    195760 (   783040) 43:32:10 adr: 1 control: 0 mode: 0
+track:  17 lba:    208963 (   835852) 46:28:13 adr: 1 control: 0 mode: 0
+track:  18 lba:    223462 (   893848) 49:41:37 adr: 1 control: 0 mode: 0
+track:  19 lba:    236070 (   944280) 52:29:45 adr: 1 control: 0 mode: 0
+track:  20 lba:    248447 (   993788) 55:14:47 adr: 1 control: 0 mode: 0
+track:  21 lba:    263572 (  1054288) 58:36:22 adr: 1 control: 0 mode: 0
+track:  22 lba:    277165 (  1108660) 61:37:40 adr: 1 control: 0 mode: 0
+track:  23 lba:    290521 (  1162084) 64:35:46 adr: 1 control: 0 mode: 0
+track:  24 lba:    304691 (  1218764) 67:44:41 adr: 1 control: 0 mode: 0
+track:  25 lba:    319184 (  1276736) 70:57:59 adr: 1 control: 0 mode: 0
+track:lout lba:    333679 (  1334716) 74:11:04 adr: 1 control: 0 mode: -1

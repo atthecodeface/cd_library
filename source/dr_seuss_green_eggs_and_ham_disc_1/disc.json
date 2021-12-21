@@ -1,0 +1,78 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0332": {
+   "album_total_tracks": 4,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0155",
+   "artist": "",
+   "cddb_id": "2804d504",
+   "cddb_string": "2804d504 4 150 24969 65565 77843 1239",
+   "disc_of_set": 1,
+   "downloaded_artists": "Various Artists",
+   "downloaded_titles": "Disc 1###Green Eggs and Ham and Other Servings of Dr. Seuss",
+   "genre": "",
+   "json_path": "source/dr_seuss_green_eggs_and_ham_disc_1/disc.json",
+   "musicbrainz_id": "_NgYF1L3U6jO3gvyLPvz_rxQKME-",
+   "musicbrainz_release_id": "975ae2d6-51e0-4de8-9b04-8f00e6e26aac",
+   "musicbrainz_string": "4 150 24969 65565 77843 92972",
+   "num_tracks": 4,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "dr_seuss_green_eggs_and_ham_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Green Eggs and Ham",
+     "length_seconds": 330920,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Various Artists",
+     "output_title": "Green Eggs and Ham",
+     "sectors": 24819,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "One Fish Two Fish Red Fish Blue Fish",
+     "length_seconds": 541280,
+     "number": 2,
+     "offset": 24969,
+     "output_artist": "Various Artists",
+     "output_title": "One Fish Two Fish Red Fish Blue Fish",
+     "sectors": 40596,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Oh, the Thinks You Can Think",
+     "length_seconds": 163706,
+     "number": 3,
+     "offset": 65565,
+     "output_artist": "Various Artists",
+     "output_title": "Oh, the Thinks You Can Think",
+     "sectors": 12278,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I'm Not Going to Get Up Today",
+     "length_seconds": 201720,
+     "number": 4,
+     "offset": 77843,
+     "output_artist": "Various Artists",
+     "output_title": "I'm Not Going to Get Up Today",
+     "sectors": 15129,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

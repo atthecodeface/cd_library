@@ -1,0 +1,102 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0333": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "",
+   "artist": "",
+   "cddb_id": "4c082806",
+   "cddb_string": "4c082806 6 150 39874 72511 84620 109497 144099 2090",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "",
+   "json_path": "source/dr_seuss_green_eggs_and_ham_disc_2/disc.json",
+   "musicbrainz_id": "szX8pnFW7V_RAiCy5ez6Y6BfidI-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "6 150 39874 72511 84620 109497 144099 156787",
+   "num_tracks": 6,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "dr_seuss_green_eggs_and_ham_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 1 of 6",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 39874,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 2 of 6",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 72511,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 3 of 6",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 84620,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 4 of 6",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 5,
+     "offset": 109497,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 5 of 6",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 6,
+     "offset": 144099,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 6 of 6",
+     "sectors": 0,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,29 @@
+CddbId:540f9107:[150, 44816, 70429, 105819, 153810, 211352, 262540]:299025:74:540f9107 7 150 44816 70429 105819 153810 211352 262540 3987: 7 0 0 0 0 0 0 0 3987
+num_tracks: 7
+offsets: [150, 44816, 70429, 105819, 153810, 211352, 262540]
+extents: [0, 0, 0, 0, 0, 0, 0]
+total_length: 3987
+cddb: [1410306311, 7, 150, 44816, 70429, 105819, 153810, 211352, 262540, 3987]
+musicbrainz: ('7 150 44816 70429 105819 153810 211352 262540 299051', 'JVdOtGy3Nq6dEGqXkl7EWKtt5Jw-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'MATSHITA'
+Identification : 'BD-MLT UJ240AS  '
+Revision       : '1.00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO RAW/R16 RAW/R96P RAW/R96R
+first: 1 last 7
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: 0
+track:   2 lba:     44666 (   178664) 09:57:41 adr: 1 control: 0 mode: 0
+track:   3 lba:     70279 (   281116) 15:39:04 adr: 1 control: 0 mode: 0
+track:   4 lba:    105669 (   422676) 23:30:69 adr: 1 control: 0 mode: 0
+track:   5 lba:    153660 (   614640) 34:10:60 adr: 1 control: 0 mode: 0
+track:   6 lba:    211202 (   844808) 46:58:02 adr: 1 control: 0 mode: 0
+track:   7 lba:    262390 (  1049560) 58:20:40 adr: 1 control: 0 mode: 0
+track:lout lba:    298901 (  1195604) 66:27:26 adr: 1 control: 0 mode: -1

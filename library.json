@@ -1860,6 +1860,54 @@
    "output_title": "Brandenburgische Konzerte nos. 4-6",
    "title": ""
   },
+  "alb.0155": {
+   "artist": "",
+   "downloaded_artists": "Various Artists",
+   "downloaded_titles": "Green Eggs and Ham and Other Servings of Dr. Seuss",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "975ae2d6-51e0-4de8-9b04-8f00e6e26aac",
+   "num_discs": 2,
+   "output_title": "Green Eggs and Ham and Other Servings of Dr. Seuss",
+   "title": ""
+  },
+  "alb.0156": {
+   "artist": "",
+   "downloaded_artists": "Michael Card",
+   "downloaded_titles": "The Life",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "0a70617a-ef90-42a8-b1e2-577b2172fcc6",
+   "num_discs": 2,
+   "output_title": "The Life",
+   "title": ""
+  },
+  "alb.0157": {
+   "artist": "",
+   "downloaded_artists": "Richard Fawkes read by Robert Powell",
+   "downloaded_titles": "The History of Classical Music",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "2f683c3a-0afb-4c1c-8477-929265bcfb63",
+   "num_discs": 4,
+   "output_title": "The History of Classical Music",
+   "title": ""
+  },
+  "alb.0158": {
+   "artist": "",
+   "downloaded_artists": "Ella Fitzgerald",
+   "downloaded_titles": "Romance and Rhythm",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "1981dac4-ac32-4372-906b-195b6dd1226e",
+   "num_discs": 4,
+   "output_title": "Romance and Rhythm",
+   "title": ""
+  },
   "bbc_dorothy_l_sayers_clouds_of_witness": {
    "artist": "Dorothy L Sayers",
    "downloaded_artists": "",

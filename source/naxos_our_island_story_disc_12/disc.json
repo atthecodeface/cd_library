@@ -1,0 +1,138 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0355": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "",
+   "artist": "",
+   "cddb_id": "8d0ff809",
+   "cddb_string": "8d0ff809 9 150 42634 88074 126618 171179 199393 220623 258459 279371 4090",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "",
+   "json_path": "source/naxos_our_island_story_disc_12/disc.json",
+   "musicbrainz_id": "NKKjmKjpDAPxvRnXVwF.Ejl0rhc-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "9 150 42634 88074 126618 171179 199393 220623 258459 279371 306775",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "naxos_our_island_story_disc_12",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 1 of 9",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 42634,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 2 of 9",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 88074,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 3 of 9",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 126618,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 4 of 9",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 5,
+     "offset": 171179,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 5 of 9",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 6,
+     "offset": 199393,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 6 of 9",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 7,
+     "offset": 220623,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 7 of 9",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 8,
+     "offset": 258459,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 8 of 9",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 9,
+     "offset": 279371,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 9 of 9",
+     "sectors": 0,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

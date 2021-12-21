@@ -1,0 +1,138 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0331": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0154",
+   "artist": "",
+   "cddb_id": "820c5809",
+   "cddb_string": "820c5809 9 183 31458 48458 70333 114483 137808 161408 188820 212858 3162",
+   "disc_of_set": 1,
+   "downloaded_artists": "Johann Sebastian Bach; The English Concert, Trevor Pinnock",
+   "downloaded_titles": "Brandenburgische Konzerte nos. 4-6",
+   "genre": "",
+   "json_path": "source/the_english_concert_bach_brandenburg_concertos_disc_2/disc.json",
+   "musicbrainz_id": "gi7gAsMiXS_f7ZQ902.11.CiEtQ-",
+   "musicbrainz_release_id": "0a703bfe-16c5-31c4-a77b-d4002692ebf9",
+   "musicbrainz_string": "9 183 31458 48458 70333 114483 137808 161408 188820 212858 237183",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "the_english_concert_bach_brandenburg_concertos_disc_2",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto No. 4 in G major, BWV 1049: I. Allegro",
+     "length_seconds": 417426,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Johann Sebastian Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto No. 4 in G major, BWV 1049: I. Allegro",
+     "sectors": 31275,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto No. 4 in G major, BWV 1049: II. Andante",
+     "length_seconds": 226266,
+     "number": 2,
+     "offset": 31458,
+     "output_artist": "Johann Sebastian Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto No. 4 in G major, BWV 1049: II. Andante",
+     "sectors": 17000,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto No. 4 in G major, BWV 1049: III. Presto",
+     "length_seconds": 286000,
+     "number": 3,
+     "offset": 48458,
+     "output_artist": "Johann Sebastian Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto No. 4 in G major, BWV 1049: III. Presto",
+     "sectors": 21875,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto No. 5 in D major, BWV 1050: I. Allegro",
+     "length_seconds": 588840,
+     "number": 4,
+     "offset": 70333,
+     "output_artist": "Johann Sebastian Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto No. 5 in D major, BWV 1050: I. Allegro",
+     "sectors": 44150,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto No. 5 in D major, BWV 1050: II. Affettuoso",
+     "length_seconds": 311453,
+     "number": 5,
+     "offset": 114483,
+     "output_artist": "Johann Sebastian Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto No. 5 in D major, BWV 1050: II. Affettuoso",
+     "sectors": 23325,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto No. 5 in D major, BWV 1050: III. Allegro",
+     "length_seconds": 312226,
+     "number": 6,
+     "offset": 137808,
+     "output_artist": "Johann Sebastian Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto No. 5 in D major, BWV 1050: III. Allegro",
+     "sectors": 23600,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto No. 6 in B-flat major, BWV 1051: I. Ohne Satzbezeichnung",
+     "length_seconds": 365400,
+     "number": 7,
+     "offset": 161408,
+     "output_artist": "Johann Sebastian Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto No. 6 in B-flat major, BWV 1051: I. Ohne Satzbezeichnung",
+     "sectors": 27412,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto No. 6 in B-flat major, BWV 1051: II. Adagio ma non tanto",
+     "length_seconds": 320400,
+     "number": 8,
+     "offset": 188820,
+     "output_artist": "Johann Sebastian Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto No. 6 in B-flat major, BWV 1051: II. Adagio ma non tanto",
+     "sectors": 24038,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Concerto No. 6 in B-flat major, BWV 1051: III. Allegro",
+     "length_seconds": 328733,
+     "number": 9,
+     "offset": 212858,
+     "output_artist": "Johann Sebastian Bach; The English Concert, Trevor Pinnock",
+     "output_title": "Concerto No. 6 in B-flat major, BWV 1051: III. Allegro",
+     "sectors": 24325,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

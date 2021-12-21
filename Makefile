@@ -8,6 +8,8 @@ HASH_ME = SET_HASH_ME_TO_THE_WILDCARD_IN_SOURCE_TO_HASH_EXCLUDING_FLAC
 CD_LIBRARY_MNT = /cd_library
 CD_BACKUP_MNT = /cd_backup
 
+SOURCE = ${CD_LIBRARY_MNT}/source
+GENRE = GENRE=Specify_A_Genre
 help:
 	@echo "Add help here ${LIBRARY_ROOT}"
 	@echo ""
@@ -110,3 +112,18 @@ export_to_sqlite: check_in_library_root
 import_from_sqlite: check_in_library_root
 	(cd ${LIBRARY_ROOT} && ${TURNIPRIPPERDB} --debug 9 database import --format sqlite3 lib.sql)
 	@echo "Now run (cd ${LIBRARY_ROOT} && ${TURNIPRIPPERDB} --debug 9 database import --format sqlite3 --update lib.sql)"
+
+
+# "audiobook",
+# "choral",
+# "christian",
+# "dramatization",
+# "language",
+# "musical",
+# "opera",
+# "orchestral",
+# "other",
+# "pop",
+# "vocal",
+encode_genre: check_in_library_root
+	@echo "${TURNIPRIPPERDB} disc --genre ${GENRE} encode --output mp3/${GENRE} --source ${SOURCE}"
