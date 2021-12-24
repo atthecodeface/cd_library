@@ -1,0 +1,35 @@
+CddbId:9b0a4d0d:[150, 9570, 38955, 50595, 63175, 78348, 82485, 108750, 112903, 131255, 154155, 163645, 181093]:197925:74:9b0a4d0d 13 150 9570 38955 50595 63175 78348 82485 108750 112903 131255 154155 163645 181093 2639: 13 0 0 0 0 0 0 0 0 0 0 0 0 0 2639
+num_tracks: 13
+offsets: [150, 9570, 38955, 50595, 63175, 78348, 82485, 108750, 112903, 131255, 154155, 163645, 181093]
+extents: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+total_length: 2639
+cddb: [2601143565, 13, 150, 9570, 38955, 50595, 63175, 78348, 82485, 108750, 112903, 131255, 154155, 163645, 181093, 2639]
+musicbrainz: ('13 150 9570 38955 50595 63175 78348 82485 108750 112903 131255 154155 163645 181093 197933', 'wzoLCsKQswS_AKveZjOdB3gQW0w-')
+
+CD record:
+Device type    : Removable CD-ROM
+Version        : 0
+Response Format: 2
+Capabilities   : 
+Vendor_info    : 'MATSHITA'
+Identification : 'BD-MLT UJ240AS  '
+Revision       : '1.00'
+Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+Supported modes: TAO PACKET SAO RAW/R16 RAW/R96P RAW/R96R
+first: 1 last 13
+track:   1 lba:         0 (        0) 00:02:00 adr: 1 control: 0 mode: 0
+track:   2 lba:      9420 (    37680) 02:07:45 adr: 1 control: 0 mode: 0
+track:   3 lba:     38805 (   155220) 08:39:30 adr: 1 control: 0 mode: 0
+track:   4 lba:     50445 (   201780) 11:14:45 adr: 1 control: 0 mode: 0
+track:   5 lba:     63025 (   252100) 14:02:25 adr: 1 control: 0 mode: 0
+track:   6 lba:     78198 (   312792) 17:24:48 adr: 1 control: 0 mode: 0
+track:   7 lba:     82335 (   329340) 18:19:60 adr: 1 control: 0 mode: 0
+track:   8 lba:    108600 (   434400) 24:10:00 adr: 1 control: 0 mode: 0
+track:   9 lba:    112753 (   451012) 25:05:28 adr: 1 control: 0 mode: 0
+track:  10 lba:    131105 (   524420) 29:10:05 adr: 1 control: 0 mode: 0
+track:  11 lba:    154005 (   616020) 34:15:30 adr: 1 control: 0 mode: 0
+track:  12 lba:    163495 (   653980) 36:21:70 adr: 1 control: 0 mode: 0
+track:  13 lba:    180943 (   723772) 40:14:43 adr: 1 control: 0 mode: 0
+track:lout lba:    197783 (   791132) 43:59:08 adr: 1 control: 0 mode: -1

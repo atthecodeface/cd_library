@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0361": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 100,
+   "album_track_offset": 25,
    "album_uniq_id": "alb.0158",
    "artist": "",
    "cddb_id": "67119819",
@@ -31,7 +31,7 @@
      "length_seconds": 178346,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "F.D.R. Jones",
      "sectors": 13376,
      "title": ""
@@ -43,7 +43,7 @@
      "length_seconds": 158000,
      "number": 2,
      "offset": 13526,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "I Found My Yellow Basket",
      "sectors": 11850,
      "title": ""
@@ -55,7 +55,7 @@
      "length_seconds": 200720,
      "number": 3,
      "offset": 25376,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Undecided",
      "sectors": 15054,
      "title": ""
@@ -67,7 +67,7 @@
      "length_seconds": 184426,
      "number": 4,
      "offset": 40430,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Tain't What You Do (It's the Way That Cha Do It)",
      "sectors": 13832,
      "title": ""
@@ -79,7 +79,7 @@
      "length_seconds": 187533,
      "number": 5,
      "offset": 54262,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "My Heart Belongs to Daddy",
      "sectors": 14236,
      "title": ""
@@ -91,7 +91,7 @@
      "length_seconds": 185106,
      "number": 6,
      "offset": 68498,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Chew, Chew, Chew (Your Bubble Gum)",
      "sectors": 13883,
      "title": ""
@@ -103,7 +103,7 @@
      "length_seconds": 193573,
      "number": 7,
      "offset": 82381,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Don't Worry 'Bout Me",
      "sectors": 14518,
      "title": ""
@@ -115,7 +115,7 @@
      "length_seconds": 188893,
      "number": 8,
      "offset": 96899,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "If Anything Happened to You",
      "sectors": 14167,
      "title": ""
@@ -127,7 +127,7 @@
      "length_seconds": 184240,
      "number": 9,
      "offset": 111066,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "If You Ever Change Your Mind",
      "sectors": 13908,
      "title": ""
@@ -139,7 +139,7 @@
      "length_seconds": 173320,
      "number": 10,
      "offset": 124974,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Little White Lies",
      "sectors": 12999,
      "title": ""
@@ -151,7 +151,7 @@
      "length_seconds": 198773,
      "number": 11,
      "offset": 137973,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Stairway to the Stars",
      "sectors": 14908,
      "title": ""
@@ -163,7 +163,7 @@
      "length_seconds": 188760,
      "number": 12,
      "offset": 152881,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "I Want the Waiter (With the Water)",
      "sectors": 14157,
      "title": ""
@@ -175,7 +175,7 @@
      "length_seconds": 179253,
      "number": 13,
      "offset": 167038,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Out of Nowhere",
      "sectors": 13444,
      "title": ""
@@ -187,7 +187,7 @@
      "length_seconds": 188946,
      "number": 14,
      "offset": 180482,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "You're Gonna Lose Your Gal",
      "sectors": 14171,
      "title": ""
@@ -199,7 +199,7 @@
      "length_seconds": 181066,
      "number": 15,
      "offset": 194653,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Moon Ray",
      "sectors": 13580,
      "title": ""
@@ -211,7 +211,7 @@
      "length_seconds": 167493,
      "number": 16,
      "offset": 208233,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Sugar Blues",
      "sectors": 12562,
      "title": ""
@@ -223,7 +223,7 @@
      "length_seconds": 187813,
      "number": 17,
      "offset": 220795,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "The Starlit Hour",
      "sectors": 14086,
      "title": ""
@@ -235,7 +235,7 @@
      "length_seconds": 176506,
      "number": 18,
      "offset": 234881,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "What's the Matter With Me?",
      "sectors": 13238,
      "title": ""
@@ -247,7 +247,7 @@
      "length_seconds": 152693,
      "number": 19,
      "offset": 248119,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Baby, Won't You Please Come Home?",
      "sectors": 11576,
      "title": ""
@@ -259,7 +259,7 @@
      "length_seconds": 179533,
      "number": 20,
      "offset": 259695,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "If It Weren't for You",
      "sectors": 13465,
      "title": ""
@@ -271,7 +271,7 @@
      "length_seconds": 183213,
      "number": 21,
      "offset": 273160,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Sing Song Swing",
      "sectors": 13741,
      "title": ""
@@ -283,7 +283,7 @@
      "length_seconds": 178600,
      "number": 22,
      "offset": 286901,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Imagination",
      "sectors": 13395,
      "title": ""
@@ -295,7 +295,7 @@
      "length_seconds": 158893,
      "number": 23,
      "offset": 300296,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Deedle-De-Dum",
      "sectors": 11917,
      "title": ""
@@ -307,7 +307,7 @@
      "length_seconds": 166626,
      "number": 24,
      "offset": 312213,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Shake Down the Stars",
      "sectors": 12497,
      "title": ""
@@ -319,7 +319,7 @@
      "length_seconds": 176986,
      "number": 25,
      "offset": 324710,
-     "output_artist": "Unknown artist",
+     "output_artist": "Ella Fitzgerald",
      "output_title": "Gulf Coast Blues",
      "sectors": 13274,
      "title": ""

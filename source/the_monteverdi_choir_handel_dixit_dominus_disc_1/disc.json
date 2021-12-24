@@ -1,0 +1,138 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0363": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0159",
+   "artist": "",
+   "cddb_id": "6d09d709",
+   "cddb_string": "6d09d709 9 183 28183 42773 56505 68533 75530 108638 127618 157343 2521",
+   "disc_of_set": 1,
+   "downloaded_artists": "Georg Friedrich H\u00e4ndel; Monteverdi Choir and Orchestra, John Eliot Gardiner",
+   "downloaded_titles": "Dixit Dominus",
+   "genre": "",
+   "json_path": "source/the_monteverdi_choir_handel_dixit_dominus_disc_1/disc.json",
+   "musicbrainz_id": "dzNvn4Rlj8DgW3Ljg3ilbBJWtUs-",
+   "musicbrainz_release_id": "c06198ab-9baf-4baa-9b93-e31440e42fe4",
+   "musicbrainz_string": "9 183 28183 42773 56505 68533 75530 108638 127618 157343 189108",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "the_monteverdi_choir_handel_dixit_dominus_disc_1",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Dixit Dominus (Psalmus 109)",
+     "length_seconds": 373893,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Georg Friedrich H\u00e4ndel; Monteverdi Choir and Orchestra, John Eliot Gardiner",
+     "output_title": "Dixit Dominus (Psalmus 109)",
+     "sectors": 28000,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Aria: Virgam virtutis tuae",
+     "length_seconds": 195000,
+     "number": 2,
+     "offset": 28183,
+     "output_artist": "Georg Friedrich H\u00e4ndel; Monteverdi Choir and Orchestra, John Eliot Gardiner",
+     "output_title": "Aria: Virgam virtutis tuae",
+     "sectors": 14590,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Aria: Tecum principium in die virtutis",
+     "length_seconds": 183000,
+     "number": 3,
+     "offset": 42773,
+     "output_artist": "Georg Friedrich H\u00e4ndel; Monteverdi Choir and Orchestra, John Eliot Gardiner",
+     "output_title": "Aria: Tecum principium in die virtutis",
+     "sectors": 13732,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chorus: Juravit Dominus",
+     "length_seconds": 160000,
+     "number": 4,
+     "offset": 56505,
+     "output_artist": "Georg Friedrich H\u00e4ndel; Monteverdi Choir and Orchestra, John Eliot Gardiner",
+     "output_title": "Chorus: Juravit Dominus",
+     "sectors": 12028,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Chorus: Tu es sacerdos in aeternum",
+     "length_seconds": 93000,
+     "number": 5,
+     "offset": 68533,
+     "output_artist": "Georg Friedrich H\u00e4ndel; Monteverdi Choir and Orchestra, John Eliot Gardiner",
+     "output_title": "Chorus: Tu es sacerdos in aeternum",
+     "sectors": 6997,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Dominus a dextris tuis",
+     "length_seconds": 441200,
+     "number": 6,
+     "offset": 75530,
+     "output_artist": "Georg Friedrich H\u00e4ndel; Monteverdi Choir and Orchestra, John Eliot Gardiner",
+     "output_title": "Dominus a dextris tuis",
+     "sectors": 33108,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "De torrente in via bibet",
+     "length_seconds": 253360,
+     "number": 7,
+     "offset": 108638,
+     "output_artist": "Georg Friedrich H\u00e4ndel; Monteverdi Choir and Orchestra, John Eliot Gardiner",
+     "output_title": "De torrente in via bibet",
+     "sectors": 18980,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Gloria Patri e Filio",
+     "length_seconds": 396000,
+     "number": 8,
+     "offset": 127618,
+     "output_artist": "Georg Friedrich H\u00e4ndel; Monteverdi Choir and Orchestra, John Eliot Gardiner",
+     "output_title": "Gloria Patri e Filio",
+     "sectors": 29725,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Zadok the Priest: Coronation Anthem No. 1",
+     "length_seconds": 424000,
+     "number": 9,
+     "offset": 157343,
+     "output_artist": "Georg Friedrich H\u00e4ndel; Monteverdi Choir and Orchestra, John Eliot Gardiner",
+     "output_title": "Zadok the Priest: Coronation Anthem No. 1",
+     "sectors": 31765,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
