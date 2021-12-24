@@ -1,0 +1,78 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0371": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "",
+   "artist": "",
+   "cddb_id": "3303df04",
+   "cddb_string": "3303df04 4 150 19464 34031 63701 993",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "",
+   "json_path": "source/mimi_cross_pool/disc.json",
+   "musicbrainz_id": "DzVD3KO0WfzxA7ccV9rM.OAqP7Q-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "4 150 19464 34031 63701 74532",
+   "num_tracks": 4,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "mimi_cross_pool",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 1 of 4",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 19464,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 2 of 4",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 34031,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 3 of 4",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 63701,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 4 of 4",
+     "sectors": 0,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
