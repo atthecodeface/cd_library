@@ -2040,6 +2040,18 @@
    "output_title": "Pr\u00e9lude Baroque III: Couperin",
    "title": ""
   },
+  "alb.0170": {
+   "artist": "",
+   "downloaded_artists": "Rich Mullins and A Ragamuffin Band",
+   "downloaded_titles": "The Jesus Record",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "f2497de0-8e5d-40ec-b631-df8f5dfbdb03",
+   "num_discs": 2,
+   "output_title": "The Jesus Record",
+   "title": ""
+  },
   "bbc_dorothy_l_sayers_clouds_of_witness": {
    "artist": "Dorothy L Sayers",
    "downloaded_artists": "",

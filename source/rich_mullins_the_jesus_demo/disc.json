@@ -1,0 +1,138 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0376": {
+   "album_total_tracks": 9,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0170",
+   "artist": "",
+   "cddb_id": "7107a509",
+   "cddb_string": "7107a509 9 150 21255 36165 51025 68152 88770 99812 117879 134417 1959",
+   "disc_of_set": 1,
+   "downloaded_artists": "Rich Mullins and A Ragamuffin Band",
+   "downloaded_titles": "The Jesus Demos###The Jesus Record",
+   "genre": "",
+   "json_path": "source/rich_mullins_the_jesus_demo/disc.json",
+   "musicbrainz_id": "Crg5Id4EjLsGhSwX0lRs6rdtWsg-",
+   "musicbrainz_release_id": "f2497de0-8e5d-40ec-b631-df8f5dfbdb03",
+   "musicbrainz_string": "9 150 21255 36165 51025 68152 88770 99812 117879 134417 146980",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "rich_mullins_the_jesus_demo",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Hard to Get",
+     "length_seconds": 281266,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
+     "output_title": "Hard to Get",
+     "sectors": 21105,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "All the Way to Kingdom Come",
+     "length_seconds": 198800,
+     "number": 2,
+     "offset": 21255,
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
+     "output_title": "All the Way to Kingdom Come",
+     "sectors": 14910,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "My Deliverer",
+     "length_seconds": 198133,
+     "number": 3,
+     "offset": 36165,
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
+     "output_title": "My Deliverer",
+     "sectors": 14860,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Surely God Is With Us",
+     "length_seconds": 228360,
+     "number": 4,
+     "offset": 51025,
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
+     "output_title": "Surely God Is With Us",
+     "sectors": 17127,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Jesus...",
+     "length_seconds": 274906,
+     "number": 5,
+     "offset": 68152,
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
+     "output_title": "Jesus...",
+     "sectors": 20618,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "You Did Not Have a Home",
+     "length_seconds": 147226,
+     "number": 6,
+     "offset": 88770,
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
+     "output_title": "You Did Not Have a Home",
+     "sectors": 11042,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Heaven in His Eyes",
+     "length_seconds": 240906,
+     "number": 7,
+     "offset": 99812,
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
+     "output_title": "Heaven in His Eyes",
+     "sectors": 18067,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Nothing Is Beyond You",
+     "length_seconds": 220493,
+     "number": 8,
+     "offset": 117879,
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
+     "output_title": "Nothing Is Beyond You",
+     "sectors": 16538,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "That Where I Am, There You...",
+     "length_seconds": 169640,
+     "number": 9,
+     "offset": 134417,
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
+     "output_title": "That Where I Am, There You...",
+     "sectors": 12563,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

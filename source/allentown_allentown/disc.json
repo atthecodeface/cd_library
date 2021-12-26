@@ -1,0 +1,162 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0375": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "",
+   "artist": "",
+   "cddb_id": "990a7f0b",
+   "cddb_string": "990a7f0b 11 150 19973 39655 57186 70043 92346 115134 130158 148512 164400 179930 2689",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "",
+   "json_path": "source/allentown_allentown/disc.json",
+   "musicbrainz_id": "3aFn4HmZLW.EgDYRuks9_12LBX8-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "11 150 19973 39655 57186 70043 92346 115134 130158 148512 164400 179930 201720",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "allentown_allentown",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 1 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 19973,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 2 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 39655,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 3 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 57186,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 4 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 5,
+     "offset": 70043,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 5 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 6,
+     "offset": 92346,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 6 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 7,
+     "offset": 115134,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 7 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 8,
+     "offset": 130158,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 8 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 9,
+     "offset": 148512,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 9 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 10,
+     "offset": 164400,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 10 of 11",
+     "sectors": 0,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 11,
+     "offset": 179930,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 11 of 11",
+     "sectors": 0,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
