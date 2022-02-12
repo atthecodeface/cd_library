@@ -2,13 +2,13 @@
  "albums": {},
  "discs": {
   "disc.0349": {
-   "album_total_tracks": 0,
+   "album_total_tracks": 8,
    "album_track_offset": 0,
    "album_uniq_id": "marshall_our_island_story",
    "artist": "",
    "cddb_id": "67106307",
    "cddb_string": "67106307 7 150 45362 71167 99833 164190 223475 256315 4197",
-   "disc_of_set": 1,
+   "disc_of_set": 6,
    "downloaded_artists": "",
    "downloaded_titles": "",
    "genre": "audiobook",
@@ -31,8 +31,8 @@
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 1 of 7",
+     "output_artist": "H.E.Marshall",
+     "output_title": "Track 1 of 7 of disc 1 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -43,8 +43,8 @@
      "length_seconds": 0,
      "number": 2,
      "offset": 45362,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 2 of 7",
+     "output_artist": "H.E.Marshall",
+     "output_title": "Track 2 of 7 of disc 1 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -55,8 +55,8 @@
      "length_seconds": 0,
      "number": 3,
      "offset": 71167,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 3 of 7",
+     "output_artist": "H.E.Marshall",
+     "output_title": "Track 3 of 7 of disc 1 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -67,8 +67,8 @@
      "length_seconds": 0,
      "number": 4,
      "offset": 99833,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 4 of 7",
+     "output_artist": "H.E.Marshall",
+     "output_title": "Track 4 of 7 of disc 1 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -79,8 +79,8 @@
      "length_seconds": 0,
      "number": 5,
      "offset": 164190,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 5 of 7",
+     "output_artist": "H.E.Marshall",
+     "output_title": "Track 5 of 7 of disc 1 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -91,8 +91,8 @@
      "length_seconds": 0,
      "number": 6,
      "offset": 223475,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 6 of 7",
+     "output_artist": "H.E.Marshall",
+     "output_title": "Track 6 of 7 of disc 1 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -103,8 +103,8 @@
      "length_seconds": 0,
      "number": 7,
      "offset": 256315,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 7 of 7",
+     "output_artist": "H.E.Marshall",
+     "output_title": "Track 7 of 7 of disc 1 of 13",
      "sectors": 0,
      "title": ""
     }
