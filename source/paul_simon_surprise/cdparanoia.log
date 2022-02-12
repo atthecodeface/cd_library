@@ -1,4 +1,4 @@
-cdparanoia -L --force-cdrom-device /dev/sr1 -B --output-wav 1-11 
+cdparanoia -L --force-cdrom-device /dev/sr0 -B --output-wav 1-11 
 cdparanoia III release 10.2 (September 11, 2008)
 
 Ripping from sector       0 (track  1 [0:00.00])

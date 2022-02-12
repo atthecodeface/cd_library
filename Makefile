@@ -19,8 +19,13 @@ help:
 	@echo "To verify the source flac files are not corrupted and match the hashes in the latest update_hashes"
 	@echo "  make verify_source"
 	@echo ""
-	@echo "The target 'rsync_to_backup_mnt3' attempts to sync *everything* in the library to /mnt3 in archive mode"
+	@echo "The target 'rsync_to_cd_library' attempts to sync mp3 and source in the library to /cd_library appropriately"
 	@echo "The target 'rsync_to_mnt' attempts to sync the mp3 to a FAT32 file system in /mnt"
+	@echo "The target 'rsync_to_mnt2' attempts to sync the mp3 to a FAT32 file system in /mnt2"
+	@echo "The target 'rsync_to_nas' attempts to sync mp3 and source in the library to the NAS"
+	@echo "The target 'export_to_sqlite' exports the JSON library into a sqlite file called lib.sql; that file cannot exist beforehand"
+	@echo "The target 'import_from_sqlite' shows what an import into the JSON library from lib.sql would do, and provides a line to paste into bash to make it happen"
+	@echo "The target 'encode_genre' provides a line to paste into bash to encode all the discs of a particular gener as mp3; '--max_discs 1000' or similar may be required after '--genre <GENRE>'"
 
 .PHONY: list
 list:

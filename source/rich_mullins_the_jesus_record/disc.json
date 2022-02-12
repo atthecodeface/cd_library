@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0377": {
-   "album_total_tracks": 0,
-   "album_track_offset": 0,
+   "album_total_tracks": 19,
+   "album_track_offset": 9,
    "album_uniq_id": "alb.0170",
    "artist": "",
    "cddb_id": "840ad20a",
@@ -31,7 +31,7 @@
      "length_seconds": 359293,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
      "output_title": "My Deliverer",
      "sectors": 26947,
      "title": ""
@@ -43,7 +43,7 @@
      "length_seconds": 269666,
      "number": 2,
      "offset": 27097,
-     "output_artist": "Unknown artist",
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
      "output_title": "Surely God Is With Us",
      "sectors": 20225,
      "title": ""
@@ -55,7 +55,7 @@
      "length_seconds": 259373,
      "number": 3,
      "offset": 47322,
-     "output_artist": "Unknown artist",
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
      "output_title": "Nothing Is Beyond You",
      "sectors": 19453,
      "title": ""
@@ -67,7 +67,7 @@
      "length_seconds": 177866,
      "number": 4,
      "offset": 66775,
-     "output_artist": "Unknown artist",
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
      "output_title": "You Did Not Have a Home",
      "sectors": 13340,
      "title": ""
@@ -79,7 +79,7 @@
      "length_seconds": 365733,
      "number": 5,
      "offset": 80115,
-     "output_artist": "Unknown artist",
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
      "output_title": "Jesus...",
      "sectors": 27430,
      "title": ""
@@ -91,7 +91,7 @@
      "length_seconds": 231093,
      "number": 6,
      "offset": 107545,
-     "output_artist": "Unknown artist",
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
      "output_title": "All the Way to Kingdom Come",
      "sectors": 17332,
      "title": ""
@@ -103,7 +103,7 @@
      "length_seconds": 364173,
      "number": 7,
      "offset": 124877,
-     "output_artist": "Unknown artist",
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
      "output_title": "Man of No Reputation",
      "sectors": 27313,
      "title": ""
@@ -115,7 +115,7 @@
      "length_seconds": 245200,
      "number": 8,
      "offset": 152190,
-     "output_artist": "Unknown artist",
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
      "output_title": "Heaven in His Eyes",
      "sectors": 18390,
      "title": ""
@@ -127,7 +127,7 @@
      "length_seconds": 295053,
      "number": 9,
      "offset": 170580,
-     "output_artist": "Unknown artist",
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
      "output_title": "Hard to Get",
      "sectors": 22129,
      "title": ""
@@ -139,7 +139,7 @@
      "length_seconds": 202547,
      "number": 10,
      "offset": 192709,
-     "output_artist": "Unknown artist",
+     "output_artist": "Rich Mullins and A Ragamuffin Band",
      "output_title": "That Where I Am, There You May Also Be",
      "sectors": 15228,
      "title": ""
