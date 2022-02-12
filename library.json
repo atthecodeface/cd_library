@@ -2044,7 +2044,7 @@
    "artist": "",
    "downloaded_artists": "Rich Mullins and A Ragamuffin Band",
    "downloaded_titles": "The Jesus Record",
-   "genre": "",
+   "genre": "christian",
    "json_path": "library.json",
    "label": "",
    "musicbrainz_release_id": "f2497de0-8e5d-40ec-b631-df8f5dfbdb03",
@@ -2056,7 +2056,7 @@
    "artist": "",
    "downloaded_artists": "Various Artists",
    "downloaded_titles": "That Thing You Do! Original Motion Picture Soundtrack",
-   "genre": "",
+   "genre": "pop",
    "json_path": "library.json",
    "label": "",
    "musicbrainz_release_id": "2e3a791b-099f-4782-ae6b-561243acfbad",
@@ -2160,6 +2160,18 @@
    "output_title": "John Adams",
    "title": "John Adams"
   },
+  "dr_seuss_green_eggs": {
+   "artist": "Dr Seuss",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "",
+   "num_discs": 1,
+   "output_title": "unknown album",
+   "title": "Green Eggs and Ham"
+  },
   "girton_operatic_ruddigore": {
    "artist": "Girton Operatic",
    "downloaded_artists": "",
@@ -2195,6 +2207,18 @@
    "num_discs": 5,
    "output_title": "Into Thin Air",
    "title": "Into Thin Air"
+  },
+  "jrr_tolkein_sir_gawain": {
+   "artist": "J.R.R. Tolkien",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "",
+   "num_discs": 4,
+   "output_title": "unknown album",
+   "title": "Sir Gawain and the Green Knight"
   },
   "judas_maccabaeus_festspiel": {
    "artist": "George Frideric Handel, FestspielOrchester Gottingen",
@@ -2233,7 +2257,7 @@
    "title": "Round The World in Eighty Days"
   },
   "margery_allingham_black_plumes": {
-   "artist": "argery Allingham",
+   "artist": "Margery Allingham",
    "downloaded_artists": "",
    "downloaded_titles": "",
    "genre": "audiobook",
@@ -2245,7 +2269,7 @@
    "title": "Black Plumes"
   },
   "margery_allingham_coroners_pidgin": {
-   "artist": "argery Allingham",
+   "artist": "Margery Allingham",
    "downloaded_artists": "",
    "downloaded_titles": "",
    "genre": "audiobook",
@@ -2257,7 +2281,7 @@
    "title": "Coroners Pidgin"
   },
   "margery_allingham_look_to_the_lady": {
-   "artist": "argery Allingham",
+   "artist": "Margery Allingham",
    "downloaded_artists": "",
    "downloaded_titles": "",
    "genre": "audiobook",
@@ -2269,7 +2293,7 @@
    "title": "Look To The Lady"
   },
   "margery_allingham_more_work_for_the_undertaker": {
-   "artist": "argery Allingham",
+   "artist": "Margery Allingham",
    "downloaded_artists": "",
    "downloaded_titles": "",
    "genre": "audiobook",
@@ -2281,7 +2305,7 @@
    "title": "More Work For The Undertaker"
   },
   "margery_allingham_mystery_mile": {
-   "artist": "argery Allingham",
+   "artist": "Margery Allingham",
    "downloaded_artists": "",
    "downloaded_titles": "",
    "genre": "audiobook",
@@ -2293,7 +2317,7 @@
    "title": "Mystery Mile"
   },
   "margery_allingham_sweet_danger": {
-   "artist": "argery Allingham",
+   "artist": "Margery Allingham",
    "downloaded_artists": "",
    "downloaded_titles": "",
    "genre": "audiobook",
@@ -2305,7 +2329,7 @@
    "title": "Sweet Danger"
   },
   "margery_allingham_the_china_governess": {
-   "artist": "argery Allingham",
+   "artist": "Margery Allingham",
    "downloaded_artists": "",
    "downloaded_titles": "",
    "genre": "audiobook",
@@ -2317,7 +2341,7 @@
    "title": "The China Governess"
   },
   "margery_allingham_the_fashion_in_shrouds": {
-   "artist": "argery Allingham",
+   "artist": "Margery Allingham",
    "downloaded_artists": "",
    "downloaded_titles": "",
    "genre": "audiobook",
@@ -2329,7 +2353,7 @@
    "title": "The Fashion in Shrouds"
   },
   "margery_allingham_the_tiger_in_the_smoke": {
-   "artist": "argery Allingham",
+   "artist": "Margery Allingham",
    "downloaded_artists": "",
    "downloaded_titles": "",
    "genre": "audiobook",
@@ -2339,6 +2363,18 @@
    "num_discs": 3,
    "output_title": "The Tiger In The Smoke",
    "title": "The Tiger In The Smoke"
+  },
+  "marshall_our_island_story": {
+   "artist": "H.E.Marshall",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "audiobook",
+   "json_path": "library.json",
+   "label": "Naxos",
+   "musicbrainz_release_id": "",
+   "num_discs": 13,
+   "output_title": "unknown album",
+   "title": "Our Island Story"
   },
   "naxos_don_quixote": {
    "artist": "",
