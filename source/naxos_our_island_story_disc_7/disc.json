@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0350": {
-   "album_total_tracks": 8,
-   "album_track_offset": 0,
+   "album_total_tracks": 110,
+   "album_track_offset": 49,
    "album_uniq_id": "marshall_our_island_story",
    "artist": "",
    "cddb_id": "620dfc08",
@@ -32,7 +32,7 @@
      "number": 1,
      "offset": 150,
      "output_artist": "H.E.Marshall",
-     "output_title": "Track 1 of 8 of disc 1 of 13",
+     "output_title": "Track 1 of 8 of disc 7 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -44,7 +44,7 @@
      "number": 2,
      "offset": 20423,
      "output_artist": "H.E.Marshall",
-     "output_title": "Track 2 of 8 of disc 1 of 13",
+     "output_title": "Track 2 of 8 of disc 7 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -56,7 +56,7 @@
      "number": 3,
      "offset": 51250,
      "output_artist": "H.E.Marshall",
-     "output_title": "Track 3 of 8 of disc 1 of 13",
+     "output_title": "Track 3 of 8 of disc 7 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -68,7 +68,7 @@
      "number": 4,
      "offset": 72996,
      "output_artist": "H.E.Marshall",
-     "output_title": "Track 4 of 8 of disc 1 of 13",
+     "output_title": "Track 4 of 8 of disc 7 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -80,7 +80,7 @@
      "number": 5,
      "offset": 109557,
      "output_artist": "H.E.Marshall",
-     "output_title": "Track 5 of 8 of disc 1 of 13",
+     "output_title": "Track 5 of 8 of disc 7 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -92,7 +92,7 @@
      "number": 6,
      "offset": 159182,
      "output_artist": "H.E.Marshall",
-     "output_title": "Track 6 of 8 of disc 1 of 13",
+     "output_title": "Track 6 of 8 of disc 7 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -104,7 +104,7 @@
      "number": 7,
      "offset": 208029,
      "output_artist": "H.E.Marshall",
-     "output_title": "Track 7 of 8 of disc 1 of 13",
+     "output_title": "Track 7 of 8 of disc 7 of 13",
      "sectors": 0,
      "title": ""
     },
@@ -116,7 +116,7 @@
      "number": 8,
      "offset": 231780,
      "output_artist": "H.E.Marshall",
-     "output_title": "Track 8 of 8 of disc 1 of 13",
+     "output_title": "Track 8 of 8 of disc 7 of 13",
      "sectors": 0,
      "title": ""
     }

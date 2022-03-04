@@ -2088,6 +2088,18 @@
    "output_title": "The Nine Tailors",
    "title": "The Nine Tailors"
   },
+  "bbc_jane_eyre": {
+   "artist": "Charlotte Bronte",
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "dramatization",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "",
+   "num_discs": 2,
+   "output_title": "Jane Eyre",
+   "title": "Jane Eyre"
+  },
   "bbc_the_hobbit": {
    "artist": "",
    "downloaded_artists": "J.R.R. Tolkien dramatised by Michael Kilgarriff",

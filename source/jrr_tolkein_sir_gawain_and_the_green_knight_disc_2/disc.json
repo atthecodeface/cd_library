@@ -2,8 +2,8 @@
  "albums": {},
  "discs": {
   "disc.0337": {
-   "album_total_tracks": 13,
-   "album_track_offset": 0,
+   "album_total_tracks": 61,
+   "album_track_offset": 17,
    "album_uniq_id": "jrr_tolkein_sir_gawain",
    "artist": "",
    "cddb_id": "fc122012",
@@ -32,7 +32,7 @@
      "number": 1,
      "offset": 150,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 1 of 18 of disc 1 of 4",
+     "output_title": "Track 1 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -44,7 +44,7 @@
      "number": 2,
      "offset": 12164,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 2 of 18 of disc 1 of 4",
+     "output_title": "Track 2 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -56,7 +56,7 @@
      "number": 3,
      "offset": 26939,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 3 of 18 of disc 1 of 4",
+     "output_title": "Track 3 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -68,7 +68,7 @@
      "number": 4,
      "offset": 47272,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 4 of 18 of disc 1 of 4",
+     "output_title": "Track 4 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -80,7 +80,7 @@
      "number": 5,
      "offset": 69550,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 5 of 18 of disc 1 of 4",
+     "output_title": "Track 5 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -92,7 +92,7 @@
      "number": 6,
      "offset": 84380,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 6 of 18 of disc 1 of 4",
+     "output_title": "Track 6 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -104,7 +104,7 @@
      "number": 7,
      "offset": 105338,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 7 of 18 of disc 1 of 4",
+     "output_title": "Track 7 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -116,7 +116,7 @@
      "number": 8,
      "offset": 123280,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 8 of 18 of disc 1 of 4",
+     "output_title": "Track 8 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -128,7 +128,7 @@
      "number": 9,
      "offset": 139432,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 9 of 18 of disc 1 of 4",
+     "output_title": "Track 9 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -140,7 +140,7 @@
      "number": 10,
      "offset": 165220,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 10 of 18 of disc 1 of 4",
+     "output_title": "Track 10 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -152,7 +152,7 @@
      "number": 11,
      "offset": 181561,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 11 of 18 of disc 1 of 4",
+     "output_title": "Track 11 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -164,7 +164,7 @@
      "number": 12,
      "offset": 203118,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 12 of 18 of disc 1 of 4",
+     "output_title": "Track 12 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -176,7 +176,7 @@
      "number": 13,
      "offset": 223174,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 13 of 18 of disc 1 of 4",
+     "output_title": "Track 13 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -188,7 +188,7 @@
      "number": 14,
      "offset": 246450,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 14 of 18 of disc 1 of 4",
+     "output_title": "Track 14 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -200,7 +200,7 @@
      "number": 15,
      "offset": 264258,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 15 of 18 of disc 1 of 4",
+     "output_title": "Track 15 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -212,7 +212,7 @@
      "number": 16,
      "offset": 282647,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 16 of 18 of disc 1 of 4",
+     "output_title": "Track 16 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -224,7 +224,7 @@
      "number": 17,
      "offset": 305784,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 17 of 18 of disc 1 of 4",
+     "output_title": "Track 17 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     },
@@ -236,7 +236,7 @@
      "number": 18,
      "offset": 325783,
      "output_artist": "J.R.R. Tolkien",
-     "output_title": "Track 18 of 18 of disc 1 of 4",
+     "output_title": "Track 18 of 18 of disc 2 of 4",
      "sectors": 0,
      "title": ""
     }
