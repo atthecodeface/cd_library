@@ -1,0 +1,89 @@
+cdparanoia -L --force-cdrom-device /dev/sr0 -B --output-wav 80-99 
+cdparanoia III release 10.2 (September 11, 2008)
+
+Ripping from sector  255234 (track 80 [0:00.00])
+	  to sector  300224 (track 99 [0:16.71])
+
+outputting to track80.cdda.wav
+
+
+
+outputting to track81.cdda.wav
+
+
+
+outputting to track82.cdda.wav
+
+
+
+outputting to track83.cdda.wav
+
+
+
+outputting to track84.cdda.wav
+
+
+
+outputting to track85.cdda.wav
+
+
+
+outputting to track86.cdda.wav
+
+
+
+outputting to track87.cdda.wav
+
+
+
+outputting to track88.cdda.wav
+
+
+
+outputting to track89.cdda.wav
+
+
+
+outputting to track90.cdda.wav
+
+
+
+outputting to track91.cdda.wav
+
+
+
+outputting to track92.cdda.wav
+
+
+
+outputting to track93.cdda.wav
+
+
+
+outputting to track94.cdda.wav
+
+
+
+outputting to track95.cdda.wav
+
+
+
+outputting to track96.cdda.wav
+
+
+
+outputting to track97.cdda.wav
+
+
+
+outputting to track98.cdda.wav
+
+
+
+outputting to track99.cdda.wav
+
+
+
+Done.
+
+

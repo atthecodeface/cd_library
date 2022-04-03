@@ -1,0 +1,265 @@
+cdparanoia -L --force-cdrom-device /dev/sr1 -B --output-wav 36-99 
+cdparanoia III release 10.2 (September 11, 2008)
+
+Ripping from sector   93825 (track 36 [0:00.00])
+	  to sector  294599 (track 99 [0:15.45])
+
+outputting to track36.cdda.wav
+
+
+
+outputting to track37.cdda.wav
+
+
+
+outputting to track38.cdda.wav
+
+
+
+outputting to track39.cdda.wav
+
+
+
+outputting to track40.cdda.wav
+
+
+
+outputting to track41.cdda.wav
+
+
+
+outputting to track42.cdda.wav
+
+
+
+outputting to track43.cdda.wav
+
+
+
+outputting to track44.cdda.wav
+
+
+
+outputting to track45.cdda.wav
+
+
+
+outputting to track46.cdda.wav
+
+
+
+outputting to track47.cdda.wav
+
+
+
+outputting to track48.cdda.wav
+
+
+
+outputting to track49.cdda.wav
+
+
+
+outputting to track50.cdda.wav
+
+
+
+outputting to track51.cdda.wav
+
+
+
+outputting to track52.cdda.wav
+
+
+
+outputting to track53.cdda.wav
+
+
+
+outputting to track54.cdda.wav
+
+
+
+outputting to track55.cdda.wav
+
+
+
+outputting to track56.cdda.wav
+
+
+
+outputting to track57.cdda.wav
+
+
+
+outputting to track58.cdda.wav
+
+
+
+outputting to track59.cdda.wav
+
+
+
+outputting to track60.cdda.wav
+
+
+
+outputting to track61.cdda.wav
+
+
+
+outputting to track62.cdda.wav
+
+
+
+outputting to track63.cdda.wav
+
+
+
+outputting to track64.cdda.wav
+
+
+
+outputting to track65.cdda.wav
+
+
+
+outputting to track66.cdda.wav
+
+
+
+outputting to track67.cdda.wav
+
+
+
+outputting to track68.cdda.wav
+
+
+
+outputting to track69.cdda.wav
+
+
+
+outputting to track70.cdda.wav
+
+
+
+outputting to track71.cdda.wav
+
+
+
+outputting to track72.cdda.wav
+
+
+
+outputting to track73.cdda.wav
+
+
+
+outputting to track74.cdda.wav
+
+
+
+outputting to track75.cdda.wav
+
+
+
+outputting to track76.cdda.wav
+
+
+
+outputting to track77.cdda.wav
+
+
+
+outputting to track78.cdda.wav
+
+
+
+outputting to track79.cdda.wav
+
+
+
+outputting to track80.cdda.wav
+
+
+
+outputting to track81.cdda.wav
+
+
+
+outputting to track82.cdda.wav
+
+
+
+outputting to track83.cdda.wav
+
+
+
+outputting to track84.cdda.wav
+
+
+
+outputting to track85.cdda.wav
+
+
+
+outputting to track86.cdda.wav
+
+
+
+outputting to track87.cdda.wav
+
+
+
+outputting to track88.cdda.wav
+
+
+
+outputting to track89.cdda.wav
+
+
+
+outputting to track90.cdda.wav
+
+
+
+outputting to track91.cdda.wav
+
+
+
+outputting to track92.cdda.wav
+
+
+
+outputting to track93.cdda.wav
+
+
+
+outputting to track94.cdda.wav
+
+
+
+outputting to track95.cdda.wav
+
+
+
+outputting to track96.cdda.wav
+
+
+
+outputting to track97.cdda.wav
+
+
+
+outputting to track98.cdda.wav
+
+
+
+outputting to track99.cdda.wav
+
+
+
+Done.
+
+
