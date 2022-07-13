@@ -1,0 +1,141 @@
+cdparanoia -L --force-cdrom-device /dev/sr0 -B --output-wav 1-33 
+cdparanoia III release 10.2 (September 11, 2008)
+
+Ripping from sector       0 (track  1 [0:00.00])
+	  to sector  361554 (track 33 [5:09.46])
+
+outputting to track01.cdda.wav
+
+
+
+outputting to track02.cdda.wav
+
+
+
+outputting to track03.cdda.wav
+
+
+
+outputting to track04.cdda.wav
+
+
+
+outputting to track05.cdda.wav
+
+
+
+outputting to track06.cdda.wav
+
+
+
+outputting to track07.cdda.wav
+
+
+
+outputting to track08.cdda.wav
+
+
+
+outputting to track09.cdda.wav
+
+
+
+outputting to track10.cdda.wav
+
+
+
+outputting to track11.cdda.wav
+
+
+
+outputting to track12.cdda.wav
+
+
+
+outputting to track13.cdda.wav
+
+
+
+outputting to track14.cdda.wav
+
+
+
+outputting to track15.cdda.wav
+
+
+
+outputting to track16.cdda.wav
+
+
+
+outputting to track17.cdda.wav
+
+
+
+outputting to track18.cdda.wav
+
+
+
+outputting to track19.cdda.wav
+
+
+
+outputting to track20.cdda.wav
+
+
+
+outputting to track21.cdda.wav
+
+
+
+outputting to track22.cdda.wav
+
+
+
+outputting to track23.cdda.wav
+
+
+
+outputting to track24.cdda.wav
+
+
+
+outputting to track25.cdda.wav
+
+
+
+outputting to track26.cdda.wav
+
+
+
+outputting to track27.cdda.wav
+
+
+
+outputting to track28.cdda.wav
+
+
+
+outputting to track29.cdda.wav
+
+
+
+outputting to track30.cdda.wav
+
+
+
+outputting to track31.cdda.wav
+
+
+
+outputting to track32.cdda.wav
+
+
+
+outputting to track33.cdda.wav
+
+
+
+Done.
+
+

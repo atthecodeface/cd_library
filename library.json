@@ -2064,6 +2064,30 @@
    "output_title": "That Thing You Do! Original Motion Picture Soundtrack",
    "title": ""
   },
+  "alb.0172": {
+   "artist": "",
+   "downloaded_artists": "Johann Sebastian Bach; John Eliot Gardiner, The Monteverdi Choir, The London Oratory Junior Choir, The English Baroque Soloists",
+   "downloaded_titles": "St. Matthew Passion",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "Archiv",
+   "musicbrainz_release_id": "",
+   "num_discs": 2,
+   "output_title": "St. Matthew Passion",
+   "title": ""
+  },
+  "alb.0173": {
+   "artist": "",
+   "downloaded_artists": "Johann Sebastian Bach; John Eliot Gardiner, The Monteverdi Choir, The London Oratory Junior Choir, The English Baroque Soloists",
+   "downloaded_titles": "St. Matthew Passion",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "51d08afb-0d81-4617-8c33-979806910ddf",
+   "num_discs": 3,
+   "output_title": "St. Matthew Passion",
+   "title": ""
+  },
   "bbc_dorothy_l_sayers_clouds_of_witness": {
    "artist": "Dorothy L Sayers",
    "downloaded_artists": "",
