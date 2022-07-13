@@ -26,6 +26,10 @@ help:
 	@echo "The target 'export_to_sqlite' exports the JSON library into a sqlite file called lib.sql; that file cannot exist beforehand"
 	@echo "The target 'import_from_sqlite' shows what an import into the JSON library from lib.sql would do, and provides a line to paste into bash to make it happen"
 	@echo "The target 'encode_genre' provides a line to paste into bash to encode all the discs of a particular gener as mp3; '--max_discs 1000' or similar may be required after '--genre <GENRE>'"
+	@echo ""
+
+	@echo "To rip:"
+	@echo "../turnipripperdb rip --device /dev/sr0 charlotte_bronte_jane_eyre_disc_16"
 
 .PHONY: list
 list:
