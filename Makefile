@@ -131,10 +131,10 @@ import_from_sqlite: check_in_library_root
 # "pop",
 # "vocal",
 encode_genre: check_in_library_root
-	@echo "${TURNIPRIPPERDB} disc --genre ${GENRE} --max_discs 100 encode --output mp3/${GENRE} --source ${SOURCE}"
+	@echo "${TURNIPRIPPERDB} disc --genre ${GENRE} --max_discs 1000 encode --output mp3/${GENRE} --source ${SOURCE}"
 
 do_encode_genre: check_in_library_root
-	${TURNIPRIPPERDB} disc --genre ${GENRE} --max_discs 100 encode --output mp3/${GENRE} --source ${SOURCE}
+	${TURNIPRIPPERDB} disc --genre ${GENRE} --max_discs 1000 encode --output mp3/${GENRE} --source ${SOURCE}
 
 encode_all: check_in_library_root
 	${MAKE} GENRE=audiobook do_encode_genre
