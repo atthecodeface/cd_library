@@ -1,0 +1,102 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0400": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "",
+   "artist": "Fairhaven Singers & London Mozart Players",
+   "cddb_id": "50045706",
+   "cddb_string": "50045706 6 150 20590 31394 36925 50034 65475 1113",
+   "disc_of_set": 1,
+   "downloaded_artists": "",
+   "downloaded_titles": "",
+   "genre": "choral",
+   "json_path": "source/jonathan_dove_sappho_sings/disc.json",
+   "musicbrainz_id": "Nxq.pZ9bwl6SHfT6rUE6NA9i1E8-",
+   "musicbrainz_release_id": "",
+   "musicbrainz_string": "6 150 20590 31394 36925 50034 65475 83479",
+   "num_tracks": 6,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "jonathan_dove_sappho_sings",
+   "title": "Sappho Sings",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 1 of 6",
+     "sectors": 0,
+     "title": "From Heavent to here"
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 2,
+     "offset": 20590,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 2 of 6",
+     "sectors": 0,
+     "title": "You burn me"
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 3,
+     "offset": 31394,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 3 of 6",
+     "sectors": 0,
+     "title": "Love shook my heart"
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 4,
+     "offset": 36925,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 4 of 6",
+     "sectors": 0,
+     "title": "Of Love"
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 5,
+     "offset": 50034,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 5 of 6",
+     "sectors": 0,
+     "title": "Night"
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "",
+     "length_seconds": 0,
+     "number": 6,
+     "offset": 65475,
+     "output_artist": "Unknown artist",
+     "output_title": "Track 6 of 6",
+     "sectors": 0,
+     "title": "Stars around the radiant moon"
+    }
+   ]
+  }
+ }
+}
