@@ -1,0 +1,138 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0416": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0185",
+   "artist": "",
+   "cddb_id": "850f3e09",
+   "cddb_string": "850f3e09 9 150 51307 102605 123975 167025 201595 218762 234285 257835 3904",
+   "disc_of_set": 1,
+   "downloaded_artists": "Wolfgang Amadeus Mozart; Capella Istropolitana, Barry Wordsworth",
+   "downloaded_titles": "Symphonies Nos. 41, 25 & 32",
+   "genre": "",
+   "json_path": "source/capella_istropolitana_mozart_symphonies_41_25_32/disc.json",
+   "musicbrainz_id": "HVRJw88yO1x7N_DmnVVvuklSLCI-",
+   "musicbrainz_release_id": "d8d21783-aee0-30a6-a40b-5cd5ebe062eb",
+   "musicbrainz_string": "9 150 51307 102605 123975 167025 201595 218762 234285 257835 292852",
+   "num_tracks": 9,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "capella_istropolitana_mozart_symphonies_41_25_32",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 41 in C major, K. 551 \"Jupiter\": I. Allegro vivace",
+     "length_seconds": 682333,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Wolfgang Amadeus Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony No. 41 in C major, K. 551 \"Jupiter\": I. Allegro vivace",
+     "sectors": 51157,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 41 in C major, K. 551 \"Jupiter\": II. Andante cantabile",
+     "length_seconds": 684000,
+     "number": 2,
+     "offset": 51307,
+     "output_artist": "Wolfgang Amadeus Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony No. 41 in C major, K. 551 \"Jupiter\": II. Andante cantabile",
+     "sectors": 51298,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 41 in C major, K. 551 \"Jupiter\": III. Minuetto. Allegretto & Trio",
+     "length_seconds": 285000,
+     "number": 3,
+     "offset": 102605,
+     "output_artist": "Wolfgang Amadeus Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony No. 41 in C major, K. 551 \"Jupiter\": III. Minuetto. Allegretto & Trio",
+     "sectors": 21370,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 41 in C major, K. 551 \"Jupiter\": IV. Allegro molto",
+     "length_seconds": 570506,
+     "number": 4,
+     "offset": 123975,
+     "output_artist": "Wolfgang Amadeus Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony No. 41 in C major, K. 551 \"Jupiter\": IV. Allegro molto",
+     "sectors": 43050,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 25 in G minor, K. 173dB/183: I. Allegro con brio",
+     "length_seconds": 461000,
+     "number": 5,
+     "offset": 167025,
+     "output_artist": "Wolfgang Amadeus Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony No. 25 in G minor, K. 173dB/183: I. Allegro con brio",
+     "sectors": 34570,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 25 in G minor, K. 173dB/183: II. Andante",
+     "length_seconds": 229000,
+     "number": 6,
+     "offset": 201595,
+     "output_artist": "Wolfgang Amadeus Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony No. 25 in G minor, K. 173dB/183: II. Andante",
+     "sectors": 17167,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 25 in G minor, K. 173dB/183: III. Minuetto & Trio",
+     "length_seconds": 207000,
+     "number": 7,
+     "offset": 218762,
+     "output_artist": "Wolfgang Amadeus Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony No. 25 in G minor, K. 173dB/183: III. Minuetto & Trio",
+     "sectors": 15523,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 25 in G minor, K. 173dB/183: IV. Allegro",
+     "length_seconds": 314000,
+     "number": 8,
+     "offset": 234285,
+     "output_artist": "Wolfgang Amadeus Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony No. 25 in G minor, K. 173dB/183: IV. Allegro",
+     "sectors": 23550,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony No. 32 in G major, K. 318: I. Allegro spiritoso",
+     "length_seconds": 467667,
+     "number": 9,
+     "offset": 257835,
+     "output_artist": "Wolfgang Amadeus Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony No. 32 in G major, K. 318: I. Allegro spiritoso",
+     "sectors": 35017,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

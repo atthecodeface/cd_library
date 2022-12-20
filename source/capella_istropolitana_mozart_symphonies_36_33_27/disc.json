@@ -1,0 +1,162 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0415": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0184",
+   "artist": "",
+   "cddb_id": "980f4b0b",
+   "cddb_string": "980f4b0b 11 183 48483 79833 95958 133008 168783 189408 202608 224733 246183 272288 3917",
+   "disc_of_set": 1,
+   "downloaded_artists": "Mozart; Capella Istropolitana, Barry Wordsworth",
+   "downloaded_titles": "Symphony no. 36 \"Linz\" / Symphonies nos. 33 and 27",
+   "genre": "",
+   "json_path": "source/capella_istropolitana_mozart_symphonies_36_33_27/disc.json",
+   "musicbrainz_id": "c0P3UEtDEg3WSeYvux9fepVTYww-",
+   "musicbrainz_release_id": "784dd190-4010-487d-8f3f-5707273b101d",
+   "musicbrainz_string": "11 183 48483 79833 95958 133008 168783 189408 202608 224733 246183 272288 293838",
+   "num_tracks": 11,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "capella_istropolitana_mozart_symphonies_36_33_27",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 36 for Orchestra in C major, K. 425 \"Linz\": I. Adagio - allegro spiritoso",
+     "length_seconds": 644000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 36 for Orchestra in C major, K. 425 \"Linz\": I. Adagio - allegro spiritoso",
+     "sectors": 48300,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 36 for Orchestra in C major, K. 425 \"Linz\": II. Andante",
+     "length_seconds": 418000,
+     "number": 2,
+     "offset": 48483,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 36 for Orchestra in C major, K. 425 \"Linz\": II. Andante",
+     "sectors": 31350,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 36 for Orchestra in C major, K. 425 \"Linz\": III. Minuetto & Trio",
+     "length_seconds": 215000,
+     "number": 3,
+     "offset": 79833,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 36 for Orchestra in C major, K. 425 \"Linz\": III. Minuetto & Trio",
+     "sectors": 16125,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 36 for Orchestra in C major, K. 425 \"Linz\": IV. Presto",
+     "length_seconds": 494000,
+     "number": 4,
+     "offset": 95958,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 36 for Orchestra in C major, K. 425 \"Linz\": IV. Presto",
+     "sectors": 37050,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 33 for Orchestra in B-flat major, K. 319: I. Allegro assai",
+     "length_seconds": 477000,
+     "number": 5,
+     "offset": 133008,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 33 for Orchestra in B-flat major, K. 319: I. Allegro assai",
+     "sectors": 35775,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 33 for Orchestra in B-flat major, K. 319: II. Andante moderato",
+     "length_seconds": 275000,
+     "number": 6,
+     "offset": 168783,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 33 for Orchestra in B-flat major, K. 319: II. Andante moderato",
+     "sectors": 20625,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 33 for Orchestra in B-flat major, K. 319: III. Minuetto & Trio",
+     "length_seconds": 176000,
+     "number": 7,
+     "offset": 189408,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 33 for Orchestra in B-flat major, K. 319: III. Minuetto & Trio",
+     "sectors": 13200,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 33 for Orchestra in B-flat major, K. 319: IV. Allegro assai",
+     "length_seconds": 295000,
+     "number": 8,
+     "offset": 202608,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 33 for Orchestra in B-flat major, K. 319: IV. Allegro assai",
+     "sectors": 22125,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 27 for Orchestra in G major, K. 199 / K. 161b: I. Allegro",
+     "length_seconds": 286000,
+     "number": 9,
+     "offset": 224733,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 27 for Orchestra in G major, K. 199 / K. 161b: I. Allegro",
+     "sectors": 21450,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 27 for Orchestra in G major, K. 199 / K. 161b: II. Andantino grazioso",
+     "length_seconds": 348066,
+     "number": 10,
+     "offset": 246183,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 27 for Orchestra in G major, K. 199 / K. 161b: II. Andantino grazioso",
+     "sectors": 26105,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Symphony no. 27 for Orchestra in G major, K. 199 / K. 161b: III. Presto",
+     "length_seconds": 287333,
+     "number": 11,
+     "offset": 272288,
+     "output_artist": "Mozart; Capella Istropolitana, Barry Wordsworth",
+     "output_title": "Symphony no. 27 for Orchestra in G major, K. 199 / K. 161b: III. Presto",
+     "sectors": 21550,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
