@@ -2165,11 +2165,47 @@
    "downloaded_artists": "Dieterich Buxtehude; Trio Sonnerie",
    "downloaded_titles": "Trio Sonatas",
    "genre": "orchestral",
-   "json_path": ".",
+   "json_path": "library.json",
    "label": "",
    "musicbrainz_release_id": "d93e8410-0d92-4a70-b290-a8543387e6d5",
    "num_discs": 1,
    "output_title": "Trio Sonatas",
+   "title": ""
+  },
+  "alb.0181": {
+   "artist": "",
+   "downloaded_artists": "Michala Petri, Hanne Petri, David Petri",
+   "downloaded_titles": "Recorder Favourites",
+   "genre": "orchestral",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "38b35a91-4bb2-457f-8212-fa565a6fa8c1",
+   "num_discs": 1,
+   "output_title": "Recorder Favourites",
+   "title": ""
+  },
+  "alb.0182": {
+   "artist": "",
+   "downloaded_artists": "Ad Hoc Choir & Maggi Dawn",
+   "downloaded_titles": "O Lord, Hear My Prayer - The Songs of Taiz\u00e9",
+   "genre": "christian",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "27f0a49b-44c4-3471-933b-e1d7d07ba9c4",
+   "num_discs": 1,
+   "output_title": "O Lord, Hear My Prayer - The Songs of Taiz\u00e9",
+   "title": ""
+  },
+  "alb.0183": {
+   "artist": "",
+   "downloaded_artists": "Ad Hoc Choir & Maggi Dawn",
+   "downloaded_titles": "My Soul Is at Rest - The Songs of Taiz\u00e9 Vol. II",
+   "genre": "christian",
+   "json_path": ".",
+   "label": "",
+   "musicbrainz_release_id": "e7521a55-7df5-4348-8b74-7be4a5b8bf63",
+   "num_discs": 1,
+   "output_title": "My Soul Is at Rest - The Songs of Taiz\u00e9 Vol. II",
    "title": ""
   },
   "bbc_dorothy_l_sayers_clouds_of_witness": {
