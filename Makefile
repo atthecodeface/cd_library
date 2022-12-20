@@ -20,6 +20,8 @@ help:
 	@echo "  make verify_source"
 	@echo ""
 	@echo "The target 'rsync_to_cd_library' attempts to sync mp3 and source in the library to /cd_library appropriately"
+	@echo "The target 'rsync_to_backup' attempts to sync the mp3 and source to /cd_backup *(AS A DRY-RUN)*"
+	@echo ""
 	@echo "The target 'rsync_to_mnt' attempts to sync the mp3 to a FAT32 file system in /mnt"
 	@echo "The target 'rsync_to_mnt2' attempts to sync the mp3 to a FAT32 file system in /mnt2"
 	@echo "The target 'rsync_to_nas' attempts to sync mp3 and source in the library to the NAS"
@@ -108,9 +110,15 @@ try_to_cd_library: check_in_library_root
 rsync_to_cd_library: check_in_library_root
 	(cd ${LIBRARY_ROOT} && rsync -av ./mp3 ./source ${CD_LIBRARY_MNT})
 
-rsync_to_backup_mnt4:
-	rsync -avn ./source ${CD_BACKUP_MNT}
-	@echo "Now do: rsync -av ./source ${CD_BACKUP_MNT}"
+rsync_to_backup:
+	rsync -avn ./source ./mp3 ${CD_BACKUP_MNT}
+	@echo ""
+	@echo "That was a DRY-RUN"
+	@echo ""
+	@echo "The directory ${CD_BACKUP_MNT} should contain source and mp3 and cd_library"
+	@echo "${CD_BACKUP_MNT}/cd_library is a git clone of the git repo"
+	@echo ""
+	@echo "Now do: rsync -av ./source ./mp3 ${CD_BACKUP_MNT}"
 
 rsync_to_nas: check_in_library_root
 	(cd ${LIBRARY_ROOT} && rsync -av . writer@10.1.17.34:/nas/audio/turnipdb_library)
