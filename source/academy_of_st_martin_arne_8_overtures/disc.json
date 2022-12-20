@@ -1,0 +1,126 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0403": {
+   "album_total_tracks": 8,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0174",
+   "artist": "",
+   "cddb_id": "610d2608",
+   "cddb_string": "610d2608 8 183 23553 60333 89135 121815 154223 183453 211788 3368",
+   "disc_of_set": 13,
+   "downloaded_artists": "Purcell, Arne, Boyce, Byrd; The Academy of Ancient Music, Christopher Hogwood",
+   "downloaded_titles": "Eight Overtures###English Music",
+   "genre": "",
+   "json_path": "source/academy_of_st_martin_arne_8_overtures/disc.json",
+   "musicbrainz_id": "_sTdtn4zH0doCxVN3YZcxYDAt6o-",
+   "musicbrainz_release_id": "ee877a95-116f-4ae1-ba82-a87262e4933d",
+   "musicbrainz_string": "8 183 23553 60333 89135 121815 154223 183453 211788 252638",
+   "num_tracks": 8,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "academy_of_st_martin_arne_8_overtures",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Overture no. 3 in G major",
+     "length_seconds": 307000,
+     "number": 1,
+     "offset": 183,
+     "output_artist": "Purcell, Arne, Boyce, Byrd; The Academy of Ancient Music, Christopher Hogwood",
+     "output_title": "Overture no. 3 in G major",
+     "sectors": 23370,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Overture no. 1 in E minor",
+     "length_seconds": 485000,
+     "number": 2,
+     "offset": 23553,
+     "output_artist": "Purcell, Arne, Boyce, Byrd; The Academy of Ancient Music, Christopher Hogwood",
+     "output_title": "Overture no. 1 in E minor",
+     "sectors": 36780,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Overture no. 2 in A major",
+     "length_seconds": 378000,
+     "number": 3,
+     "offset": 60333,
+     "output_artist": "Purcell, Arne, Boyce, Byrd; The Academy of Ancient Music, Christopher Hogwood",
+     "output_title": "Overture no. 2 in A major",
+     "sectors": 28802,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Overture no. 4 in F major",
+     "length_seconds": 431000,
+     "number": 4,
+     "offset": 89135,
+     "output_artist": "Purcell, Arne, Boyce, Byrd; The Academy of Ancient Music, Christopher Hogwood",
+     "output_title": "Overture no. 4 in F major",
+     "sectors": 32680,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Overture no. 5 in D major",
+     "length_seconds": 428000,
+     "number": 5,
+     "offset": 121815,
+     "output_artist": "Purcell, Arne, Boyce, Byrd; The Academy of Ancient Music, Christopher Hogwood",
+     "output_title": "Overture no. 5 in D major",
+     "sectors": 32408,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Overture no. 6 in B-flat major",
+     "length_seconds": 385000,
+     "number": 6,
+     "offset": 154223,
+     "output_artist": "Purcell, Arne, Boyce, Byrd; The Academy of Ancient Music, Christopher Hogwood",
+     "output_title": "Overture no. 6 in B-flat major",
+     "sectors": 29230,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Overture no. 7 in D major",
+     "length_seconds": 372000,
+     "number": 7,
+     "offset": 183453,
+     "output_artist": "Purcell, Arne, Boyce, Byrd; The Academy of Ancient Music, Christopher Hogwood",
+     "output_title": "Overture no. 7 in D major",
+     "sectors": 28335,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Overture no. 8 in G minor",
+     "length_seconds": 545000,
+     "number": 8,
+     "offset": 211788,
+     "output_artist": "Purcell, Arne, Boyce, Byrd; The Academy of Ancient Music, Christopher Hogwood",
+     "output_title": "Overture no. 8 in G minor",
+     "sectors": 40850,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

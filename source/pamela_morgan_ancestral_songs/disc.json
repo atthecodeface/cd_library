@@ -1,0 +1,150 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0407": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0178",
+   "artist": "",
+   "cddb_id": "6f0b600a",
+   "cddb_string": "6f0b600a 10 150 17875 34543 70757 85932 105830 132760 150255 170596 185570 2914",
+   "disc_of_set": 1,
+   "downloaded_artists": "Pamela Morgan",
+   "downloaded_titles": "Ancestral Songs",
+   "genre": "",
+   "json_path": "source/pamela_morgan_ancestral_songs/disc.json",
+   "musicbrainz_id": "UfWI6ZQe6UgovB.erE.UeDBP5W8-",
+   "musicbrainz_release_id": "63848d0f-999d-4ac6-a5a7-17525ec61055",
+   "musicbrainz_string": "10 150 17875 34543 70757 85932 105830 132760 150255 170596 185570 218569",
+   "num_tracks": 10,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "pamela_morgan_ancestral_songs",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "A Barque in the Harbour",
+     "length_seconds": 236333,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Pamela Morgan",
+     "output_title": "A Barque in the Harbour",
+     "sectors": 17725,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Lady Margaret",
+     "length_seconds": 222240,
+     "number": 2,
+     "offset": 17875,
+     "output_artist": "Pamela Morgan",
+     "output_title": "Lady Margaret",
+     "sectors": 16668,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Lord Bateman",
+     "length_seconds": 482853,
+     "number": 3,
+     "offset": 34543,
+     "output_artist": "Pamela Morgan",
+     "output_title": "Lord Bateman",
+     "sectors": 36214,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Early Spring",
+     "length_seconds": 202333,
+     "number": 4,
+     "offset": 70757,
+     "output_artist": "Pamela Morgan",
+     "output_title": "Early Spring",
+     "sectors": 15175,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Green Shores of Fogo",
+     "length_seconds": 265306,
+     "number": 5,
+     "offset": 85932,
+     "output_artist": "Pamela Morgan",
+     "output_title": "The Green Shores of Fogo",
+     "sectors": 19898,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "My Gallant Brigantine",
+     "length_seconds": 359066,
+     "number": 6,
+     "offset": 105830,
+     "output_artist": "Pamela Morgan",
+     "output_title": "My Gallant Brigantine",
+     "sectors": 26930,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "The Dole Song",
+     "length_seconds": 233266,
+     "number": 7,
+     "offset": 132760,
+     "output_artist": "Pamela Morgan",
+     "output_title": "The Dole Song",
+     "sectors": 17495,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Bold Lamkin",
+     "length_seconds": 271213,
+     "number": 8,
+     "offset": 150255,
+     "output_artist": "Pamela Morgan",
+     "output_title": "Bold Lamkin",
+     "sectors": 20341,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "I'll Hang My Harp",
+     "length_seconds": 199653,
+     "number": 9,
+     "offset": 170596,
+     "output_artist": "Pamela Morgan",
+     "output_title": "I'll Hang My Harp",
+     "sectors": 14974,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Thomas the Rhymer",
+     "length_seconds": 439986,
+     "number": 10,
+     "offset": 185570,
+     "output_artist": "Pamela Morgan",
+     "output_title": "Thomas the Rhymer",
+     "sectors": 32999,
+     "title": ""
+    }
+   ]
+  }
+ }
+}

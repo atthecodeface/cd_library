@@ -31,8 +31,8 @@
      "length_seconds": 0,
      "number": 1,
      "offset": 150,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 1 of 6",
+     "output_artist": "Fairhaven Singers & London Mozart Players",
+     "output_title": "From Heavent to here",
      "sectors": 0,
      "title": "From Heavent to here"
     },
@@ -43,8 +43,8 @@
      "length_seconds": 0,
      "number": 2,
      "offset": 20590,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 2 of 6",
+     "output_artist": "Fairhaven Singers & London Mozart Players",
+     "output_title": "You burn me",
      "sectors": 0,
      "title": "You burn me"
     },
@@ -55,8 +55,8 @@
      "length_seconds": 0,
      "number": 3,
      "offset": 31394,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 3 of 6",
+     "output_artist": "Fairhaven Singers & London Mozart Players",
+     "output_title": "Love shook my heart",
      "sectors": 0,
      "title": "Love shook my heart"
     },
@@ -67,8 +67,8 @@
      "length_seconds": 0,
      "number": 4,
      "offset": 36925,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 4 of 6",
+     "output_artist": "Fairhaven Singers & London Mozart Players",
+     "output_title": "Of Love",
      "sectors": 0,
      "title": "Of Love"
     },
@@ -79,8 +79,8 @@
      "length_seconds": 0,
      "number": 5,
      "offset": 50034,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 5 of 6",
+     "output_artist": "Fairhaven Singers & London Mozart Players",
+     "output_title": "Night",
      "sectors": 0,
      "title": "Night"
     },
@@ -91,8 +91,8 @@
      "length_seconds": 0,
      "number": 6,
      "offset": 65475,
-     "output_artist": "Unknown artist",
-     "output_title": "Track 6 of 6",
+     "output_artist": "Fairhaven Singers & London Mozart Players",
+     "output_title": "Stars around the radiant moon",
      "sectors": 0,
      "title": "Stars around the radiant moon"
     }

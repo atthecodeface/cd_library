@@ -1,0 +1,102 @@
+{
+ "albums": {},
+ "discs": {
+  "disc.0406": {
+   "album_total_tracks": 0,
+   "album_track_offset": 0,
+   "album_uniq_id": "alb.0177",
+   "artist": "",
+   "cddb_id": "4f098406",
+   "cddb_string": "4f098406 6 150 11245 70720 92715 110610 127122 2438",
+   "disc_of_set": 1,
+   "downloaded_artists": "Marc\u2010Antoine Charpentier; Les Arts Florissants, William Christie",
+   "downloaded_titles": "Les Arts Florissants",
+   "genre": "",
+   "json_path": "source/charpentier_les_arts_florissants/disc.json",
+   "musicbrainz_id": "lJOJonSne8mmRzZ.Wd16ynTST_g-",
+   "musicbrainz_release_id": "cb3e8112-5391-4bd0-9e9d-5150605b536e",
+   "musicbrainz_string": "6 150 11245 70720 92715 110610 127122 182877",
+   "num_tracks": 6,
+   "rip_data": "",
+   "rip_date": "",
+   "rip_time": "",
+   "src_directory": "charpentier_les_arts_florissants",
+   "title": "",
+   "total_length": 0,
+   "tracks": [
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Les Arts Florissants, H. 487: Ouverture",
+     "length_seconds": 147933,
+     "number": 1,
+     "offset": 150,
+     "output_artist": "Marc\u2010Antoine Charpentier; Les Arts Florissants, William Christie",
+     "output_title": "Les Arts Florissants, H. 487: Ouverture",
+     "sectors": 11095,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Les Arts Florissants, H. 487: Sc\u00e8ne I",
+     "length_seconds": 793000,
+     "number": 2,
+     "offset": 11245,
+     "output_artist": "Marc\u2010Antoine Charpentier; Les Arts Florissants, William Christie",
+     "output_title": "Les Arts Florissants, H. 487: Sc\u00e8ne I",
+     "sectors": 59475,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Les Arts Florissants, H. 487: Sc\u00e8ne II",
+     "length_seconds": 293266,
+     "number": 3,
+     "offset": 70720,
+     "output_artist": "Marc\u2010Antoine Charpentier; Les Arts Florissants, William Christie",
+     "output_title": "Les Arts Florissants, H. 487: Sc\u00e8ne II",
+     "sectors": 21995,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Les Arts Florissants, H. 487: Sc\u00e8ne III",
+     "length_seconds": 238600,
+     "number": 4,
+     "offset": 92715,
+     "output_artist": "Marc\u2010Antoine Charpentier; Les Arts Florissants, William Christie",
+     "output_title": "Les Arts Florissants, H. 487: Sc\u00e8ne III",
+     "sectors": 17895,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Les Arts Florissants, H. 487: Sc\u00e8ne IV",
+     "length_seconds": 220160,
+     "number": 5,
+     "offset": 110610,
+     "output_artist": "Marc\u2010Antoine Charpentier; Les Arts Florissants, William Christie",
+     "output_title": "Les Arts Florissants, H. 487: Sc\u00e8ne IV",
+     "sectors": 16512,
+     "title": ""
+    },
+    {
+     "artist": "",
+     "downloaded_artists": "",
+     "downloaded_titles": "Les Arts Florissants, H. 487: Sc\u00e8ne V",
+     "length_seconds": 743400,
+     "number": 6,
+     "offset": 127122,
+     "output_artist": "Marc\u2010Antoine Charpentier; Les Arts Florissants, William Christie",
+     "output_title": "Les Arts Florissants, H. 487: Sc\u00e8ne V",
+     "sectors": 55755,
+     "title": ""
+    }
+   ]
+  }
+ }
+}
