@@ -2268,6 +2268,54 @@
    "output_title": "The Celtic Harp",
    "title": ""
   },
+  "alb.0189": {
+   "artist": "",
+   "downloaded_artists": "Alexander Armstrong",
+   "downloaded_titles": "A Year Of Songs",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "f33a8640-6b13-47fe-9693-db7423568895",
+   "num_discs": 1,
+   "output_title": "A Year Of Songs",
+   "title": ""
+  },
+  "alb.0190": {
+   "artist": "",
+   "downloaded_artists": "Choir of Westminster Abbey",
+   "downloaded_titles": "Perfect Peace",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "a36929f0-986d-4d9b-b1a3-7b4134e138ac",
+   "num_discs": 2,
+   "output_title": "Perfect Peace",
+   "title": ""
+  },
+  "alb.0191": {
+   "artist": "",
+   "downloaded_artists": "Charlotte Church",
+   "downloaded_titles": "Charlotte Church",
+   "genre": "",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "644ee51a-274c-4d12-8b61-a31642535774",
+   "num_discs": 1,
+   "output_title": "Charlotte Church",
+   "title": ""
+  },
+  "alb.0192": {
+   "artist": "",
+   "downloaded_artists": "Gilbert & Sullivan",
+   "downloaded_titles": "The Pirates of Penzance (1967 D\u2019Oyly Carte cast)",
+   "genre": "opera",
+   "json_path": "library.json",
+   "label": "",
+   "musicbrainz_release_id": "79b90a8e-dff5-44b8-9056-4f1fae020636",
+   "num_discs": 2,
+   "output_title": "The Pirates of Penzance (1967 D\u2019Oyly Carte cast)",
+   "title": ""
+  },
   "bbc_dorothy_l_sayers_clouds_of_witness": {
    "artist": "Dorothy L Sayers",
    "downloaded_artists": "",
